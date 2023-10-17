@@ -46,8 +46,8 @@
 			"displayNumber": 3,
 			"groupId": 1,
 			"subscriptionUrl": "https://secure.fanboy.co.nz/easylist.txt",
-			"version": "2.1.14.8",
-			"timeUpdated": "2023-10-17T20:16:17+0300",
+			"version": "2.1.14.9",
+			"timeUpdated": "2023-10-17T20:24:51+0300",
 			"languages": []
 		},
 		{
