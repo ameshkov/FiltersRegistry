@@ -261,6 +261,7 @@ sluzebnik.cz#@##adverts
 !
 aktuality.sk#@#.adBanner
 dobre-recepty.sk#@##ad_skin
+vranovske.sk#@#.advertising-content
 !
 ! ---------- Czech and Slovak Generic element hiding rules ---------- !
 !
@@ -510,6 +511,9 @@ netconcert.cz##[class*="advertisement"]
 ! ---------- Slovak Site Specific Element Hiding Rules ---------- !
 !
 autobazar.eu##.bannero2
+autozurnal.com###modal-container
+autozurnal.com##.modal-backdrop
+autozurnal.com##div[id^="branding"]
 behame.sk##div[class^="banner_box"]
 best4you.sk##a[href="http://www.Onlinefilmy.eu"]
 best4you.sk##a[href="http://www.movieportal.eu"]
@@ -523,12 +527,16 @@ cas.sk##div[class*="pohodoWidget"]
 cas.sk##a.predpredaj-black
 centrum.sk##.banner
 centrum.sk##.h2.grad2.kupons_games
+cp.hnonline.sk##.advert
+cp.hnonline.sk##.banner
 dsl.sk##.header_info_text
 feminity.zoznam.sk##div[class*="pohodoWidget"]
 hnonline.sk##[id^="banner-"]
 hnonline.sk##.s-branding
 hnonline.sk##stripemark
 hnonline.sk##div[style*="Roboto"][style*="fixed"]
+kosicednes.sk##header > div
+kosicednes.sk##.newsletter
 michalovskespravy.sk###footer
 michalovskespravy.sk###headerSlideContent1
 michalovskespravy.sk###ocko
@@ -555,6 +563,7 @@ tvtv.sk##.ad
 tv-program.sk##.dragobj > div:nth-of-type(2)
 tv-program.sk##.stn.stns > a[target="_blank"]
 tv-program.sk##.stn.stnu > a[target="_blank"]
+ubian.sk##.connection-results-ad
 vtn-vranov.sk##div[id^="advert_"]
 vranovske.sk##div[class^="item h2"]
 vranovske.sk##div[class="advertisement-list-component"]
@@ -588,8 +597,8 @@ www.seznam.cz#?#div.dragging-enabled:-abp-has(div.gadget--reklama)
 !
 ! ---------- uBlock Extended filters ---------- !
 !
-||aktualne.cz^$csp=child-src *
 ||a.cele.cz^$third-party
+||aktualne.cz^$csp=child-src *
 cc.cz#%#//scriptlet('ubo-aopr.js', 'App.branding')
 cdr.cz,diit.cz#$#body { background-image: none !important; padding-top: 0 !important; }
 csfd.cz,csfd.sk#$#div.body { padding-top: 0 !important; }

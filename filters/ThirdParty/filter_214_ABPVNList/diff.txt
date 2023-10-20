@@ -1,21 +1,9 @@
-! facebook.com#?#[data-pagelet="RightRail"] span:-abp-has(span:-abp-contains(Được tài trợ)) is excluded by "facebook.com#?#" in exclusions.txt
-facebook.com#?#[data-pagelet="RightRail"] span:-abp-has(span:-abp-contains(Được tài trợ))
-! ~gameguardian.net,~hvdic.thivien.net,~download.mokeedev.com,~platinmods.com,~vinaurl.net,~traderviet.org,~camera.aeonax.com,~2rdroid.com,~123link.f4vnn.com,~khuchotot.com,~truyenaudiocv.org,~qthang.net,~ichi.pro,~thiepmung.com,~lehait.net,~covemarkets.com,~pops.vn##.adsbygoogle is excluded by "/^(~.*)?##\.adsbygoogle$/" in exclusions.txt
-~gameguardian.net,~hvdic.thivien.net,~download.mokeedev.com,~platinmods.com,~vinaurl.net,~traderviet.org,~camera.aeonax.com,~2rdroid.com,~123link.f4vnn.com,~khuchotot.com,~truyenaudiocv.org,~qthang.net,~ichi.pro,~thiepmung.com,~lehait.net,~covemarkets.com,~pops.vn##.adsbygoogle
-! ~howkteam.vn,~fptplay.vn,~khuchotot.com,~tvbmotthoidenho.com,~lehait.net,~covemarkets.com,~pops.vn,~3dpchip.com##.adsbox is excluded by "/^(~.*)?##\.adsbox$/" in exclusions.txt
-~howkteam.vn,~fptplay.vn,~khuchotot.com,~tvbmotthoidenho.com,~lehait.net,~covemarkets.com,~pops.vn,~3dpchip.com##.adsbox
-! facebook.com#?#[data-pagelet="RightRail"] span:-abp-has(span:-abp-contains(Được tài trợ)) is excluded by "facebook.com#?#" in exclusions.txt
-facebook.com#?#[data-pagelet="RightRail"] span:-abp-has(span:-abp-contains(Được tài trợ))
-! ~gameguardian.net,~hvdic.thivien.net,~download.mokeedev.com,~platinmods.com,~vinaurl.net,~traderviet.org,~camera.aeonax.com,~2rdroid.com,~123link.f4vnn.com,~khuchotot.com,~truyenaudiocv.org,~qthang.net,~ichi.pro,~thiepmung.com,~lehait.net,~covemarkets.com,~pops.vn##.adsbygoogle is excluded by "/^(~.*)?##\.adsbygoogle$/" in exclusions.txt
-~gameguardian.net,~hvdic.thivien.net,~download.mokeedev.com,~platinmods.com,~vinaurl.net,~traderviet.org,~camera.aeonax.com,~2rdroid.com,~123link.f4vnn.com,~khuchotot.com,~truyenaudiocv.org,~qthang.net,~ichi.pro,~thiepmung.com,~lehait.net,~covemarkets.com,~pops.vn##.adsbygoogle
-! ~howkteam.vn,~fptplay.vn,~khuchotot.com,~tvbmotthoidenho.com,~lehait.net,~covemarkets.com,~pops.vn,~3dpchip.com##.adsbox is excluded by "/^(~.*)?##\.adsbox$/" in exclusions.txt
-~howkteam.vn,~fptplay.vn,~khuchotot.com,~tvbmotthoidenho.com,~lehait.net,~covemarkets.com,~pops.vn,~3dpchip.com##.adsbox
 ! Rule "||bf.333xbet.com/18881999/video888.mp4$domain=phimhaytv.info,rewrite=abp-resource:blank-mp3" converted to: "||bf.333xbet.com/18881999/video888.mp4$domain=phimhaytv.info,redirect=noopmp3-0.1s"
 ||bf.333xbet.com/18881999/video888.mp4$domain=phimhaytv.info,rewrite=abp-resource:blank-mp3
 ! Rule "||phimchat2.com/public/*.mp4$domain=phimchat2.com,rewrite=abp-resource:blank-mp3" converted to: "||phimchat2.com/public/*.mp4$domain=phimchat2.com,redirect=noopmp3-0.1s"
 ||phimchat2.com/public/*.mp4$domain=phimchat2.com,rewrite=abp-resource:blank-mp3
-! Rule "||phimchill3.net/videoi9/$media,rewrite=abp-resource:blank-mp3,domain=phimchill3.net" converted to: "||phimchill3.net/videoi9/$media,redirect=noopmp3-0.1s,domain=phimchill3.net"
-||phimchill3.net/videoi9/$media,rewrite=abp-resource:blank-mp3,domain=phimchill3.net
+! Rule "||phimchillc.net/videoi9/$media,rewrite=abp-resource:blank-mp3,domain=phimchillc.net" converted to: "||phimchillc.net/videoi9/$media,redirect=noopmp3-0.1s,domain=phimchillc.net"
+||phimchillc.net/videoi9/$media,rewrite=abp-resource:blank-mp3,domain=phimchillc.net
 ! Rule "||phimhaytv.info/images$media,domain=phimhaytv.info,rewrite=abp-resource:blank-mp3" converted to: "||phimhaytv.info/images$media,domain=phimhaytv.info,redirect=noopmp3-0.1s"
 ||phimhaytv.info/images$media,domain=phimhaytv.info,rewrite=abp-resource:blank-mp3
 ! Rule "||phimnet.vip/uploads/videos/$media,domain=phimnet.vip,rewrite=abp-resource:blank-mp3" converted to: "||phimnet.vip/uploads/videos/$media,domain=phimnet.vip,redirect=noopmp3-0.1s"
@@ -26,8 +14,8 @@ facebook.com#?#[data-pagelet="RightRail"] span:-abp-has(span:-abp-contains(Đư�
 ||bf.333xbet.com/18881999/video888.mp4$domain=phimhaytv.info,rewrite=abp-resource:blank-mp3
 ! Rule "||phimchat2.com/public/*.mp4$domain=phimchat2.com,rewrite=abp-resource:blank-mp3" converted to: "||phimchat2.com/public/*.mp4$domain=phimchat2.com,redirect=noopmp3-0.1s"
 ||phimchat2.com/public/*.mp4$domain=phimchat2.com,rewrite=abp-resource:blank-mp3
-! Rule "||phimchill3.net/videoi9/$media,rewrite=abp-resource:blank-mp3,domain=phimchill3.net" converted to: "||phimchill3.net/videoi9/$media,redirect=noopmp3-0.1s,domain=phimchill3.net"
-||phimchill3.net/videoi9/$media,rewrite=abp-resource:blank-mp3,domain=phimchill3.net
+! Rule "||phimchillc.net/videoi9/$media,rewrite=abp-resource:blank-mp3,domain=phimchillc.net" converted to: "||phimchillc.net/videoi9/$media,redirect=noopmp3-0.1s,domain=phimchillc.net"
+||phimchillc.net/videoi9/$media,rewrite=abp-resource:blank-mp3,domain=phimchillc.net
 ! Rule "||phimhaytv.info/images$media,domain=phimhaytv.info,rewrite=abp-resource:blank-mp3" converted to: "||phimhaytv.info/images$media,domain=phimhaytv.info,redirect=noopmp3-0.1s"
 ||phimhaytv.info/images$media,domain=phimhaytv.info,rewrite=abp-resource:blank-mp3
 ! Rule "||phimnet.vip/uploads/videos/$media,domain=phimnet.vip,rewrite=abp-resource:blank-mp3" converted to: "||phimnet.vip/uploads/videos/$media,domain=phimnet.vip,redirect=noopmp3-0.1s"

@@ -1,8 +1,8 @@
 !
-! Checksum: fi096TskwfuGGpUVDFtCiA
-! OriginalVersion: 202310111231
+! Checksum: yM4UdjAEicesw+vWDHMviw
+! OriginalVersion: 202310201631
 ! Title: Adblock Warning Removal List
-! Last modified: 11 Oct 2023 12:31 UTC
+! Last modified: 20 Oct 2023 16:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/antiadblockfilters
 ! Licence: https://easylist.to/pages/licence.html
@@ -709,7 +709,6 @@ dropmefiles.com.ua,dropmefiles.net##.intro
 winzoro.net##.isadNotif
 ivi.ru##.ivi-footer ~ div[class] > style + div[class]
 doctorrouter.ru##.jgcabd-container
-go.mail.ru##.js-adb-msg
 ppc.world##.js-detected-block
 anime-bit.ru##.layer_box > #header
 dtf.ru,vc.ru##.layout__right-column > div[class*=" "][style] > div[class*=" "] > div:only-child

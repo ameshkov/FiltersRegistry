@@ -58,6 +58,8 @@ trustseal.enamad.ir##^responseheader(set-cookie)
 ||service.mytosheh.com^$3p
 ! Rule "||nastooh.ir^$3p" converted to: "||nastooh.ir^$third-party"
 ||nastooh.ir^$3p
+! Rule "||plugin.my-pishvaz.com^$xhr,3p" converted to: "||plugin.my-pishvaz.com^$xmlhttprequest,third-party"
+||plugin.my-pishvaz.com^$xhr,3p
 ! Rule "||peyvandha.ir^$3p" converted to: "||peyvandha.ir^$third-party"
 ||peyvandha.ir^$3p
 ! Rule "||rasaaa.com^$3p" converted to: "||rasaaa.com^$third-party"
@@ -466,6 +468,8 @@ iwo.ir##+js(nano-sib)
 ||iranjib.ir/uploads/*.gif^$image,1p
 ! Rule "||iranjib.ir/js/analytics$script,1p" converted to: "||iranjib.ir/js/analytics$script,~third-party"
 ||iranjib.ir/js/analytics$script,1p
+! Rule "||irannaz.com/ax/*.gif^$image,1p" converted to: "||irannaz.com/ax/*.gif^$image,~third-party"
+||irannaz.com/ax/*.gif^$image,1p
 ! Rule "ilna.ir##.xcon12:style(margin: auto !important;)" converted to: "ilna.ir#$#.xcon12 { margin: auto !important; }"
 ilna.ir##.xcon12:style(margin: auto !important;)
 ! Rule "ilna.ir##.ml120:style(margin-left: 5% !important; margin-bottom: 5% !important;)" converted to: "ilna.ir#$#.ml120 { margin-left: 5% !important; margin-bottom: 5% !important; }"
@@ -476,6 +480,12 @@ ilna.ir##.ml120:style(margin-left: 5% !important; margin-bottom: 5% !important;)
 ||isna.ir/rest/visit^$xhr,1p
 ! Rule "isna.ir##div.col-md-7:style(width: 75% !important;)" converted to: "isna.ir#$#div.col-md-7 { width: 75% !important; }"
 isna.ir##div.col-md-7:style(width: 75% !important;)
+! Rule "javan-musics.com##+js(aeld, load, contextmenu)" converted to: "javan-musics.com#%#//scriptlet('ubo-aeld.js', 'load', 'contextmenu')"
+javan-musics.com##+js(aeld, load, contextmenu)
+! Rule "javan-musics.com##+js(ra, onmousedown|onselectstart, body)" converted to: "javan-musics.com#%#//scriptlet('ubo-ra.js', 'onmousedown|onselectstart', 'body')"
+javan-musics.com##+js(ra, onmousedown|onselectstart, body)
+! Rule ".gif^$image,3p,domain=javan-musics.com" converted to: ".gif^$image,third-party,domain=javan-musics.com"
+.gif^$image,3p,domain=javan-musics.com
 ! Unable to convert rule to AdGuard syntax: jafekri.com##^script[id^="wccp_"]
 jafekri.com##^script[id^="wccp_"]
 ! Rule "jafekri.com##*:style(cursor: revert !important; -webkit-touch-callout: default !important; -webkit-user-select: text !important; -khtml-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important; -webkit-tap-highlight-color: revert !important;)" converted to: "jafekri.com#$#* { cursor: revert !important; -webkit-touch-callout: default !important; -webkit-user-select: text !important; -khtml-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important; -webkit-tap-highlight-color: revert !important; }"
@@ -552,10 +562,14 @@ khabarfoori.com##.rowTwo .right_side, .rowTwo .column_1:style(width: 100% !impor
 ketabesabz.com##+js(set, KetabrahPopup, noopFunc)
 ! Rule "lahzeakhar.com##+js(set, customnotify, noopFunc)" converted to: "lahzeakhar.com#%#//scriptlet('ubo-set.js', 'customnotify', 'noopFunc')"
 lahzeakhar.com##+js(set, customnotify, noopFunc)
+! Rule "@@||miniroid.com/img/ads/whatsapp-dl.jpg^$image,1p" converted to: "@@||miniroid.com/img/ads/whatsapp-dl.jpg^$image,~third-party"
+@@||miniroid.com/img/ads/whatsapp-dl.jpg^$image,1p
+! Rule "@@||miniroid.com/img/ads/instagram-dl.png^$image,1p" converted to: "@@||miniroid.com/img/ads/instagram-dl.png^$image,~third-party"
+@@||miniroid.com/img/ads/instagram-dl.png^$image,1p
+! Rule "@@||miniroid.com/img/ads/Telegram-wdl.jpg^$image,1p" converted to: "@@||miniroid.com/img/ads/Telegram-wdl.jpg^$image,~third-party"
+@@||miniroid.com/img/ads/Telegram-wdl.jpg^$image,1p
 ! Rule "||counter.musicsweb.ir^$1p" converted to: "||counter.musicsweb.ir^$~third-party"
 ||counter.musicsweb.ir^$1p
-! Rule "||plugin.my-pishvaz.com^$3p,domain=musicsweb.ir" converted to: "||plugin.my-pishvaz.com^$third-party,domain=musicsweb.ir"
-||plugin.my-pishvaz.com^$3p,domain=musicsweb.ir
 ! Rule "||berkechat.top/ajax/login.codes^$xhr,1p" converted to: "||berkechat.top/ajax/login.codes^$xmlhttprequest,~third-party"
 ||berkechat.top/ajax/login.codes^$xhr,1p
 ! Rule "||berkechat.top/ajax/chat.codes^$xhr,1p" converted to: "||berkechat.top/ajax/chat.codes^$xmlhttprequest,~third-party"
@@ -720,6 +734,16 @@ rasm.io##div.MuiGrid-root[class*="hsCode_LimitedItem__"]:style(-webkit-filter: n
 rouydad24.ir##.container, .main:style(width: 95% !important;)
 ! Rule "rokna.net##.top_fixed_mob:remove()" converted to: "rokna.net#$?#.top_fixed_mob { remove: true; }"
 rokna.net##.top_fixed_mob:remove()
+! Rule "||safarmarket.com/api/ads^$xhr,1p" converted to: "||safarmarket.com/api/ads^$xmlhttprequest,~third-party"
+||safarmarket.com/api/ads^$xhr,1p
+! Rule "||safarmarket.com/api/core/analytics^$xhr,1p" converted to: "||safarmarket.com/api/core/analytics^$xmlhttprequest,~third-party"
+||safarmarket.com/api/core/analytics^$xhr,1p
+! Rule "||safarmarket.com/api/v1/trace/traceFlight^$xhr,1p,redirect=noop.txt" converted to: "||safarmarket.com/api/v1/trace/traceFlight^$xmlhttprequest,~third-party,redirect=nooptext"
+||safarmarket.com/api/v1/trace/traceFlight^$xhr,1p,redirect=noop.txt
+! Rule "||safarmarket.com/api/v1/trace^$image,3p" converted to: "||safarmarket.com/api/v1/trace^$image,third-party"
+||safarmarket.com/api/v1/trace^$image,3p
+! Rule "^safarmarketId=$doc,removeparam=safarmarketId" converted to: "^safarmarketId=$document,removeparam=safarmarketId"
+^safarmarketId=$doc,removeparam=safarmarketId
 ! Rule "shahanmusic.ir##+js(aopr, show_wpcp_message)" converted to: "shahanmusic.ir#%#//scriptlet('ubo-aopr.js', 'show_wpcp_message')"
 shahanmusic.ir##+js(aopr, show_wpcp_message)
 ! Rule "shahanmusic.ir##+js(set-attr, img[data-src], src, [data-src])" converted to: "shahanmusic.ir#%#//scriptlet('ubo-set-attr.js', 'img[data-src]', 'src', '[data-src]')"
@@ -856,6 +880,10 @@ shahrsakhtafzar.com##:not(:matches-path(/fa/news/pr)) .items-row:has(.sazitem_im
 @@||1000site.ir/asset/images/images/adpage/$image,1p
 ! Rule "@@||1000site.ir/home/ads/asset/favicon.ico$image,1p" converted to: "@@||1000site.ir/home/ads/asset/favicon.ico$image,~third-party"
 @@||1000site.ir/home/ads/asset/favicon.ico$image,1p
+! Rule "tinroid.ir##+js(aopr, tinPa)" converted to: "tinroid.ir#%#//scriptlet('ubo-aopr.js', 'tinPa')"
+tinroid.ir##+js(aopr, tinPa)
+! Rule "||tinroid.ir/images/ads^$image,1p" converted to: "||tinroid.ir/images/ads^$image,~third-party"
+||tinroid.ir/images/ads^$image,1p
 ! Rule "tmk.ir##+js(json-prune, data, data.vast data.content data.ad_id)" converted to: "tmk.ir#%#//scriptlet('ubo-json-prune.js', 'data', 'data.vast data.content data.ad_id')"
 tmk.ir##+js(json-prune, data, data.vast data.content data.ad_id)
 ! Rule "||tamashakhoneh.ir/src/video/intro.mp4^$media,3p,domain=tmk.ir,redirect=noopmp3-0.1s" converted to: "||tamashakhoneh.ir/src/video/intro.mp4^$media,third-party,domain=tmk.ir,redirect=noopmp3-0.1s"
@@ -1008,6 +1036,8 @@ tasnimnews.com##.col-md-9:style(width: 100% !important;)
 uploadgoogle.ir##+js(nowoif)
 ! Rule "uptrack.ir##+js(nowoif)" converted to: "uptrack.ir#%#//scriptlet('ubo-nowoif.js')"
 uptrack.ir##+js(nowoif)
+! Rule "||upmusics.com/mtnir.js^$script,1p" converted to: "||upmusics.com/mtnir.js^$script,~third-party"
+||upmusics.com/mtnir.js^$script,1p
 ! Rule "uupload.ir##+js(nano-sib)" converted to: "uupload.ir#%#//scriptlet('ubo-nano-sib.js')"
 uupload.ir##+js(nano-sib)
 ! Rule "up44.ir##+js(nano-sib, , , 0)" converted to: "up44.ir#%#//scriptlet('ubo-nano-sib.js', '', '', '0')"

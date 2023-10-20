@@ -1,8 +1,8 @@
 !
-! Checksum: t24XQLfC+PJ9p16i8f4J2w
-! OriginalVersion: 202310111231
+! Checksum: fEwEeDXZxNYwyqyGfClHIA
+! OriginalVersion: 202310201631
 ! Title: EasyList Portuguese
-! Last modified: 11 Oct 2023 12:31 UTC
+! Last modified: 20 Oct 2023 16:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -419,7 +419,7 @@ magazineluiza.com.br#@#iframe[name^="google_ads_iframe"]
 ||pubs.xl.pt^
 ||sunoresearch.com.br/ads-manager/$third-party
 ||supercasa.pt/mrec$third-party
-||t.co^domain=souapenasumsitenormal.com
+||t.co^$domain=souapenasumsitenormal.com
 ||upee.online/adsupee.js$third-party
 ||x2n.com.br/media/$third-party
 ! cloudfront hosted
@@ -626,7 +626,7 @@ $popup,third-party,domain=filmesonlinehdgratis.com.br|vizer.tv
 ||xvideospornor.com/300x
 !
 /^https?:\/\/.*\/[a-z0-9A-Z_]{2,15}\.(php|jx|jsx|1ph|jsf|jz|jsm|j$)/$image,script,subdocument,domain=maisexo.com|pornoincrivel.com
-!!
+!
 $subdocument,third-party,domain=curto.win
 !
 /url-open.js$domain=hentaiputa.com|terceiroz.com
@@ -726,6 +726,7 @@ cmjornal.pt,sabado.pt###widget_comercial
 naointendo.com.br##.Ad
 ig.com.br##.Ads
 exame.com##.RmKoK
+dgabc.com.br##._superBanner_970x250
 marriedgames.com.br##.aawp
 atribuna.com.br,cybercook.com.br,dicio.com.br,olhardigital.com.br,sapo.pt,sulinformacao.pt,uploaddeimagens.com.br##.ad
 clicrbs.com.br,mundo.com,vrum.com.br##.ad-banner
@@ -756,6 +757,9 @@ otvfoco.com.br##.ai_widget
 estadao.com.br##.ajuste-banner
 ouvirmusica.com.br##.an-full
 forbes.com.br,humordaterra.com##.anuncio
+portaldeprefeitura.com.br##.anuncio-100
+portaldeprefeitura.com.br##.anuncio-sid
+portaldeprefeitura.com.br##.anuncio-top
 metroworldnews.com.br##.arcad-feature
 brasilescola.uol.com.br##.area-publi-topo
 hot107.com.br##.area_adsense
@@ -804,6 +808,10 @@ brasilnaitalia.net##.bookingaff
 sabado.pt##.boost_activate
 escolhaviajar.com##.bos_searchbox_widget_class
 agazeta.com.br##.box--patrocinado
+correiobraziliense.com.br##.box-content-read-more
+guiademidia.com.br##.box-publi1
+guiademidia.com.br##.box-publi2
+guiademidia.com.br##.box-publi3
 bolavip.com##.boxbanner_container
 cnnbrasil.com.br##.branded_content
 braziljournal.com##.brandedcontent
@@ -823,6 +831,7 @@ ansabrasil.com.br##.commercial-banner
 ansabrasil.com.br##.commercial-banner-top
 cointelegraph.com.br##.componentAdbutler_ciZFt
 mercadolivre.com.br##.container-advertising
+litoralfm96.com.br##.container-propaganda
 estadao.com.br##.container-pub-selo
 antena1.com.br##.containerBanner
 natelinha.uol.com.br##.content-banner
@@ -836,6 +845,7 @@ radiodisney.com.br##.css-303m18
 radiodisney.com.br##.css-jy3jpo
 dinheirorural.com.br,revistaplaneta.com.br##.css-liynyf
 brasilnaitalia.net##.custom_html-5
+agazeta.com.br##.destaque
 flashscore.com.br,flashscore.pt##.detailLeaderboard
 olhardigital.com.br##.diagonal-strip
 hojeemdia.com.br##.dlbZKK
@@ -864,7 +874,9 @@ tag.jn.pt##.hp-mrec
 idealista.pt##.idealista-banner
 ehow.com.br##.inline-parent-container
 grandepremio.com.br##.internas_instream
+agazeta.com.br##.intext
 olhardigital.com.br##.intext-denakop
+agazeta.com.br##.intext_bottom
 iol.pt,meo.pt##.iol-comercial-placement
 uol.com.br##.itemAds
 jornaldocarro.estadao.com.br##.jc-saiba-mais
@@ -937,6 +949,7 @@ euriodetudo.com.br##.pub-bottom-header
 redetv.uol.com.br##.pub-box
 noticiasaominuto.com##.pub-container-block
 vagandonanet.com.br##.pub-conteudo-300x250
+correioweb.com.br##.pub-hor
 noticiasaominuto.com##.pub-space
 redetv.uol.com.br##.pub-topo
 jornaiserevistas.com##.pubLeaderboard
@@ -957,7 +970,10 @@ tempo.pt##.publicidad-pie
 exclusivo.com.br,ig.com.br,meiahora.com.br##.publicidade
 exclusivo.com.br##.publicidade3
 infojobs.com.br##.publicity
+radioxinguaraam.com.br##.pubtotal1
+radioxinguaraam.com.br##.pubtotal2
 publico.pt##.pubtxt
+correioweb.com.br##.ragado-1
 superesportes.com.br##.retangulo
 noticiasaominuto.com##.rich-media
 grandepremio.com.br##.rodape_sticky
@@ -990,6 +1006,7 @@ revistaplaneta.com.br##.td_uid_17_63667955eed2c_rand
 neofeed.com.br##.tdi_86_001
 blogmarcosfrahm.com##.text-2
 letras.com.br##.title-ads
+guiademidia.com.br##.titulo-publi3
 publico.pt##.tone--paid
 diarioimobiliario.pt##.topBanner
 humordaterra.com##.top_pub
@@ -1020,6 +1037,7 @@ metropoles.com##[class^="PublicidadesWrapper-"]
 jn.pt,ojogo.pt##[class^="t-pub-box-"]
 trabalhabrasil.com.br##[data-pg-ad]
 anitube.cx,automotivebusiness.com.br,calangodocerrado.net,noticiafamosos.com.br,portalmaquinasagricolas.com.br##[href*="bit.ly/"]
+gazetafm.com.br##a[href*="/patrocinado/"]
 tribunaonline.com.br##a[href^="/branded-content/"]
 myfilmestorrent.net##a[href^="/free.php?"]
 pointdosxd.blogspot.com##a[href^="http://mefode.net/"]
