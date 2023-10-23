@@ -414,6 +414,10 @@ fardanews.com##.n-first-col-left:style(width: 100% !important;)
 farnet.io##+js(acis, eif)
 ! Rule "farsroid.com##+js(aopr, faPa)" converted to: "farsroid.com#%#//scriptlet('ubo-aopr.js', 'faPa')"
 farsroid.com##+js(aopr, faPa)
+! Rule "||media.farsnews.ir/Uploaded/Files/Documents/*.gif^$image,1p" converted to: "||media.farsnews.ir/Uploaded/Files/Documents/*.gif^$image,~third-party"
+||media.farsnews.ir/Uploaded/Files/Documents/*.gif^$image,1p
+! Rule "||farsnews.ir/api/recordnewstextvisit?id=$xhr,1p" converted to: "||farsnews.ir/api/recordnewstextvisit?id=$xmlhttprequest,~third-party"
+||farsnews.ir/api/recordnewstextvisit?id=$xhr,1p
 ! Rule "getandroid.ir##+js(nowoif)" converted to: "getandroid.ir#%#//scriptlet('ubo-nowoif.js')"
 getandroid.ir##+js(nowoif)
 ! Rule "||getandroid.ir/Files/js/landing$script,1p" converted to: "||getandroid.ir/Files/js/landing$script,~third-party"
@@ -1008,6 +1012,8 @@ player.telewebion.com##+js(json-prune, body.productStatus)
 ||gateway.telewebion.com/broker/api/v1/message/twplayer^$xhr,1p,method=POST
 ! Rule "||gateway.telewebion.com/broker/api/v1/message/archive^$xhr,1p,method=POST" converted to: "||gateway.telewebion.com/broker/api/v1/message/archive^$xmlhttprequest,~third-party,method=POST"
 ||gateway.telewebion.com/broker/api/v1/message/archive^$xhr,1p,method=POST
+! Rule "||gateway.telewebion.com/broker/api/v1/message/live^$xhr,1p,method=options|post" converted to: "||gateway.telewebion.com/broker/api/v1/message/live^$xmlhttprequest,~third-party,method=options|post"
+||gateway.telewebion.com/broker/api/v1/message/live^$xhr,1p,method=options|post
 ! Rule "telewebion.com##app-channel div.live-box:style(width: 100% !important;)" converted to: "telewebion.com#$#app-channel div.live-box { width: 100% !important; }"
 telewebion.com##app-channel div.live-box:style(width: 100% !important;)
 ! Rule "^utm_source=takhfifan^$doc,removeparam=/^utm_|tatoken/" converted to: "^utm_source=takhfifan^$document,removeparam=/^utm_|tatoken/"

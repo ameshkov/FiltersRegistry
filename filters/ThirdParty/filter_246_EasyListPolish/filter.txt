@@ -1,8 +1,8 @@
 !
-! Checksum: W5olEe3Y00v/15V8FKvGlQ
-! OriginalVersion: 202310201631
+! Checksum: WQ8D3kAFgiVy4xpqXvr9oQ
+! OriginalVersion: 202310231630
 ! Title: EasyList Polish
-! Last modified: 20 Oct 2023 16:31 UTC
+! Last modified: 23 Oct 2023 16:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -727,7 +727,6 @@ gazetagazeta.com###media_image-39
 budownictwo.co###media_image-5
 czestochowskie24.pl###media_image-6
 czestochowskie24.pl,gazetatrybunalska.info###media_image-7
-kurierostrowski.pl###metaslider_970
 swietokrzyskie24.eu###metaslider_container_4396
 noworudzianin.pl###metaslider_widget-2
 mma.pl###mma_post1_ad
@@ -812,6 +811,7 @@ satkurier.pl###sky_left_container
 radomsport.pl###skyscraper
 radomnews.pl###skyscraper2
 buduj-remontuj-urzadzaj.pl,katalog.ospi.pl,lekarze-gabinety.pl,maksymalnie.pl,masztu.pl,miejskieinfo.pl,moto-oto.pl,ogloszenia-nieruchomosci.info,oto-slub.pl,waszdzienpodniu.pl,wkatalog.pl###slider
+zyciesokolowa.pl###slider--carousel--banners
 naszesudety.pl###slider2
 nocoty.pl###slider300Wrapper
 legnica.fm###sliderbanner1
@@ -959,6 +959,7 @@ mistrzowie.org##.abox-view-content
 avrupadaokuma.eu,bachelor.undergraduatestudy.eu,distancelearningstudy.eu,dlamaturzysty.info,dlaucznia.info,doctoralstudy.eu,dualstudies.eu,edubaza.pl,estudarnaeuropa.eu,estudiareneuropa.eu,etudiereneurope.eu,gramatyka-angielska.info,kierunki-studiow.info,kursy-zawodowe.kwalifikacjezawodowe.info,kursyjezykowe.biz,kursyonline.info,kursysemestralne.pl,master.postgraduatestudy.eu,mba-studies.eu,ochschulen.studiumineuropa.eu,organizacjestudenckie.pl,pracaikariera.pl,rektorzy.pl,studenckamarka.pl,studenckamoda.pl,studentka.pl,studentnews.eu,studentnews.pl,studiadoktoranckie.info,studiainzynierskie.info,studialicencjackie.info,studiamagisterskie.info,studiamba.info,studianiestacjonarne.info,studiaonline.info,studiastacjonarne.info,studiaweuropie.eu,studies-in-english.pl,studies-in-europe.eu,studies-in-poland.pl,studiumveurope.eu,szkolyjezykowe.info,tanulmanyokeuropaban.eu,universita.studiareineuropa.eu,wameryce.info,weuropie.info##.acceptableb
 24opole.pl##.acl_bd
 300polityka.pl,bazarek.net.pl,codziennypoznan.pl,debica.tv,dwadozera.pl,evertiq.pl,gazeo.pl,jarock.pl,lublin112.pl,nurkowapolska.pl,pcworld.pl,pieniny24.pl,polsatnews.pl,polsatsport.pl,radiofm-online.com,samequizy.pl,stomil.olsztyn.pl,teleman.pl,termomodernizacja.pl,wirtualnepniewy.pl##.ad
+zyciesokolowa.pl##.ad--bill-top
 kazimierzdolny.pl##.ad--main
 defence24.pl##.ad-banner
 pcworld.pl##.ad-bilbo2
@@ -985,7 +986,6 @@ egryfino.pl,gryfinska.pl##.ada
 gryfinska.pl##.ada-rwd
 rebelianci.org##.adad
 praca-niemcy24.pl##.adblock
-alipaczka.pl,interia.pl,magazynwiatr.pl,patriot24.net##.adbox
 ktomalek.pl##.add
 zeglarski.info##.add-box
 24wspolnota.pl,bialasiedzieje.pl,ddbelchatow.pl,gostynska.pl,jarocinska.pl,korso.pl,korso24.pl,krotoszynska.pl,lublin24.pl,magazynona.pl,portalplock.pl,pulawy.24wspolnota.pl,radzyn.24wspolnota.pl,rawicz24.pl,rzeszow24.info,terazgostynin.pl,tubalecznej.pl,tulodz.pl,zpleszewa.pl,zwielkopolski24.pl##.addWrapper
@@ -1006,7 +1006,6 @@ kierunekchemia.pl,kierunekenergetyka.pl##.ads-box-inverted
 esanok.pl,ustrzyki24.pl##.ads-s
 rankinglekarzy.pl##.ads-slot
 kamienskie.info##.ads-subpage
-szokuje.pl##.ads-under_menu
 nowezyciepabianic.pl##.ads480
 businessinsider.com.pl,plejada.pl##.adsContainer
 tarnowiak.pl##.adsRightBox
@@ -2020,7 +2019,6 @@ domyseniora.pl,przedszkola.edu.pl##a[class^="js-banery-"]
 tvwalbrzych.pl##a[class^="single_ad_"]
 podoslonami.pl##a[data-label="Reklama"]
 staleo.pl,zrobotyzowany.pl##a[data-type^="Reklama"]
-cashless.pl##a[data="advert-link"]
 echolubonia.pl##a[href$="#REKLAMA"]
 twojsacz.pl##a[href$="source=ads"]
 kokos.pl##a[href*="&creation_type=BANNER"] > img
