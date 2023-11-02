@@ -3,7 +3,7 @@
 ! License: https://github.com/yous/YousList#license
 ! Title: YousList
 ! Expires: 4 days
-! OriginalVersion: 20231031
+! OriginalVersion: 20231102
 ! General element hiding rules
 ##amp-ad
 ##amp-embed.ad_cnt
@@ -168,6 +168,7 @@
 ##iframe[src*="//api.screensharp.kr/ad/get_banner/"]
 ##iframe[src*="//apis.piclick.me/v1/publish/banner/iframe"]
 ##iframe[src*="//apis.piclick.me/v2/publish/banner/iframe"]
+##iframe[src*="//authanalysis.com/CLad.php"]
 ##iframe[src*="//b.bestcontentfood.top/loader"]
 ##iframe[src*="//b.bestcontentitem.top/loader"]
 ##iframe[src*="//b.bestcontentwork.top/loader"]
@@ -917,6 +918,7 @@
 ||assoc-amazon.com/s/ads.js^
 ||async01.admantx.com/admantx/service^
 ||at.atwola.com/addyn/3.0/
+||authanalysis.com/CLad.php^
 ||autoview.co.kr/auto_ad/ad_top.asp^$domain=autoview.co.kr
 ||b.a2gw.com/b/*.js^
 ||b.bestcontentfood.top/loader^
@@ -4976,7 +4978,7 @@ m.nocutnews.co.kr##div#pnlTopAd
 m.nocutnews.co.kr##div.ad_ft
 m.nocutnews.co.kr##div.con_b>div.ct_box
 m.nocutnews.co.kr##div.ct1>div.con_b>div:not([class]):not([id])
-m.nocutnews.co.kr##div.ct2>div.con_b>div[style="text-align: center; padding: 0; height:100px; overflow:hidden;"]
+m.nocutnews.co.kr##div.ct2>div.con_b>div[style="text-align: center; padding:8px 0; height:100px; overflow:hidden;"]
 m.nocutnews.co.kr##div.v_ad
 m.nocutnews.co.kr##iframe[src^="/ad/adnca.html"]
 m.ohmynews.com##article.article_body>div[style="width:100%; text-align:center; overflow:hidden; position:relative;"]
@@ -5076,6 +5078,7 @@ m.sports.chosun.com##body>div[style="height:48px;width:100%;background-color:#f6
 m.sports.chosun.com##body>div[style="text-align:center; margin: 25px 0;"]
 m.sports.chosun.com##div#adBottomAdbnMobile
 m.sports.chosun.com##div#caulyad
+m.sports.chosun.com##div#footer_container>div.ap_box
 m.sports.chosun.com##div#photo_area~div[align="center"][style="width: 100%; height: 100px; overflow: hidden;"]
 m.sports.chosun.com##div#wrap>div[style="position: fixed; width: 100%; height: 100px; text-align: center; margin: auto; top: 0; background: #fff; z-index: 99999;"]
 m.sports.chosun.com##div#wrap>div[style="position: fixed; width: 100%; height: 100px; text-align: center; margin: auto; top: 0; background: #fff; z-index: 9999;"]
@@ -5084,8 +5087,12 @@ m.sports.chosun.com##div.top_ad
 m.sports.chosun.com##div[id^="absdiv"]
 m.sports.chosun.com##div[itemprop="articleBody"]>div[style="width:210px;height:205px;float:right;padding-left:10px;padding-bottom:5px;"]
 m.sports.khan.co.kr##div#adBottom
+m.sports.khan.co.kr##div#adBottom_pvcheck
+m.sports.khan.co.kr##div#areaDotTag
+m.sports.khan.co.kr##div.ad-art-mid
 m.sports.khan.co.kr##div.ad_article_view
 m.sports.khan.co.kr##div.ad_main_mid_bn
+m.sports.khan.co.kr##div.art_mid_ad
 m.sports.media.daum.net##a.link_bnr
 m.sports.media.daum.net##div.wrap_bnr
 m.sports.naver.com##div.home_ad_group
@@ -5282,6 +5289,7 @@ macworld.com##div.ad
 macworld.com##div.ad-container
 macworld.com##div.lazyload_ad
 macworld.com##div.sponsored-links
+mail.daum.net##div#daBannerWrapper
 mail.google.com##div[role="main"]>div.aKB
 mainia.tistory.com##div.tt_article_useless_p_margin>div[style="float:right;margin:0 0 10px 10px;width:336px;height:280px"]
 mainichi.jp##aside.ad.pr
@@ -7050,6 +7058,8 @@ web.humoruniv.com##div#CmAdView2
 web.humoruniv.com##div#ad_240
 web.humoruniv.com##div#ad_700
 web.humoruniv.com##div#ad_adture
+web.humoruniv.com##div#choo_web_read_top_wrap
+web.humoruniv.com##div#wrap_cnts>div.box[style="width:896px;margin:10px 0 0 0;background:#f5f8f9;border:1px solid #f0f2f3;"]
 web.humoruniv.com##div.ad_div
 web.humoruniv.com##iframe[src^="http://web.humoruniv.com/banner/ddn_banner_"][src*=".html"]
 web.humoruniv.com##table#choo

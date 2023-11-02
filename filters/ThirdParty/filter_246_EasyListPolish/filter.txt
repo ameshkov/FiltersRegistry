@@ -1,8 +1,8 @@
 !
-! Checksum: snajKF5nYZ4aukn9UVWThA
-! OriginalVersion: 202311011651
+! Checksum: 4s+yeBZ1TZgvZ/sHG3Sd5g
+! OriginalVersion: 202311021251
 ! Title: EasyList Polish
-! Last modified: 01 Nov 2023 16:51 UTC
+! Last modified: 02 Nov 2023 12:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1016,7 +1016,6 @@ koty.pl,psy.pl##.adsenseAd
 cgm.pl,ekspresjaroslawski.pl,historykon.pl,itvpiaseczno.pl,lowicz24.eu,mtv24.tv,nowawrzesnia.pl,pogonszczecin.pl,tp.com.pl,vegespot.pl,zlotowskie.pl##.adv
 nowezyciepabianic.pl##.adv--above-news
 24jgora.pl,zambrow.org##.adv--halfpage
-nowezyciepabianic.pl##.adv--next-logo
 wterenie.pl##.adv--rectangle
 mma.pl##.adv-body-banner
 24zabrze.pl,tko.pl##.adv-link

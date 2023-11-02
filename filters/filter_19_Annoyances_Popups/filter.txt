@@ -3556,6 +3556,10 @@ sanalkurs.net###toast-container > .toast-error[aria-live="assertive"]
 !
 ! SECTION: Popups - Regular rules
 !
+actu.orange.fr#$#.inactivity-modal { display: none !important; }
+actu.orange.fr#$#.modal-backdrop { display: none !important; }
+actu.orange.fr#$#body { overflow: auto !important; padding-right: 0 !important; }
+actu.orange.fr#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'InactivityPopin')
 netology.ru#%#//scriptlet('set-cookie', 'consultation_modal_shown', '1')
 utweb.rainberrytv.com##.ad-free-upsell-container
 indiatimes.com##.match-widget-f
@@ -10630,6 +10634,7 @@ macwelt.de,pcwelt.de#%#//scriptlet("set-constant", "firebase.messaging", "noopFu
 !
 ! SECTION: Push notifications - Regular rules
 !
+||a2zapk.io/js/notification.js
 ||cdn-static.egoiapp2.com/webpush.js
 gptoday.net##.webpush_popup
 infomoney.com.br###webpush-modal
@@ -11324,6 +11329,7 @@ pipedream.com#@##credential_picker_container
 ! Genegic rules
 ! SECTION: Subscriptions - Generic
 !
+##.Sailthru_Subscribe
 ##.wp-block-xwp-newsletter-subscription
 ##.w-newsletter-in_article
 ##.smartmag-widget-newsletter
@@ -11412,6 +11418,7 @@ newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,nordbayern.de,theloca
 !
 ! SECTION: Subscriptions - Regular rules
 !
+aljazeera.com##.sib-newsletter-form
 elle.com##.seo-tags-container
 australianaviation.com.au#?##main_sidebar > div.widget_text:has(> div.textwidget > div.b-submod-side)
 yablyk.com#?#.article-entry > p:has(> a[href^="https://t.me/"])
@@ -16911,7 +16918,6 @@ i-d.vice.com,lepoint.fr,liveagent.com,nbc-2.com,theintercept.com##.Newsletter
 thedailybeast.com##.NewsletterSignup
 seattletimes.com##.NewsletterSignupBlock
 seattletimes.com##.NewsletterSignupInset
-kxan.com,wpri.com,wgntv.com,nationalpost.com,ottawacitizen.com##.Sailthru_Subscribe
 gutefrage.net##.Sidebar > [class="Plate Plate--noPadding Teaser u-mbl"]
 mercedes-benz.de##.aem--newsletter__base
 wunderground.com##.alert-forecast

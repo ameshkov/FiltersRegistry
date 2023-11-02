@@ -977,6 +977,7 @@ $script,third-party,denyallow=fastly.net|statically.io|sharecast.ws|bunnycdn.ru|
 !
 !
 !
+actu.orange.fr#?#.col-xl-4 > .align-items-center > .text-right > span:contains(/^PUBLICITÉ$/)
 mariefrance.fr##.sidebar-before-comments
 app.molotov.tv##div[id^="banner"]
 parismatch.be##.ap-SmartTarget
@@ -1630,6 +1631,10 @@ app.molotov.tv#%#//scriptlet('prevent-xhr', '/ping?token=')
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/164828
+$subdocument,third-party,domain=streamtape.com,badfilter
+! https://github.com/AdguardTeam/AdguardFilters/issues/165217
+lachainemeteo.com#@#.ad-side
 ! https://github.com/AdguardTeam/AdguardFilters/issues/164927
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
 @@||cdnjs.cloudflare.com/ajax/libs/fastclick/*/fastclick.min.js$domain=occasions.decathlon.fr

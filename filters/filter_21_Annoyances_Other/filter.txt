@@ -103,6 +103,8 @@ instagram.com##._aagw:empty
 !
 ! End: Instagram.com
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/165217
+lachainemeteo.com##.videoContainer.videoFixed
 ! https://github.com/AdguardTeam/AdguardFilters/issues/164818
 charter97.org##.article-subscription
 ! https://github.com/AdguardTeam/AdguardFilters/issues/164710
@@ -3251,6 +3253,10 @@ www.kinopoisk.ru##div[class^="trailer-promo"]
 ! END: Yandex
 !
 !
+! https://danas.hr/svijet/hrvat-u-njemackoj-uzeo-skupocjeni-auto-na-probnu-voznju-i-nije-ga-vratio-trazi-ga-policija-9c603a52-755c-11ee-9d3d-9efcf0a1014e
+danas.hr#?#.BaseLayout_content div[class^="css-"]:has(> div[style] > div[class^="css-"] > div.SlotContainer_container a[href^="https://voyo.rtl.hr/sadrzaj/superstar?"])
+danas.hr#?#.BaseLayout_content div[class^="css-"]:has(> div[style] > div[class^="css-"] > div.SlidingWrapper_wrapper a[href^="https://voyo.rtl.hr/sadrzaj/superstar?"])
+danas.hr#?#.BaseLayout_content div[class^="css-"] > div[class^="css-"] > div[class^="css-"]:has(> div.SlotContainer_container a[href^="https://voyo.rtl.hr/sadrzaj/superstar?"])
 ! https://github.com/AdguardTeam/AdguardFilters/issues/164323
 taxscan.in##.taxsc-mobile-popup-ad
 ! https://github.com/AdguardTeam/AdguardFilters/issues/164103
@@ -4616,7 +4622,7 @@ xhamster20.desi,xhwebsite2.com,xhamster18.desi,xhadult3.com,xhadult2.com,xhmoon5
 ! cameras in category/movie pages
 xhamster20.desi,xhwebsite2.com,xhamster18.desi,xhadult3.com,xhadult2.com,xhmoon5.com,xhwide1.com,xhwide8.com,xhamster3.com,xhplanet2.com,xhtab2.com,xhamster18.*,xhamster17.*,hamsterix.*,xhamster13.*,xhamster5.desi,xhamster9.com,xhamster.desi,xhamster.one,xhamster.com##.cams-overlay
 xhamster20.desi,xhwebsite2.com,xhamster18.desi,xhadult3.com,xhadult2.com,xhmoon5.com,xhwide1.com,xhwide8.com,xhamster3.com,xhplanet2.com,xhtab2.com,xhamster18.*,xhamster17.*,hamsterix.*,xhamster13.*,xhamster5.desi,xhamster9.com,xhamster.desi,xhamster.one,xhamster.com##[class*="cams-widget"]
-xhamster20.desi,xhwebsite2.com,xhamster18.desi,xhadult3.com,xhadult2.com,xhmoon5.com,xhwide1.com,xhwide8.com,hamster3.com,xhplanet2.com,xhtab2.com,xhamster18.*,xhamster17.*,hamsterix.*,xhamster13.*,xhamster5.desi,xhamster9.com,xhamster.desi,xhamster.one,xhamster.com##div[class*="cams-thumb-"]
+xhamster20.desi,xhwebsite2.com,xhamster18.desi,xhadult3.com,xhadult2.com,xhmoon5.com,xhwide1.com,xhwide8.com,xhamster3.com,xhplanet2.com,xhtab2.com,xhamster18.*,xhamster17.*,hamsterix.*,xhamster13.*,xhamster5.desi,xhamster9.com,xhamster.desi,xhamster.one,xhamster.com##div[class*="cams-thumb-"]
 ||img.stripst.com/*/previews$domain=xhamster.com
 ||xhamsterpremium.com^$third-party
 xhamster20.desi,xhwebsite2.com,xhamster18.desi,xhadult3.com,xhadult2.com,xhmoon5.com,xhwide1.com,xhwide8.com,xhamster4.*,xhamster2.com,xhamster10.com,xhamster.com##iframe[src^="https://xhamsterpremium.com/"]
@@ -4922,6 +4928,7 @@ theguardian.com##.contributions__adblock
 !
 ! SECTION: Self-promo - Regular rules
 !
+croxyproxy.rocks###infoBar
 eleminist.com##.aritceLayout__topBanner
 eleminist.com##.globalHeader__banner
 uteka.ru##div[data-test="banners-slider"]
@@ -6772,7 +6779,7 @@ theverge.com#$#.mt-80 { margin-top: 50px !important; }
 theverge.com#$#.md\:mb-40 { margin-bottom: 20px !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/159669
 ! https://github.com/AdguardTeam/AdguardFilters/issues/148098
-gulftech.live,reviewhub.vip,reviewtech.me,pcreview.me,reviewstation.me#$#.downloadbtn { display: block !important; }
+tech-review.me,gulftech.live,reviewhub.vip,reviewtech.me,pcreview.me,reviewstation.me#$#.downloadbtn { display: block !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/146297
 oneslidephotography.com,apasih.my.id,financekami.com#$##wpsafe-wait1 { display: none !important; }
 oneslidephotography.com,apasih.my.id,financekami.com#$##wpsafe-generate { display: block !important; }
@@ -7281,7 +7288,7 @@ mcafee-com.com#%#//scriptlet('set-constant', 'document.hasFocus', 'trueFunc')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/159577
 1fichier.com#%#//scriptlet('adjust-setTimeout', 'show()', '*', '0.001')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/159777
-jabigetjob.com,kojnews.com,serkarijobfind.com,thenovbharattimes.com,nokrimilegi.in,kejriwalyojana.com,netflixrelease.com,mydomainscan.com,onlinegratuitycalculator.com,globlenews.in,rontymobile.in,revadvert.com,mynewsmedia.co#%#//scriptlet('set-constant', 'count', '0')
+iwitnessnews.in,jabigetjob.com,kojnews.com,serkarijobfind.com,thenovbharattimes.com,nokrimilegi.in,kejriwalyojana.com,netflixrelease.com,mydomainscan.com,onlinegratuitycalculator.com,globlenews.in,rontymobile.in,revadvert.com,mynewsmedia.co#%#//scriptlet('set-constant', 'count', '0')
 ! https://github.com/uBlockOrigin/uAssets/issues/19422
 nicekkk.com#%#//scriptlet('prevent-setInterval', 'debugger;')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/159121
