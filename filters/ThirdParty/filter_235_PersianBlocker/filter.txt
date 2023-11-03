@@ -564,8 +564,10 @@ abipic.com##.ads-text-sid
 aftabnews.ir##.adv_l
 aftabnews.ir##.adv_r_news2
 alaatv.com#%#//scriptlet('ubo-acis.js', 'watermarkAdData')
-||nodes.alaatv.com/upload/vast/xml/
-||ads.alaatv.com^
+||ads.alaatv.com^$~third-party
+||sentry.alaatv.com^$~third-party
+||nodes.alaatv.com/upload/vast/xml^$xmlhttprequest,~third-party
+alaatv.com#$#* { -webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important; }
 androidsharp.com###toshare-dl-link
 ||iranroid.com^$image,domain=androidsharp.com
 ariapix.net##.textads
@@ -945,10 +947,9 @@ digikala.com#$#.user-select-none { -webkit-touch-callout: default !important; -w
 ||sentry.divar.cloud^$third-party,domain=divar.ir
 ||actionlog.divar.ir^$~third-party
 ||divar.ir/g-scripts^$script,~third-party
-||doostihaa.com/wp-content/plugins/jw-player-7-for-wp-premium/jwplayer/gapro.js
-doostihaa.com##.adsfix_box
-doostihaa.com##.ads_txtcv
-doostihaa.com##aside.lefts_sides:nth-of-type(6)
+doostihaa.com##div.adsfix_box:has(> div[id^="mediaad"])
+doostihaa.com##aside.lefts_sides:has(> div.txt_letfs > ul.ads_txtcv)
+! TODO: Change upera.shop/ref/3m8/ckAdbr90 to upera.shop/ckAdbr90 using urltransform to prevent tracking
 ! https://github.com/AdguardTeam/AdguardFilters/issues/42827
 ! https://github.com/MasterKia/PersianBlocker/issues/100
 ||downloadha.com/pic/top-posts-ads.png^$image,xmlhttprequest
@@ -2616,10 +2617,8 @@ vgdl.ir##.stream-item-widget:has(a[href*="faradars.org"])
 vgdl.ir##.bottom_ads
 vgdl.ir##.fix_ads
 @@||vgdl.ir/wp-content/uploads/*/how-to-fix-error-vgdl.ir_.gif$image,~third-party
-||vazeh.com/cdn-cgi/apps/head
-||vazeh.com/banners/
-||sahandpress.ir/loader$domain=vazeh.com
-vazeh.com##div.side22:nth-of-type(1)
+||vazeh.com/banners/us/*.gif^$image,~third-party
+vazeh.com##div.main > div.mainx1 > div:has(> span.side-title:has-text(تبلیغات))
 ||up.varoone.ir/view/*/adv
 ||up.varoone.ir/view/*/*.gif
 varoone.ir##.headads
@@ -2641,9 +2640,9 @@ varzesh3.com##.adbox:not(.adbar)
 ||video-learn.ir/code/popup^
 video-learn.ir#@#.header-adv
 ||vigiato.net/wp-content/plugins/duracelltomi-google-tag-manager^
-||vista.ir/ads^
-vista.ir##[href^="/ad/"]
-vista.ir##.textad
+||vista.ir/ads^$image,~third-party
+vista.ir##a[href^="/ad/"][target="_blank"]
+vista.ir##a.textad
 ! >> W <<
 ||webgozar.com/adimg^$image,~third-party
 webgozar.com##div.topAds

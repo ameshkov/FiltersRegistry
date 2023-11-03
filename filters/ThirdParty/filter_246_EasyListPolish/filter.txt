@@ -1,8 +1,8 @@
 !
-! Checksum: 4s+yeBZ1TZgvZ/sHG3Sd5g
-! OriginalVersion: 202311021251
+! Checksum: X1z7UiSvCaGcBvY3nixgQg
+! OriginalVersion: 202311031251
 ! Title: EasyList Polish
-! Last modified: 02 Nov 2023 12:51 UTC
+! Last modified: 03 Nov 2023 12:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1179,7 +1179,6 @@ ogloszenia-nieruchomosci.info##.banners-mainpage
 glospedagogiczny.pl##.bannersm
 mamopracuj.pl##.bannery
 infoludek.pl##.banneryflex
-taternik.org##.bantitle
 kt24.pl##.bar-container
 naszwodzislaw.com##.bazarek
 infokonin.pl,wolanie.info##.bc_random_banner
@@ -1214,7 +1213,6 @@ wprost.pl##.box-list-item-recommendation-content-stream
 polska-zbrojna.pl##.box.withTopMargin > a[href*="/advertclick/"]
 folk24.pl##.boxAdvert
 flashscore.pl,wynikinazywo.pl##.boxOverContent__banner
-wroclaw.pl##.boxVerticalBanner
 mylomza.pl##.box__container iframe
 cnc.info.pl##.box_bok
 24kurier.pl##.box_reklama
@@ -1866,7 +1864,7 @@ gazetawielkopolska.pl,prudnik24.pl##.widget-3
 gloskrakowa.pl##.widget-4
 lsw24.pl##.widget-ad-image
 lokalna24.pl##.widget-advert_centralplacement
-faktykaliskie.info,lokalna24.pl,nasztomaszow.pl,slowopodlasia.pl,zachodniopomorska.tv##.widget-advert_placement
+faktykaliskie.info,lokalna24.pl,nasztomaszow.pl,slowopodlasia.pl,zachodniopomorska.tv,zycieolsztyna.pl##.widget-advert_placement
 bezale.pl##.widget-area
 deon.pl##.widget-products
 40ton.net##.widget_adbaner_widget
@@ -2576,24 +2574,17 @@ filmy69.pl#?#li.videoblock:-abp-has(script[src^="https://a.realsrv.com/"])
 @@^banery/2^$domain=sportgniezno.pl
 @@^reklamy^$domain=csbydgoszcz.pl|selgros24.pl
 @@||api.samiswoi24.pl/advert?
-@@||egarwolin.pl^*^inline__1_576.
 @@||gfx.wiadomosci.radiozet.pl/extension/adverts/design/standard/javascript/adverts/Quantcast/Quantcast.js
 @@||googleapis.com^*^ima3.js|$domain=radiozet.pl
-@@||gorzow24.pl^*^im_91.
 @@||gostynin24.pl^*^banners/owsik^
-@@||iochota.pl^*^inline__1_2083.$image,domain=iochota.pl
-@@||ivrozbiorpolski.pl^*_donate_
 @@||kazimierzdolny24.pl^*^reklama_box.gif
-@@||legitymizm.org^*^gabis-
 @@||liveads.pl^$domain=liveads.pl
 @@||market.bia24.pl/R2|
 @@||maszwolne.pl^*^pages/mini^
 @@||myao.adocean.pl^*^ado.js|$domain=radiozet.pl
 @@||ppr.pl^*^banners^*ppr.
 @@||radiozet.pl/extension/adverts/design/standard/templates/esi/adv/quantcastIframe.html
-@@||samoloty.pl^*^lgp2.
 @@||szbk.pl^$generichide
-@@||team29er.pl^*^fr234a.
 @@||walbrzych24.com/upload/upload/Bannery_HTML/polityka/index.html|$document,subdocument,domain=walbrzych24.com
 ! *** easylistpolish:easylistpolish/easylistpolish_whitelist_dimensions.txt ***
 ! *** easylistpolish:easylistpolish/easylistpolish_whitelist_popup.txt ***

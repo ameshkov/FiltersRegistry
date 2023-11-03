@@ -4939,6 +4939,7 @@ newduba.cn###jq_youxi
 ||beezwol.com^
 ||berrynicolo.com^
 ||beste3.icu^
+||bfbchr.xyz^
 ||bgbqfqwi.xyz^
 ||bjtgds.xyz^
 ||bmxvxl.xyz^
@@ -4954,6 +4955,7 @@ newduba.cn###jq_youxi
 ||cdsa2.icu^
 ||ceiuip.icu^
 ||cgbswl.icu^
+||cgqwgv.icu^
 ||cheda6.icu^
 ||chrtds.xyz^
 ||cjndvoglik.xyz^
@@ -5033,6 +5035,7 @@ newduba.cn###jq_youxi
 ||gmx29.top^
 ||gmx30.top^
 ||gmx31.top^
+||gmx33.top^
 ||gmx34.top^
 ||gmx35.top^
 ||gmx36.top^
@@ -5060,12 +5063,14 @@ newduba.cn###jq_youxi
 ||hcgbhq.com^
 ||hchuviq.cn^
 ||hcqumrjbx.xyz^
+||hjnjjcw.xyz^
 ||hkrytf.xyz^
 ||hnkhgw.com^
 ||hrtinqj.cn^
 ||huhwllvk.xyz^
 ||hunklm.com^
 ||huxifena.cn^
+||hvpard.xyz^
 ||hwuogmusthxfpk.xyz^
 ||hynahyqq.xyz^
 ||ibsea.cn^
@@ -5147,6 +5152,7 @@ newduba.cn###jq_youxi
 ||njtbiml.xyz^
 ||nofizx.xyz^
 ||nrzzaep.xyz^
+||nubcdaqa.xyz^
 ||nyfgpbsc.xyz^
 ||nyhgvn.xyz^
 ||nyvgbt.xyz^
@@ -5221,6 +5227,7 @@ newduba.cn###jq_youxi
 ||uuzsfpju.xyz^
 ||uwfxvvm.cn^
 ||vdggsd001.com^
+||vdggsd002.com^
 ||vdggsd005.com^
 ||vdggsd006.com^
 ||vdggsd007.com^
@@ -5270,6 +5277,7 @@ newduba.cn###jq_youxi
 ||yhlzadr.xyz^
 ||yhtpsy8888.cc^
 ||yivkzvog.xyz^
+||ynulcpt.cn^
 ||yuanxiaa.cn^
 ||yuanxiab.cn^
 ||yutiqf.icu^
@@ -5283,13 +5291,14 @@ newduba.cn###jq_youxi
 ||zents2.top^
 ||zjdruhn.xyz^
 ||zlncvn.xyz^
-||ynulcpt.cn^
-||nubcdaqa.xyz^
-||cgqwgv.icu^
-||vdggsd002.com^
-||hjnjjcw.xyz^
-||hvpard.xyz^
-||bfbchr.xyz^
+||pfrbnl.xyz^
+||wutsldsk.xyz^
+||ybrbdft.xyz^
+||vdggsd003.com^
+||fenem.top^
+||qboywc.xyz^
+||xlca666.site^
+||eglizqf.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -11779,6 +11788,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||gaoqing.la/wp-content/uploads/*980x
 ||gaoqing.la/wp-content/uploads/*banner
 ||gaoqing.la/wp-content/uploads/*GOOVIS
+||gaoqing888.com/img/icmarkets.
 ||gasaq.com/public/flash/
 ||gavbus*.com/assets/common/js/ad.js
 ||gavbus*.com/assets/common/js/admenu.js
@@ -13314,6 +13324,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||qunlove.com^*.gif
 ||qwblog.cn/localfile/20200612230036.gif
 ||qy0.ru/data/game/
+||qy1.ru/data/game/
 ||qyun.vip/pic/*.gif
 ||qz828.com/css/2010/script/*ad
 ||qzone.la/Scripts/m.js
@@ -14251,11 +14262,12 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||qy1.ru/data/game/
-||gaoqing888.com/img/icmarkets.
 szxx.com.cn###A0
-423down.com##.entry > P[style$="center;"]
-gz0668.com##.deanad
+gamersky.com##.ad_cmt_cont
+tmioe.com###custom_html-4
+toy-people.com##.right_bottom_bb
+toy-people.com##.rightAd_3002502
+toy-people.com##.article_insertAD
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -16633,6 +16645,7 @@ qinbing.cn##.day
 ggcj.com##.dbxf
 games.qq.com##.dc-kf_list
 chineseinla.com##.deal_discount
+gz0668.com##.deanad
 xydai.cn##.deanad4s
 8ziyuan.com##.deanadsside
 pan.baidu.com##.decrease-active
@@ -16760,6 +16773,7 @@ eprice.com.tw##.emome-ad
 huya.com##.end-ab-wrap
 firefoxchina.cn##.engine-jokes
 hao123.com##.enter1
+423down.com##.entry > P[style="font-size: 20px;"]
 423down.com##.entry > p[style^="color:red"]
 hackhw.com##.entry-banner
 idanmu.ee##.entry-body > div[class]:first-child
