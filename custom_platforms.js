@@ -76,6 +76,8 @@ module.exports = {
                 ",hls=",
                 "\\$jsonprune=",
                 ",jsonprune=",
+                "\\$referrerpolicy",
+                ",referrerpolicy",
                 "\\$content",
                 ",content"
             ],
@@ -107,6 +109,8 @@ module.exports = {
                 ",hls=",
                 "\\$jsonprune=",
                 ",jsonprune=",
+                "\\$referrerpolicy",
+                ",referrerpolicy",
                 "\\$content",
                 ",content"
             ],
@@ -139,6 +143,8 @@ module.exports = {
                 ",hls=",
                 "\\$jsonprune=",
                 ",jsonprune=",
+                "\\$referrerpolicy",
+                ",referrerpolicy",
                 "\\$content",
                 ",content"
             ],
@@ -164,7 +170,14 @@ module.exports = {
                 "\\$protobuf",
                 "important,protobuf",
                 "\\$extension",
-                ",extension"
+                ",extension",
+                "\\$hls=",
+                ",hls=",
+                "\\$jsonprune=",
+                ",jsonprune=",
+                "\\$referrerpolicy",
+                ",referrerpolicy"
+
             ],
             "replacements": null,
             "ignoreRuleHints": false
@@ -211,6 +224,8 @@ module.exports = {
                 "\\$webrtc",
                 "\\$csp",
                 "\\$network",
+                "\\$referrerpolicy",
+                ",referrerpolicy",
                 "\\$hls=",
                 ",hls=",
                 "\\$jsonprune=",
@@ -261,6 +276,8 @@ module.exports = {
                 "\\$webrtc",
                 "\\$csp",
                 "\\$network",
+                "\\$referrerpolicy",
+                ",referrerpolicy",
                 "\\$hls=",
                 ",hls=",
                 "\\$jsonprune=",
@@ -331,6 +348,8 @@ module.exports = {
                 ",redirect=",
                 "\\$redirect-rule=",
                 ",redirect-rule=",
+                "\\$referrerpolicy",
+                ",referrerpolicy",
                 "\\$hls=",
                 ",hls=",
                 "\\$jsonprune=",
@@ -374,6 +393,8 @@ module.exports = {
                 "#\\$#@media ",
                 "\\$hls=",
                 ",hls=",
+                "\\$referrerpolicy",
+                ",referrerpolicy",
                 "\\$jsonprune=",
                 ",jsonprune="
             ],
