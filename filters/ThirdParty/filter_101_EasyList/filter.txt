@@ -1,8 +1,8 @@
 !
-! Checksum: 9qIFuArlvexSNaOFDkCRMg
-! OriginalVersion: 202311201250
+! Checksum: 3SgHcmQqsfY8lb32mFEiSQ
+! OriginalVersion: 202311211701
 ! Title: EasyList
-! Last modified: 20 Nov 2023 12:50 UTC
+! Last modified: 21 Nov 2023 17:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1053,7 +1053,6 @@
 /middleads.
 /min/ads/*
 /mnpw3.js
-/moatsdk.min.js
 /mobile-ad.
 /mobile_ad.
 /mobile_ad/*
@@ -17275,6 +17274,7 @@ _800x80_
 ##.vl-header-ads
 ##.vlog-ad
 ##.vm-ad-horizontal
+##.vmag_medium_ad
 ##.vmp-ad
 ##.vod_ad
 ##.vodl-ad__bigsizebanner
@@ -17485,6 +17485,7 @@ _800x80_
 ##.wp125ad
 ##.wp125ad_2
 ##.wp_bannerize
+##.wp_bannerize_banner_box
 ##.wp_bannerize_container
 ##.wpadvert
 ##.wpd-advertisement
@@ -19851,6 +19852,7 @@ browsershots.org#@#.advert_area
 ||accustomreview.com^
 ||acdbidoxmfu.com^
 ||acdcdn.com^
+||acdcmarimo.com^
 ||acdn01.vidox.net^
 ||acediscover.com^
 ||acedtousles.com^
@@ -21194,6 +21196,7 @@ browsershots.org#@#.advert_area
 ||amysaghurtful.com^
 ||amywhereby.com^
 ||amzargfaht.com^
+||amzbtuolwp.com^
 ||amzosmcuhci.com^
 ||amzpzylzo.com^
 ||anaguahoagies.com^
@@ -23855,6 +23858,7 @@ browsershots.org#@#.advert_area
 ||buyseoblog.com^
 ||buytieposer.com^
 ||buzzardcraizey.com^
+||buzzdancing.com^
 ||buzzvids-direct.com^
 ||bvcsfcx.com^
 ||bvmcdn.com^
@@ -24594,6 +24598,7 @@ browsershots.org#@#.advert_area
 ||chokedstarring.com^
 ||chokeweaknessheat.com^
 ||chokupsupto.com^
+||cholatetapalos.com^
 ||choobinoobi.com^
 ||choogeet.net^
 ||choomsiesurvey.top^
@@ -26113,6 +26118,7 @@ browsershots.org#@#.advert_area
 ||dearlyseedsad.com^
 ||dearlystoop.com^
 ||deatchshipsmotor.com^
+||deathssm.com^
 ||deavynuotbrohw.xyz^
 ||debartoloqbacademy.com^
 ||debatableslippers.com^
@@ -27030,6 +27036,7 @@ browsershots.org#@#.advert_area
 ||drawingsugarnegative.com^
 ||drawingwaved.com^
 ||drawingwheels.com^
+||drawlycusec.com^
 ||drawnperink.com^
 ||drawx.xyz^
 ||draydaisbitch.com^
@@ -28557,6 +28564,7 @@ browsershots.org#@#.advert_area
 ||faithcollarhook.com^
 ||faithfulfacultativeladder.com^
 ||faithfullyprotectionundo.com^
+||faithiqs.com^
 ||faitis.com^
 ||faiverty-station.com^
 ||fakeallow.com^
@@ -30032,6 +30040,7 @@ browsershots.org#@#.advert_area
 ||giufjcfjdv.com^
 ||givemysoft.ru^
 ||givenconserve.com^
+||givesboranes.com^
 ||givide.com^
 ||givill.com^
 ||giving-weird.pro^
@@ -30741,6 +30750,7 @@ browsershots.org#@#.advert_area
 ||habovethecityon.info^
 ||habrasysteleii.xyz^
 ||habusima.uno^
+||hadabqhbewcrt.com^
 ||hadesleta.com^
 ||hadeti.xyz^
 ||hadsans.com^
@@ -32262,6 +32272,7 @@ browsershots.org#@#.advert_area
 ||instantrefused.com^
 ||instantresp.com^
 ||instantshingle.com^
+||instaruptilt.com^
 ||insteadprincipleshearted.com^
 ||instinctcringe.com^
 ||instinctiveads.com^
@@ -34526,6 +34537,7 @@ browsershots.org#@#.advert_area
 ||lreqmoonpjka.com^
 ||lrkenrerjkbly.top^
 ||lrkenrerjkljb.top^
+||lrqknpk.com^
 ||lrqvmaverkabb.top^
 ||lrugxmpxyfb.com^
 ||lrvrayrnqjzjw.top^
@@ -37713,6 +37725,7 @@ browsershots.org#@#.advert_area
 ||oskiwood.com^
 ||oskxpvmnalfb.com^
 ||osmanlikaraite.com^
+||osmatecosh.com^
 ||osmosewatch.top^
 ||osmost.com^
 ||osmoticchalah.com^
@@ -38295,6 +38308,7 @@ browsershots.org#@#.advert_area
 ||paucityirido.space^
 ||pauewr4cw2xs5q.com^
 ||pauhoano.com^
+||paujudih.xyz^
 ||paulinruntime.digital^
 ||paulty.com^
 ||paurozel.net^
@@ -39638,6 +39652,7 @@ browsershots.org#@#.advert_area
 ||prosecutorcommaeligible.com^
 ||prosecutorkettle.com^
 ||proseoverlook.com^
+||prositzapas.com^
 ||prospectconductorcheerfully.com^
 ||prospecttunaante.com^
 ||prosperent.com^
@@ -39733,6 +39748,7 @@ browsershots.org#@#.advert_area
 ||psauwush.net^
 ||psclicks.com^
 ||psdn.xyz^
+||pseeghud.com^
 ||pseekree.com^
 ||pseekseecm.com^
 ||pseemsee.com^
@@ -40205,6 +40221,7 @@ browsershots.org#@#.advert_area
 ||qgnlbjkxrzb.com^
 ||qgoqkcpw.xyz^
 ||qgsgnqhqgjw.com^
+||qgsjtgvjz.com^
 ||qgxbluhsgad.com^
 ||qhnwj.com^
 ||qhskskb.com^
@@ -40280,6 +40297,7 @@ browsershots.org#@#.advert_area
 ||qqkcmafkxossru.com^
 ||qqkzjpupluv.com^
 ||qqlnvwjtjhve.com^
+||qqmhh.com^
 ||qqmvwjvrlyery.top^
 ||qqqqbdma.com^
 ||qqqwes.com^
@@ -40293,6 +40311,7 @@ browsershots.org#@#.advert_area
 ||qrclevrfjw.com^
 ||qreakingoutinteah.xyz^
 ||qrlsx.com^
+||qroagwadndwy.com^
 ||qrprobopassor.com^
 ||qruohmguna.com^
 ||qrzlaatf.xyz^
@@ -44980,6 +44999,7 @@ browsershots.org#@#.advert_area
 ||tmjhdyghjm.com^
 ||tmmkhspf.xyz^
 ||tmnbocewmddu.com^
+||tmnsstf.com^
 ||tmrjaghtledm.com^
 ||tmrjmp.com^
 ||tmyzer.com^
@@ -46393,6 +46413,7 @@ browsershots.org#@#.advert_area
 ||vacant-writer.com^
 ||vacationambulancekin.com^
 ||vacationinvolve.com^
+||vaccinationinvalidphosphate.com^
 ||vaccinationwear.com^
 ||vaccinegrownparliamentary.com^
 ||vacuolewhilter.com^
@@ -46577,6 +46598,7 @@ browsershots.org#@#.advert_area
 ||velvetneutralunnatural.com^
 ||vemflutuartambem.com^
 ||vempozah.net^
+||vemtecko.net^
 ||vemtourt.com^
 ||vendgrusian.com^
 ||vendigamus.com^
@@ -47599,6 +47621,7 @@ browsershots.org#@#.advert_area
 ||whotrundledthe.com^
 ||whoumtip.xyz^
 ||whoungoz.net^
+||whounoag.xyz^
 ||whourgie.com^
 ||whoursie.com^
 ||whoururt.xyz^
@@ -49570,6 +49593,7 @@ browsershots.org#@#.advert_area
 ||clickinc.com^$third-party
 ||clickintext.net^$third-party
 ||clickmon.co.kr^$third-party
+||clickoutcare.io^$third-party
 ||clickpoint.com^$third-party
 ||clicksor.com^$third-party
 ||clicktripz.com^$third-party
@@ -49775,7 +49799,6 @@ browsershots.org#@#.advert_area
 ||infinityads.com^$third-party
 ||influads.com^$third-party
 ||infolinks.com^$third-party
-||inmobi.com^$third-party
 ||innity.com^$third-party
 ||innovid.com^$third-party
 ||insideall.com^$third-party
@@ -55003,6 +55026,7 @@ browsershots.org#@#.advert_area
 ||1080872514.rsc.cdn77.org^
 ||10945-5.s.cdn15.com^
 ||1100058268.rsc.cdn77.org^
+||1102734998.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1267779480.rsc.cdn77.org^
 ||1276665960.rsc.cdn77.org^
@@ -56492,8 +56516,10 @@ browsershots.org#@#.advert_area
 ||cldup.com^$domain=androidadult.com
 ||cmix.org/teasers/
 ||creamgoodies.com/potd/
+||creative.141live.com^
 ||creative.favy.cam^
 ||creative.imagetwistcams.com^$subdocument
+||creative.kbnmnl.com^
 ||creative.myasian.live/widgets/
 ||creative.strip.chat^
 ||creative.stripchat.com^
@@ -57240,6 +57266,7 @@ browsershots.org#@#.advert_area
 ||widenetworks.net^$domain=flysat.com
 ||wikihow.com/x/zscsucgm?
 ||windows.net/banners/$domain=hortidaily.com
+||winxclub.com^*/dfp.js?
 ||wonkychickens.org/data/statics/s2g/$domain=torrentgalaxy.to
 ||worldofmods.com/wompush-init.js
 ||wqah.com/images/banners/
@@ -60250,7 +60277,6 @@ c-span.org##.cspan-ad-still-wrapper
 greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com##.css-11k39sg
 healthline.com##.css-12efcmn
 nytimes.com,nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion##.css-142l3g4
-sbs.com.au##.css-14lcahw-MuiTypography-root
 stylist.co.uk##.css-17xu4dw
 pgatour.com##.css-18v0in8
 medicalnewstoday.com,psychcentral.com##.css-1cg0byz
@@ -60267,6 +60293,7 @@ bet.com##.css-1ofg0gs-Box-Container-StyledVideoPromoContainer
 pgatour.com##.css-1p0f086
 eviemagazine.com##.css-1pm6hh5
 keeb-finder.com##.css-1s33rak
+sbs.com.au##.css-1t9qw43
 infowars.com##.css-1upmbem
 ladbible.com##.css-1v521fz
 infowars.com##.css-1vj1npn
@@ -60278,6 +60305,8 @@ nytimes.com,nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion##.css
 pgatour.com##.css-cl2hq
 eviemagazine.com##.css-ipk9pc
 nytimes.com,nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion##.css-oeful5
+sbs.com.au##.css-p21i0d
+sbs.com.au##.css-p81zvq
 eviemagazine.com##.css-re7z9l
 stylist.co.uk##.css-rybqcx
 healthline.com##.css-umsscj
@@ -60326,7 +60355,6 @@ cutyt.com,onlineocr.net,publish0x.com##.d-xl-block
 artsy.net##.dDusYa
 yourstory.com##.dJEWSq
 fxempire.com##.dKBfBG
-sbs.com.au##.dNXvOT
 cryptorank.io##.dPbBGP
 standard.co.uk##.dXaqls
 counter.dev,lindaikejisblog.com##.da
@@ -62481,6 +62509,7 @@ nytimes.com,nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion##[dat
 coles.com.au##[data-testid="ad"]
 gozofinder.com##[data-testid="advert"]
 coles.com.au##[data-testid="banner-container-desktop"]
+sbs.com.au##[data-testid="hbs-widget-skeleton"]
 forbes.com##[data-testid="locked-top-ad-container"]
 imdb.com##[data-testid="media-sheet__attr-banner"]
 washingtonpost.com##[data-testid="placeholder-box"]
@@ -62644,7 +62673,7 @@ apkcombo.com##[onclick*="_blank"]
 filecrypt.cc,filecrypt.co##[onclick^="var lj"]
 techadvisor.com##[referrerpolicy="unsafe-url"]
 transfermarkt.co.uk##[referrerpolicy]
-appleinsider.com,dappradar.com,euroweeklynews.com,thefinancialbrand.com##[rel*="sponsored"]
+appleinsider.com,dappradar.com,euroweeklynews.com,sitepoint.com,thefinancialbrand.com##[rel*="sponsored"]
 myanimelist.net##[src*="/c/img/images/event/"]
 audioz.download##[src*="/promo/"]
 transfermarkt.com##[src*="https://www.transfermarkt.com/image/"]
@@ -62880,6 +62909,7 @@ builtbybit.com##center[style="margin-top: 20px"]
 weatherbug.com##display-ad-widget
 readonepiece.com##div > b
 coffeeordie.com##div.HtmlModule > [href]
+sbs.com.au##div.css-1wbfa8
 steamgifts.com##div.dont_block_me
 easypet.com##div.kt-inside-inner-col > div.wp-block-kadence-rowlayout
 baking-forums.com,windows10forums.com##div.message--post.message
@@ -63408,7 +63438,6 @@ youtube.com###YtKevlarVisibilityIdentifier
 youtube.com###YtSparklesVisibilityIdentifier
 youtube.com###feed-pyv-container
 youtube.com###merch-shelf
-youtube.com###pla-shelf
 youtube.com###player-ads
 youtube.com###video-masthead
 youtube.com##.ad-showing > .html5-video-container
@@ -63733,6 +63762,7 @@ truthsocial.com#?#div[item="[object Object]"]:-abp-has(path[d="M9.83333 1.83398H
 truthsocial.com#?#div[item="[object Object]"]:-abp-has(path[d="M17 7l-10 10"])
 tumblr.com#?#.ge_yK:-abp-has(.hM19_)
 twitter.com#?#.tweet:-abp-has(.promo)
+twitter.com#?#[data-testid="primaryColumn"] [data-testid="cellInnerDiv"]:-abp-has([data-testid="top-impression-pixel"])
 twitter.com#?#article[data-testid="tweet"]:-abp-has(path[d$="10H8.996V8h7v7z"])
 twitter.com#?#div[data-testid="eventHero"]:-abp-has(path[d$="10H8.996V8h7v7z"])
 twitter.com#?#div[data-testid="trend"]:-abp-has(path[d$="10H8.996V8h7v7z"])
@@ -64921,6 +64951,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||cdn.advertserve.com^$domain=hutchgo.com|hutchgo.com.cn|hutchgo.com.hk|hutchgo.com.sg|hutchgo.com.tw
 @@||cdn.bidder.dev/clients/$script,domain=forces.net
 @@||cdn.ex.co^$domain=theautopian.com
+@@||cdn.wgchrrammzv.com/prod/ajc/loader.min.js$domain=journal-news.com
 @@||chycor.co.uk/cms/advert_search_thumb.php$image,domain=chycor.co.uk
 @@||clients.plex.tv/api/v2/ads/$~third-party
 @@||cloudfront.net/js/common/invoke.js

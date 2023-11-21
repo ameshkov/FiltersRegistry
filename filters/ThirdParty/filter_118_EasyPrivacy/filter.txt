@@ -1,7 +1,7 @@
 !
-! OriginalVersion: 202311201214
+! OriginalVersion: 202311211509
 ! Title: EasyPrivacy
-! Last modified: 20 Nov 2023 12:14 UTC
+! Last modified: 21 Nov 2023 15:09 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 !
@@ -3012,6 +3012,7 @@ _WebVitalsReporter_
 /znsrc.com/c/*$image
 ://2ip.*/member_photo/$third-party
 ://email.*/e/o/
+://email.*/o/$image
 ://parcel-api.delivery-status.*/open/$image
 ://t.order.*/r/?id=$image
 _ad_impression.
@@ -6969,6 +6970,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fumblingform.com^
 ||fumblingselection.com^
 ||functionalcrown.com^
+||functionalfeather.com^
 ||funnyairplane.com^
 ||furryfork.com^
 ||furryhorses.com^
@@ -12690,6 +12692,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ! -----------------Individual tracking systems-----------------!
 ! *** easylist:easyprivacy/easyprivacy_specific.txt ***
 ||123rf.com/apicore-index/traffic_log
+||342251b-beta.perplexity.ai/api/$xmlhttprequest
 ||40svintageporn.com/hit
 ||4hds.com/js/camstats.js
 ||4shared.com/js/d1VisitsCounter.4min.js
@@ -13539,7 +13542,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pcmag.com/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
 ||pendo.scopus.com/data/ptm.gif
 ||perf.mouser.com^
-||perplexity.ai/api/$xmlhttprequest
 ||perr.hola.org^
 ||pf.newegg.com^
 ||ph.thenextweb.com^
@@ -32615,6 +32617,7 @@ arketing.indianadunes.com^
 @@||answers.ros.org/m/default/media/images/$image,~third-party
 @@||api-analytics.magstimconnect.net^$~third-party
 @@||api-js.datadome.co/js/$domain=sso.garena.com
+@@||api-mg2.db-ip.com^$xmlhttprequest,domain=journal-news.com
 @@||api.amplitude.com^$xmlhttprequest,domain=insiderintelligence.com
 @@||api.enthusiastgaming.net^$xmlhttprequest,domain=diep.io
 @@||api.getmakerlog.com/discussions/$~third-party,websocket,xmlhttprequest

@@ -1,8 +1,8 @@
 !
-! Checksum: /VJBIAZ6tCgR9oliu5TxPA
-! OriginalVersion: 202311201250
+! Checksum: ErSRfS8PLfUX9kynA7VkWQ
+! OriginalVersion: 202311211701
 ! Title: EasyList Polish
-! Last modified: 20 Nov 2023 12:50 UTC
+! Last modified: 21 Nov 2023 17:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -247,7 +247,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||alicdn.com^$image,domain=telchina.pl|wlodawa.net
 ||automotivesuppliers.pl^*^djmediatools^*-lewa-
 ||autorak.com.pl^$subdocument,domain=nadwisla24.pl
-||b24tv.pl^*^wolmed_
 ||baby-shower.pl^*^babymama-
 ||bejsment.com^*^300x100xbejsment-
 ||bejsment.com^*^dalekDiamonds300x
@@ -335,7 +334,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||hiszpania-apartamenty.pl^*^samochody.
 ||hsmkorkus.com^*^logo_bento-
 ||ibb.co^$subdocument,domain=lexus-forum.pl
-||ifrancja.fr^*^jobsora.
 ||info.stargard.pl^*^tlo_info.
 ||infobeskidy.eu^*^files/r*.png
 ||instalki.pl^*^banners/Vebo_
@@ -478,7 +476,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||unitedtails.com^*^logo-RC.
 ||vetopedia.pl^*^newbanvetid.
 ||vetopedia.pl^*^vetid.
-||video.onnetwork.tv^$script,domain=abcjanikowo24.pl|bialobrzegi24.net|bielskirynek.pl|czasbrodnicy.pl|ddtorun.pl|dziennikhistoryczny.pl|e-chelmno.pl|e-golub.info.pl|e-krajna.pl|e-lubon.pl|ekstrasierpc.pl|ekutno.pl|esopot.pl|extrawalcz.pl|fakty.nl|gle24.pl|glospowiatusredzkiego.pl|glossokolowa.pl|gorlice24.pl|gostyn24.pl|gst24.pl|gwe24.pl|haloursynow.pl|hej.slupsk.pl|infoskierniewice.pl|isanok.pl|itvszubin.pl|jastrowie24.pl|jura365.pl|kolniak24.eu|koscianiak.pl|kutno.net.pl|legio24.pl|magazynzuzel.pl|modnymagazyn.pl|motomagazyn.com|myglogow.pl|mypolkowice.pl|myszkow365.pl|naszpruszcz.pl|nowysztum.pl|nrypin.pl|pakosc24.pl|pleszew24.info|police24.pl|polski-tenis.pl|prawobrzeze24.pl|pulstygodnia.pl|radzyninfo.pl|rydzyna24.pl|slu24.pl|superchodziez.pl|szemud24.pl|terazlipno.pl|terazstrzelno.pl|tukutno.pl|tusochaczew.pl|tygodnik.pl|tygodnikketrzynski.pl|tyna.info.pl|uniejow.net.pl|wybudujemy.com.pl|zawiercie365.pl|ziemiagorowska.pl|zlomzy.pl|zyciesiedleckie.pl
+||video.onnetwork.tv^$script,domain=abcjanikowo24.pl|bialobrzegi24.net|bielskirynek.pl|czasbrodnicy.pl|ddtorun.pl|dziennikhistoryczny.pl|e-chelmno.pl|e-golub.info.pl|e-krajna.pl|e-lubon.pl|ejarocin.pl|ekstrasierpc.pl|ekutno.pl|esopot.pl|extrawalcz.pl|fakty.nl|faktyct.pl|gle24.pl|glospowiatusredzkiego.pl|glossokolowa.pl|gorlice24.pl|gostyn24.pl|gst24.pl|gwe24.pl|haloursynow.pl|hej.slupsk.pl|infoskierniewice.pl|isanok.pl|iszczecinek.pl|itvszubin.pl|jastrowie24.pl|jura365.pl|kolniak24.eu|koscianiak.pl|kutno.net.pl|legio24.pl|magazynzuzel.pl|miastko24.pl|modnymagazyn.pl|motomagazyn.com|myglogow.pl|mypolkowice.pl|myszkow365.pl|naszpruszcz.pl|nowysztum.pl|nrypin.pl|pakosc24.pl|pleszew24.info|police24.pl|polski-tenis.pl|prawobrzeze24.pl|pulsciechanowa.pl|pulstygodnia.pl|radzyninfo.pl|rydzyna24.pl|rzeczkrotoszynska.pl|slu24.pl|superchodziez.pl|szemud24.pl|terazlipno.pl|terazstrzelno.pl|tukutno.pl|tusochaczew.pl|tygodnik.pl|tygodnikketrzynski.pl|tyna.info.pl|uniejow.net.pl|wybudujemy.com.pl|zawiercie365.pl|ziemiagorowska.pl|zlomzy.pl|zyciesiedleckie.pl
 ||w203.pl/autoczescionline24_
 ||w203.pl/sklep-motoryzacyjny-
 ||wadmargincling.com^$domain=anime-odcinki.pl
@@ -492,7 +490,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||wronieckibazar.pl^*^izometwww.
 ||wszczecinie.pl^*^www/images^
 ||www.filmweb.pl/welcomeScreenJS
-||xlomza.pl^*^gina.
 ||xlomza.pl^*^kukasz08_
 ||xlomza.pl^*^wizytowka_kaledarz.
 ||xtb.com^$script,domain=kantorywalut.pl
@@ -953,7 +950,7 @@ zalukaj.cc##.aaba > a[target="_blank"]
 portalspozywczy.pl##.abc
 40ton.net##.above-text-ads
 mistrzowie.org##.abox-view-content
-avrupadaokuma.eu,bachelor.undergraduatestudy.eu,distancelearningstudy.eu,dlamaturzysty.info,dlaucznia.info,doctoralstudy.eu,dualstudies.eu,edubaza.pl,estudarnaeuropa.eu,estudiareneuropa.eu,etudiereneurope.eu,gramatyka-angielska.info,kierunki-studiow.info,kursy-zawodowe.kwalifikacjezawodowe.info,kursyjezykowe.biz,kursyonline.info,kursysemestralne.pl,master.postgraduatestudy.eu,mba-studies.eu,ochschulen.studiumineuropa.eu,organizacjestudenckie.pl,pracaikariera.pl,rektorzy.pl,studenckamarka.pl,studenckamoda.pl,studentka.pl,studentnews.eu,studentnews.pl,studiadoktoranckie.info,studiainzynierskie.info,studialicencjackie.info,studiamagisterskie.info,studiamba.info,studianiestacjonarne.info,studiaonline.info,studiastacjonarne.info,studiaweuropie.eu,studies-in-english.pl,studies-in-europe.eu,studies-in-poland.pl,studiumveurope.eu,szkolyjezykowe.info,tanulmanyokeuropaban.eu,universita.studiareineuropa.eu,wameryce.info,weuropie.info##.accb
+avrupadaokuma.eu,bachelor.undergraduatestudy.eu,distancelearningstudy.eu,dlamaturzysty.info,dlaucznia.info,doctoralstudy.eu,dualstudies.eu,edubaza.pl,estudarnaeuropa.eu,estudiareneuropa.eu,etudiereneurope.eu,gramatyka-angielska.info,kierunki-studiow.info,kursy-zawodowe.kwalifikacjezawodowe.info,kursyjezykowe.biz,kursyonline.info,kursysemestralne.pl,master.postgraduatestudy.eu,mba-studies.eu,ochschulen.studiumineuropa.eu,organizacjestudenckie.pl,pracaikariera.pl,rektorzy.pl,studenckamarka.pl,studenckamoda.pl,studentka.pl,studentnews.eu,studentnews.pl,studiadoktoranckie.info,studiainzynierskie.info,studialicencjackie.info,studiamagisterskie.info,studiamba.info,studianiestacjonarne.info,studiaonline.info,studiastacjonarne.info,studiaweuropie.eu,studies-in-english.pl,studies-in-europe.eu,studies-in-poland.pl,studiumveurope.eu,szkolyjezykowe.info,tanulmanyokeuropaban.eu,universita.studiareineuropa.eu,wameryce.info,weuropie.info##.acccb
 24opole.pl##.acl_bd
 300polityka.pl,bazarek.net.pl,codziennypoznan.pl,debica.tv,dwadozera.pl,evertiq.pl,gazeo.pl,jarock.pl,lublin112.pl,nurkowapolska.pl,pcworld.pl,pieniny24.pl,polsatnews.pl,polsatsport.pl,radiofm-online.com,samequizy.pl,stomil.olsztyn.pl,teleman.pl,termomodernizacja.pl,wirtualnepniewy.pl##.ad
 ototorun.pl,zyciesokolowa.pl##.ad--bill-top
@@ -1310,7 +1307,7 @@ zkaszub.info##.edd
 ekoscian.eu##.ekosc-tresc
 kb.pl##.element-click
 radioemaus.pl##.elementor-image
-samnaprawiam.com##.elementor-image > A
+samnaprawiam.com,zwa24.pl##.elementor-image > A
 gazetakolobrzeska.pl##.elementor-image a:not([href*="gazetakolobrzeska.pl"], [href="/"])
 ecopoznan.pl##.elementor-shortcode
 radiobiper.info##.elementor-size-small
@@ -1725,6 +1722,7 @@ proshop.pl##.site-left-banner
 filmawka.pl##.site-news__ads
 proshop.pl##.site-right-banner
 wroclawiak.pl##.site-right-re
+rootblog.pl##.size-full.aligncenter
 joemonster.org##.sky-wrapper
 starachowicki.eu##.slick-slide
 pomorzanie.info##.slider-2243
@@ -2341,7 +2339,6 @@ elblag.net##div[class^="baner"]
 portaltenisowy.info##div[class^="banner"]
 motoocena.pl##div[class^="banner-ad-"]
 lajfy.com##div[class^="banner-over-"]
-open.fm##div[class^="bnr-player-"]
 bochniazbliska.pl##div[class^="bochn-"] > .ad-label + *
 codziennikmlawski.pl##div[class^="code-block code-block-"]
 mojanorwegia.pl##div[class^="delayedLoad simpleCover ad_"]
@@ -2352,12 +2349,10 @@ dobra-mama.pl,e-dobrydom.pl,gamesfanatic.pl,kalisz24.info.pl,kolobrzeginfo.pl,ko
 nadwisla24.pl##div[class^="g-dyn a-"] a:not([href^="https://nadwisla24.pl/"])
 anywhere.pl,bobowa24.pl,brzeg24.pl,cypr24.eu,dts24.pl,dzisiajwgliwicach.pl,infogliwice.pl,informatorbrzeski.pl,kalisz24.info.pl,lubin.pl,luzna24.pl,mikrokontroler.pl,nowagazeta.pl,pabianice.tv,plock.fm,portfelpolaka.pl,pozatorun.pl,radio5.com.pl,remiza.com.pl,swiatmotocykli.pl,tradersarea.pl,uavo.com.pl,urodaizdrowie.pl,wlkp24.info,zielonanews.pl##div[class^="g-single a-"]
 slupca.pl##div[class^="g-single a-"] > div[style="margin:auto; text-align: center;"]
-dts24.pl##div[class^="gjhn-col bjhn-1 ajhn-"]
 dts24.pl##div[class^="gjhn-single ajhn-"]
 petronews.pl##div[class^="gloto-single aloto-"]
 temi.pl##div[class^="gtmi-dyn atmi-"]
 b1.pl##div[class^="header_"]
-tulegnica.pl##div[class^="l-box l-box--"] img[height="250"]
 zszywka.pl##div[class^="pin-advert"]
 transfermarkt.pl##div[class^="werbung"]
 se.pl##div[class^="zpr_inside"]
