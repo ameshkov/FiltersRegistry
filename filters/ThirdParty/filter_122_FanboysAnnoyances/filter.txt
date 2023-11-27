@@ -1,8 +1,8 @@
 !
-! Checksum: AsS0S6LhUclTlLSiCKecZQ
-! OriginalVersion: 202311262020
+! Checksum: U4IwSOI+iW88ovc96unE7A
+! OriginalVersion: 202311270040
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-11-26 20:20 UTC
+! Last modified: 2023-11-27 00:40 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -35227,6 +35227,7 @@ dashboard.razorpay.com#@##credential_picker_container
 ||appspot.com/newsletter/dhtml?
 ||blink.net/json/$xmlhttprequest
 ||buy-au.piano.io/checkout/template/cacheableShow?*&experienceId=*&widget=template
+||cdn.shopify.com/proxy/*.smsbump.com/
 ||confirmsubscription.com^$third-party
 ||d2cmvbq7sxx33j.cloudfront.net/email/prod_amnews_iframe_section_braze.html
 ||data.reachplc.com^
@@ -35250,6 +35251,7 @@ dashboard.razorpay.com#@##credential_picker_container
 ||sendlane.com^$third-party
 ||sparkloop.app^$script,third-party
 ||spinasale.com^$third-party
+||subscription-forms.smsbump.com^
 ||targetbay.com^$third-party
 ||wheelioapp.azureedge.net^
 ||yourmarketingemail.com^$third-party

@@ -35536,6 +35536,18 @@ duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##[
 ||crackzoom.com^$all,~inline-font
 ! Error: "Unknown modifier: ~inline-font" in the rule: "||activators4windows.com^$all,~inline-font"
 ||activators4windows.com^$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||cfgy6tg.pro^$all,~inline-font"
+||cfgy6tg.pro^$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||hji98ik.click^$all,~inline-font"
+||hji98ik.click^$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||ko04rf8.cfd^$all,~inline-font"
+||ko04rf8.cfd^$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||i3edtgyu.cfd^$all,~inline-font"
+||i3edtgyu.cfd^$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||pqlbh88z7.cfd^$all,~inline-font"
+||pqlbh88z7.cfd^$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||i3s5qfuvs.cfd^$all,~inline-font"
+||i3s5qfuvs.cfd^$all,~inline-font
 ! Error: "Unknown modifier: ~inline-font" in the rule: "||downloadprovider.me^$all,~inline-font"
 ||downloadprovider.me^$all,~inline-font
 ! Error: "Unknown modifier: ~inline-font" in the rule: "||cash93.com^$all,~inline-font"
@@ -46216,6 +46228,12 @@ tumblr.com#?#:is(.post,div[data-cell-id][style],div[tabindex]:is([style^=m],[dat
 ||213.227.149.211^$all,~inline-font
 ! Error: "Unknown modifier: ~inline-font" in the rule: "||amazonaws.com^$all,~inline-font,badfilter"
 ||amazonaws.com^$all,~inline-font,badfilter
+! Error: Invalid selector: '.g:has(a[href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"))' -- Unbalanced brackets for extended pseudo-class: 'not' in rule:
+www.google.*##.g:has(a[href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"))
+! Error: Invalid selector: '*:has(> * > a[oncontextmenu][href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"))' -- Unbalanced brackets for extended pseudo-class: 'not' in rule:
+www.google.*#?#*:has(> * > a[oncontextmenu][href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"))
+! Error: Invalid selector: '[data-nrn="result"]:has(a[href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"))' -- Unbalanced brackets for extended pseudo-class: 'not' in rule:
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##[data-nrn="result"]:has(a[href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"))
 ! Error: Invalid selector: ':is(.post,div[data-cell-id][style]:not([data-cell-id*=carousel]),div[tabindex]:is([style^=m],[data-id]:not([class*=" "]),:not([style],[class]))):has-text( click & chat me ):has-text(🔞)' -- Error: unable to select by '*:is(.post, div[data-cell-id][style]:not([data-cell-id*=carousel]), div[tabindex]:is([style^=m], [data-id]:not([class*=" "]), *:not([style], [class])))' — '*:is(.post, div[data-cell-id][style]:not([data-cell-id*=carousel]), div[tabindex]:is([style^=m], [data-id]:not([class*=" "]), *:not([style], [class])))' is not a valid selector in rule:
 tumblr.com#?#:is(.post,div[data-cell-id][style]:not([data-cell-id*=carousel]),div[tabindex]:is([style^=m],[data-id]:not([class*=" "]),:not([style],[class]))):has-text( click & chat me ):has-text(🔞)
 ! Error: Invalid selector: ':is(.post,div[data-cell-id][style],div[tabindex]:is([style^=m],[data-id]:not([class*=" "]),:not([style],[class]))):has(a[rel=author]:has-text(/^[a-z]{2,6}-[a-z]{2,6}[0-9]{2}$/i)):has-text(/18|sex/i)' -- Error: unable to select by '*:is(.post, div[data-cell-id][style], div[tabindex]:is([style^=m], [data-id]:not([class*=" "]), *:not([style], [class])))' — '*:is(.post, div[data-cell-id][style], div[tabindex]:is([style^=m], [data-id]:not([class*=" "]), *:not([style], [class])))' is not a valid selector in rule:
