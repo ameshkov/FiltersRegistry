@@ -4485,6 +4485,10 @@ sanalkurs.net###toast-container > .toast-error[aria-live="assertive"]
 !
 ! SECTION: Popups - Regular rules
 !
+thatgamecompany.com#%#//scriptlet('set-local-storage-item', 'tsg_announcement_seen', 'true')
+khoacuahomekit.com#$##pum-6641 { display: none !important; }
+khoacuahomekit.com#$#body[class] { overflow: auto !important; }
+khoacuahomekit.com#$#html[class] { overflow: auto !important; }
 itnext.io##.m.acl.acm
 akket.com###anycomment-root .MuiSnackbarContent-root
 chromewebstore.google.com##div[aria-labelledby="promo-header"]
