@@ -82,8 +82,8 @@ msnbc.com,today.com,nbcnews.com##+js(rc, styles_stuck__gtILi, , stay)
 thehill.com##+js(rc, desktop-floating-player, , stay)
 ! Rule "independent.co.uk##+js(rc, sticky, , stay)" converted to: "independent.co.uk#%#//scriptlet('ubo-rc.js', 'sticky', '', 'stay')"
 independent.co.uk##+js(rc, sticky, , stay)
-! Rule "independent.co.uk##+js(rc, jw-flag-floating, , stay)" converted to: "independent.co.uk#%#//scriptlet('ubo-rc.js', 'jw-flag-floating', '', 'stay')"
-independent.co.uk##+js(rc, jw-flag-floating, , stay)
+! Rule "independent.co.uk,allrecipes.com##+js(rc, jw-flag-floating, , stay)" converted to: "independent.co.uk,allrecipes.com#%#//scriptlet('ubo-rc.js', 'jw-flag-floating', '', 'stay')"
+independent.co.uk,allrecipes.com##+js(rc, jw-flag-floating, , stay)
 ! Rule "nbc4i.com,ktla.com,ktsm.com,kark.com,myarklamiss.com,nwahomepage.com,mytwintiers.com,news10.com,wavy.com##+js(rc, desktop-floating-player, , stay)" converted to: "nbc4i.com,ktla.com,ktsm.com,kark.com,myarklamiss.com,nwahomepage.com,mytwintiers.com,news10.com,wavy.com#%#//scriptlet('ubo-rc.js', 'desktop-floating-player', '', 'stay')"
 nbc4i.com,ktla.com,ktsm.com,kark.com,myarklamiss.com,nwahomepage.com,mytwintiers.com,news10.com,wavy.com##+js(rc, desktop-floating-player, , stay)
 ! Rule "telemundopr.com,nbcchicago.com,nbcdfw.com,nbcboston.com,nbcconnecticut.com,nbcphiladelphia.com,nbcsandiego.com,nbclosangeles.com,nbcnewyork.com,nbcbayarea.com##+js(rc,  video-flyout--fixed, , stay)" converted to: "telemundopr.com,nbcchicago.com,nbcdfw.com,nbcboston.com,nbcconnecticut.com,nbcphiladelphia.com,nbcsandiego.com,nbclosangeles.com,nbcnewyork.com,nbcbayarea.com#%#//scriptlet('ubo-rc.js', 'video-flyout--fixed', '', 'stay')"
@@ -3244,8 +3244,8 @@ msnbc.com,today.com,nbcnews.com##+js(rc, styles_stuck__gtILi, , stay)
 thehill.com##+js(rc, desktop-floating-player, , stay)
 ! Rule "independent.co.uk##+js(rc, sticky, , stay)" converted to: "independent.co.uk#%#//scriptlet('ubo-rc.js', 'sticky', '', 'stay')"
 independent.co.uk##+js(rc, sticky, , stay)
-! Rule "independent.co.uk##+js(rc, jw-flag-floating, , stay)" converted to: "independent.co.uk#%#//scriptlet('ubo-rc.js', 'jw-flag-floating', '', 'stay')"
-independent.co.uk##+js(rc, jw-flag-floating, , stay)
+! Rule "independent.co.uk,allrecipes.com##+js(rc, jw-flag-floating, , stay)" converted to: "independent.co.uk,allrecipes.com#%#//scriptlet('ubo-rc.js', 'jw-flag-floating', '', 'stay')"
+independent.co.uk,allrecipes.com##+js(rc, jw-flag-floating, , stay)
 ! Rule "nbc4i.com,ktla.com,ktsm.com,kark.com,myarklamiss.com,nwahomepage.com,mytwintiers.com,news10.com,wavy.com##+js(rc, desktop-floating-player, , stay)" converted to: "nbc4i.com,ktla.com,ktsm.com,kark.com,myarklamiss.com,nwahomepage.com,mytwintiers.com,news10.com,wavy.com#%#//scriptlet('ubo-rc.js', 'desktop-floating-player', '', 'stay')"
 nbc4i.com,ktla.com,ktsm.com,kark.com,myarklamiss.com,nwahomepage.com,mytwintiers.com,news10.com,wavy.com##+js(rc, desktop-floating-player, , stay)
 ! Rule "telemundopr.com,nbcchicago.com,nbcdfw.com,nbcboston.com,nbcconnecticut.com,nbcphiladelphia.com,nbcsandiego.com,nbclosangeles.com,nbcnewyork.com,nbcbayarea.com##+js(rc,  video-flyout--fixed, , stay)" converted to: "telemundopr.com,nbcchicago.com,nbcdfw.com,nbcboston.com,nbcconnecticut.com,nbcphiladelphia.com,nbcsandiego.com,nbclosangeles.com,nbcnewyork.com,nbcbayarea.com#%#//scriptlet('ubo-rc.js', 'video-flyout--fixed', '', 'stay')"
@@ -6378,8 +6378,8 @@ msnbc.com,today.com,nbcnews.com#%#//scriptlet('ubo-rc.js', 'styles_stuck__gtILi'
 thehill.com#%#//scriptlet('ubo-rc.js', 'desktop-floating-player', '', 'stay')
 ! independent.co.uk#%#//scriptlet('ubo-rc.js', 'sticky', '', 'stay') is excluded by "#%#//scriptlet" in exclusions-low.txt
 independent.co.uk#%#//scriptlet('ubo-rc.js', 'sticky', '', 'stay')
-! independent.co.uk#%#//scriptlet('ubo-rc.js', 'jw-flag-floating', '', 'stay') is excluded by "#%#//scriptlet" in exclusions-low.txt
-independent.co.uk#%#//scriptlet('ubo-rc.js', 'jw-flag-floating', '', 'stay')
+! independent.co.uk,allrecipes.com#%#//scriptlet('ubo-rc.js', 'jw-flag-floating', '', 'stay') is excluded by "#%#//scriptlet" in exclusions-low.txt
+independent.co.uk,allrecipes.com#%#//scriptlet('ubo-rc.js', 'jw-flag-floating', '', 'stay')
 ! nbc4i.com,ktla.com,ktsm.com,kark.com,myarklamiss.com,nwahomepage.com,mytwintiers.com,news10.com,wavy.com#%#//scriptlet('ubo-rc.js', 'desktop-floating-player', '', 'stay') is excluded by "#%#//scriptlet" in exclusions-low.txt
 nbc4i.com,ktla.com,ktsm.com,kark.com,myarklamiss.com,nwahomepage.com,mytwintiers.com,news10.com,wavy.com#%#//scriptlet('ubo-rc.js', 'desktop-floating-player', '', 'stay')
 ! telemundopr.com,nbcchicago.com,nbcdfw.com,nbcboston.com,nbcconnecticut.com,nbcphiladelphia.com,nbcsandiego.com,nbclosangeles.com,nbcnewyork.com,nbcbayarea.com#%#//scriptlet('ubo-rc.js', 'video-flyout--fixed', '', 'stay') is excluded by "#%#//scriptlet" in exclusions-low.txt
@@ -9526,8 +9526,8 @@ msnbc.com,today.com,nbcnews.com#%#//scriptlet('ubo-rc.js', 'styles_stuck__gtILi'
 thehill.com#%#//scriptlet('ubo-rc.js', 'desktop-floating-player', '', 'stay')
 ! independent.co.uk#%#//scriptlet('ubo-rc.js', 'sticky', '', 'stay') is excluded by "#%#//scriptlet" in exclusions-low.txt
 independent.co.uk#%#//scriptlet('ubo-rc.js', 'sticky', '', 'stay')
-! independent.co.uk#%#//scriptlet('ubo-rc.js', 'jw-flag-floating', '', 'stay') is excluded by "#%#//scriptlet" in exclusions-low.txt
-independent.co.uk#%#//scriptlet('ubo-rc.js', 'jw-flag-floating', '', 'stay')
+! independent.co.uk,allrecipes.com#%#//scriptlet('ubo-rc.js', 'jw-flag-floating', '', 'stay') is excluded by "#%#//scriptlet" in exclusions-low.txt
+independent.co.uk,allrecipes.com#%#//scriptlet('ubo-rc.js', 'jw-flag-floating', '', 'stay')
 ! nbc4i.com,ktla.com,ktsm.com,kark.com,myarklamiss.com,nwahomepage.com,mytwintiers.com,news10.com,wavy.com#%#//scriptlet('ubo-rc.js', 'desktop-floating-player', '', 'stay') is excluded by "#%#//scriptlet" in exclusions-low.txt
 nbc4i.com,ktla.com,ktsm.com,kark.com,myarklamiss.com,nwahomepage.com,mytwintiers.com,news10.com,wavy.com#%#//scriptlet('ubo-rc.js', 'desktop-floating-player', '', 'stay')
 ! telemundopr.com,nbcchicago.com,nbcdfw.com,nbcboston.com,nbcconnecticut.com,nbcphiladelphia.com,nbcsandiego.com,nbclosangeles.com,nbcnewyork.com,nbcbayarea.com#%#//scriptlet('ubo-rc.js', 'video-flyout--fixed', '', 'stay') is excluded by "#%#//scriptlet" in exclusions-low.txt
