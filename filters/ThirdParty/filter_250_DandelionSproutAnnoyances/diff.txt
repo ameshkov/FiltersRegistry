@@ -15730,6 +15730,8 @@ duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##[
 ||zaolutd.icu^$all,~inline-font
 ! Error: "Unknown modifier: ~inline-font" in the rule: "||zigaahm.icu^$all,~inline-font"
 ||zigaahm.icu^$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||kckb.st^$all,~inline-font"
+||kckb.st^$all,~inline-font
 ! Error: "Unknown modifier: ~inline-font" in the rule: "||*-trk.xyz^$all,~inline-font"
 ||*-trk.xyz^$all,~inline-font
 ! Error: "Unknown modifier: ~inline-font" in the rule: "||loadingnow.me^$all,~inline-font"

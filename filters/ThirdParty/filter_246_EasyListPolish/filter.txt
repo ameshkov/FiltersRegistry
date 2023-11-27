@@ -1,8 +1,8 @@
 !
-! Checksum: rdZ9Td4tGixRdH0Akr5gkg
-! OriginalVersion: 202311270450
+! Checksum: jqWk7U88fMC2L95RqsW6Mw
+! OriginalVersion: 202311270851
 ! Title: EasyList Polish
-! Last modified: 27 Nov 2023 04:50 UTC
+! Last modified: 27 Nov 2023 08:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -750,7 +750,6 @@ mapa.szukacz.pl,szukacz.pl###popupContainer
 zmianywzyciu.pl###popup_facebook
 polskaizbabranzypogrzebowej.pl###post-2637
 nudziara.pl###post.format_post.nudziara.masonry-brick
-baxu.pl###postTopAdMobile
 mazopolska.pl###posts-banner
 babiel.com.pl###prawa
 legitymizm.org###prawa_kolumna .ramka:last-child
