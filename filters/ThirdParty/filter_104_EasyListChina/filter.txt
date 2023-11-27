@@ -2327,6 +2327,9 @@ newduba.cn###jq_youxi
 ||xydslz.xyz^
 ||dwadwere.xyz^
 ||merywf.xyz^
+||ahgfdhp.xyz^
+||danun.cn^
+||poiwer.com^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
@@ -11304,6 +11307,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+anjian.com##.ImgTop
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -18799,6 +18803,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=bhshu.net|louzho
 bamxs.com##body > a
 bookrb.com##a[href="/rmtj.html"]
 bxwx888.org###addiv3
+||139xiaoshuo.com/css/js/tools.
 bxwx888.org###bdstatic
 duanwenxue.com##.qgzdwx
 ishuquge.com##div[style="margin:10px auto;width: 930px;height: 250px;"]
