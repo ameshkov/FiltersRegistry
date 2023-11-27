@@ -2175,7 +2175,7 @@ oneforall.com,rotel.com,rik.ee,mannheim-gemeinsam-gestalten.de,migros.fr,finanzv
 ! ###gdpr
 digionline.ro,datatech.icu,occto.or.jp,rode.com,blockaway.net,nact.jp,gagaoolala.com,glasschain.org,tidesmarine.com,rentafont.com.ua,croxyproxy.net,croxyproxy.com,knoema.com,srilankan.com,werbemittel24.com,livemint.com,hindustantimes.com,bloomreach.com,esenbogaairport.com,fizzicseducation.com.au,branah.com,shellshock.io,fonts2u.com,otzyvua.net,velonews.com,wikihow.tech,bagdatbaharat.com.tr,escortbook.com,looper.com,fromdoctopdf.com,learnersdictionary.com,spanishdict.com,merriam-webster.com,digi24.ro,antena3.ro,wikihow.com.tr,wikihow.cz,wikihow.it,wikihow.jp,wikihow.vn,wikihow.com,mobil.se,periscope-solutions.com###gdpr
 ! ##.gdpr
-plati.io,carsales.com.au,jff.jpf.go.jp,digiseller.com,hostzealot.com,club.autodoc.de,bezchemiinadrodze.pl,m.meendox.net,digiseller.market,plati.market,thefreedictionary.com,userway.org,royalenfield.com,oplata.info,gamehouse.com,phonemore.com,plati.ru,sputniknewslv.com,sputniknews.*,kosmogadka.pl,zwsoft.com,guneygundemi.com,spacex.com.pl,balen.com.tr,navi.gg,jus.com.br,paracevirici.com,inkstonenews.com,hibboux.com,glossika.com,bleachmx.fr,fuser.com,nytimes.com,bagdatbaharat.com.tr,foreignaffairs.com,tagmp3.net,arkadszeged.hu,basemark.com,eonline.com,gogoro.com,sydsvenskan.se,theatlas.com##.gdpr
+auo.com,plati.io,carsales.com.au,jff.jpf.go.jp,digiseller.com,hostzealot.com,club.autodoc.de,bezchemiinadrodze.pl,m.meendox.net,digiseller.market,plati.market,thefreedictionary.com,userway.org,royalenfield.com,oplata.info,gamehouse.com,phonemore.com,plati.ru,sputniknewslv.com,sputniknews.*,kosmogadka.pl,zwsoft.com,guneygundemi.com,spacex.com.pl,balen.com.tr,navi.gg,jus.com.br,paracevirici.com,inkstonenews.com,hibboux.com,glossika.com,bleachmx.fr,fuser.com,nytimes.com,bagdatbaharat.com.tr,foreignaffairs.com,tagmp3.net,arkadszeged.hu,basemark.com,eonline.com,gogoro.com,sydsvenskan.se,theatlas.com##.gdpr
 ! ##.gdpr-banner
 financer.com,snigel.com,clcv.org,aan.com,yuzbasiogluoto.com.tr,copaair.com,iata.org,foodallergy.org,livecareer.com,yengec.co,myconsult.de,maxilia.de,cebupacificair.com,raccontierotici.eu,tutonaut.de,porngameshub.com,anaconda.com,nutritionix.com,kaspersky.com,smugmug.com,feedingamerica.org,carthrottle.com,intercom.com,mmajunkie.com,thebiglead.com,visitnapavalley.com,wordpress.com##.gdpr-banner
 ! ##.ppr_priv_document_cookie_banner
@@ -2315,6 +2315,7 @@ cmp.chip.de,cmpv2.netdoktor.ch,cmp.videogameschronicle.com,cmp.svd.se,cmpsp.game
 !
 ! NOTE: Regular rules
 !
+auo.com##.gdpr-mask
 wink.ru#?#header ~ footer + div[class]:has(> div[data-test="cookie"])
 hard-pc.pl###kqs-box-tlo
 hard-pc.pl###kqs-tlo
@@ -2435,7 +2436,7 @@ konkurent.ua##.popupCookie
 zurich.co.uk###static-cookie-policy-message
 jornalopcao.com.br##.template-part-component-termos
 news.pts.org.tw##.cookie-flex
-shop.camping.info,reinland-seifen.de###shopify-pc__banner
+solokeys.com,shop.camping.info,reinland-seifen.de###shopify-pc__banner
 sargs.lv###manage-cookies
 ||ammannit.com/cookie/
 hh.ru##div[data-qa="cookies-policy-informer"]
@@ -13275,7 +13276,7 @@ l-bank.de#$#body { overflow: visible !important; padding-right: 0 !important; }
 !+ NOT_OPTIMIZED
 meisterdrucke.de,ischgl.com,inwerk-bueromoebel.de,rcodezero.at,nic.at,issgesund.de,datareporter.eu###dr_blocking_div
 !+ NOT_OPTIMIZED
-bike1980.de,goldshop-ulm.de,scandmarkt.com,hannibelle.de,holzfee.com,modehasen.de,livolo-deutschland.de,e-material.de,seamless-fashion.de,hollandstyle.de,natura-samen.de,landkarten-und-grafiken.de,liebesache.de,prestigeshopgbr.com,countryphone.de,italianfoodlovers.de,sm-pc.de,camping-freizeitbedarf.de,breparat.de,superstreusel.de##.lightbox-backdrop
+nablussoaps.de,bike1980.de,goldshop-ulm.de,scandmarkt.com,hannibelle.de,holzfee.com,modehasen.de,livolo-deutschland.de,e-material.de,seamless-fashion.de,hollandstyle.de,natura-samen.de,landkarten-und-grafiken.de,liebesache.de,prestigeshopgbr.com,countryphone.de,italianfoodlovers.de,sm-pc.de,camping-freizeitbedarf.de,breparat.de,superstreusel.de##.lightbox-backdrop
 !+ NOT_OPTIMIZED
 gusarov-group.by,m.economictimes.com##.privacy_block
 !+ NOT_OPTIMIZED
