@@ -2315,6 +2315,8 @@ cmp.chip.de,cmpv2.netdoktor.ch,cmp.videogameschronicle.com,cmp.svd.se,cmpsp.game
 !
 ! NOTE: Regular rules
 !
+gra.parkiet.com##.gpw-cookie-popup
+itnext.io#%#//scriptlet('set-local-storage-item', '201805-policy|accepted', '1')
 telegraaf.nl#%#//scriptlet('trusted-click-element', '#didomi-notice-agree-button')
 akket.com###anycomment-root .MuiSnackbarContent-root
 casetify.com#%#//scriptlet('trusted-set-cookie', 'accept_cookies', 'essential,function')
@@ -5711,7 +5713,7 @@ monkeytype.com###cookiePopupWrapper
 enesco.co.uk#$##cookie-modal { display: none!important; }
 enesco.co.uk#$#.modal-backdrop { display: none!important; }
 enesco.co.uk#$#body { overflow: auto!important; padding-right: 0!important;}
-khaskhabarrajkot.com,inpoland.net.pl,medias.hr,sempreupdate.com.br,teksnologi.com,brisbanedevelopment.com,privatemoviez.pics,faindx.com,vinstartheme.com,10alert.com,privatemoviez.buzz,przewodnik.tv,mebhocam.com,uniforumtz.com,privatemoviez.fun,rawneix.in###rb-privacy
+wfqo.com,khaskhabarrajkot.com,inpoland.net.pl,medias.hr,sempreupdate.com.br,teksnologi.com,brisbanedevelopment.com,privatemoviez.pics,faindx.com,vinstartheme.com,10alert.com,privatemoviez.buzz,przewodnik.tv,mebhocam.com,uniforumtz.com,privatemoviez.fun,rawneix.in###rb-privacy
 pluralsight.com##.cookie-notification-wrapper
 boehringer-ingelheim.de###it-eprivacy-root
 /eprivacy-templates/production/it-eprivacy.js$domain=boehringer-ingelheim.de
@@ -20157,6 +20159,7 @@ scitechdaily.com,thewindowsclub.com#@#.ad-space
 ! Do not forget about '!#safari_cb_affinity' section for exclusions:
 ! LINK: AnnoyancesFilter/Popups/sections/antiadblock.txt#general
 !
+forx.mazen-ve3.com#%#//scriptlet('prevent-addEventListener', 'load', 'theModal')
 xanimu.com,familyporner.com,darknessporn.com,freepublicporn.com,pisshamster.com,punishworld.com#%#//scriptlet('remove-node-text', 'script', 'advert')
 crackwatcher.com#%#//scriptlet('set-constant', 'google_ad_modifications', 'emptyObj')
 automoto.it,moto.it#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
@@ -23008,6 +23011,7 @@ sanalkurs.net###toast-container > .toast-error[aria-live="assertive"]
 !
 ! SECTION: Popups - Regular rules
 !
+itnext.io##.m.acl.acm
 akket.com###anycomment-root .MuiSnackbarContent-root
 chromewebstore.google.com##div[aria-labelledby="promo-header"]
 businessweekly.com.tw##.red_envelope_wrap
