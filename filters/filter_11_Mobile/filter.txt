@@ -1263,6 +1263,8 @@ turbopages.org##.page__result > div[class*="type_native"]
 !-------JS----------
 !-------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/167252
+forum.donanimhaber.com#%#//scriptlet('set-session-storage-item', 'pageCount', '$remove$')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/165172
 nbc4i.com#%#//scriptlet('prevent-setTimeout', 'firstLoad', '300')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/161396
@@ -2603,6 +2605,8 @@ gamesworld.de,fnn.jp##.Ad
 !
 ! SECTION: Regular rules
 !
+forum.donanimhaber.com##div[style^="width: 100%;"][style*="height: auto;"]
+forum.donanimhaber.com###primeContainerMobil
 reviewjournal.com##amp-video-iframe[src^="https://amp.stnvideo.com/"]
 news12.com##.ad-mobile-wrapper
 news3lv.com#?##sdAmpArticle div[style*="margin: 26px 0;"]:has(> div[style*="position: relative;"] > amp-ad)
