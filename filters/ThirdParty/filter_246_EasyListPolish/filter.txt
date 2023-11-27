@@ -1,8 +1,8 @@
 !
-! Checksum: edTUJ0QUL6Df6ixz1vYthw
-! OriginalVersion: 202311271251
+! Checksum: h3/tUF/nM/3G2sFd6bwKKw
+! OriginalVersion: 202311271651
 ! Title: EasyList Polish
-! Last modified: 27 Nov 2023 12:51 UTC
+! Last modified: 27 Nov 2023 16:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -771,7 +771,6 @@ polemi.co.uk###reklama7
 elka.pl###reklamaGooglePrawa336Last
 forumbranzowe.com###reklama_2
 gada.pl###reklama_gazetowa
-anime-odcinki.pl###reklama_lewa
 anime-odcinki.pl###reklama_prawa
 stoczniowcy.pl###reklama_top
 dostawczakiem.pl###reklamowkaTop
@@ -817,6 +816,7 @@ plastikowe.pl###sponsors
 radioq.fm###sppb-carousel1
 nauka.rocks###sticky-anchor
 bukowskilider.pl###sticky-posts-3
+zwierciadlo.pl###superTopWrapper
 uwodzenie.org###szabelski_startowa
 wirtualnelegionowo.pl,wirtualnynowydwor.pl###szeroka-reklama
 portalspozywczy.pl###target-4
@@ -993,6 +993,7 @@ zeglarski.info##.ads-block-right
 lubimyczytac.pl##.ads-body
 kierunekchemia.pl,kierunekenergetyka.pl##.ads-box-inverted
 esanok.pl,ustrzyki24.pl##.ads-s
+ifrancja.fr##.ads-single-container
 rankinglekarzy.pl##.ads-slot
 kamienskie.info##.ads-subpage
 nowezyciepabianic.pl##.ads480
@@ -1911,6 +1912,7 @@ kuriersuwalski.pl,panoramakutna.pl,thinkapple.pl##[class="g g-1"]
 lokalna24.pl,tvsudecka.pl,tygodnik-krapkowicki.pl##[class="text-center my-3 container"]
 prostozopolskiego.pl,tygodnikkrag.pl##[class^="a-single a-"]
 legionisci.com##[class^="adslot_news-banner"]
+ibemowo.pl,ibielany.pl,iochota.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl##[class^="adv__"]
 ekoszalin.pl##[class^="advert"]
 radiozw.com.pl##[class^="angwp_"]
 interia.pl##[class^="article-body__ad-"]
@@ -2510,15 +2512,6 @@ bolec.info##small + a
 wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
-ifrancja.fr##.ads-single-container
-iwawer.pl##[class^="adv__"]
-ibielany.pl##[class^="adv__"]
-ibemowo.pl##[class^="adv__"]
-iursus.pl##[class^="adv__"]
-iochota.pl##[class^="adv__"]
-iursynow.pl##[class^="adv__"]
-iwilanow.pl##[class^="adv__"]
-iwesola.pl##[class^="adv__"]
 ! *** easylistpolish:easylistpolish_adult/adult_specific_hide.txt ***
 sexrura.pl###bottom-right-container
 filmyporno.net###dvr-3x2
