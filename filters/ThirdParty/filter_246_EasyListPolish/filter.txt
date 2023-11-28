@@ -1,8 +1,8 @@
 !
-! Checksum: 9izYygvKW93GypB4p7TZmw
-! OriginalVersion: 202311280451
+! Checksum: yUBem+eUyr8GqAYBCXdL+g
+! OriginalVersion: 202311280851
 ! Title: EasyList Polish
-! Last modified: 28 Nov 2023 04:51 UTC
+! Last modified: 28 Nov 2023 08:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -771,7 +771,6 @@ polemi.co.uk###reklama7
 elka.pl###reklamaGooglePrawa336Last
 forumbranzowe.com###reklama_2
 gada.pl###reklama_gazetowa
-anime-odcinki.pl###reklama_prawa
 stoczniowcy.pl###reklama_top
 dostawczakiem.pl###reklamowkaTop
 terazprudnik.pl###rev-slider-widget-3
@@ -839,7 +838,6 @@ ostrowiecnews.pl###text-2 p
 tarnobrzeskie.eu###text-20
 gazetaklobucka.pl,tarnow.in###text-21
 24pr.pl,medycznamarihuana.com,tarnobrzeskie.eu,tu.swinoujscie.pl###text-22
-wiesci.com.pl###text-23
 czestochowskie24.pl,dopilar.pl,fiat.fm,historykon.pl,mxwojcik.pl,oswiecim112.pl,przekultura.pl,tarnow.in,terazgrodkow24.pl###text-3
 lowking.pl###text-32
 stacja-tluszcz.pl###text-35
@@ -2512,6 +2510,16 @@ bolec.info##small + a
 wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
+ibialoleka.pl##[class^="adv__"]
+itargowek.pl##[class^="adv__"]
+irembertow.pl##[class^="adv__"]
+izoliborz.pl##[class^="adv__"]
+ipragapolnoc.pl##[class^="adv__"]
+itargowek.pl##[class^="adv__"]
+iwola.pl##[class^="adv__"]
+isrodmiescie.pl##[class^="adv__"]
+ipragapoludnie.pl##[class^="adv__"]
+imokotow.pl##[class^="adv__"]
 ! *** easylistpolish:easylistpolish_adult/adult_specific_hide.txt ***
 sexrura.pl###bottom-right-container
 filmyporno.net###dvr-3x2

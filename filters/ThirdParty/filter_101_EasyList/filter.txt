@@ -1,8 +1,8 @@
 !
-! Checksum: lRFr8L+sGXJvGkyLq4iXjg
-! OriginalVersion: 202311280451
+! Checksum: 2mry8FWtbgiVVcA2yqBjsw
+! OriginalVersion: 202311280851
 ! Title: EasyList
-! Last modified: 28 Nov 2023 04:51 UTC
+! Last modified: 28 Nov 2023 08:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -61115,6 +61115,7 @@ cannabishealthnews.co.uk##.mvp-side-widget img
 marijuanamoment.net##.mvp-widget-ad
 malwaretips.com##.mwt_ads
 invezz.com,reviewparking.com##.mx-auto
+theawesomer.com##.mxyptext
 standardmedia.co.ke##.my-2
 cnet.com,healthline.com##.myFinance-ad-unit
 greatist.com,psychcentral.com##.myFinance-widget
