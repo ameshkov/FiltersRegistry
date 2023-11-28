@@ -1,8 +1,8 @@
 !
-! Checksum: 7m1RqTLwaFCjGIBo4NcGJg
-! OriginalVersion: 202311281645
+! Checksum: NfGGsZ9l7ne2BKkfTvuFiQ
+! OriginalVersion: 202311282040
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-11-28 16:45 UTC
+! Last modified: 2023-11-28 20:40 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1061,6 +1061,7 @@ _twitter_follow.
 /adk-iubenda.js
 /adsconsent.min.js
 /adscookies.js
+/ajax/cookie-policy/*
 /ajax/gdpr-desc
 /alertcookie.js
 /alertcookies.js
