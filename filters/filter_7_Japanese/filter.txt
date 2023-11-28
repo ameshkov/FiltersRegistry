@@ -920,7 +920,6 @@ video.tv-tokyo.co.jp#@#.ad-placeholder
 @@||gagetmatome.com^$generichide
 ! https://github.com/AdguardTeam/AdguardFilters/issues/7918
 avgle.com#@#img[src*=".php"]
-avgle.com#@#iframe[width="300"][height="250"]
 avgle.com#@#iframe[width="728"][height="90"]
 !+ PLATFORM(ios, android, ext_android_cb)
 @@||static.avgle.com/media/av^
@@ -10402,8 +10401,6 @@ hoken-all.co.jp#@#.bottom_ad
 gameranbu.jp#@#.side_ad
 ! minpo.jp self-promo
 minpo.jp#@#.ads300
-! https://github.com/AdguardTeam/AdguardFilters/issues/79057
-tv-tokyo.co.jp#@#iframe[width="300"][height="250"]
 ! https://github.com/hirorpt/filters/commit/7368d27f494e7fd3e9c3f460d72fab7b370892fd
 maidonanews.jp#@#.module-ad
 ! https://github.com/AdguardTeam/AdguardFilters/issues/55576
