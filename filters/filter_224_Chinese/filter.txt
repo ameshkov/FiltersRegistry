@@ -5674,6 +5674,7 @@ newduba.cn###jq_youxi
 ||zpvfsrb.xyz^
 ||raolmsc.com^
 ||yongzhen8.com^
+||criknudsr.com^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
@@ -14645,6 +14646,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 szxx.com.cn###A0
+mydrivers.com##.good_ths
+mydrivers.com#?#li:-abp-has(>.titl+.t:-abp-contains(广告))
 anjian.com##.ImgTop
 szxx.com.cn###A1
 szxx.com.cn###A2
