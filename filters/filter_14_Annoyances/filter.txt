@@ -18630,7 +18630,11 @@ dehn.de#@#.cookie-layer
 !   SECTION: Anti-adblock - Yandex direct
 !   NOTE: Yandex
 !
+! Adb track
+://yandex.*/images/_$xmlhttprequest,method=post
+!
 ! Yandex.Images
+[$path=/images]ya.ru,yandex.*#%#//scriptlet('abort-on-property-write', '__pcodeAllActiveTestIds')
 [$path=/images]ya.ru,yandex.*#%#//scriptlet('json-prune', 'seatbid rtb direct')
 [$path=/images]ya.ru,yandex.*##.Root > div.MastHead
 !#if (adguard_ext_safari || adguard_app_ios)
