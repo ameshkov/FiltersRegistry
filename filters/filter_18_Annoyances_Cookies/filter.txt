@@ -2315,6 +2315,7 @@ cmp.chip.de,cmpv2.netdoktor.ch,cmp.videogameschronicle.com,cmp.svd.se,cmpsp.game
 !
 ! NOTE: Regular rules
 !
+withhive.com##.gdpr_cookie
 visme.co##.vismecookie
 dozapteka.pl#$#.popup-cookies { display: none !important; }
 dozapteka.pl#$#body.no-scroll { overflow: auto !important; }
@@ -2788,7 +2789,7 @@ tuya.com###_th-trust
 polki.pl###tcf277-modal
 vegetology.com##div[data-name="comp-banner"]
 yclients.com##.gdpr-policy
-7news.com.au##div[class^="cookie-"]
+krka.biz,7news.com.au##div[class^="cookie-"]
 wisdom.nec.com###func-cookie
 onlinegibdd.ru###gritter-notice-wrapper
 aftonbladet.se#%#//scriptlet('trusted-click-element', '.message-component > button[title^="Godkänn"]')
@@ -3995,7 +3996,7 @@ seb.lv#$##cookiesMessage ~ .modal-backdrop { display: none !important; }
 seb.lv#$#body { overflow: auto !important; padding-right: 0 !important; }
 vocabulary.com##.cookie-privacy-banner
 nedis.com###laravel-cookies-consent
-loteriakozel.pl###cookies_modal
+mito3d.com,loteriakozel.pl###cookies_modal
 mielectro.es##.capaCookie
 nawozy.eu##div[class^="CookieBox_"]
 ||blacknut.com/scripts/a/cmp.js
@@ -11125,7 +11126,7 @@ haber46.com.tr,cnn.co.jp###my-notification
 bkv.hu,lrytas.lt###navCookies
 assemblee-nationale.fr,paris.fr###notice_cnil
 imobiliare.ro###notificare-cookies
-ideafintl.com###notification-bar
+top10vpn.com,ideafintl.com###notification-bar
 handlfh.org###nq_cookie_notice
 nhk.jp,nhk.or.jp##.bottom_optout_announce
 nhk.or.jp###nw_gdpr_view_id
