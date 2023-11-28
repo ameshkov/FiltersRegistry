@@ -4466,6 +4466,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||ddl.alma.iltalehti.fi^
 ||azq.zozo.jp^
 ||dsp.logly.co.jp^$third-party
 ||inbound-analytics.pixlee.com^
