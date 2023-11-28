@@ -254,6 +254,8 @@ xn--lkylen-vxa.se##+js(set-cookie, gdpr_ok, necessary)
 tiefenthaler-landtechnik.at,tiefenthaler-landtechnik.ch,tiefenthaler-landtechnik.de##+js(set-cookie, allowTracking, false)
 ! Rule "huisartsenpraktijkdoorn.nl##+js(set-cookie, cookies-marketing, N)" converted to: "huisartsenpraktijkdoorn.nl#%#//scriptlet('ubo-set-cookie.js', 'cookies-marketing', 'N')"
 huisartsenpraktijkdoorn.nl##+js(set-cookie, cookies-marketing, N)
+! Rule "varma.fi##+js(set-cookie, varmafi_mandatory, true)" converted to: "varma.fi#%#//scriptlet('ubo-set-cookie.js', 'varmafi_mandatory', 'true')"
+varma.fi##+js(set-cookie, varmafi_mandatory, true)
 ! Rule "vyos.io##+js(set-cookie, VyosCookies, Accepted)" converted to: "vyos.io#%#//scriptlet('ubo-set-cookie.js', 'VyosCookies', 'Accepted')"
 vyos.io##+js(set-cookie, VyosCookies, Accepted)
 ! Rule "digimobil.es##+js(set-cookie, analyticsConsent, false)" converted to: "digimobil.es#%#//scriptlet('ubo-set-cookie.js', 'analyticsConsent', 'false')"

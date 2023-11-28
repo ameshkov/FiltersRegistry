@@ -1,8 +1,8 @@
 !
-! Checksum: DQS4APMu8QaLhB663vwbPw
-! OriginalVersion: 202311280845
+! Checksum: 8R+M1gTYl5wo3/H7eY6RBQ
+! OriginalVersion: 202311281300
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-11-28 08:45 UTC
+! Last modified: 2023-11-28 13:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -34125,7 +34125,6 @@ dashboard.razorpay.com#@##credential_picker_container
 ##div.box-newsletter
 ##div.box_newsletter
 ##div.bs-mailchimp-newsletter
-##div.c-newsletter
 ##div.c-newsletter-article
 ##div.c-newsletterSignup
 ##div.c-newsletter_signup_box
@@ -45017,6 +45016,7 @@ hollywoodunlocked.com##.featherlight
 ! americastestkitchen.com
 americastestkitchen.com##.tp-container-inner
 americastestkitchen.com###piano-modal-backdrop
+! artribune.com
 ! thefp.com
 thefp.com###myEmailModal
 ! dailyvoice.com
@@ -45394,6 +45394,7 @@ editorialedomani.it##.article-footer
 boatindustry.it,boatsnews.it,pescare.news##.box-hebdo
 mistergadget.tech##.box-mail-chimp
 giornaledibrescia.it##.boxNewsletterArticle-BUON
+artribune.com##.c-newsletter_wrap
 bergamonews.it##.custom-newsletter-container
 financecommunity.it##.dialog-lightbox-message
 newslinet.com##.dialog-widget-content
@@ -48046,6 +48047,7 @@ hollywoodunlocked.com##.featherlight
 ! americastestkitchen.com
 americastestkitchen.com##.tp-container-inner
 americastestkitchen.com###piano-modal-backdrop
+! artribune.com
 ! thefp.com
 thefp.com###myEmailModal
 ! dailyvoice.com
@@ -53843,6 +53845,7 @@ onepercentclub.co.uk#@#.et_pb_newsletter
 moonpalacecancun.com#@#.footer-newsletter
 jamesclear.com,wpamaze.com#@#.formkit-form.seva-form
 axios.com#@#.is-newsletter
+varma.fi#@#.needsclick[aria-label][style]
 oetker.de#@#.newsletter-component
 sourceforge.net#@#.psp_newsletter_subscribe
 doctorofcredit.com#@#.wpdiscuz-subscribe-bar

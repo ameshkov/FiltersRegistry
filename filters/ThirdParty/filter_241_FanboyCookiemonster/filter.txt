@@ -1,7 +1,7 @@
 !
-! Checksum: ALBORDBVbe9t9PVqy73OiA
+! Checksum: x/3RaHaOw+dlPtyFD6tvsA
 ! Title: Easylist Cookie List
-! Updated: 2023-11-28 08:40 UTC
+! Updated: 2023-11-28 12:30 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22062,6 +22062,7 @@ electronoobs.com#%#//scriptlet('ubo-set-cookie.js', 'pd_cc', '1')
 xn--lkylen-vxa.se#%#//scriptlet('ubo-set-cookie.js', 'gdpr_ok', 'necessary')
 tiefenthaler-landtechnik.at,tiefenthaler-landtechnik.ch,tiefenthaler-landtechnik.de#%#//scriptlet('ubo-set-cookie.js', 'allowTracking', 'false')
 huisartsenpraktijkdoorn.nl#%#//scriptlet('ubo-set-cookie.js', 'cookies-marketing', 'N')
+varma.fi#%#//scriptlet('ubo-set-cookie.js', 'varmafi_mandatory', 'true')
 vyos.io#%#//scriptlet('ubo-set-cookie.js', 'VyosCookies', 'Accepted')
 digimobil.es#%#//scriptlet('ubo-set-cookie.js', 'analyticsConsent', 'false')
 digimobil.es#%#//scriptlet('ubo-set-cookie.js', 'adsConsent', 'false')

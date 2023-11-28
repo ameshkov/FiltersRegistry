@@ -2341,6 +2341,10 @@ newduba.cn###jq_youxi
 ||zpvfsrb.xyz^
 ||raolmsc.com^
 ||yongzhen8.com^
+||criknudsr.com^
+||aflsj.com^
+||quwwa.top^
+||1vudktp.com^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
@@ -11318,6 +11322,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+mydrivers.com##.good_ths
+mydrivers.com#?#li:-abp-has(>.titl+.t:-abp-contains(广告))
 anjian.com##.ImgTop
 szxx.com.cn###A1
 szxx.com.cn###A2
@@ -18925,6 +18931,7 @@ $image,third-party,domain=258zw.com
 /dayu2.html?channelCode=$csp=script-src
 /js/easyAD.js
 /js/easyAD2.js
+/vjioew-1322507002.
 /js/mangoIndexBanner.js
 /js/pfad.js
 /jun0120211102193659.
