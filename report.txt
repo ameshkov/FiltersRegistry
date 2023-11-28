@@ -1,9 +1,9 @@
 
-FiltersCompiler report 11/27/2023 9:00:20 PM:
+FiltersCompiler report 11/28/2023 1:00:18 AM:
 
 Filter ID: 101
 Filter name: EasyList
-Compiled rules: 65979
+Compiled rules: 65382
 Excluded rules: 46
 URL: https://easylist-downloads.adblockplus.org/easylist.txt
 INVALID RULES:
@@ -27,7 +27,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 104
 Filter name: EasyList China
-Compiled rules: 19397
+Compiled rules: 19404
 Excluded rules: 52
 URL: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 INVALID RULES:
@@ -72,7 +72,7 @@ Error: Invalid selector: '^script:has-text((window)}catch)' -- Error: unable to 
 ---------------------------
 Filter ID: 109
 Filter name: EasyList Italy
-Compiled rules: 5697
+Compiled rules: 5642
 Excluded rules: 2
 URL: https://easylist-downloads.adblockplus.org/easylistitaly.txt
 INVALID RULES:
@@ -131,7 +131,7 @@ URL: https://raw.githubusercontent.com/KonoromiHimaries/PolishSubFilters/master/
 ---------------------------
 Filter ID: 118
 Filter name: EasyPrivacy
-Compiled rules: 33444
+Compiled rules: 33482
 Excluded rules: 12
 URL: https://easylist.to/easylist/easyprivacy.txt
 All rules are valid.
@@ -158,8 +158,8 @@ All rules are valid.
 ---------------------------
 Filter ID: 122
 Filter name: Fanboy's Annoyances
-Compiled rules: 53856
-Excluded rules: 12556
+Compiled rules: 53860
+Excluded rules: 12564
 URL: https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 All rules are valid.
 ---------------------------
@@ -232,7 +232,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 208
 Filter name: Online Malicious URL Blocklist
-Compiled rules: 1926
+Compiled rules: 1999
 Excluded rules: 8
 URL: https://urlhaus-filter.pages.dev/urlhaus-filter-ag-online.txt
 All rules are valid.
@@ -399,7 +399,7 @@ URL: https://www.fanboy.co.nz/fanboy-swedish.txt
 ---------------------------
 Filter ID: 225
 Filter name: Fanboy's Anti-Facebook List
-Compiled rules: 100
+Compiled rules: 101
 Excluded rules: 0
 URL: https://www.fanboy.co.nz/fanboy-antifacebook.txt
 All rules are valid.
@@ -630,8 +630,8 @@ All rules are valid.
 ---------------------------
 Filter ID: 250
 Filter name: Dandelion Sprout's Annoyances List
-Compiled rules: 32843
-Excluded rules: 46418
+Compiled rules: 32845
+Excluded rules: 46420
 URL: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList
 INVALID RULES:
 Error: Invalid selector: '.g:has(a[href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"))' -- Unbalanced brackets for extended pseudo-class: 'not' in rule: www.google.*##.g:has(a[href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"))
@@ -22573,8 +22573,8 @@ Error: "$removeparam rules are not compatible with some other modifiers" in the 
 ---------------------------
 Filter ID: 251
 Filter name: Legitimate URL Shortener
-Compiled rules: 3736
-Excluded rules: 512
+Compiled rules: 3738
+Excluded rules: 514
 URL: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
 INVALID RULES:
 Error: "$removeparam rules are not compatible with some other modifiers" in the rule: "@@/subscribe?$document,removeparam=user_email_address"
@@ -22637,7 +22637,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 15
 Filter name: AdGuard DNS filter
-Compiled rules: 59637
+Compiled rules: 59106
 Excluded rules: 308
 URL: https://filters.adtidy.org/extension/chromium/filters/15.txt
 All rules are valid.
@@ -22673,7 +22673,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 1
 Filter name: AdGuard Russian filter
-Compiled rules: 24462
+Compiled rules: 24463
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/1.txt
 All rules are valid.
@@ -22694,7 +22694,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 224
 Filter name: AdGuard Chinese filter
-Compiled rules: 22696
+Compiled rules: 22703
 Excluded rules: 50
 URL: https://filters.adtidy.org/extension/chromium/filters/224.txt
 INVALID RULES:
@@ -22716,7 +22716,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 2
 Filter name: AdGuard Base filter
-Compiled rules: 134753
+Compiled rules: 134156
 Excluded rules: 56
 URL: https://filters.adtidy.org/extension/chromium/filters/2.txt
 INVALID RULES:
