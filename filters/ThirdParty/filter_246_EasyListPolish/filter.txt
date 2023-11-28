@@ -1,8 +1,8 @@
 !
-! Checksum: mzXgmh9bXvdUa64M4lLJtw
-! OriginalVersion: 202311281251
+! Checksum: BPcoqyDqNJKYpBIkuUg6qQ
+! OriginalVersion: 202311281651
 ! Title: EasyList Polish
-! Last modified: 28 Nov 2023 12:51 UTC
+! Last modified: 28 Nov 2023 16:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -776,7 +776,6 @@ dostawczakiem.pl###reklamowkaTop
 terazprudnik.pl###rev-slider-widget-3
 zycierolnika.pl###right .banneritem
 gazeta-mosina.pl###right .first
-polonika.fr###rt-top
 slonskyradio.eu###ruchomeReklamy
 tygodnik-krapkowicki.info###sbox-overlay
 tygodnik-krapkowicki.info###sbox-window
@@ -1743,6 +1742,7 @@ gazeta.myslenice.pl##.spot
 miastokolobrzeg.pl,wysokomazowiecki24.pl##.sppb-addon-single-image-container
 miastokolobrzeg.pl##.sppb-text-center
 slowoseniora.pl##.spu-box
+zwierciadlo.pl##.srodtekstimg
 portalmorski.pl##.standard_adv_link
 pkf.org.pl##.start-site-banners
 ktomalek.pl##.sticky-content
@@ -1910,7 +1910,7 @@ kuriersuwalski.pl,panoramakutna.pl,thinkapple.pl##[class="g g-1"]
 lokalna24.pl,tvsudecka.pl,tygodnik-krapkowicki.pl##[class="text-center my-3 container"]
 prostozopolskiego.pl,tygodnikkrag.pl##[class^="a-single a-"]
 legionisci.com##[class^="adslot_news-banner"]
-ibemowo.pl,ibielany.pl,iochota.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl##[class^="adv__"]
+ibemowo.pl,ibialoleka.pl,ibielany.pl,imokotow.pl,iochota.pl,ipragapolnoc.pl,ipragapoludnie.pl,irembertow.pl,isrodmiescie.pl,itargowek.pl,iursus.pl,iursynow.pl,iwawer.pl,iwesola.pl,iwilanow.pl,iwola.pl,izoliborz.pl##[class^="adv__"]
 ekoszalin.pl##[class^="advert"]
 radiozw.com.pl##[class^="angwp_"]
 interia.pl##[class^="article-body__ad-"]
@@ -2510,16 +2510,6 @@ bolec.info##small + a
 wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
-ibialoleka.pl##[class^="adv__"]
-itargowek.pl##[class^="adv__"]
-irembertow.pl##[class^="adv__"]
-izoliborz.pl##[class^="adv__"]
-ipragapolnoc.pl##[class^="adv__"]
-itargowek.pl##[class^="adv__"]
-iwola.pl##[class^="adv__"]
-isrodmiescie.pl##[class^="adv__"]
-ipragapoludnie.pl##[class^="adv__"]
-imokotow.pl##[class^="adv__"]
 ! *** easylistpolish:easylistpolish_adult/adult_specific_hide.txt ***
 sexrura.pl###bottom-right-container
 filmyporno.net###dvr-3x2
