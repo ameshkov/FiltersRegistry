@@ -2814,8 +2814,10 @@ thefp.com##body:style(overflow: scroll !important)
 dailyvoice.com##body:style(overflow: auto !important; position: initial !important;)
 ! Rule "cityam.com##+js(rc, js-page-scroll-lock, body, stay)" converted to: "cityam.com#%#//scriptlet('ubo-rc.js', 'js-page-scroll-lock', 'body', 'stay')"
 cityam.com##+js(rc, js-page-scroll-lock, body, stay)
-! Rule "blooloop.com##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "blooloop.com#$#body,html { overflow: auto !important; position: initial !important; }"
-blooloop.com##body,html:style(overflow: auto !important; position: initial !important;)
+! Rule "blooloop.com##body,html:style(overflow: auto !important; position: i nitial !important;)" converted to: "blooloop.com#$#body,html { overflow: auto !important; position: i nitial !important; }"
+blooloop.com##body,html:style(overflow: auto !important; position: i nitial !important;)
+! Rule "loyalfordogs.com##+js(set-local-storage-item, join-popup-closed, true)" converted to: "loyalfordogs.com#%#//scriptlet('ubo-set-local-storage-item.js', 'join-popup-closed', 'true')"
+loyalfordogs.com##+js(set-local-storage-item, join-popup-closed, true)
 ! Rule "fine-day.com##html,body:style(overflow: auto !important; position: initial !important;)" converted to: "fine-day.com#$#html,body { overflow: auto !important; position: initial !important; }"
 fine-day.com##html,body:style(overflow: auto !important; position: initial !important;)
 ! Rule "spotlightpa.org##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "spotlightpa.org#$#body,html { overflow: auto !important; position: initial !important; }"
@@ -5978,8 +5980,10 @@ thefp.com##body:style(overflow: scroll !important)
 dailyvoice.com##body:style(overflow: auto !important; position: initial !important;)
 ! Rule "cityam.com##+js(rc, js-page-scroll-lock, body, stay)" converted to: "cityam.com#%#//scriptlet('ubo-rc.js', 'js-page-scroll-lock', 'body', 'stay')"
 cityam.com##+js(rc, js-page-scroll-lock, body, stay)
-! Rule "blooloop.com##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "blooloop.com#$#body,html { overflow: auto !important; position: initial !important; }"
-blooloop.com##body,html:style(overflow: auto !important; position: initial !important;)
+! Rule "blooloop.com##body,html:style(overflow: auto !important; position: i nitial !important;)" converted to: "blooloop.com#$#body,html { overflow: auto !important; position: i nitial !important; }"
+blooloop.com##body,html:style(overflow: auto !important; position: i nitial !important;)
+! Rule "loyalfordogs.com##+js(set-local-storage-item, join-popup-closed, true)" converted to: "loyalfordogs.com#%#//scriptlet('ubo-set-local-storage-item.js', 'join-popup-closed', 'true')"
+loyalfordogs.com##+js(set-local-storage-item, join-popup-closed, true)
 ! Rule "fine-day.com##html,body:style(overflow: auto !important; position: initial !important;)" converted to: "fine-day.com#$#html,body { overflow: auto !important; position: initial !important; }"
 fine-day.com##html,body:style(overflow: auto !important; position: initial !important;)
 ! Rule "spotlightpa.org##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "spotlightpa.org#$#body,html { overflow: auto !important; position: initial !important; }"
@@ -9112,8 +9116,10 @@ thefp.com#$#body { overflow: scroll !important }
 dailyvoice.com#$#body { overflow: auto !important; position: initial !important; }
 ! cityam.com#%#//scriptlet('ubo-rc.js', 'js-page-scroll-lock', 'body', 'stay') is excluded by "#%#//scriptlet" in exclusions-low.txt
 cityam.com#%#//scriptlet('ubo-rc.js', 'js-page-scroll-lock', 'body', 'stay')
-! blooloop.com#$#body,html { overflow: auto !important; position: initial !important; } is excluded by "#$#" in exclusions-low.txt
-blooloop.com#$#body,html { overflow: auto !important; position: initial !important; }
+! blooloop.com#$#body,html { overflow: auto !important; position: i nitial !important; } is excluded by "#$#" in exclusions-low.txt
+blooloop.com#$#body,html { overflow: auto !important; position: i nitial !important; }
+! loyalfordogs.com#%#//scriptlet('ubo-set-local-storage-item.js', 'join-popup-closed', 'true') is excluded by "#%#//scriptlet" in exclusions-low.txt
+loyalfordogs.com#%#//scriptlet('ubo-set-local-storage-item.js', 'join-popup-closed', 'true')
 ! fine-day.com#$#html,body { overflow: auto !important; position: initial !important; } is excluded by "#$#" in exclusions-low.txt
 fine-day.com#$#html,body { overflow: auto !important; position: initial !important; }
 ! spotlightpa.org#$#body,html { overflow: auto !important; position: initial !important; } is excluded by "#$#" in exclusions-low.txt
@@ -12262,8 +12268,10 @@ thefp.com#$#body { overflow: scroll !important }
 dailyvoice.com#$#body { overflow: auto !important; position: initial !important; }
 ! cityam.com#%#//scriptlet('ubo-rc.js', 'js-page-scroll-lock', 'body', 'stay') is excluded by "#%#//scriptlet" in exclusions-low.txt
 cityam.com#%#//scriptlet('ubo-rc.js', 'js-page-scroll-lock', 'body', 'stay')
-! blooloop.com#$#body,html { overflow: auto !important; position: initial !important; } is excluded by "#$#" in exclusions-low.txt
-blooloop.com#$#body,html { overflow: auto !important; position: initial !important; }
+! blooloop.com#$#body,html { overflow: auto !important; position: i nitial !important; } is excluded by "#$#" in exclusions-low.txt
+blooloop.com#$#body,html { overflow: auto !important; position: i nitial !important; }
+! loyalfordogs.com#%#//scriptlet('ubo-set-local-storage-item.js', 'join-popup-closed', 'true') is excluded by "#%#//scriptlet" in exclusions-low.txt
+loyalfordogs.com#%#//scriptlet('ubo-set-local-storage-item.js', 'join-popup-closed', 'true')
 ! fine-day.com#$#html,body { overflow: auto !important; position: initial !important; } is excluded by "#$#" in exclusions-low.txt
 fine-day.com#$#html,body { overflow: auto !important; position: initial !important; }
 ! spotlightpa.org#$#body,html { overflow: auto !important; position: initial !important; } is excluded by "#$#" in exclusions-low.txt

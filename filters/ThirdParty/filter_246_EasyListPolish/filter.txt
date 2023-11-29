@@ -1,8 +1,8 @@
 !
-! Checksum: ugtwxvuYO92aHeKTLN9tAw
-! OriginalVersion: 202311290451
+! Checksum: K4WP/aaeR4E3u4JcfFvldw
+! OriginalVersion: 202311290851
 ! Title: EasyList Polish
-! Last modified: 29 Nov 2023 04:51 UTC
+! Last modified: 29 Nov 2023 08:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -536,7 +536,6 @@ swieradowzdroj.pl###ads
 wwsi.edu.pl###adsdialog
 nowezyciepabianic.pl###adv-view-widget-5
 tygodnikszczytno.pl###advBox
-filmweb.pl###advertBar-pl_PL
 pozytywniej.pl###advertWrap
 woda-scieki.com###advertbox
 bitcoin.pl###advertisements
@@ -2510,6 +2509,15 @@ bolec.info##small + a
 wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
+tulegnica.pl##[class^="adv__"]
+e-legnickie.pl###sp-section-3
+tulegnica.pl##.ad--bill-top
+kolniak24.eu##[class*="banner--"]
+ddtorun.pl##[class*="banner--"]
+ki24.info##[class*="banner--"]
+faktypilskie.pl##[class*="banner--"]
+ciechocinek.biz##[class*="banner--"]
+koronowo.net.pl##[class*="banner--"]
 ! *** easylistpolish:easylistpolish_adult/adult_specific_hide.txt ***
 sexrura.pl###bottom-right-container
 filmyporno.net###dvr-3x2

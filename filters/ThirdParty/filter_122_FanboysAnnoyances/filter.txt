@@ -1,8 +1,8 @@
 !
-! Checksum: CiMRX7yQolPMTMgSEMJEQA
-! OriginalVersion: 202311290400
+! Checksum: a6tIgZFGhWKxsLs6DKbB2g
+! OriginalVersion: 202311290800
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-11-29 04:00 UTC
+! Last modified: 2023-11-29 08:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -348,10 +348,6 @@ _revotas_push.
 -webicon-linkedin-
 -webicon-twitter-
 -webicon-youtube-
-.bzshare.
-.bztotalshare.
-.dkshare.
-.dktotalshare.
 .easyshare:
 .facebookLikePopUp.
 .fb-like/
@@ -418,38 +414,19 @@ _revotas_push.
 /button_share.
 /button_social_
 /bwSocialIcons.
-/bz-share.
-/bz_share/*
 /chs/share/*
 /cht/share/*
 /circle_share.
 /cnw.share.
-/color-facebook-
-/color-twitter-
 /commentshareicons.
 /common/sns/*
 /common/sns_
 /commons/social/*
 /commonSprites/social/*
-/context-social.
-/controller/share-
-/contshare.
-/cool-share/*
-/crowdbooster-
-/crowdbooster_
-/css/social-$~stylesheet
-/custom-share.
-/customSocialBar/*$~stylesheet
+/cool-share/plugin.js
 /diggdigg-floating-bar.js
-/dk-share.
-/e-social-
-/e-social.
-/e_social/*
-/e_social_
-/ej-socialslider/*
+/ej-socialslider/static/slideout.js
 /emailaddthis.
-/essential/social-
-/facebkiconnet/*
 /facebook-fan.
 /facebook-follow-
 /facebook-footer-
@@ -474,7 +451,6 @@ _revotas_push.
 /FacebookFanWidgetFrame.
 /facebookFooterIcon-
 /facebookHeader.
-/facebookmall.
 /facebooksharebutton.
 /FacebookShares?
 /facebooksmall2.
@@ -505,10 +481,7 @@ _revotas_push.
 /fbsubscribe.
 /feedburner_64.
 /FeedlyButton_
-/feeds/facebook_
-/feeds/twitter_
 /feedSprite_
-/fh_social.
 /floating-social/*
 /floating-wpp.min.
 /flw-twitter.
@@ -532,8 +505,6 @@ _revotas_push.
 /follow-with-google-
 /follow-youtube.
 /follow/Facebook-
-/follow/Google+
-/follow/google-
 /follow/Twitter-
 /follow/YouTube-
 /follow_instagram.
@@ -36322,6 +36293,9 @@ vigilantcitizen.com##.vigil-after-article
 techguide.com.au##.w-nt.h-ni
 w2g.tv##.w2g-doit
 w2g.tv##.w2g-top-message-small
+reason.com##.webathon-leaderboard
+reason.com##.webathon-meter
+reason.com##.webathon-meter-widget
 thurrott.com##.widget > [href="https://www.thurrott.com/thurrott-premium"]
 nationalpost.com##.widget--local-ads
 cpuid.com##.widget-advert-300-sticky
@@ -40922,7 +40896,7 @@ handandstone.com##.modal-cookie-policy
 !! #sliding-popup
 alandsradio.ax,audirsclub.it,automobil.se,bell-labs.com,bigsocietycapital.com,camperlife.it,caroftheyear.se,cartoonnetwork.co.uk,eif.co.uk,endurobloggen.se,integralmemory.com,juce.com,kantarsifo.se,lanutrition.fr,meethue.com,middleeasteye.net,mopedgaraget.se,parkinsons.org.uk,rmg.co.uk,servimedia.es,spainbs.com,svjt.se,thalesgroup.com,topuniversities.com,ucas.com###sliding-popup
 !! .sliding-popup-bottom
-accessonline.com,ar.iiarjournals.org,asobostudio.com,avvir.no,axa-im.es,beko.fr,biorxiv.org,blikopnieuws.nl,bportugal.pt,cam.ac.uk,cervantes.es,ciee.org,circuitdigest.com,cmaj.ca,der-baecker-eifler.de,derprivatpatient.de,diena.lt,domradio.de,dtm.com,eluniversal.com.mx,encuentre-abierto.es,escort-ads.com,europapark.de,europol.europa.eu,fdp.de,financialsense.com,firmania.es,gsis.gr,handballerd.hu,helsinginkaupunginorkesteri.fi,herbatint.com,ilm.pri.ee,indstate.edu,intelligentcitieschallenge.eu,iphonefaq.org,iva.de,kodi.tv,kpnpensioen.nl,land.nrw,lexcellence.swiss,ligainsider.de,mags.nrw,manner.com,medindia.net,medrxiv.org,metromadrid.es,migros.fr,minsait.com,muhabirce.de,nationalinterest.org,news.ki.se,nibusinessinfo.co.uk,nnieuws.be,novartis.co.jp,nrscotland.gov.uk,nutella.com,oneforall.com,orange.be,osmanlicakelam.net,ovomaltine.de,paihdelinkki.fi,paladinomedia.com,piaggiogroup.com,pioneer-car.eu,prestashop.com,psau.edu.sa,questionmark.com,radiosaw.de,rae.es,reinisfischer.com,rotel.com,sandoz.com.tr,sergeferrari.com,sonntagsblatt.de,staff.ki.se,stainlessgames.com,thuisarts.nl,timeshighereducation.com,tolisihoni.com,topuniversities.com,total.com,trademark-clearinghouse.com,ucg.org,unesco.de,unicef.org,usccb.org,uwaterloo.ca,veganjunkfoodbar.com,veggiepeople.org,voltimum.de,voxmail.it,waffengebraucht.at,weightwatchers.com,wildlifetrusts.org,wis-wander.weizmann.ac.il,worldpressphoto.org,zanzu.be,ziraatkatilim.com.tr,zuerich.com##.sliding-popup-bottom
+accessonline.com,ar.iiarjournals.org,asobostudio.com,avvir.no,axa-im.es,beko.fr,biorxiv.org,blikopnieuws.nl,bportugal.pt,cam.ac.uk,cervantes.es,ciee.org,circuitdigest.com,cmaj.ca,der-baecker-eifler.de,derprivatpatient.de,diena.lt,domradio.de,dtm.com,eluniversal.com.mx,encuentre-abierto.es,escort-ads.com,europapark.de,europol.europa.eu,fdp.de,financialsense.com,firmania.es,gsis.gr,handballerd.hu,helsinginkaupunginorkesteri.fi,herbatint.com,ilm.pri.ee,indstate.edu,intelligentcitieschallenge.eu,iphonefaq.org,iva.de,jneurosci.org,kodi.tv,kpnpensioen.nl,land.nrw,lexcellence.swiss,ligainsider.de,mags.nrw,manner.com,medindia.net,medrxiv.org,metromadrid.es,migros.fr,minsait.com,muhabirce.de,nationalinterest.org,news.ki.se,nibusinessinfo.co.uk,nnieuws.be,novartis.co.jp,nrscotland.gov.uk,nutella.com,oneforall.com,orange.be,osmanlicakelam.net,ovomaltine.de,paihdelinkki.fi,paladinomedia.com,piaggiogroup.com,pioneer-car.eu,prestashop.com,psau.edu.sa,questionmark.com,radiosaw.de,rae.es,reinisfischer.com,rotel.com,sandoz.com.tr,sergeferrari.com,sonntagsblatt.de,staff.ki.se,stainlessgames.com,thuisarts.nl,timeshighereducation.com,tolisihoni.com,topuniversities.com,total.com,trademark-clearinghouse.com,ucg.org,unesco.de,unicef.org,usccb.org,uwaterloo.ca,veganjunkfoodbar.com,veggiepeople.org,voltimum.de,voxmail.it,waffengebraucht.at,weightwatchers.com,wildlifetrusts.org,wis-wander.weizmann.ac.il,worldpressphoto.org,zanzu.be,ziraatkatilim.com.tr,zuerich.com##.sliding-popup-bottom
 !! .cookiesplus-modal
 alfombrashamid.es,autovilardell.com,blancmarine.com,carmenvazquez.es,fadenkreuz-shop.de,farmaciadejaime.es,hobbysaliplant.com,kalkumezquerra.com,lauraashley.es,maletia.com,mcracingsa.com,molpack.com,moverte.com,moviloff.es,mueblestudio.com,muellerglas.at,rhsgroup.ro,sakata3d.com,tomasbodero.com,vinoyalgomas.com##.cookiesplus-modal
 !! .cookiewall
@@ -44842,6 +44816,7 @@ expressvpn.com##.wrap-subscribe
 countryviewah.com##.wrap__newsletter
 wwd.com##.wwd-subscribe-now-banner-ad-container
 wwd.com##.wwd-subscribe-now-banner-background
+loyalfordogs.com##.your-help
 brucelee.com,fridaythings.com,paleofuture.com,stability.ai,worldofreel.com##.yui-popup-container-node
 culturemap.com##.z-newsletter
 nypost.com,pagesix.com##.zephr-component
@@ -45039,6 +45014,7 @@ dailyvoice.com##.b-modal.b-dialog
 cityam.com##.subscription-modal
 ! blooloop.com
 blooloop.com##.c-popup
+! loyalfordogs.com
 ! fine-day.com
 fine-day.com##.chakra-portal
 ! spotlightpa.org
@@ -48070,6 +48046,7 @@ dailyvoice.com##.b-modal.b-dialog
 cityam.com##.subscription-modal
 ! blooloop.com
 blooloop.com##.c-popup
+! loyalfordogs.com
 ! fine-day.com
 fine-day.com##.chakra-portal
 ! spotlightpa.org
