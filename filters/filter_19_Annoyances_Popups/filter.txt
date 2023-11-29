@@ -1642,6 +1642,7 @@ scitechdaily.com,thewindowsclub.com#@#.ad-space
 ! Do not forget about '!#safari_cb_affinity' section for exclusions:
 ! LINK: AnnoyancesFilter/Popups/sections/antiadblock.txt#general
 !
+||static.qiota.com/assets/getQiota.js$domain=cosmopolitan.fr|beautyshow-by-kikomilano-cosmo.fr
 forx.mazen-ve3.com#%#//scriptlet('prevent-addEventListener', 'load', 'theModal')
 xanimu.com,familyporner.com,darknessporn.com,freepublicporn.com,pisshamster.com,punishworld.com#%#//scriptlet('remove-node-text', 'script', 'advert')
 crackwatcher.com#%#//scriptlet('set-constant', 'google_ad_modifications', 'emptyObj')
@@ -4494,6 +4495,8 @@ sanalkurs.net###toast-container > .toast-error[aria-live="assertive"]
 !
 ! SECTION: Popups - Regular rules
 !
+qiita.com#%#//scriptlet('set-cookie-reload', 'login_popup_displayed', 'false')
+qiita.com#%#//scriptlet('set-local-storage-item', 'next_optin_check_time', 'false')
 mspoweruser.com##.survey-bnr
 wikiwand.com##div[class^="navbar_sticky__"]
 lestore.lenovo.com##.pin-banner
@@ -12419,6 +12422,7 @@ newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,nordbayern.de,theloca
 !
 ! SECTION: Subscriptions - Regular rules
 !
+humanite.fr###form_humatinale
 gastronom.ru##div[class*="_subscribe"]
 community.fortinet.com#%#//scriptlet('set-cookie', 'forti.engagement_popup_banner', '1')
 edenland.com.ua###bg-popup
@@ -12444,6 +12448,7 @@ businessweekly.com.tw##.subscriptionEmailEDMv1
 reviewjournal.com#$#.amp-wp-header { margin-top: 0 !important; }
 reviewjournal.com#$##rjth-region-amp-above-article-content { display: none !important; }
 goelsds.de#$#div[style*="klaviyo-fadein"][style*="background-color: rgb"] { display: none !important; }
+cnnindonesia.com##.fixed.bottom-0.text-cnn_black
 cnnindonesia.com##.wtfact
 reason.com##.single-newsletter-signup
 infocar.ua###subscribe-from

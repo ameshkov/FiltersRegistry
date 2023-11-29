@@ -1,7 +1,7 @@
 !
 ! Title: List-KR for AdGuard
 ! Description: List-KR for AdGuard. Maintained by the adblock community and AdGuard.
-! OriginalVersion: 2023.1129.1
+! OriginalVersion: 2023.1129.7
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! Support: https://github.com/List-KR/List-KR/issues/223
@@ -10,6 +10,7 @@
 ! Version must be UTC format.
 !
 !#if adguard
+||ads.motorgraph.com^
 ||arm.c.appier.net^
 ||ad.mediamixer.co.kr^
 ||aproxylog-next.tving.com^
@@ -511,9 +512,7 @@ funbe276.com,funbe277.com,funbe278.com,funbe279.com,funbe280.com,funbe281.com,fu
 /data/banner.json?
 /ad-manager.min.js
 !
-||youtu.co/wp-content/plugins/advanced-ads
-||dfast.kr/wp-content/plugins/advanced-ads
-||mememedia.co.kr/wp-content/plugins/advanced-ads
+/wp-content/plugins/advanced-ads
 ||cdn-img.viewus.co.kr/common/ad/
 ||comm-api.game.naver.com/nng_main/*/cpa/adList
 /^https:\/\/nng-phinf\.pstatic\.net\/.+\/[A-z0-9-.]+\.[A-Z]+\/[0-9]+x[0-9]+[A-z0-9%_]+_naverads\./$match-case,domain=naver.com
@@ -529,7 +528,6 @@ funbe276.com,funbe277.com,funbe278.com,funbe279.com,funbe280.com,funbe281.com,fu
 ||coinreaders.com/data/coinreaders_com/upload/banner/
 ||healtho.co.kr/biz_files/sub_news/
 ||healtho.co.kr/biz_files/main_right/
-||tenbizt.com/wp-content/plugins/advanced-ads
 ||public-api.wadiz.kr/main/info/marketing
 ||service.wadiz.kr/api/*/wadizad/host/keyvisual
 /^https?:\/\/timg\.humoruniv\.com\/thumb_crop_resize\.php\?url=https?:\/\/[A-z0-9\.]+\/.+\?SIZE=[0-9]+(x|X)[0-9]+\?OPT=center/$domain=m.humoruniv.com
@@ -682,14 +680,12 @@ funbe276.com,funbe277.com,funbe278.com,funbe279.com,funbe280.com,funbe281.com,fu
 ||m.ppomppu.co.kr/js/naver_power_ad.js
 ||bbongtv.com/img/*.gif|
 ||jlpt.or.kr/banner/
-||toptrend.blog/wp-content/plugins/advanced-ads-pro/
 ||gobest.co.kr/img*/cp-ad
 ||gobest.co.kr/img*/coupang-
 ||thewordcracker.com/wp-content/uploads/*/maintenance$image
 ||thewordcracker.com/wp-content/uploads/*/navercafe.webp
 ||thewordcracker.com/wp-content/uploads/*/BH_D.jpg
 ||ifh.cc^$domain=m-sooriya.tistory.com
-||wjdqhzld.com/wp-content/plugins/advanced-ads-pro/
 ||m-economynews.com/data/banner/
 /^https?:\/\/view[0-9]+\.wemep\.co\.kr\/wmp-banner\/[0-9]{2}\/[0-9]{6}\/[0-9]{2}\//$match-case,domain=wemakeprice.com
 /^https?:\/\/view[0-9]+\.wemep\.co\.kr\/wmp-main\/[0-9]{2}\/[0-9]{6}\/[0-9]{2}\/(pmt|pmb)_[a-z0-9]{12}\./$match-case,domain=wemakeprice.com
@@ -795,7 +791,6 @@ funbe276.com,funbe277.com,funbe278.com,funbe279.com,funbe280.com,funbe281.com,fu
 ||gamefocus.co.kr/img_mobile/bn_main_*_m.
 ||t1.daumcdn.net/kas/static/na.min.js$domain=~shoppinghow.kakao.com
 ||api.wikitree.co.kr/api/v1/getArticles.php?*&type=11&
-||blockmedia.co.kr/wp-content/plugins/advanced-ads/
 ||blockmedia.co.kr/wp-content/uploads/*/Blockfesta_*uprise.
 ||coronaboard.kr/images/square-banner
 ||gmarket.co.kr/Nbp/NbpInfo
@@ -1358,7 +1353,7 @@ funbe276.com,funbe277.com,funbe278.com,funbe279.com,funbe280.com,funbe281.com,fu
 /^https:\/\/torrentbot[0-9]+\.com\/uploadfile\/up[a-z0-9]+\.gif$/
 ||imgbox.com^$domain=ktxtorrent92.com|ktxtorrent93.com|ktxtorrent94.com|ktxtorrent95.com|ktxtorrent96.com|ktxtorrent97.com|ktxtorrent98.com|ktxtorrent99.com|ktxtorrent100.com|ktxtorrent101.com|ktxtorrent102.com|ktxtorrent103.com|ktxtorrent104.com|ktxtorrent105.com|ktxtorrent106.com
 ||static.filesbest.xyz^$domain=ktxtorrent92.com|ktxtorrent93.com|ktxtorrent94.com|ktxtorrent95.com|ktxtorrent96.com|ktxtorrent97.com|ktxtorrent98.com|ktxtorrent99.com|ktxtorrent100.com|ktxtorrent101.com|ktxtorrent102.com|ktxtorrent103.com|ktxtorrent104.com|ktxtorrent105.com|ktxtorrent106.com
-||static.filesbest.xyz^$domain=torrentrj109.com|torrentrj110.com|torrentrj111.com|torrentrj112.com|torrentrj113.com|torrentrj114.com|torrentrj115.com|torrentrj116.com|torrentrj117.com|torrentrj118.com|torrentrj119.com|torrentrj120.com|torrentrj121.com|torrentrj122.com|torrentrj123.com|torrentrj124.com
+||filesbest.xyz^$domain=torrentrj125.com|torrentrj126.com|torrentrj127.com|torrentrj128.com|torrentrj129.com|torrentrj130.com|torrentrj131.com|torrentrj132.com|torrentrj133.com|torrentrj134.com|torrentrj135.com|torrentrj136.com|torrentrj137.com|torrentrj138.com|torrentrj139.com|torrentrj140.com
 ||i.imgur.com^$domain=bobaelink53.xyz|bobaelink54.xyz|bobaelink55.xyz|bobaelink56.xyz|bobaelink57.xyz|bobaelink58.xyz|bobaelink59.xyz|bobaelink60.xyz|bobaelink61.xyz|bobaelink62.xyz|bobaelink63.xyz|bobaelink64.xyz
 ||filetender.com/mobon.html|
 /^https:\/\/(www\.)?filetender\.com\/images\/[0-9]{3,}(X|x)[0-9]{3,}-[0-9]{4}/
@@ -1445,7 +1440,7 @@ eegosa.com##section[id*="_ads_"]
 sports.donga.com##div[id*="_AD"]
 !
 m.clien.net##.board_recommended > a.list_item ~ div[class*=" "]
-youtu.co,dfast.kr,mememedia.co.kr,newautopost.co.kr###main > div[class*="-ad-"]
+thehousemagazine.kr,tminews.co.kr,maxmovie.kr,capress.kr,youtu.co,dfast.kr,mememedia.co.kr,newautopost.co.kr###main > div[class*="-ad-"]
 newautopost.co.kr###coupang-ad-wrapper
 www.dt.co.kr##.main_wrap > center > div[style*=" height:"]
 www.dt.co.kr##.article_view > div[style$="overflow:hidden"].img_center
@@ -2509,7 +2504,7 @@ torrentbam89.com,torrentbam90.com,torrentbam91.com,torrentbam92.com,torrentbam93
 torrentbot99.com,torrentbot100.com,torrentbot101.com,torrentbot102.com,torrentbot103.com,torrentbot104.com,torrentbot105.com,torrentbot106.com,torrentbot107.com,torrentbot108.com,torrentbot109.com,torrentbot110.com,torrentbot111.com,torrentbot112.com##a[href^="/go/"][target="_blank"]
 ktxtorrent92.com,ktxtorrent93.com,ktxtorrent94.com,ktxtorrent95.com,ktxtorrent96.com,ktxtorrent97.com,ktxtorrent98.com,ktxtorrent99.com,ktxtorrent100.com,ktxtorrent101.com,ktxtorrent102.com,ktxtorrent103.com,ktxtorrent104.com,ktxtorrent105.com,ktxtorrent106.com##img[src*=".imgbox.com/"]
 torrentsome104.com,torrentsome105.com,torrentsome106.com,torrentsome107.com,torrentsome108.com,torrentsome109.com,torrentsome110.com,torrentsome111.com,torrentsome112.com,torrentsome113.com,torrentsome114.com,torrentsome115.com,torrentsome116.com##a[href^="/go/"][target="_blank"]
-torrentrj109.com,torrentrj110.com,torrentrj111.com,torrentrj112.com,torrentrj113.com,torrentrj114.com,torrentrj115.com,torrentrj116.com,torrentrj117.com,torrentrj118.com,torrentrj119.com,torrentrj120.com,torrentrj121.com,torrentrj122.com,torrentrj123.com,torrentrj124.com##a[href^="/go/"][target="_blank"]
+torrentrj125.com,torrentrj126.com,torrentrj127.com,torrentrj128.com,torrentrj129.com,torrentrj130.com,torrentrj131.com,torrentrj132.com,torrentrj133.com,torrentrj134.com,torrentrj135.com,torrentrj136.com,torrentrj137.com,torrentrj138.com,torrentrj139.com,torrentrj140.com##a[href^="/go/"][target="_blank"]
 bobaelink53.xyz,bobaelink54.xyz,bobaelink55.xyz,bobaelink56.xyz,bobaelink57.xyz,bobaelink58.xyz,bobaelink59.xyz,bobaelink60.xyz,bobaelink61.xyz,bobaelink62.xyz,bobaelink63.xyz,bobaelink64.xyz##a[href^="/ad-"]
 uuoobe.com##td[valign="top"] ~ td[width][valign][bgcolor][align] table[width][height][border][cellpadding]
 uuoobe.com##table[width][cellspacing] td[valign="top"] table[width][border="0"] td[height="100"]
@@ -2601,7 +2596,7 @@ auto.danawa.com#%#//scriptlet('set-constant', 'NAVER_ADPOST_V2', 'noopFunc')
 !#endif
 !#if (adguard && !adguard_ext_android_cb)
 mlbpark.donga.com#$#div[id^="SmartPhone_"][id$="_today"] .lists > li::before { padding-top: 0px !important; border-bottom: none !important; }
-youtu.co,dfast.kr,mememedia.co.kr,newautopost.co.kr#$#.news-view-wrap { padding-top: 0px !important; }
+thehousemagazine.kr,tminews.co.kr,maxmovie.kr,capress.kr,youtu.co,dfast.kr,mememedia.co.kr,newautopost.co.kr#$#.news-view-wrap { padding-top: 0px !important; }
 gall.dcinside.com#$##zzbang_img { display: block !important; }
 tgd.kr#$#html[style*="background-image: url(//upload.tgd.kr/"].darkmode { background-image: none !important; background-color: #151515 !important; }
 tgd.kr#$#html[style*="background-image: url(//upload.tgd.kr/"]:not(.darkmode) { background-image: none !important; background-color: #f3f2f0 !important; }

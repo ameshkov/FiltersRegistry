@@ -2317,6 +2317,7 @@ cmp.chip.de,cmpv2.netdoktor.ch,cmp.videogameschronicle.com,cmp.svd.se,cmpsp.game
 !
 ! NOTE: Regular rules
 !
+bike24.*#%#//scriptlet('trusted-click-element', '.cookie-consent-modal-simple-footer__buttons-wrapper > button.cookie-consent-modal-simple-footer__button:last-child')
 newsflare.com##.nf-cookie-consent
 itvbd.com##.cookies-eu-banner
 topsporter.net##.penci-wrap-gprd-law
@@ -13569,6 +13570,7 @@ privacy.lecker.de#%#AG_onLoad(function(){if(!document.cookie.includes("euconsent
 privacy.madame.de#%#AG_onLoad(function(){if(!document.cookie.includes("euconsent-v2")){var g=new MutationObserver(function(){setTimeout(function(){var b=document.querySelector('button.no-children[path="\[0,2,1\]"]');b&&b.click();},300);setTimeout(function(){var c=document.querySelector('div[title="Berechtigte Interessen"]'); c&&c.click();},300);setTimeout(function(){var d=document.querySelectorAll('label[aria-checked="true"] > .off'); d.forEach(function(d){d.click();});},800); var f=document.querySelector('button.no-children[path="\[0,3,0\]"]'); setTimeout(function(){f&&f.click();},1000);});g.observe(document,{childList:!0,subtree:!0});setTimeout(function(){g.disconnect()},3E4)}});
 consent.ladbible.com,consent.gamingbible.co.uk,consent.unilad.co.uk#%#AG_onLoad(function(){if(window.location.href.includes("consentUUID")){var g=new MutationObserver(function(){var b=document.querySelector('button[title*="Accept" i]');b&&(g.disconnect(),b.click())});g.observe(document,{childList:!0,subtree:!0});setTimeout(function(){g.disconnect()},1E4)}});
 !
+allelebensmittel.de#%#//scriptlet('trusted-set-local-storage-item', 'cookiesAcceptStatus', 'DECLINED')
 formulatv.com#%#//scriptlet('trusted-click-element', '.fc-consent-root button.fc-confirm-choices')
 guru3d.com#%#//scriptlet('trusted-set-cookie', 'contentteller_youtubeconsent', '%7B%22Provider%22%3A%22YouTube%22%2C%22Consent%22%3A%22TRUE%22%7D')
 thelastfaithgame.com#%#//scriptlet('trusted-set-cookie', '_gdpr_lastfaith', '%7B%22necessary%22%3Atrue%2C%22performance%22%3Afalse%7D')
@@ -13942,7 +13944,6 @@ humboldtforum.org#%#//scriptlet('set-cookie', 'acceptCookie', 'true')
 hometogo.de#%#(function(){document.cookie.includes("cookie_consent=")||(document.cookie='cookie_consent={"timestamp":'+Date.now()+',"functional":true,"analytical":false,"marketing":false,"names":{"localStorage":{"analyticsdata":0,"analyticslastAction":0},"cookie":{"bftul":0},"thirdParty":{"facebookTracking":0,"hotJar":0,"trustBadge":0,"braze":0,"gtm_a_adup":0,"gtm_a_bing":0,"gtm_a_ctri":0,"gtm_a_fb":0,"gtm_a_ga":0,"gtm_a_gads":0,"gtm_a_pin":0,"gtm_a_tvsq":0,"gtm_a_yand":0,"gtm_m_adup":0,"gtm_m_crit":0,"gtm_m_gads":0,"gtm_m_myta":0,"gtm_m_rtbh":0,"gtm_m_tabo":0,"gtm_a_tiktok":0,"adcellTracking":0,"tradetrackerTracking":0}}}')})();
 allmusicitalia.it#%#//scriptlet("set-constant", "initCookieConsent", "noopFunc")
 cam.start.canon#%#//scriptlet('set-cookie', 'user_accepts_cookies', 'false')
-bike24.*#%#(function(){document.cookie.includes("cookieConsent=")||(document.cookie='cookieConsent={"algolia":false,"basket-store":true,"emarsys":false,"google-ga":false,"google-optimize":false,"google-tm":false,"trbo":false,"zenloop":false}; path=/;')})();
 mag.lexus.co.uk#%#//scriptlet("set-cookie", "viewed_cookie_policy", "yes")
 mag.lexus.co.uk#%#//scriptlet("set-cookie", "cookielawinfo-checkbox-necessary", "yes")
 mag.lexus.co.uk#%#//scriptlet("set-cookie", "cookielawinfo-checkbox-advertisement", "yes")
@@ -20202,6 +20203,7 @@ scitechdaily.com,thewindowsclub.com#@#.ad-space
 ! Do not forget about '!#safari_cb_affinity' section for exclusions:
 ! LINK: AnnoyancesFilter/Popups/sections/antiadblock.txt#general
 !
+||static.qiota.com/assets/getQiota.js$domain=cosmopolitan.fr|beautyshow-by-kikomilano-cosmo.fr
 forx.mazen-ve3.com#%#//scriptlet('prevent-addEventListener', 'load', 'theModal')
 xanimu.com,familyporner.com,darknessporn.com,freepublicporn.com,pisshamster.com,punishworld.com#%#//scriptlet('remove-node-text', 'script', 'advert')
 crackwatcher.com#%#//scriptlet('set-constant', 'google_ad_modifications', 'emptyObj')
@@ -23054,6 +23056,8 @@ sanalkurs.net###toast-container > .toast-error[aria-live="assertive"]
 !
 ! SECTION: Popups - Regular rules
 !
+qiita.com#%#//scriptlet('set-cookie-reload', 'login_popup_displayed', 'false')
+qiita.com#%#//scriptlet('set-local-storage-item', 'next_optin_check_time', 'false')
 mspoweruser.com##.survey-bnr
 wikiwand.com##div[class^="navbar_sticky__"]
 lestore.lenovo.com##.pin-banner
@@ -30979,6 +30983,7 @@ newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,nordbayern.de,theloca
 !
 ! SECTION: Subscriptions - Regular rules
 !
+humanite.fr###form_humatinale
 gastronom.ru##div[class*="_subscribe"]
 community.fortinet.com#%#//scriptlet('set-cookie', 'forti.engagement_popup_banner', '1')
 edenland.com.ua###bg-popup
@@ -31004,6 +31009,7 @@ businessweekly.com.tw##.subscriptionEmailEDMv1
 reviewjournal.com#$#.amp-wp-header { margin-top: 0 !important; }
 reviewjournal.com#$##rjth-region-amp-above-article-content { display: none !important; }
 goelsds.de#$#div[style*="klaviyo-fadein"][style*="background-color: rgb"] { display: none !important; }
+cnnindonesia.com##.fixed.bottom-0.text-cnn_black
 cnnindonesia.com##.wtfact
 reason.com##.single-newsletter-signup
 infocar.ua###subscribe-from

@@ -1,8 +1,8 @@
 !
-! Checksum: fuSOo40rx+gTBaVW/ryr5w
-! OriginalVersion: 202311290851
+! Checksum: +J/i3PfeSI1zw+Y6MqBzLQ
+! OriginalVersion: 202311291251
 ! Title: EasyList
-! Last modified: 29 Nov 2023 08:51 UTC
+! Last modified: 29 Nov 2023 12:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -47926,6 +47926,7 @@ browsershots.org#@#.advert_area
 ||wretcheddrunkard.com^
 ||wretchmilitantasia.com^
 ||wrevenuewasadi.info^
+||wrfkjw.com^
 ||wrgjbsjxb.xyz^
 ||wriedwite.uno^
 ||wrient.com^
@@ -58516,6 +58517,7 @@ healthshots.com###fitnessToolsAdBot
 thisismoney.co.uk###fiveDealsWidget
 mediafire.ec,point2homes.com,propertyshark.com###fixedban
 cnx-software.com###fixeddbar
+topsporter.net###fl-ai-widget-placement
 vscode.one###flamelab-convo-widget
 nanoreview.net###float-sb-right
 clintonherald.com,ottumwacourier.com,thetimestribune.com###floorboard_block
@@ -59438,6 +59440,7 @@ bramptonguardian.com,guelphmercury.com,insideottawavalley.com,niagarathisweek.co
 insideottawavalley.com##.adLabelWrapperManual
 bramptonguardian.com##.adSlot___3IQ8M
 drive.com.au##.adSpacing_drive-ad-spacing__g09um
+thestockmarketwatch.com##.adSpotPad
 healthnfitness.net##.adTrack
 sofascore.com##.adUnitBox
 dailyo.in##.adWrapp

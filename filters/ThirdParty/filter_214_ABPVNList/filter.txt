@@ -1,8 +1,8 @@
 !#if (adguard_ext_android_cb)
 ! version for AdGuard Content Blocker only
-! OriginalVersion: 20231129103741
+! OriginalVersion: 20231129192928
 ! Title: ABPVN List
-! Last modified: 29 Nov 2023 10:37:41 UTC+7
+! Last modified: 29 Nov 2023 19:29:28 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter
@@ -1399,6 +1399,7 @@ $third-party,script,domain=sexdiaryx.us
 ||media.vailonxx.co^*.gif
 ||mneydirec.com^
 ||phimsexsub.moe/wp-admin/admin-ajax.php?action=htmlcountry_get_data
+||phimsexsub.moe^*.gif$image
 ||phym18.org/static/js/adlia.js
 ||quatvn.vip/ads.js$script
 ||quoracdn.net^$image,domain=vlxx.xxx|vlxyz.tv|sieudamtv.com
@@ -1428,7 +1429,7 @@ buomtv.tv##.luq51lg.a13wihj
 cliphot69.biz###custom_html-42
 cliphotvn.2tenz.top##div[style^="position:fixed;inset:0px;z-index:100000;"]
 cliphotvn.2tenz.top,hls.playerfb.xyz###video_player ~ div[id]
-cliphotvn.pro,mobiblog.lol,cliphot69.biz,phevkl.cc##.float-ck-center-lt
+cliphotvn.pro,mobiblog.lol,cliphot69.biz,phevkl.biz##.float-ck-center-lt
 filemoon.sx##body>[style*="position: fixed;"]
 gaingon18.com###iklan-atas-wrapper
 gockhuat.net###ad_global_below_navbar
@@ -1444,8 +1445,8 @@ lxmanga.net##.ads-wrapper
 lxmanga.net##.preload-backdrop
 lxmanga.net##.preload-banner
 mobile.sexnhanh.co##.alldiv ~ div[class]
-phevkl.cc###mp-preload-popup-overlay
-phevkl.cc##.separator
+phevkl.biz###mp-preload-popup-overlay
+phevkl.biz##.separator
 phim.heo69.top##.catfix
 phim.sexabc.pro,sex.ngonvcl.pro,phim.sex24h.pro##.quangcaomobile
 phim18hd.biz,phim18vn.biz,phim18hd.me##.cash-fish
@@ -1509,9 +1510,9 @@ web11.sexphim1.com##.code-block-4
 !
 !#if (!adguard_ext_android_cb)
 ! version for all other AdGuard products
-! OriginalVersion: 20231129103741
+! OriginalVersion: 20231129192928
 ! Title: ABPVN List
-! Last modified: 29 Nov 2023 10:37:41 UTC+7
+! Last modified: 29 Nov 2023 19:29:28 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter
@@ -2896,6 +2897,7 @@ $third-party,script,domain=sexdiaryx.us
 ||media.vailonxx.co^*.gif
 ||mneydirec.com^
 ||phimsexsub.moe/wp-admin/admin-ajax.php?action=htmlcountry_get_data
+||phimsexsub.moe^*.gif$image
 ||phym18.org/static/js/adlia.js
 ||quatvn.vip/ads.js$script
 ||quoracdn.net^$image,domain=vlxx.xxx|vlxyz.tv|sieudamtv.com
@@ -2925,7 +2927,7 @@ buomtv.tv##.luq51lg.a13wihj
 cliphot69.biz###custom_html-42
 cliphotvn.2tenz.top##div[style^="position:fixed;inset:0px;z-index:100000;"]
 cliphotvn.2tenz.top,hls.playerfb.xyz###video_player ~ div[id]
-cliphotvn.pro,mobiblog.lol,cliphot69.biz,phevkl.cc##.float-ck-center-lt
+cliphotvn.pro,mobiblog.lol,cliphot69.biz,phevkl.biz##.float-ck-center-lt
 filemoon.sx##body>[style*="position: fixed;"]
 gaingon18.com###iklan-atas-wrapper
 gockhuat.net###ad_global_below_navbar
@@ -2941,8 +2943,8 @@ lxmanga.net##.ads-wrapper
 lxmanga.net##.preload-backdrop
 lxmanga.net##.preload-banner
 mobile.sexnhanh.co##.alldiv ~ div[class]
-phevkl.cc###mp-preload-popup-overlay
-phevkl.cc##.separator
+phevkl.biz###mp-preload-popup-overlay
+phevkl.biz##.separator
 phim.heo69.top##.catfix
 phim.sexabc.pro,sex.ngonvcl.pro,phim.sex24h.pro##.quangcaomobile
 phim18hd.biz,phim18vn.biz,phim18hd.me##.cash-fish
