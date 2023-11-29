@@ -67627,6 +67627,7 @@ _tracking.php?b=
 /analytics.js$domain=tokyometro.jp|resumes.breakdownexpress.com|techcult.com|inbox.lv|kopeda.com|freexcafe.com|rusvideos.tv|nakubani.ru|lun.com|songsara.net|newsmax.com|bolgehastanesi.com|ewtc.de|newsdig.tbs.co.jp|imore.com|city.kushiro.lg.jp|emeraldbridal.com.au|emarat-news.ae|imobie.jp|tikla.com.tr|rusvideos.porn|jrkyushu.co.jp|amiunique.org|edit.ing
 ||assets.adobedtm.com^$domain=mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com|nbcnews.com|kbb.com|eurosport.ru|timgate.it|intermiles.com|oxfordmail.co.uk|spiegel.de|hp.com|deutschepost.de|thebay.com|s.shufoo.net|tsn.ca|tabelog.com|euronews.com|newshub.co.nz|fredmeyer.com|viabcp.com|carsales.com.au|falabella.com|aarp.org|thehill.com|realtor.com|nzherald.co.nz
 !
+||nordbayern.de/scripts/drive-*.js
 ||reddit.com/static/pixel.png
 ||pcgames.de/bcommon/js/trckUtil
 ||cp.winfuture.de/stats
@@ -72773,7 +72774,6 @@ $app=com.miui.analytics
 ||ntracker-collector.naver.com^
 ||ace.naver.com^
 ! xiaomi
-||api.sec.intl.miui.com^
 ||authbe.sec.intl.miui.com^
 ||flash.sec.intl.miui.com^
 ||api.setting.intl.miui.com^
@@ -73698,7 +73698,8 @@ inapps.appsflyersdk.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/167176
 @@||speedcurve.com/js/lux.js$script,domain=tv8.it
 ! https://plus.nasa.gov/video/nasas-traveler-guide-to-near-light-speed-travel/
-@@||src.litix.io/videojs/*/videojs-mux.js$domain=plus.nasa.gov
+! https://github.com/easylist/easylist/commit/5110b58c023e45ad44dbb61535d3a64fa6d8725b#commitcomment-133472056
+@@||src.litix.io/videojs/*/videojs-mux.js$domain=nasa.gov
 ! https://github.com/AdguardTeam/AdguardFilters/issues/166896
 alternativeto.net#%#//scriptlet('prevent-element-src-loading', 'script', 'doubleclick.net')
 !+ PLATFORM(ios, ext_safari, ext_android_cb)
