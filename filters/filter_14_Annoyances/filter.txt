@@ -2936,7 +2936,7 @@ koenigsegg.com##section[data-component="n3-cookie-notice"]
 wellaware.eu##.popup--cookies
 reiseauskunft.insa.de##[id^="HFS_CookieHint"]
 youporn.com,redtube.com###cookie_banner_overlay
-youporn.com,redtube.com###cookie_consent_wrapper
+tube8.com,youporn.com,redtube.com###cookie_consent_wrapper
 gippo.by###cookiesManager
 aastocks.com###CookiePolicyMessage
 pornone.com##.cbann
@@ -37331,6 +37331,7 @@ turkishairlines.com,atmos-tokyo.com,radarbox.com,ciceksepeti.com,rabota.by,temp-
 ! https://github.com/AdguardTeam/AdguardFilters/issues/161301
 temu.com#?#div[role="main"] div[style] > div[style]:has(> div[style] div[js-selector="mobile-download-ui"])
 !
+m.richgo.ai##div[class^="AppDownloadBanner"]
 olx.in#?#main + div div[class^="_"]:has(> div > div > div > div > a[href^="https://apps.apple.com/in/app/olx-buy-sell-near-you/id913492792?"])
 m.hani.co.kr#%#//scriptlet('remove-class', 'no-scroll', 'body')
 m.hani.co.kr#$#.popup-wrap.is-active { display: none !important; }
@@ -47991,6 +47992,8 @@ newsweek.com##iframe[src="http://sns.europe.newsweek.com/newsletter?popup=1"]
 !##############################
 ! SECTION: Tweaks - JS
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/167091
+file-upload.in#%#//scriptlet('adjust-setInterval', 'timer', '*', '0.001')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/166721
 urlcut.ninja#%#//scriptlet('adjust-setInterval', 'pleasewait', '*', '0.001')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/166635
