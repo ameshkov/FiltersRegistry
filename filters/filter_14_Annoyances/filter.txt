@@ -2190,7 +2190,7 @@ allianz.de,easybib.com,st.com,mauijim.com,citationmachine.net,idevice.ro,tagheue
 ! ##div[aria-label="cookieconsent"]
 argyle.com,mous.co,treetotub.com,lff.bayern.de,playfulpromises.com,zyro.com,ignshop.hu,download.pixelexperience.org,waterdrop.com,exvital.de,mobile01.com,duckduckgo.merchmadeeasy.com,bear-family.com,r-pur.com,wstream.video##div[aria-label="cookieconsent"]
 ! ###cookie-box
-windowsdestek.com.tr,iplocation.io,engelli.com,cheatermad.com,arabateknik.com,dizihastasi.com,zamaninvarken.com,kriptoradar.com,morlevha.com,korsanedebiyat.com,stakingrewards.com,hockerty.de,izlemedia.com,tilki.net,mustafabukulmez.com,konuneydi.com,ozgunbilgi.com,bilisimogretmeni.com,azbuz.org,siberkalem.co,teknobird.com,ultrabilgi.com,buneymis.net,teknoxhaber.com,bilgilobi.com,aksaelektrik.com.tr,ergo.de,fosforludusunceler.com,kirtkirtla.com,denizcilikbilgileri.com,filmonerileri.org,dnschecker.org,krombacher.de###cookie-box
+windowsdestek.com.tr,iplocation.io,engelli.com,cheatermad.com,arabateknik.com,dizihastasi.com,zamaninvarken.com,kriptoradar.com,morlevha.com,korsanedebiyat.com,stakingrewards.com,hockerty.de,izlemedia.com,tilki.net,mustafabukulmez.com,konuneydi.com,ozgunbilgi.com,bilisimogretmeni.com,azbuz.org,siberkalem.co,teknobird.com,ultrabilgi.com,buneymis.net,teknoxhaber.com,bilgilobi.com,aksaelektrik.com.tr,ergo.de,fosforludusunceler.com,kirtkirtla.com,denizcilikbilgileri.com,dnschecker.org,krombacher.de###cookie-box
 ! ##.avia-cookie-consent
 catchbudapest.com,lc-nachhilfe.de,tredition.de,schiffchen-ahoi.de,kernsgalabau.de,octopus-itsm.com,sosort.org,bogaziciyonetim.istanbul,drivers.plus,readymade-furniture.de,schieb.de,my-digital-home.de,celesta-schiedmayer.de,sheerid.com,vantec.de,anlegen-in-immobilien.de##.avia-cookie-consent
 ! ##.policy
@@ -2317,6 +2317,8 @@ cmp.chip.de,cmpv2.netdoktor.ch,cmp.videogameschronicle.com,cmp.svd.se,cmpsp.game
 !
 ! NOTE: Regular rules
 !
+itvbd.com##.cookies-eu-banner
+topsporter.net##.penci-wrap-gprd-law
 baltimoresun.com##.osano-cm-dialog-custom
 ||cmp.inmobi.com^$domain=24.hu
 blue.vanmarcke.com#$##cookieModal { display: none !important; }
@@ -30976,6 +30978,8 @@ newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,nordbayern.de,theloca
 !
 ! SECTION: Subscriptions - Regular rules
 !
+gastronom.ru##div[class*="_subscribe"]
+community.fortinet.com#%#//scriptlet('set-cookie', 'forti.engagement_popup_banner', '1')
 edenland.com.ua###bg-popup
 edenland.com.ua###popup__messengers
 stuff.tv##.is-style-newsletter
@@ -45650,7 +45654,7 @@ spiegel.de##section[data-area="block>marketplace"]
 dtf.ru##.comments__show-all-always
 rickandmorty.cn-fan.tv###noVip
 rickandmorty.cn-fan.tv###vipRight
-super.abril.com.br##.widget_abril_barra_assine_widget
+veja.abril.com.br,super.abril.com.br##.widget_abril_barra_assine_widget
 simpsonsua.tv#?#.fullnews > center:has(> a[href$="subscribe.html"][target="_blank"])
 croxyproxy.rocks###infoBar
 eleminist.com##.aritceLayout__topBanner
@@ -49846,6 +49850,8 @@ dora-guide.com,codedosa.com,gradium.co.kr,semesters.in#%#//scriptlet("set-consta
 ! #%#//scriptlet("set-constant", 'disable_copy_ie', 'noopFunc')
 dora-guide.com,codedosa.com,gradium.co.kr,semesters.in#%#//scriptlet("set-constant", "disable_copy_ie", "noopFunc")
 !
+topsporter.net#%#//scriptlet('set-constant', 'cancelContextMenu', 'noopFunc')
+topsporter.net#%#//scriptlet('abort-on-property-write', 'ConsoleBan')
 tiktok.com#%#//scriptlet('prevent-addEventListener', 'keydown')
 pastepvp.org#%#//scriptlet('prevent-addEventListener', '/^(?:contextmenu|copy)$/', 'preventDefault')
 guiasaude.info#%#//scriptlet('abort-on-property-write', 'document.onkeydown')

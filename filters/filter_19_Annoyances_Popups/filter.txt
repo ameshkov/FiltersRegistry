@@ -12419,6 +12419,8 @@ newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,nordbayern.de,theloca
 !
 ! SECTION: Subscriptions - Regular rules
 !
+gastronom.ru##div[class*="_subscribe"]
+community.fortinet.com#%#//scriptlet('set-cookie', 'forti.engagement_popup_banner', '1')
 edenland.com.ua###bg-popup
 edenland.com.ua###popup__messengers
 stuff.tv##.is-style-newsletter

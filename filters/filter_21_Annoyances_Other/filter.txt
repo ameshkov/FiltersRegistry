@@ -5009,7 +5009,7 @@ spiegel.de##section[data-area="block>marketplace"]
 dtf.ru##.comments__show-all-always
 rickandmorty.cn-fan.tv###noVip
 rickandmorty.cn-fan.tv###vipRight
-super.abril.com.br##.widget_abril_barra_assine_widget
+veja.abril.com.br,super.abril.com.br##.widget_abril_barra_assine_widget
 simpsonsua.tv#?#.fullnews > center:has(> a[href$="subscribe.html"][target="_blank"])
 croxyproxy.rocks###infoBar
 eleminist.com##.aritceLayout__topBanner
@@ -9205,6 +9205,8 @@ dora-guide.com,codedosa.com,gradium.co.kr,semesters.in#%#//scriptlet("set-consta
 ! #%#//scriptlet("set-constant", 'disable_copy_ie', 'noopFunc')
 dora-guide.com,codedosa.com,gradium.co.kr,semesters.in#%#//scriptlet("set-constant", "disable_copy_ie", "noopFunc")
 !
+topsporter.net#%#//scriptlet('set-constant', 'cancelContextMenu', 'noopFunc')
+topsporter.net#%#//scriptlet('abort-on-property-write', 'ConsoleBan')
 tiktok.com#%#//scriptlet('prevent-addEventListener', 'keydown')
 pastepvp.org#%#//scriptlet('prevent-addEventListener', '/^(?:contextmenu|copy)$/', 'preventDefault')
 guiasaude.info#%#//scriptlet('abort-on-property-write', 'document.onkeydown')
