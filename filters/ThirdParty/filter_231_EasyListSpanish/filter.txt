@@ -1,8 +1,8 @@
 !
-! Checksum: NqT5F0hue6fzf7qutASxPw
-! OriginalVersion: 202311291651
+! Checksum: 0sUJuHbc393AgxpYXE0Uqg
+! OriginalVersion: 202311292051
 ! Title: EasyList Spanish
-! Last modified: 29 Nov 2023 16:51 UTC
+! Last modified: 29 Nov 2023 20:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1537,6 +1537,8 @@ elnuevogeorgia.com##.elementor-element-d45ce2c
 elnuevogeorgia.com##.elementor-element-d782763
 huffingtonpost.es##.entry__right-rail-width-placeholder
 adiariocr.com##.esdfp
+compraensanjuan.com##.espacio-publi
+compraensanjuan.com##.espacio-publi-google
 verepeliculas.com##.fake_player
 ejeprime.com##.featured_specials
 ahoraeg.com,arquimaster.com.ar,elperiodicodelaenergia.com,isanidad.com,jotdown.es,periodicolaperla.com,valencianews.es##.g

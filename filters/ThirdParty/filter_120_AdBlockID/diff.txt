@@ -1124,8 +1124,8 @@ crotpedia.net##+js(noeval-if, ads)
 62.182.80.253,klikmanga.com,komikgo.org,komikstation.co,sekaikomik.bio##+js(aeld, /^(?:load|click)$/, popMagic)
 ! Rule "62.182.80.253##+js(aopr, generateURL1)" converted to: "62.182.80.253#%#//scriptlet('ubo-aopr.js', 'generateURL1')"
 62.182.80.253##+js(aopr, generateURL1)
-! Rule "bacakomik.co,kiryuu.id,komikav.com,komikcast.ch,komikcastid.com,komikindo.tv,komikmoe.web.id,mangakita.net,manhwaindo.cfd,manhwaindo.id,ngomik.net,sekaikomik.bio,sektedoujin.cc,sheakomik.com##+js(nowoif)" converted to: "bacakomik.co,kiryuu.id,komikav.com,komikcast.ch,komikcastid.com,komikindo.tv,komikmoe.web.id,mangakita.net,manhwaindo.cfd,manhwaindo.id,ngomik.net,sekaikomik.bio,sektedoujin.cc,sheakomik.com#%#//scriptlet('ubo-nowoif.js')"
-bacakomik.co,kiryuu.id,komikav.com,komikcast.ch,komikcastid.com,komikindo.tv,komikmoe.web.id,mangakita.net,manhwaindo.cfd,manhwaindo.id,ngomik.net,sekaikomik.bio,sektedoujin.cc,sheakomik.com##+js(nowoif)
+! Rule "bacakomik.co,kiryuu.id,komikav.com,komikcast.lol,komikcastid.com,komikindo.tv,komikmoe.web.id,mangakita.net,manhwaindo.cfd,manhwaindo.id,ngomik.net,sekaikomik.bio,sektedoujin.cc,sheakomik.com##+js(nowoif)" converted to: "bacakomik.co,kiryuu.id,komikav.com,komikcast.lol,komikcastid.com,komikindo.tv,komikmoe.web.id,mangakita.net,manhwaindo.cfd,manhwaindo.id,ngomik.net,sekaikomik.bio,sektedoujin.cc,sheakomik.com#%#//scriptlet('ubo-nowoif.js')"
+bacakomik.co,kiryuu.id,komikav.com,komikcast.lol,komikcastid.com,komikindo.tv,komikmoe.web.id,mangakita.net,manhwaindo.cfd,manhwaindo.id,ngomik.net,sekaikomik.bio,sektedoujin.cc,sheakomik.com##+js(nowoif)
 ! Rule "shinigami.ae,shinigami.sh##+js(aopr, lepopup_vars)" converted to: "shinigami.ae,shinigami.sh#%#//scriptlet('ubo-aopr.js', 'lepopup_vars')"
 shinigami.ae,shinigami.sh##+js(aopr, lepopup_vars)
 ! Rule "mangakita.net##+js(aopr, popup_custom_data)" converted to: "mangakita.net#%#//scriptlet('ubo-aopr.js', 'popup_custom_data')"
