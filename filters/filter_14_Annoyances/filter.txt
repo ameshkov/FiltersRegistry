@@ -12662,7 +12662,7 @@ stealthex.io#?##root > footer + div[class] > .container > p > a[href="/privacy-p
 galaxus.fr,galaxus.de#?##__next > div[aria-hidden="true"][class]:not([data-layout-container]):empty:has(+div[data-test="cookieBanner"])
 erli.pl#?##root > div[class] > div[class] > div[class] > h4:contains(/^Zdecyduj o swojej prywatności$/):upward(3)
 timeline.com#?#body > div > div[class]:has(> div > div.branch-journeys-top > div[class] > div[class] > div[class] > a[href^="https://policy.medium.com/medium-privacy-policy-"])
-blog.bitsrc.io,thebolditalic.com,medium.datadriveninvestor.com,uxdesign.cc,eand.co,codeburst.io,primegaming.blog,infosecwriteups.com,medium.engineering,blog.discord.com,netflixtechblog.com,windscribe.com,medium.com,towardsdatascience.com#?#body > div:not([class]):not([id]) > div[class*=" "]:has(> div > div > div[class] > a[href^="https://policy.medium.com/medium-privacy-policy-"])
+open.nytimes.com,blog.bitsrc.io,thebolditalic.com,medium.datadriveninvestor.com,uxdesign.cc,eand.co,codeburst.io,primegaming.blog,infosecwriteups.com,medium.engineering,blog.discord.com,netflixtechblog.com,windscribe.com,medium.com,towardsdatascience.com#?#body > div:not([class]):not([id]) > div[class*=" "]:has(> div > div > div[class] > a[href^="https://policy.medium.com/medium-privacy-policy-"])
 kjell.com#?##content-container > div[class] > div[class]:matches-css(z-index: 10) > div[class] > div[class] > h4:contains(cookies):upward(4)
 glosbe.com#?#body > div[class] > div[id="cookieconsent-description"]:upward(1)
 dunckelfeld.de#?##gatsby-focus-wrapper > div > div[class*="css-"] > footer + div[class*="css-"] > div[class*="css-"] > div[class*="css-"] > p[class*="css-"] > a[href="/datenschutz"]:upward(4)
@@ -27946,7 +27946,7 @@ minds.com##.m-modal-bg
 minds.com##.m-modal-container
 oleole.pl,euro.com.pl#%#document.cookie = "exitIntent=session; path=/;";
 nzz.ch###c1notification
-root-s.co.jp,hiro-clinic.or.jp,dmxq.fun,yanmaga.jp,delandis.co.kr,anti-malware.ru,rgmechanics.com,boxerdergisi.com.tr,85.114.138.56,enzahome.com.tr,isralove.org,liniakino.com###popup
+lollty.pro,root-s.co.jp,hiro-clinic.or.jp,dmxq.fun,yanmaga.jp,delandis.co.kr,anti-malware.ru,rgmechanics.com,boxerdergisi.com.tr,85.114.138.56,enzahome.com.tr,isralove.org,liniakino.com###popup
 partnerkin.com##.twidget
 dasding.de###modal-whatsapp
 dasding.de###modal-whatsapp + .modal-backdrop
@@ -31428,7 +31428,7 @@ itmedia.co.jp##.cmsBodyItmidSeriesButtonRegist
 wokularach.pl#%#//scriptlet('trusted-set-local-storage-item', 'modal_newsletter', '{"status":false}')
 wokularach.pl#$?#div[class^="sc-"] > div[style="display:contents"] > div[class^="sc-"]:has(> section[class^="sc-"] form label[for="newsletter"]) { visibility: hidden !important; height: 0 !important; }
 happymag.tv##.subscribe-home-footer
-labs.guard.io,thebolditalic.com,infosecwriteups.com,medium.datadriveninvestor.com,betterprogramming.pub,medium.com##div[role="dialog"] ~ div > div[style="bottom: 0px;"]
+open.nytimes.com,labs.guard.io,thebolditalic.com,infosecwriteups.com,medium.datadriveninvestor.com,betterprogramming.pub,medium.com##div[role="dialog"] ~ div > div[style="bottom: 0px;"]
 eltiempo.com##.container__boton-whatsapp
 eltiempo.com##.canales-whatsapp
 descargaseriestv.com##.entry-content > p[style] > a[href="https://www.youtube.com/@rodrigocasper253/videos"]
@@ -43889,8 +43889,7 @@ ya.ru##.search3__inner > div.link-bro
 disk.yandex.by,disk.yandex.com,disk.yandex.com.tr,disk.yandex.fr,disk.yandex.kz,disk.yandex.ru,yadi.sk#$#html { overflow: auto !important; padding-right: 0 !important; }
 disk.yandex.by,disk.yandex.com,disk.yandex.com.tr,disk.yandex.fr,disk.yandex.kz,disk.yandex.ru,yadi.sk#$#body { overflow: auto !important; padding-right: 0 !important; }
 disk.yandex.by,disk.yandex.com,disk.yandex.com.tr,disk.yandex.fr,disk.yandex.kz,disk.yandex.ru,yadi.sk#$#body[style="padding-right: 0px; overflow: hidden;"] > div[class*="Fullscreen_root_"] { display: none !important; }
-disk.yandex.*#$#.InfoSpace > div.InfoSpace__Footer > div.InfoSpace__Text ~ * { display: none !important; }
-disk.yandex.*#%#//scriptlet('remove-attr', 'href', '.InfoSpace[href^="https://360.yandex."][href*="/premium-plans?"]')
+disk.yandex.ru##.InfoSpace_discount
 !
 ! Yandex.Pogoda
 yandex.*##.meteum-promo
@@ -47447,6 +47446,8 @@ eiga.com##.header-pure-banner
 !##############################
 ! SECTION: Tweaks - CSS
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/167083
+novelas-brasilieras.ru#$#.header { margin-bottom: 0px !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/166077
 automoto.it,moto.it#$#body > div#main-content { padding-top: 0px !important; }
 ! https://github.com/uBlockOrigin/uAssets/discussions/17361#discussioncomment-7478083
