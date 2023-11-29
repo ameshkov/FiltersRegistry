@@ -80,6 +80,7 @@
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||lehrer-finden.de^
 ||lokalwerben.t-online.de^
 ||quartermedia-ad-service.net^
 ||ad.dl.mainpost.de^
@@ -2329,6 +2330,11 @@ formel1.de,krautundrueben.de,motorsport-total.com,traktorpool.de,fnweb.de,laborj
 !
 !
 !
+focus.de##article[data-placement]
+focus.de##article[data-placement] + script + .block-line
+focus.de#?#div:has(> .OUTBRAIN:only-child)
+focus.de##div[style*="display: none !important;"] + .block-line
+pcgames.de##.rgTable
 infranken.de#?#.listing-item:has(> article[class*="lp_partnerangebote"] .post-content > .post-location > span:contains(Anzeige))
 stol.it##div[class^="AdSuperBanner__SuperBannerContainer"]
 netdoktor.ch##.footer-ad-container
