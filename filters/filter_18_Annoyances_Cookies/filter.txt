@@ -2317,6 +2317,7 @@ cmp.chip.de,cmpv2.netdoktor.ch,cmp.videogameschronicle.com,cmp.svd.se,cmpsp.game
 !
 ! NOTE: Regular rules
 !
+newsflare.com##.nf-cookie-consent
 itvbd.com##.cookies-eu-banner
 topsporter.net##.penci-wrap-gprd-law
 baltimoresun.com##.osano-cm-dialog-custom
@@ -3285,7 +3286,7 @@ gazetememur.com###cb-cookie-banner
 sahadan.com,mackolik.com##.cookie-consent-rectangle-wrapper
 wionews.com,zeenews.india.com###cookiepolicy-wrap
 slevomat.cz##.message-overlay--cookie
-rahulsha.com.np###ckBox
+mrfreemium.blogspot.com,rahulsha.com.np###ckBox
 krystalhosting.com,krystal.uk##.crumbs-banner
 longdo.com##.consent-div
 artnet.com##.cookies-banner
@@ -4111,7 +4112,7 @@ idw.de##.cookie-manager__overlay
 devicespecifications.com#$#body { overflow: auto !important; }
 devicespecifications.com#$#div[id^="window_cookie_consent_"] { display: none !important; }
 facetxl.pl,kobietaxl.pl##.cookie_al
-eobuv.sk,eobuwie.com.pl,epantofi.ro,obuvki.bg,eschuhe.at,eobuv.com.ua,ecipele.hr,chaussures.fr,epapoutsia.gr,eapavi.lv,eavalyne.lt,zapatos.es,eobutev.si##.modal-consents
+eschuhe.ch,eobuv.cz,eschuhe.de,ecipo.hu,escarpe.it,eskor.se,eobuv.sk,evzuttya.com.ua,eobuwie.com.pl,epantofi.ro,obuvki.bg,eschuhe.at,eobuv.com.ua,ecipele.hr,chaussures.fr,epapoutsia.gr,eapavi.lv,eavalyne.lt,zapatos.es,eobutev.si##.modal-consents
 modivo.pl##body .plate-cookies
 theupgradeguide.com##.stpd_cmp
 turkishairlines.com###cookieWarningMessageNew
@@ -9707,7 +9708,7 @@ coral.ru##.cookieAgreement
 jugendhilfeportal.de,volksbund.de###ig-cookie-simple
 brillen-sehhilfen.de###datenschutzhinweis
 qdoc.tips###QDOCTIPS_cookie_box
-samcomsys.ru,tukas.com.tr,andreaminini.com,rbc.ua,vikingtemizlik.com.tr##.privacy
+potluck.de,samcomsys.ru,tukas.com.tr,andreaminini.com,rbc.ua,vikingtemizlik.com.tr##.privacy
 geberit.com.tr##.page-hint-box
 fiverr.com###react-cookie-approval
 badisches-tagblatt.de###m_wctrlCookieConsent
