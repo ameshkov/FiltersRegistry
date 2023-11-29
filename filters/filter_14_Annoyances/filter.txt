@@ -13680,7 +13680,7 @@ sportdeutschland.tv#%#//scriptlet('set-constant', '__tcfapi', 'noopFunc')
 androidacy.com#%#//scriptlet('trusted-click-element', '.qc-cmp2-container .qc-cmp2-close-icon')
 motopedia.otomoto.pl#%#//scriptlet('set-cookie', 'cc-cookie-accept', 'false')
 eurogrow.es#%#//scriptlet('set-constant', 'hiCookieLaw', 'emptyObj')
-the-express.com,tvi.iol.pt,cnnportugal.iol.pt,mirror.co.uk#%#//scriptlet('trusted-click-element', '.qc-cmp2-summary-buttons > button[mode="primary"]')
+thefunpost.com,the-express.com,tvi.iol.pt,cnnportugal.iol.pt,mirror.co.uk#%#//scriptlet('trusted-click-element', '.qc-cmp2-summary-buttons > button[mode="primary"]')
 nrj-play.fr,movilzona.es,softonic.com#%#//scriptlet('trusted-click-element', '.didomi-consent-popup-actions > button.didomi-components-button:not(.highlight-button)')
 nrj-play.fr,movilzona.es,softonic.com#%#//scriptlet('trusted-click-element', '#didomi-notice-learn-more-button')
 idmobile.co.uk#%#//scriptlet('trusted-click-element', '.banner-actions-container > button#onetrust-accept-btn-handler')
@@ -14893,6 +14893,10 @@ adguard.info,adguard.com,adguard.app##.hello_from_adguard_annoyances_cookies
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/167320
+@@||cmp.inmobi.com/choice/*/choice.js$domain=thefunpost.com
+@@||cmp.inmobi.com/tcfv2/*.js$domain=thefunpost.com
+@@||cmp.inmobi.com/*/vendor-list-*.json$domain=thefunpost.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/167369
 @@||airindia.com/content/air-india/*/cookie-policy/*/envconfig.model.json
 ! https://github.com/AdguardTeam/AdguardFilters/issues/167112
