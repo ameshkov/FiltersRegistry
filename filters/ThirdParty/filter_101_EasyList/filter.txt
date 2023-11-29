@@ -1,8 +1,8 @@
 !
-! Checksum: +J/i3PfeSI1zw+Y6MqBzLQ
-! OriginalVersion: 202311291251
+! Checksum: JKRX3b7TPTwWda0EOVbiGw
+! OriginalVersion: 202311291650
 ! Title: EasyList
-! Last modified: 29 Nov 2023 12:51 UTC
+! Last modified: 29 Nov 2023 16:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21616,6 +21616,7 @@ browsershots.org#@#.advert_area
 ||artisticcount.pro^
 ||artistperhapscomfort.com^
 ||artlessdevote.com^
+||artonsbewasand.com^
 ||artpever.com^
 ||artreconnect.com^
 ||artsrookpassed.com^
@@ -22759,6 +22760,7 @@ browsershots.org#@#.advert_area
 ||best-offer-for-you.com^
 ||best-prize.life^
 ||best-protection4.me^
+||best-seat.pro^
 ||best-vpn-app.com^
 ||best-vpn.click^
 ||bestabprivily.com^
@@ -27208,6 +27210,7 @@ browsershots.org#@#.advert_area
 ||dzjnejsffqqih.com^
 ||dzjv9gbu8a.com^
 ||dzkpopetrf.com^
+||dzliege.com^
 ||dzuaxfdziswu.com^
 ||dzubavstal.com^
 ||dzuowpapvcu.com^
@@ -27225,6 +27228,7 @@ browsershots.org#@#.advert_area
 ||e2ertt.com^
 ||e2fc6f14d8.com^
 ||e335udnv6drg78b7.com^
+||e46271be93.com^
 ||e499799158.com^
 ||e4f820396d.com^
 ||e4nglis56hcoo5nhou6nd.com^
@@ -29604,6 +29608,7 @@ browsershots.org#@#.advert_area
 ||gammamkt.com^
 ||gandmotivatin.info^
 ||gandrad.org^
+||gangedapneal.digital^
 ||gangsterflyerillegimateillegimate.com^
 ||gangstervideoethnic.com^
 ||gangueswipes.top^
@@ -30051,6 +30056,7 @@ browsershots.org#@#.advert_area
 ||glocmauy.xyz^
 ||glogoowo.net^
 ||glokta.info^
+||glomocon.xyz^
 ||gloodain.net^
 ||gloodsie.com^
 ||gloogeed.xyz^
@@ -30520,6 +30526,7 @@ browsershots.org#@#.advert_area
 ||gtdmtjebafo.com^
 ||gthfwcjhbxbq.xyz^
 ||gtiqmsbpor.com^
+||gtitcah.com^
 ||gtoonfd.com^
 ||gtsads.com^
 ||gtudkfe.com^
@@ -31766,6 +31773,7 @@ browsershots.org#@#.advert_area
 ||ikxxgkpymja.com^
 ||ilaterdeallyi.info^
 ||ilaterdeallyig.info^
+||ilawitrototlet.com^
 ||ileacfaretta.digital^
 ||ilealscathes.com^
 ||ileeckut.com^
@@ -32547,6 +32555,7 @@ browsershots.org#@#.advert_area
 ||jagqrhvcvoqjw.com^
 ||jaigaivi.xyz^
 ||jailabridge.com^
+||jainapse.com^
 ||jainbagong.com^
 ||jaireehu.net^
 ||jakescribble.com^
@@ -33665,6 +33674,7 @@ browsershots.org#@#.advert_area
 ||lairdsnorthen.store^
 ||laiwhost.net^
 ||lajhfyqusf.com^
+||lajjuqamcwax.com^
 ||lajouly.com^
 ||lakequincy.com^
 ||lakfbvoskxlc.com^
@@ -34125,6 +34135,7 @@ browsershots.org#@#.advert_area
 ||lionelimburse.com^
 ||lionesssupercatering.com^
 ||lionporcelain.com^
+||lipidicchaoush.com^
 ||lippedabyssal.com^
 ||lipsate.com^
 ||liqenoftcgfqw.com^
@@ -38066,6 +38077,7 @@ browsershots.org#@#.advert_area
 ||panjabicocklet.website^
 ||pannamdashee.com^
 ||pannumregnal.com^
+||panoz.xyz^
 ||pansymerbaby.com^
 ||pantafives.com^
 ||pantdentaldonate.com^
@@ -38870,7 +38882,6 @@ browsershots.org#@#.advert_area
 ||plauna.com^
 ||play5play1.com^
 ||playairplanerighty.com^
-||playamopartners.com^
 ||playbook88a2.com^
 ||playboyconformhusband.com^
 ||playeranyd.org^
@@ -40565,6 +40576,7 @@ browsershots.org#@#.advert_area
 ||reajyu.net^
 ||real-consequence.pro^
 ||real-difficulty.pro^
+||realescowbell.com^
 ||realevalbs.com^
 ||realityamorphous.com^
 ||realizesensitivenessflashlight.com^
@@ -41634,6 +41646,7 @@ browsershots.org#@#.advert_area
 ||ruperparverew.xyz^
 ||ruptionverst.space^
 ||rural-patience.com^
+||rural-report.pro^
 ||rurate.com^
 ||rurber.com^
 ||rurbie.com^
@@ -44325,6 +44338,7 @@ browsershots.org#@#.advert_area
 ||techahv.com^
 ||techclicks.net^
 ||techiteration.com^
+||techniciancocoon.com^
 ||technicianforestallproper.com^
 ||technologycontemplate.com^
 ||technoratimedia.com^
@@ -48649,6 +48663,7 @@ browsershots.org#@#.advert_area
 ||zaicasoawoul.com^
 ||zaistaug.net^
 ||zakaheggment.com^
+||zakbyajklqare.top^
 ||zakbyajklqzyz.top^
 ||zalawqsahn.com^
 ||zaltaumi.net^
@@ -49961,6 +49976,7 @@ browsershots.org#@#.advert_area
 ||persevered.com^$third-party
 ||pixeltrack66.com^$third-party
 ||placeiq.com^$third-party
+||playamopartners.com^$third-party
 ||playmatic.video^$third-party
 ||playtem.com^$third-party
 ||pointclicktrack.com^$third-party

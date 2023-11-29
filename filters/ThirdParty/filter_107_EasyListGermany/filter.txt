@@ -1,7 +1,7 @@
 !
-! OriginalVersion: 202311290130
+! OriginalVersion: 202311291503
 ! Title: EasyList Germany
-! Last modified: 29 Nov 2023 01:30 UTC
+! Last modified: 29 Nov 2023 15:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -612,7 +612,7 @@ kochbar.de#@#[name^="google_ads_iframe"]
 11freunde.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 11freunde.de,gofeminin.de#@#a[href^="https://pubads.g.doubleclick.net/"]
 telekom.de#@#a[href^="https://track.adform.net/"]
-onvista.de#@#a[href^="https://www.financeads.net/tc.php?"]
+onvista.de,topdepot24.de#@#a[href^="https://www.financeads.net/tc.php?"]
 11freunde.de,manager-magazin.de#@#div[data-google-query-id]
 wetter.com#@#div[id^="div-gpt-"]
 ! ---------------------------Third-party Werbeserver---------------------------!
@@ -3471,7 +3471,7 @@ suedtirol.de,tirol.de##.angebot-der-woche-slider
 bauernzeitung.ch##.anriss-item-advert
 musiker-board.de,recording.de##.anz
 musiker-board.de##.anzC
-112-magazin.de,drwindows.de,filmpost.de,gesetzlichekrankenkassen.de,helles-koepfchen.de,lehrerfreund.de,medizin-netz.de,ntg24.de,oekotest.de,oktoberfestportal.de,pharmazeutische-zeitung.de,radsport-news.com,sportal.de,touristik-aktuell.de,tweakpc.de,vhs-ol.de##.anzeige
+112-magazin.de,drwindows.de,filmpost.de,gesetzlichekrankenkassen.de,helles-koepfchen.de,lehrerfreund.de,medizin-netz.de,ntg24.de,oekotest.de,oktoberfestportal.de,pharmazeutische-zeitung.de,radsport-news.com,sportal.de,stuttgarter-zeitung.de,touristik-aktuell.de,tweakpc.de,vhs-ol.de##.anzeige
 ntg24.de##.anzeige + .slider
 ntg24.de##.anzeige + p
 designtagebuch.de##.anzeige-links
