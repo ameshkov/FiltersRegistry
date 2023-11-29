@@ -1,7 +1,7 @@
 !
-! OriginalVersion: 202311290017
+! OriginalVersion: 202311290207
 ! Title: EasyPrivacy
-! Last modified: 29 Nov 2023 00:17 UTC
+! Last modified: 29 Nov 2023 02:07 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 !
@@ -12233,7 +12233,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ! Georgian
 ||links.boom.ge^
 ! Greek
-||analytics.skroutz.gr^
 ||glami.gr/js/compiled/pt.js
 ||kwikmotion.com^*/videojs-kwikstat.min.js
 ! Hebrew
@@ -13856,6 +13855,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats-jobstreet-sg-en-prod.supercharge-srp.co^$domain=jobstreet.com.sg
 ||stats.aerotime.aero^
 ||stats.calcalist.co.il^
+||stats.codeur.com^
 ||stats.davidickedelivery.com^
 ||stats.gateio.ch^
 ||stats.ibtimes.co.in^

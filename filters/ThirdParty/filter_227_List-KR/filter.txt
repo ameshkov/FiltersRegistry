@@ -1,7 +1,7 @@
 !
 ! Title: List-KR for AdGuard
 ! Description: List-KR for AdGuard. Maintained by the adblock community and AdGuard.
-! OriginalVersion: 2023.1128.4
+! OriginalVersion: 2023.1129.1
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! Support: https://github.com/List-KR/List-KR/issues/223
@@ -1444,6 +1444,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.clien.net##.board_recommended > a.list_item ~ div[class*=" "]
 youtu.co,dfast.kr,mememedia.co.kr,newautopost.co.kr###main > div[class*="-ad-"]
 newautopost.co.kr###coupang-ad-wrapper
 www.dt.co.kr##.main_wrap > center > div[style*=" height:"]
@@ -2599,9 +2600,9 @@ auto.danawa.com#%#//scriptlet('set-constant', 'NAVER_ADPOST_V2', 'noopFunc')
 !#endif
 !#endif
 !#if (adguard && !adguard_ext_android_cb)
+mlbpark.donga.com#$#div[id^="SmartPhone_"][id$="_today"] .lists > li::before { padding-top: 0px !important; border-bottom: none !important; }
 youtu.co,dfast.kr,mememedia.co.kr,newautopost.co.kr#$#.news-view-wrap { padding-top: 0px !important; }
 gall.dcinside.com#$##zzbang_img { display: block !important; }
-mlbpark.donga.com#$##SmartPhone_bullpen_today .lists > li::before { padding-top: 0px !important; border-bottom: none !important; }
 tgd.kr#$#html[style*="background-image: url(//upload.tgd.kr/"].darkmode { background-image: none !important; background-color: #151515 !important; }
 tgd.kr#$#html[style*="background-image: url(//upload.tgd.kr/"]:not(.darkmode) { background-image: none !important; background-color: #f3f2f0 !important; }
 m.sports.chosun.com,m.sportschosun.com#$##wrap > div[style*="height:"][style^="position:"] + header { margin-top: 0px !important; }

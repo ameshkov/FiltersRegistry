@@ -762,6 +762,10 @@ withings.com##+js(set-cookie, withings_cookieconsent_dismissed, 1)
 withings.com##+js(set-cookie, cookieconsent_advertising, false)
 ! Rule "withings.com##+js(set-cookie, cookieconsent_statistics, false)" converted to: "withings.com#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_statistics', 'false')"
 withings.com##+js(set-cookie, cookieconsent_statistics, false)
+! Rule "blista.de##+js(set-cookie, cookieconsent_statistics,  no)" converted to: "blista.de#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_statistics', 'no')"
+blista.de##+js(set-cookie, cookieconsent_statistics,  no)
+! Rule "blista.de##+js(set-cookie, cookieconsent_essential, yes)" converted to: "blista.de#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_essential', 'yes')"
+blista.de##+js(set-cookie, cookieconsent_essential, yes)
 ! Rule "gift.be##+js(set-cookie, CP_ESSENTIAL, 1)" converted to: "gift.be#%#//scriptlet('ubo-set-cookie.js', 'CP_ESSENTIAL', '1')"
 gift.be##+js(set-cookie, CP_ESSENTIAL, 1)
 ! Rule "gift.be##+js(set-cookie, CP_PREFERENCES, 1)" converted to: "gift.be#%#//scriptlet('ubo-set-cookie.js', 'CP_PREFERENCES', '1')"
