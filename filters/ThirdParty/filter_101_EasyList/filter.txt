@@ -1,8 +1,8 @@
 !
-! Checksum: h1c0aU+Y0/ORFHEE33+A9w
-! OriginalVersion: 202311282051
+! Checksum: RgNUQvLhZx4Rsexf4ajPww
+! OriginalVersion: 202311290051
 ! Title: EasyList
-! Last modified: 28 Nov 2023 20:51 UTC
+! Last modified: 29 Nov 2023 00:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14590,6 +14590,7 @@ _800x80_
 ##.lblAdvert
 ##.ld-ad
 ##.ld-ad-inner
+##.ldm_ad
 ##.lead-ad
 ##.lead-ads
 ##.lead-advert
@@ -16084,6 +16085,7 @@ _800x80_
 ##.script-ad
 ##.scroll-ad-item-container
 ##.scroll-ads
+##.scroll-track-ad
 ##.scrolling-ads
 ##.sda_adbox
 ##.sdc-advert__top-1
@@ -17670,6 +17672,7 @@ _800x80_
 ##a[href^="http://click.payserve.com/"]
 ##a[href^="http://com-1.pro/"]
 ##a[href^="http://d2.zedo.com/"]
+##a[href^="http://deskfrontfreely.com/"]
 ##a[href^="http://go.xtbaffiliates.com/"]
 ##a[href^="http://googleads.g.doubleclick.net/pcs/click"]
 ##a[href^="http://li.blogtrottr.com/click?"]
@@ -24506,6 +24509,7 @@ browsershots.org#@#.advert_area
 ||chocolatebushbunny.com^
 ||choconart.com^
 ||choicedorm.top^
+||choiceencounterjackson.com^
 ||chokedsmelt.com^
 ||chokedstarring.com^
 ||chokeweaknessheat.com^
@@ -30892,6 +30896,7 @@ browsershots.org#@#.advert_area
 ||heathertravelledpast.com^
 ||heatpracticallyease.com^
 ||heavenexceed.com^
+||heavenfull.com^
 ||heavengenerate.com^
 ||heavenly-landscape.com^
 ||heavenly-test.pro^
@@ -39236,6 +39241,7 @@ browsershots.org#@#.advert_area
 ||pphauantic.com^
 ||ppixufsalgm.com^
 ||pplferio.com^
+||pplgwic.com^
 ||ppoommhizazn.com^
 ||ppovysmcycmwvv.com^
 ||pppbr.com^
@@ -42893,6 +42899,7 @@ browsershots.org#@#.advert_area
 ||smervyfenks.com^
 ||smfsojvsaxbgf.com^
 ||smg8oo4njst45oene.com^
+||smigdxy.com^
 ||smigro.info^
 ||smileoffennec.com^
 ||smiletkandol.com^
@@ -48397,6 +48404,7 @@ browsershots.org#@#.advert_area
 ||yfznypugeuunng.com^
 ||ygfytomneijjj.com^
 ||ygzkedoxwhqlzp.com^
+||yhbcii.com^
 ||yhgameofmu.xyz^
 ||yhhrtgltcfta.com^
 ||yhhthemostb.xyz^
@@ -51062,6 +51070,7 @@ browsershots.org#@#.advert_area
 ||chiltemeles.life^$popup
 ||chirtooxsurvey.top^$popup
 ||chl7rysobc3ol6xla.com^$popup
+||choiceencounterjackson.com^$popup
 ||chooxaur.com^$popup
 ||choto.xyz^$popup
 ||chpadblock.com^$popup
@@ -51275,6 +51284,7 @@ browsershots.org#@#.advert_area
 ||depirsmandk5.com^$popup
 ||derevya2sh8ka09.com^$popup
 ||desertsutilizetopless.com^$popup
+||deskfrontfreely.com^$popup
 ||desktopnotificationshub.com^$popup
 ||desperationembassy.com^$popup
 ||dexpredict.com^$popup
@@ -55018,6 +55028,7 @@ browsershots.org#@#.advert_area
 ||btr.domywife.com^
 ||c.bannerflow.net^
 ||c2shb.pubgw.yahoo.com^
+||caffeine.tv/embed/
 ||campaigns.williamhill.com^
 ||capital.com/widgets/$third-party
 ||careerwebsite.com/distrib_pages/jobs.cfm?
