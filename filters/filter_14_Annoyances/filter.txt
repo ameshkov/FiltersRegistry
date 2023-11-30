@@ -2317,6 +2317,8 @@ cmp.chip.de,cmpv2.netdoktor.ch,cmp.videogameschronicle.com,cmp.svd.se,cmpsp.game
 !
 ! NOTE: Regular rules
 !
+dealabs.com#%#//scriptlet('trusted-click-element', 'button[data-t="acceptAllBtn"]')
+gov.lv#%#//scriptlet('set-cookie', 'allowCookies', '0')
 lewor24.pl#$#body { overflow: auto !important; padding-right: 0 !important; }
 lewor24.pl#$##cookieModal { display: none !important; }
 lewor24.pl#$##cookieModal ~ div.modal-backdrop { display: none !important; }
@@ -14789,15 +14791,9 @@ praxis.nl#%#AG_onLoad(function(){if(window.location.href.includes("praxis.nl")){
 szkolenia.pfp.com.pl#%#if (typeof localStorage != 'undefined' && localStorage.setItem) { localStorage.setItem('persist:cookies', '{"isAccepted":"true"}'); };
 ! https://github.com/AdguardTeam/AdguardFilters/issues/167103
 sky.it#%#//scriptlet('trusted-click-element', 'button[title^="ACCETTA TUTTI I COOKIES"]')
-! TODO: remove when `trusted-click-element` will be available in all AdGuard release verions
-dealabs.com#%#AG_onLoad(function(){if(window.location.href.includes("dealabs.com")){var g=new MutationObserver(function(){var b=document.querySelector('button[data-t="acceptAllBtn"]');b&&b.click();});g.observe(document,{childList:!0,subtree:!0});setTimeout(function(){g.disconnect()},1E4)}});
 ! TODO: rewrite and move to top when https://github.com/AdguardTeam/Scriptlets/issues/284 is resolved
 thestrad.com#%#//scriptlet('trusted-click-element', '#notice .bottom-row button[title="Options"]')
 thestrad.com#%#//scriptlet('trusted-click-element', '.footer-policy button[title="Reject All"]')
-! TODO: remove when `trusted-click-element` will be available in all AdGuard release verions
-thestrad.com#%#setInterval(() => { Array.from(document.querySelectorAll('#notice .bottom-row button[title="Options"], .footer-policy button[title="Reject All"]')).forEach((e) => { try { e.click() } catch {}}, 500)})
-! TODO: remove when `trusted-click-element` will be available in all AdGuard release verions
-video.gazzetta.it,corriere.it#%#AG_onLoad(() => { new MutationObserver((mutationList, observer) => { mutationList.forEach((mutation) => { if (Array.from(mutation.addedNodes).some((e) => { return e.className == "privacy-cp-wall"})) { document.querySelector('.privacy-cp-wall #privacy-cp-wall-accept').click() }})}).observe(document.querySelector('body'), { childList: true })});
 ! https://github.com/AdguardTeam/AdguardFilters/issues/132219
 ! https://github.com/AdguardTeam/AdguardFilters/issues/131476
 ! It breaks login - instagram.com#%#//scriptlet('set-cookie-reload', 'ig_did', '1')
@@ -14908,6 +14904,11 @@ adguard.info,adguard.com,adguard.app##.hello_from_adguard_annoyances_cookies
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/167464
+!#if (adguard_ext_safari || adguard_app_ios || adguard_ext_android_cb)
+gov.lv#@##cookieConsent
+gov.lv#@#.cookie-wrapper
+!#endif
 ! https://github.com/AdguardTeam/AdguardFilters/issues/167402
 lewor24.pl#@##cookieModal
 ! https://github.com/uBlockOrigin/uAssets/issues/20966
