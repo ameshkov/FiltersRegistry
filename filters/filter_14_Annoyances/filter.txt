@@ -2317,6 +2317,11 @@ cmp.chip.de,cmpv2.netdoktor.ch,cmp.videogameschronicle.com,cmp.svd.se,cmpsp.game
 !
 ! NOTE: Regular rules
 !
+lewor24.pl#$#body { overflow: auto !important; padding-right: 0 !important; }
+lewor24.pl#$##cookieModal { display: none !important; }
+lewor24.pl#$##cookieModal ~ div.modal-backdrop { display: none !important; }
+flip.bg#$?#div[id$="_modal_outer_"]:has(> .cookie-modal) { display: none !important; }
+flip.bg#$#.modal-open { overflow: auto !important; }
 ekokoza.*#$##CookiesConfirmation { display: none !important; }
 ekokoza.*#$#body { overflow: auto !important; }
 quotidiano.net#%#//scriptlet('trusted-click-element', 'div[class="pt-icT"] #pt-actions > button:first-child, div[class="pt-icT pt-hUr"] #pt-actions > button:first-child')
@@ -14905,6 +14910,10 @@ adguard.info,adguard.com,adguard.app##.hello_from_adguard_annoyances_cookies
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/167402
+lewor24.pl#@##cookieModal
+! https://github.com/uBlockOrigin/uAssets/issues/20966
+flip.bg#@#.cookie-modal
 ! quotidiano.net - broken video
 @@||cmp.pubtech.ai/*/pubtech-cmp-v2.js$script,domain=quotidiano.net
 ! morgenpost.de - video broken
@@ -30992,6 +31001,7 @@ newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,nordbayern.de,theloca
 !
 ! SECTION: Subscriptions - Regular rules
 !
+upbeatcode.com#%#//scriptlet('set-session-storage-item', '', 'true')
 hostpro.ua##.hp_subscription
 smartpropertyinvestment.com.au###mailchimpSubscribeForm
 humanite.fr###form_humatinale
