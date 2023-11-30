@@ -2317,6 +2317,8 @@ cmp.chip.de,cmpv2.netdoktor.ch,cmp.videogameschronicle.com,cmp.svd.se,cmpsp.game
 !
 ! NOTE: Regular rules
 !
+ekokoza.*#$##CookiesConfirmation { display: none !important; }
+ekokoza.*#$#body { overflow: auto !important; }
 quotidiano.net#%#//scriptlet('trusted-click-element', 'div[class="pt-icT"] #pt-actions > button:first-child, div[class="pt-icT pt-hUr"] #pt-actions > button:first-child')
 gamestar.de#%#//scriptlet('trusted-click-element', '.cmp-accept', '', '300')
 bike24.*#%#//scriptlet('trusted-click-element', '.cookie-consent-modal-simple-footer__buttons-wrapper > button.cookie-consent-modal-simple-footer__button:last-child')
@@ -23061,6 +23063,8 @@ sanalkurs.net###toast-container > .toast-error[aria-live="assertive"]
 !
 ! SECTION: Popups - Regular rules
 !
+hostpro.ua##.hp-promo-container
+community.checkpoint.com###login-popup
 qiita.com#%#//scriptlet('set-cookie-reload', 'login_popup_displayed', 'false')
 qiita.com#%#//scriptlet('set-local-storage-item', 'next_optin_check_time', 'false')
 mspoweruser.com##.survey-bnr
@@ -30988,6 +30992,7 @@ newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,nordbayern.de,theloca
 !
 ! SECTION: Subscriptions - Regular rules
 !
+hostpro.ua##.hp_subscription
 smartpropertyinvestment.com.au###mailchimpSubscribeForm
 humanite.fr###form_humatinale
 gastronom.ru##div[class*="_subscribe"]
@@ -52074,6 +52079,7 @@ subbota.ua##aside.sidebar > div[id^="custom_html-"]
 !
 !   NOTE: Donation widgets (which are really annoying only)
 !
+||wisepops.net/loader.js$domain=civileats.com
 ||news.google.com/swg/js/v1/swg-basic.js$domain=wololo.net
 misskey.io##div[class="_panel _shadow xmiJR"][style="--1ab2fbc0: 1000100;"]
 kids-in-mind.com###main-content > .page > .entry-content > .et-l--post > .et_builder_inner_content > .et_pb_section > .et_pb_row_fullwidth.et_clickable
