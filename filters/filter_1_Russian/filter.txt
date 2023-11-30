@@ -7787,6 +7787,8 @@ fishki.net,hronika.info,meta.ua$$script[tag-content="window.AD_DOMAIN_URL_SYS"][
 !------- JS ------------
 !-----------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/167485
+online-fix.me#%#//scriptlet('trusted-replace-node-text', '#text', 'РЕКЛАМНЫЙ БЛОК:', 'РЕКЛАМНЫЙ БЛОК:', '')
 ! gameguru.ru
 gameguru.ru#%#//scriptlet('remove-node-text', 'script', 'adriver')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/165140
@@ -8357,7 +8359,7 @@ goodhouse.ru#$#.top_menu[style] { top: 0 !important; }
 ! ixbt.games - branding
 ixbt.games#$#body { background-color: #f2f2f2 !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/101489
-lafa.site#$#.wrapper-header { margin-top: 0!important; }
+lafa.site#$##wrapper { margin-top: 0 !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/99638
 ogorod.ru#$#.global-top-menus { margin-top: 0!important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/98569
