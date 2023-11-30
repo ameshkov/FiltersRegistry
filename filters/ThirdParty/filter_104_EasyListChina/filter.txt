@@ -13,6 +13,7 @@
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.alpha^$script,third-party
 -*-*-*-*.as^$script,third-party
+/os2023001.oss-$script
 -*-*-*-*.panda^$script,third-party
 -1316632262.cos.
 -1316899192.cos.
@@ -2370,6 +2371,7 @@ newduba.cn###jq_youxi
 ||fqtljn.xyz^
 ||max211.top^
 ||8zkt7.xyz^
+||rt004.top^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^

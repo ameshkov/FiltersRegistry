@@ -2792,6 +2792,8 @@ sugi-net.jp##body[style="overflow: hidden;"]:style(overflow: auto !important;)
 ilonpolku.fi##html:style(overflow: auto !important)
 ! Rule "kiertokanki.com##body:style(overflow: auto !important;)" converted to: "kiertokanki.com#$#body { overflow: auto !important; }"
 kiertokanki.com##body:style(overflow: auto !important;)
+! Rule "flip.bg##.modal-open:style(overflow: auto !important;)" converted to: "flip.bg#$#.modal-open { overflow: auto !important; }"
+flip.bg##.modal-open:style(overflow: auto !important;)
 ! Rule "audioholics.com,protocol.com,theconversation.com##body:style(overflow: auto !important;)" converted to: "audioholics.com,protocol.com,theconversation.com#$#body { overflow: auto !important; }"
 audioholics.com,protocol.com,theconversation.com##body:style(overflow: auto !important;)
 ! Rule "otisoatmilk.co.nz,socialitelife.com##html:style(overflow:auto !important)" converted to: "otisoatmilk.co.nz,socialitelife.com#$#html { overflow:auto !important }"
@@ -5960,6 +5962,8 @@ sugi-net.jp##body[style="overflow: hidden;"]:style(overflow: auto !important;)
 ilonpolku.fi##html:style(overflow: auto !important)
 ! Rule "kiertokanki.com##body:style(overflow: auto !important;)" converted to: "kiertokanki.com#$#body { overflow: auto !important; }"
 kiertokanki.com##body:style(overflow: auto !important;)
+! Rule "flip.bg##.modal-open:style(overflow: auto !important;)" converted to: "flip.bg#$#.modal-open { overflow: auto !important; }"
+flip.bg##.modal-open:style(overflow: auto !important;)
 ! Rule "audioholics.com,protocol.com,theconversation.com##body:style(overflow: auto !important;)" converted to: "audioholics.com,protocol.com,theconversation.com#$#body { overflow: auto !important; }"
 audioholics.com,protocol.com,theconversation.com##body:style(overflow: auto !important;)
 ! Rule "otisoatmilk.co.nz,socialitelife.com##html:style(overflow:auto !important)" converted to: "otisoatmilk.co.nz,socialitelife.com#$#html { overflow:auto !important }"
@@ -9098,6 +9102,8 @@ sugi-net.jp#$#body[style="overflow: hidden;"] { overflow: auto !important; }
 ilonpolku.fi#$#html { overflow: auto !important }
 ! kiertokanki.com#$#body { overflow: auto !important; } is excluded by "#$#" in exclusions-low.txt
 kiertokanki.com#$#body { overflow: auto !important; }
+! flip.bg#$#.modal-open { overflow: auto !important; } is excluded by "#$#" in exclusions-low.txt
+flip.bg#$#.modal-open { overflow: auto !important; }
 ! audioholics.com,protocol.com,theconversation.com#$#body { overflow: auto !important; } is excluded by "#$#" in exclusions-low.txt
 audioholics.com,protocol.com,theconversation.com#$#body { overflow: auto !important; }
 ! otisoatmilk.co.nz,socialitelife.com#$#html { overflow:auto !important } is excluded by "#$#" in exclusions-low.txt
@@ -12252,6 +12258,8 @@ sugi-net.jp#$#body[style="overflow: hidden;"] { overflow: auto !important; }
 ilonpolku.fi#$#html { overflow: auto !important }
 ! kiertokanki.com#$#body { overflow: auto !important; } is excluded by "#$#" in exclusions-low.txt
 kiertokanki.com#$#body { overflow: auto !important; }
+! flip.bg#$#.modal-open { overflow: auto !important; } is excluded by "#$#" in exclusions-low.txt
+flip.bg#$#.modal-open { overflow: auto !important; }
 ! audioholics.com,protocol.com,theconversation.com#$#body { overflow: auto !important; } is excluded by "#$#" in exclusions-low.txt
 audioholics.com,protocol.com,theconversation.com#$#body { overflow: auto !important; }
 ! otisoatmilk.co.nz,socialitelife.com#$#html { overflow:auto !important } is excluded by "#$#" in exclusions-low.txt

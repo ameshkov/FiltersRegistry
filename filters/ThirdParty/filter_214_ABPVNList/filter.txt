@@ -1,8 +1,8 @@
 !#if (adguard_ext_android_cb)
 ! version for AdGuard Content Blocker only
-! OriginalVersion: 20231130115018
+! OriginalVersion: 20231130194239
 ! Title: ABPVN List
-! Last modified: 30 Nov 2023 11:50:18 UTC+7
+! Last modified: 30 Nov 2023 19:42:39 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter
@@ -104,6 +104,7 @@ phimlongtieng.com,phimlongtieng.net#%#//scriptlet('ubo-acs.js', 'jQuery', 'windo
 ||daiphatvienthong.vn/upload/hinhanh/$domain=vietnamgsm.vn
 ||danketoan.com/banner/
 ||datcang.vn/images/khicon.jpg
+||doctruyenchufull.com/ads/$image
 ||ducvietonline.de/*banner$image
 ||dztruyen.com$csp=script-src 'self' 'unsafe-inline'
 ||file1.dangcongsan.vn^*.gif$image,domain=dangcongsan.vn
@@ -649,6 +650,8 @@ daominhha.net##.text-down
 dexuat.com###custom_html-7
 diadiem.com##.div_box_adv
 docnhanh.vn###div-ub-docbao
+doctruyenchufull.com##.ad-botton
+doctruyenchufull.com##.topbanner
 doisongphapluat.com##div.box-aside
 dongphim3s.net##a[rel="nofollow sponsored"]
 dongphim3s.net,dongchill.tv,bichill.one###footer_fixed_ads
@@ -984,6 +987,7 @@ plvb.xyz##.odds-button
 plvb.xyz##.odds-button2
 protruyen.xyz##.click-ads
 protruyen.xyz##.click-ads ~ p
+protruyen.xyz##.overlay-close
 protruyen.xyz##div.mrb10
 qdnd.vn##.box-banner
 qthang.net##.ad-script
@@ -1357,6 +1361,7 @@ pops.vn#@##adsContainer
 pops.vn,vkoolsss.net#@#.ad-placement
 qthang.net#@#.advert-wrap
 qthang.net#@#.widget-ad
+timvanban.vn#@##ad-slot
 tratu.soha.vn#@#.adheader
 truyenaudiocv.org#@#.ads-large
 vn2phim.com#@#.advertiser
@@ -1374,6 +1379,7 @@ $third-party,script,domain=sexdiaryx.us
 ||cliphotvn.pro^*.gif$image
 ||discordapp.$image,domain=phym18.org|phim18vipb.com
 ||greenupload.com^*.gif$image,domain=thiendia1.net
+||greenupload.com^*ad-$image,domain=thiendia1.net
 ||greenupload.com^*banner$image
 ||hentaivn.autos/qx/$subdocument
 ||i.ibb.co^$image,domain=thiendia1.net
@@ -1504,9 +1510,9 @@ web11.sexphim1.com##.code-block-4
 !
 !#if (!adguard_ext_android_cb)
 ! version for all other AdGuard products
-! OriginalVersion: 20231130115018
+! OriginalVersion: 20231130194239
 ! Title: ABPVN List
-! Last modified: 30 Nov 2023 11:50:18 UTC+7
+! Last modified: 30 Nov 2023 19:42:39 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter
@@ -1608,6 +1614,7 @@ phimlongtieng.com,phimlongtieng.net#%#//scriptlet('ubo-acs.js', 'jQuery', 'windo
 ||daiphatvienthong.vn/upload/hinhanh/$domain=vietnamgsm.vn
 ||danketoan.com/banner/
 ||datcang.vn/images/khicon.jpg
+||doctruyenchufull.com/ads/$image
 ||ducvietonline.de/*banner$image
 ||dztruyen.com$csp=script-src 'self' 'unsafe-inline'
 ||file1.dangcongsan.vn^*.gif$image,domain=dangcongsan.vn
@@ -2151,6 +2158,8 @@ daominhha.net##.text-down
 dexuat.com###custom_html-7
 diadiem.com##.div_box_adv
 docnhanh.vn###div-ub-docbao
+doctruyenchufull.com##.ad-botton
+doctruyenchufull.com##.topbanner
 doisongphapluat.com##div.box-aside
 dongphim3s.net##a[rel="nofollow sponsored"]
 dongphim3s.net,dongchill.tv,bichill.one###footer_fixed_ads
@@ -2486,6 +2495,7 @@ plvb.xyz##.odds-button
 plvb.xyz##.odds-button2
 protruyen.xyz##.click-ads
 protruyen.xyz##.click-ads ~ p
+protruyen.xyz##.overlay-close
 protruyen.xyz##div.mrb10
 qdnd.vn##.box-banner
 qthang.net##.ad-script
@@ -2850,6 +2860,7 @@ pops.vn#@##adsContainer
 pops.vn,vkoolsss.net#@#.ad-placement
 qthang.net#@#.advert-wrap
 qthang.net#@#.widget-ad
+timvanban.vn#@##ad-slot
 tratu.soha.vn#@#.adheader
 truyenaudiocv.org#@#.ads-large
 vn2phim.com#@#.advertiser
@@ -2867,6 +2878,7 @@ $third-party,script,domain=sexdiaryx.us
 ||cliphotvn.pro^*.gif$image
 ||discordapp.$image,domain=phym18.org|phim18vipb.com
 ||greenupload.com^*.gif$image,domain=thiendia1.net
+||greenupload.com^*ad-$image,domain=thiendia1.net
 ||greenupload.com^*banner$image
 ||hentaivn.autos/qx/$subdocument
 ||i.ibb.co^$image,domain=thiendia1.net
