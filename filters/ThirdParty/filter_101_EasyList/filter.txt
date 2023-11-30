@@ -1,8 +1,8 @@
 !
-! Checksum: cug9IcUrhKpN2Icisqip2g
-! OriginalVersion: 202311292050
+! Checksum: tMRwguVrSm451WZWt+ppNw
+! OriginalVersion: 202311300051
 ! Title: EasyList
-! Last modified: 29 Nov 2023 20:50 UTC
+! Last modified: 30 Nov 2023 00:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -59197,11 +59197,9 @@ marketscreener.com###zppRight2
 ultrabookreview.com###zzifhome
 ultrabookreview.com###zzifhome2
 arydigital.tv###zzright
-androidauthority.com##.--___4b
-androidauthority.com##.--___fh
+androidauthority.com##.--___4f
+androidauthority.com##.--___Mb
 androidauthority.com##.--___jh
-androidauthority.com##.--___kb
-androidauthority.com##.--___vb
 talkingpointsmemo.com##.--span\:12.AdSlot
 bigissue.com##.-ad
 gamejolt.com##.-ad-widget

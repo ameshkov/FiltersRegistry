@@ -1188,6 +1188,8 @@ mangindo.xyz##+js(aopr, window.adikAds)
 downloadfilm.website,sekilastekno.com##+js(no-fetch-if, ads)
 ! Rule "info.gambar.pro,pinloker.com,sekilastekno.com,tutorial.siberuang.com##+js(no-fetch-if, adsbygoogle.js)" converted to: "info.gambar.pro,pinloker.com,sekilastekno.com,tutorial.siberuang.com#%#//scriptlet('ubo-no-fetch-if.js', 'adsbygoogle.js')"
 info.gambar.pro,pinloker.com,sekilastekno.com,tutorial.siberuang.com##+js(no-fetch-if, adsbygoogle.js)
+! Rule "vebma.com##+js(no-fetch-if, pagead2.googlesyndication.com)" converted to: "vebma.com#%#//scriptlet('ubo-no-fetch-if.js', 'pagead2.googlesyndication.com')"
+vebma.com##+js(no-fetch-if, pagead2.googlesyndication.com)
 ! Rule "lifesurance.info##+js(set, showada, true)" converted to: "lifesurance.info#%#//scriptlet('ubo-set.js', 'showada', 'true')"
 lifesurance.info##+js(set, showada, true)
 ! Rule "nyawang.com##+js(acis, chp_ads_blocker_detector)" converted to: "nyawang.com#%#//scriptlet('ubo-acis.js', 'chp_ads_blocker_detector')"
