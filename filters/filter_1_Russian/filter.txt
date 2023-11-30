@@ -18125,7 +18125,6 @@ blackhacker.ru##img[width="410"][height="60"]
 money-pic.ru,pixcloud.ru,sharezones.biz##img[width="468"][height="60"]
 imagefile.org##img[width="468px"]
 yarportal.ru##img[width="480"][height="100"]
-turbobit.net##img[width="600"][height="80"]
 7days-ua.com##img[width="600px"][height="100px"]
 pravdu.ru##img[width="680"][height="140"]
 torrent-pirat.com##img[width="700"][height="90"]
@@ -21418,8 +21417,6 @@ player.ex.co#@##ad-container
 ! Good: example.org#@#.ad
 ! Bad:  @@||example.org^$stealth (should be in AdGuard Base - allowlist_stealth.txt)
 !
-! https://github.com/AdguardTeam/AdGuardExtra/issues/476#issuecomment-1832100757
-@@://mail.ru$extension
 ! https://github.com/AdguardTeam/AdguardFilters/issues/166369
 ddl-warez.cc#@#.affiliate
 ! https://github.com/AdguardTeam/AdguardFilters/issues/162363
