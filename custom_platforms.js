@@ -16,8 +16,8 @@
  * ```[$domain=/^inattv\d+\.pro$/]#%#//scriptlet('set-constant', 'config.adv', 'emptyObj')```
  */
 const DOMAIN_WITH_REGEXPS_PATTERNS = [
-    "\\$domain=\/",
-    ",domain=\/",
+    '\\$domain=\/',
+    ',domain=\/',
 ];
 
 /**
@@ -27,7 +27,7 @@ const DOMAIN_WITH_REGEXPS_PATTERNS = [
  * ```/?t=popunder&$all```
  */
 const ALL_MODIFIER_PATTERNS = [
-    "\\$all",
+    '\\$all',
 ];
 
 /**
@@ -37,7 +37,7 @@ const ALL_MODIFIER_PATTERNS = [
  * ```Deprecated, use $redirect=noopmp4-1s instead```
  */
 const MP4_MODIFIER_PATTERNS = [
-    "\\$(.*,)?mp4",
+    '\\$(.*,)?mp4',
 ];
 
 /**
@@ -47,7 +47,7 @@ const MP4_MODIFIER_PATTERNS = [
  * ```57.128.71.215$network```
  */
 const NETWORK_MODIFIER_PATTERNS = [
-    "\\$network",
+    '\\$network',
 ];
 
 /**
@@ -57,7 +57,7 @@ const NETWORK_MODIFIER_PATTERNS = [
  * ```Removed and no longer supported```
  */
 const WEBRTC_MODIFIER_PATTERNS = [
-    "\\$webrtc",
+    '\\$webrtc',
 ];
 
 /**
@@ -67,7 +67,7 @@ const WEBRTC_MODIFIER_PATTERNS = [
  * ```||deloplen.com^$csp=script-src 'none'```
  */
 const CSP_MODIFIER_PATTERNS = [
-    "\\$csp",
+    '\\$csp',
 ];
 
 /**
@@ -80,7 +80,7 @@ const CSP_MODIFIER_PATTERNS = [
  * ```mail.com$$script[tag-content="uabp"][min-length="20000"][max-length="300000"]```
  */
 const HTML_FILTERING_MODIFIER_PATTERNS = [
-    "^((?!#%#).)*\\$\\$|\\$\\@\\$",
+    '^((?!#%#).)*\\$\\$|\\$\\@\\$',
 ];
 
 /**
@@ -98,7 +98,7 @@ const HTML_FILTERING_MODIFIER_PATTERNS = [
  * https://github.com/AdguardTeam/CoreLibs/issues/1778
  */
 const PROTOBUF_MODIFIER_PATTERNS = [
-    "\\$(?!((path|domain)=.*])).*protobuf(,|=|$)",
+    '\\$(?!((path|domain)=.*])).*protobuf(,|=|$)',
 ];
 
 /**
@@ -114,7 +114,7 @@ const PROTOBUF_MODIFIER_PATTERNS = [
  * ```@@||imasdk.googleapis.com^$app=tv.htv.app```
  */
 const APP_MODIFIER_PATTERNS = [
-    "\\$(?!((path|domain)=.*])).*app=",
+    '\\$(?!((path|domain)=.*])).*app=',
 ];
 
 /**
@@ -132,7 +132,7 @@ const APP_MODIFIER_PATTERNS = [
  * ```@@||radar.cloudflare.com^$elemhide,extension,content```
  */
 const EXTENSION_MODIFIER_PATTERNS = [
-    "\\$(?!((path|domain)=.*])).*extension(,|=|$)",
+    '\\$(?!((path|domain)=.*])).*extension(,|=|$)',
 ];
 
 /**
@@ -142,7 +142,7 @@ const EXTENSION_MODIFIER_PATTERNS = [
  * ```@@||telegram.hr^$content```
  */
 const ONLY_CONTENT_MODIFIER_PATTERNS = [
-    "\\$content$",
+    '\\$content$',
 ];
 
 /**
@@ -159,7 +159,7 @@ const ONLY_CONTENT_MODIFIER_PATTERNS = [
  * ```@@||dnsleaktest.com^$content,elemhide,jsinject```
  */
 const CONTENT_MODIFIER_PATTERNS = [
-    "\\$(?!((path|domain)=.*])).*content(,|$)",
+    '\\$(?!((path|domain)=.*])).*content(,|$)',
 ];
 
 /**
@@ -176,7 +176,7 @@ const CONTENT_MODIFIER_PATTERNS = [
  * ```@@://www.atlassian.com^$elemhide,jsinject,extension```
  */
 const JSINJECT_MODIFIER_PATTERNS = [
-    "\\$(?!((path|domain)=.*])).*jsinject(,|$)",
+    '\\$(?!((path|domain)=.*])).*jsinject(,|$)',
 ];
 
 /**
@@ -193,7 +193,7 @@ const JSINJECT_MODIFIER_PATTERNS = [
  * ```@@||google.com/settings/ads/onweb$urlblock```
  */
 const URLBLOCK_MODIFIER_PATTERNS = [
-    "\\$(?!((path|domain)=.*])).*urlblock(,|$)",
+    '\\$(?!((path|domain)=.*])).*urlblock(,|$)',
 ];
 
 /**
@@ -211,7 +211,7 @@ const URLBLOCK_MODIFIER_PATTERNS = [
  * ```||yallo.tv^$referrerpolicy=origin```
  */
 const REFERRERPOLICY_MODIFIER_PATTERNS = [
-    "\\$(?!((path|domain)=.*])).*referrerpolicy(,|=|$)",
+    '\\$(?!((path|domain)=.*])).*referrerpolicy(,|=|$)',
 ];
 
 /**
@@ -229,8 +229,10 @@ const REFERRERPOLICY_MODIFIER_PATTERNS = [
  * ```||pubads.g.doubleclick.net/gampad/live/ads?correlator=$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/```
  */
 const REPLACE_MODIFIER_PATTERNS = [
-    "\\$(?!((path|domain)=.*])).*replace(,|=|$)",
+    '\\$(?!((path|domain)=.*])).*replace(,|=|$)',
 ];
+
+/* eslint-disable max-len */
 
 /**
  * Pattern to check if rule contains `$hls` modifier
@@ -247,7 +249,7 @@ const REPLACE_MODIFIER_PATTERNS = [
  * ```||pubads.g.doubleclick.net/ondemand/hls/*.m3u8$hls=/redirector\.googlevideo\.com\/videoplayback[\s\S]*?dclk_video_ads/,domain=10play.com.au```
  */
 const HLS_MODIFIER_PATTERNS = [
-    "\\$(?!((path|domain)=.*])).*hls(,|=|$)",
+    '\\$(?!((path|domain)=.*])).*hls(,|=|$)',
 ];
 
 /**
@@ -265,8 +267,10 @@ const HLS_MODIFIER_PATTERNS = [
  * ```.com/watch?v=$xmlhttprequest,jsonprune=\$..[adPlacements\, adSlots\, playerAds],domain=youtubekids.com|youtube-nocookie.com|youtube.com```
  */
 const JSONPRUNE_MODIFIER_PATTERNS = [
-    "\\$(?!((path|domain)=.*])).*jsonprune(,|=|$)",
+    '\\$(?!((path|domain)=.*])).*jsonprune(,|=|$)',
 ];
+
+/* eslint-enable max-len */
 
 /**
  * Pattern to check if rule contains `$removeparam` modifier
@@ -283,7 +287,7 @@ const JSONPRUNE_MODIFIER_PATTERNS = [
  * ```$removeparam=fb_ref```
  */
 const REMOVEPARAM_MODIFIER_PATTERNS = [
-    "\\$(?!((path|domain)=.*])).*removeparam(,|=|$)",
+    '\\$(?!((path|domain)=.*])).*removeparam(,|=|$)',
 ];
 
 /**
@@ -301,7 +305,7 @@ const REMOVEPARAM_MODIFIER_PATTERNS = [
  * ```||dubznetwork.com^$removeheader=refresh```
  */
 const REMOVEHEADER_MODIFIER_PATTERNS = [
-    "\\$(?!((path|domain)=.*])).*removeheader(,|=|$)",
+    '\\$(?!((path|domain)=.*])).*removeheader(,|=|$)',
 ];
 
 /**
@@ -319,7 +323,7 @@ const REMOVEHEADER_MODIFIER_PATTERNS = [
  * ```@@.php?play_vid=$subdocument,stealth=referrer,domain=xyflv.cc```
  */
 const STEALTH_MODIFIER_PATTERNS = [
-    "\\$(?!((path|domain)=.*])).*stealth(,|=|$)",
+    '\\$(?!((path|domain)=.*])).*stealth(,|=|$)',
 ];
 
 /**
@@ -337,7 +341,7 @@ const STEALTH_MODIFIER_PATTERNS = [
  * ```$cookie=_ga```
  */
 const COOKIE_MODIFIER_PATTERNS = [
-    "\\$(?!((path|domain)=.*])).*cookie(,|=|$)",
+    '\\$(?!((path|domain)=.*])).*cookie(,|=|$)',
 ];
 
 /**
@@ -355,7 +359,7 @@ const COOKIE_MODIFIER_PATTERNS = [
  * ```||google-analytics.com/analytics.js$script,redirect=google-analytics,domain=~olx.*|~banki.ru|~bigc.co.th```
  */
 const REDIRECT_MODIFIER_PATTERNS = [
-    "\\$(?!((path|domain)=.*])).*redirect(,|=|$)",
+    '\\$(?!((path|domain)=.*])).*redirect(,|=|$)',
 ];
 
 /**
@@ -373,7 +377,7 @@ const REDIRECT_MODIFIER_PATTERNS = [
  * ```$script,third-party,redirect-rule=noopjs,domain=paraphraser.io```
  */
 const REDIRECT_RULE_MODIFIER_PATTERNS = [
-    "\\$(?!((path|domain)=.*])).*redirect-rule(,|=|$)",
+    '\\$(?!((path|domain)=.*])).*redirect-rule(,|=|$)',
 ];
 
 /**
@@ -390,7 +394,7 @@ const REDIRECT_RULE_MODIFIER_PATTERNS = [
  * ```Deprecated, use $redirect=nooptext instead```
  */
 const EMPTY_MODIFIER_PATTERNS = [
-    "\\$(?!((path|domain)=.*])).*empty(,|$)",
+    '\\$(?!((path|domain)=.*])).*empty(,|$)',
 ];
 
 /**
@@ -402,8 +406,8 @@ const EMPTY_MODIFIER_PATTERNS = [
  * ```meczyki.pl#%#!function(){window.YLHH={bidder:{startAuction:function(){}}};}();```
  */
 const JAVASCRIPT_RULES_PATTERNS = [
-    "#%#",
-    "#@%#",
+    '#%#',
+    '#@%#',
 ];
 
 /**
@@ -413,8 +417,8 @@ const JAVASCRIPT_RULES_PATTERNS = [
  * ```windowslite.net#$#body { overflow: auto !important; }```
  */
 const CSS_RULES_PATTERNS = [
-    "#%#",
-    "#@%#",
+    '#%#',
+    '#@%#',
 ];
 
 /**
@@ -424,7 +428,7 @@ const CSS_RULES_PATTERNS = [
  * ```windowslite.net#$#body { overflow: auto !important; }```
  */
 const CSS_MEDIA_RULES_PATTERNS = [
-    "#\\$#@media ",
+    '#\\$#@media ',
 ];
 
 /**
@@ -438,25 +442,25 @@ const CSS_MEDIA_RULES_PATTERNS = [
  * ```haal.fashion#?#div:has(> div > div > div.dfp-ad-unit)```
  */
 const EXTENDED_CSS_RULES_PATTERNS = [
-    "\\[-ext-",
-    ":has\\(",
-    ":has-text\\(",
-    ":contains\\(",
-    ":matches-css\\(",
-    ":matches-attr\\(",
-    ":matches-property\\(",
-    ":xpath\\(",
-    ":nth-ancestor\\(",
-    ":upward\\(",
-    ":remove\\(",
-    ":matches-css-before\\(",
-    ":matches-css-after\\(",
-    ":-abp-has\\(",
-    ":-abp-contains\\(",
-    "#\\?#",
-    "#\\$\\?#",
-    "#@\\?#",
-    "#@\\$\\?#",
+    '\\[-ext-',
+    ':has\\(',
+    ':has-text\\(',
+    ':contains\\(',
+    ':matches-css\\(',
+    ':matches-attr\\(',
+    ':matches-property\\(',
+    ':xpath\\(',
+    ':nth-ancestor\\(',
+    ':upward\\(',
+    ':remove\\(',
+    ':matches-css-before\\(',
+    ':matches-css-after\\(',
+    ':-abp-has\\(',
+    ':-abp-contains\\(',
+    '#\\?#',
+    '#\\$\\?#',
+    '#@\\?#',
+    '#@\\$\\?#',
 ];
 
 /**
@@ -503,103 +507,103 @@ const SAFARI_BASED_EXTENSION_PATTERNS = [
 ];
 
 module.exports = {
-    "WINDOWS": {
-        "platform": "windows",
-        "path": "windows",
-        "expires": "12 hours",
-        "configuration": {
-            "ignoreRuleHints": false,
-            "replacements": null,
+    'WINDOWS': {
+        'platform': 'windows',
+        'path': 'windows',
+        'expires': '12 hours',
+        'configuration': {
+            'ignoreRuleHints': false,
+            'replacements': null,
         },
-        "defines": {
-            "adguard": true,
-            "adguard_app_windows": true
-        }
+        'defines': {
+            'adguard': true,
+            'adguard_app_windows': true,
+        },
     },
-    "MAC": {
-        "platform": "mac",
-        "path": "mac",
-        "configuration": {
-            "ignoreRuleHints": false,
-            "replacements": null,
+    'MAC': {
+        'platform': 'mac',
+        'path': 'mac',
+        'configuration': {
+            'ignoreRuleHints': false,
+            'replacements': null,
         },
-        "defines": {
-            "adguard": true,
-            "adguard_app_mac": true
-        }
+        'defines': {
+            'adguard': true,
+            'adguard_app_mac': true,
+        },
     },
-    "MAC_V2": {
-        "platform": "mac",
-        "path": "mac_v2",
-        "expires": "12 hours",
-        "configuration": {
-            "ignoreRuleHints": false,
-            "replacements": null,
+    'MAC_V2': {
+        'platform': 'mac',
+        'path': 'mac_v2',
+        'expires': '12 hours',
+        'configuration': {
+            'ignoreRuleHints': false,
+            'replacements': null,
         },
-        "defines": {
-            "adguard": true,
-            "adguard_app_mac": true
-        }
+        'defines': {
+            'adguard': true,
+            'adguard_app_mac': true,
+        },
     },
 
-    "ANDROID": {
-        "platform": "android",
-        "path": "android",
-        "configuration": {
-            "ignoreRuleHints": false,
-            "replacements": null,
+    'ANDROID': {
+        'platform': 'android',
+        'path': 'android',
+        'configuration': {
+            'ignoreRuleHints': false,
+            'replacements': null,
         },
-        "defines": {
-            "adguard": true,
-            "adguard_app_android": true
-        }
-    },
-    "EXTENSION_CHROMIUM": {
-        "platform": "ext_chromium",
-        "path": "extension/chromium",
-        "configuration": {
-            "removeRulePatterns": CHROMIUM_BASED_EXTENSION_PATTERNS,
-            "replacements": null,
-            "ignoreRuleHints": false
+        'defines': {
+            'adguard': true,
+            'adguard_app_android': true,
         },
-        "defines": {
-            "adguard": true,
-            "adguard_ext_chromium": true
-        }
     },
-    "EXTENSION_EDGE": {
-        "platform": "ext_edge",
-        "path": "extension/edge",
-        "configuration": {
-            "removeRulePatterns": CHROMIUM_BASED_EXTENSION_PATTERNS,
-            "replacements": null,
-            "ignoreRuleHints": false
+    'EXTENSION_CHROMIUM': {
+        'platform': 'ext_chromium',
+        'path': 'extension/chromium',
+        'configuration': {
+            'removeRulePatterns': CHROMIUM_BASED_EXTENSION_PATTERNS,
+            'replacements': null,
+            'ignoreRuleHints': false,
         },
-        "defines": {
-            "adguard": true,
-            "adguard_ext_edge": true,
-            "adguard_ext_chromium": true
-        }
-    },
-    "EXTENSION_OPERA": {
-        "platform": "ext_opera",
-        "path": "extension/opera",
-        "configuration": {
-            "removeRulePatterns": CHROMIUM_BASED_EXTENSION_PATTERNS,
-            "replacements": null,
-            "ignoreRuleHints": false
+        'defines': {
+            'adguard': true,
+            'adguard_ext_chromium': true,
         },
-        "defines": {
-            "adguard": true,
-            "adguard_ext_opera": true,
-            "adguard_ext_chromium": true
-        }
     },
-    "EXTENSION_FIREFOX": {
-        "platform": "ext_ff",
-        "path": "extension/firefox",
-        "configuration": {
-            "removeRulePatterns": [
+    'EXTENSION_EDGE': {
+        'platform': 'ext_edge',
+        'path': 'extension/edge',
+        'configuration': {
+            'removeRulePatterns': CHROMIUM_BASED_EXTENSION_PATTERNS,
+            'replacements': null,
+            'ignoreRuleHints': false,
+        },
+        'defines': {
+            'adguard': true,
+            'adguard_ext_edge': true,
+            'adguard_ext_chromium': true,
+        },
+    },
+    'EXTENSION_OPERA': {
+        'platform': 'ext_opera',
+        'path': 'extension/opera',
+        'configuration': {
+            'removeRulePatterns': CHROMIUM_BASED_EXTENSION_PATTERNS,
+            'replacements': null,
+            'ignoreRuleHints': false,
+        },
+        'defines': {
+            'adguard': true,
+            'adguard_ext_opera': true,
+            'adguard_ext_chromium': true,
+        },
+    },
+    'EXTENSION_FIREFOX': {
+        'platform': 'ext_ff',
+        'path': 'extension/firefox',
+        'configuration': {
+            'removeRulePatterns': [
                 ...HTML_FILTERING_MODIFIER_PATTERNS,
                 ...APP_MODIFIER_PATTERNS,
                 ...NETWORK_MODIFIER_PATTERNS,
@@ -610,45 +614,45 @@ module.exports = {
                 ...REFERRERPOLICY_MODIFIER_PATTERNS,
 
             ],
-            "replacements": null,
-            "ignoreRuleHints": false
+            'replacements': null,
+            'ignoreRuleHints': false,
         },
-        "defines": {
-            "adguard": true,
-            "adguard_ext_firefox": true
-        }
-    },
-    "EXTENSION_SAFARI": {
-        "platform": "ext_safari",
-        "path": "extension/safari",
-        "configuration": {
-            "removeRulePatterns": SAFARI_BASED_EXTENSION_PATTERNS,
-            "replacements": null,
-            "ignoreRuleHints": false
+        'defines': {
+            'adguard': true,
+            'adguard_ext_firefox': true,
         },
-        "defines": {
-            "adguard": true,
-            "adguard_ext_safari": true
-        }
     },
-    "IOS": {
-        "platform": "ios",
-        "path": "ios",
-        "configuration": {
-            "removeRulePatterns": SAFARI_BASED_EXTENSION_PATTERNS,
-            "replacements": null,
-            "ignoreRuleHints": false
+    'EXTENSION_SAFARI': {
+        'platform': 'ext_safari',
+        'path': 'extension/safari',
+        'configuration': {
+            'removeRulePatterns': SAFARI_BASED_EXTENSION_PATTERNS,
+            'replacements': null,
+            'ignoreRuleHints': false,
         },
-        "defines": {
-            "adguard": true,
-            "adguard_app_ios": true
-        }
+        'defines': {
+            'adguard': true,
+            'adguard_ext_safari': true,
+        },
     },
-    "EXTENSION_ANDROID_CONTENT_BLOCKER": {
-        "platform": "ext_android_cb",
-        "path": "extension/android-content-blocker",
-        "configuration": {
-            "removeRulePatterns": [
+    'IOS': {
+        'platform': 'ios',
+        'path': 'ios',
+        'configuration': {
+            'removeRulePatterns': SAFARI_BASED_EXTENSION_PATTERNS,
+            'replacements': null,
+            'ignoreRuleHints': false,
+        },
+        'defines': {
+            'adguard': true,
+            'adguard_app_ios': true,
+        },
+    },
+    'EXTENSION_ANDROID_CONTENT_BLOCKER': {
+        'platform': 'ext_android_cb',
+        'path': 'extension/android-content-blocker',
+        'configuration': {
+            'removeRulePatterns': [
                 ...DOMAIN_WITH_REGEXPS_PATTERNS,
                 ...HTML_FILTERING_MODIFIER_PATTERNS,
                 ...EXTENSION_MODIFIER_PATTERNS,
@@ -676,18 +680,18 @@ module.exports = {
                 ...JSINJECT_MODIFIER_PATTERNS,
                 ...URLBLOCK_MODIFIER_PATTERNS,
             ],
-            "ignoreRuleHints": false
+            'ignoreRuleHints': false,
         },
-        "defines": {
-            "adguard": true,
-            "adguard_ext_android_cb": true
-        }
+        'defines': {
+            'adguard': true,
+            'adguard_ext_android_cb': true,
+        },
     },
-    "EXTENSION_UBLOCK": {
-        "platform": "ext_ublock",
-        "path": "extension/ublock",
-        "configuration": {
-            "removeRulePatterns": [
+    'EXTENSION_UBLOCK': {
+        'platform': 'ext_ublock',
+        'path': 'extension/ublock',
+        'configuration': {
+            'removeRulePatterns': [
                 ...HTML_FILTERING_MODIFIER_PATTERNS,
                 ...MP4_MODIFIER_PATTERNS,
                 ...REPLACE_MODIFIER_PATTERNS,
@@ -706,11 +710,11 @@ module.exports = {
                 ...REFERRERPOLICY_MODIFIER_PATTERNS,
                 ...JSONPRUNE_MODIFIER_PATTERNS,
             ],
-            "ignoreRuleHints": false,
-            "adbHeader": "![Adblock Plus 2.0]"
+            'ignoreRuleHints': false,
+            'adbHeader': '![Adblock Plus 2.0]',
         },
-        "defines": {
-            "ext_ublock": true
-        }
-    }
-}
+        'defines': {
+            'ext_ublock': true,
+        },
+    },
+};
