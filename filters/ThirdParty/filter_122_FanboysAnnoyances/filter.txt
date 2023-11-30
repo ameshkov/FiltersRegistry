@@ -1,8 +1,8 @@
 !
-! Checksum: +Y4Lw1f3HY33vuLmg7E4Ug
-! OriginalVersion: 202311301230
+! Checksum: 78uDzqT5g77Bac/t02NVtA
+! OriginalVersion: 202311301640
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-11-30 12:30 UTC
+! Last modified: 2023-11-30 16:40 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -35604,6 +35604,7 @@ knowyourmeme.com##.combo-wrapper
 freemake.com,next-gen.biz##.community
 avg.com,copykat.com,snagfilms.com##.connect
 themoscowtimes.com##.contribute-teaser-mobile
+xhamster.com,xhamster.desi##.creator-promo-bg
 timesofisrael.com##.crm-post-module
 frontpagetech.com##.cs-entry__prev-next-item
 upqode.com##.cursore-uq
@@ -36054,6 +36055,7 @@ wdet.org##.header-donate
 myanimelist.net##.header-mini-banner
 themarkup.org##.header-stripe
 infoq.com##.header__bottom__events
+xhamster.com,xhamster.desi##.heading-promo
 insidethegames.biz##.hide-for-contributors
 48hills.org##.hills-inline-full-width
 heise.de##.ho-bg.z-0.relative
@@ -36269,6 +36271,7 @@ phemex.com##[href^="https://phemex.com/bonus"]
 walletinvestor.com##[href^="https://premium.walletinvestor.com/"]
 theguardian.com##[name="SlotBodyEnd"]
 theguardian.com##[name="StickyBottomBanner"]
+xhamster.com,xhamster.desi##a[class*="promoMessageBanner-"]
 tech-camp.in##a[data-gtm-tcb="TCB_CLICK_scrollbanner_default_exp_income"]
 tech-camp.in##a[data-gtm-tcb^="TCB_CLICK_buntyubanner_"]
 stuff.co.nz##app-billboard-overlay
@@ -36579,7 +36582,7 @@ spjeff.com##.totop-br
 nftplazas.com##.trx_addons_scroll_to_top
 nippon.com##.u-pagetop
 news.arizona.edu##.ua-zen-back-to-top
-xhamster.com,xhamster.desi,xhamster.one##.up-arrow
+xhamster.com,xhamster.desi##.up-arrow
 epicgames.com,wapbold.net##.up-button
 webuycars.co.za##.up-scroll
 newrepublic.com##.upArrow

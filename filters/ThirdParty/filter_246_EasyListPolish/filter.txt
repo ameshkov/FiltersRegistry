@@ -1,8 +1,8 @@
 !
-! Checksum: Ie0w1qiCUrMU/4u2Tl5pSg
-! OriginalVersion: 202311301251
+! Checksum: NVlRY3ToBxlsMIqiN8R3rQ
+! OriginalVersion: 202311301651
 ! Title: EasyList Polish
-! Last modified: 30 Nov 2023 12:51 UTC
+! Last modified: 30 Nov 2023 16:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -746,6 +746,7 @@ betonline.net.pl,wyspiarzniebieski.pl###popup
 zpierwszegotloczenia.pl###popup-ad
 infoilawa.pl###popup-wrapper
 mapa.szukacz.pl,szukacz.pl###popupContainer
+zwik.skawina.pl###popupDiv
 zmianywzyciu.pl###popup_facebook
 polskaizbabranzypogrzebowej.pl###post-2637
 nudziara.pl###post.format_post.nudziara.masonry-brick
@@ -878,7 +879,6 @@ sportfakty.pl###weptile-image-slider-widget-2
 polukr.net###weptile-image-slider-widget-8
 szkolkarstwo.com.pl###widget-175
 szkolkarstwo.com.pl###widget-185
-zawiercianskie.pl###widget_carousel_slider-11
 liga-ursus.siatkowka.org###widget_sp_image-2
 dziennikstargardzki.pl###widget_sp_image-8
 kurier-kolski.pl###wrap-top2
