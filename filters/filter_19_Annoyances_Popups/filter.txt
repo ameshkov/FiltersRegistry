@@ -4491,6 +4491,7 @@ sanalkurs.net###toast-container > .toast-error[aria-live="assertive"]
 !
 ! SECTION: Popups - Regular rules
 !
+retailmenot.com#%#//scriptlet('prevent-addEventListener', 'prepare-exit-modal', '=>')
 later.com#%#//scriptlet('prevent-addEventListener', 'mouseout', 'relatedTarget')
 hostpro.ua##.hp-promo-container
 community.checkpoint.com###login-popup
