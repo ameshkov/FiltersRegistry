@@ -1,5 +1,5 @@
 
-FiltersCompiler report 11/30/2023 9:00:21 PM:
+FiltersCompiler report 12/1/2023 1:00:16 AM:
 
 Filter ID: 101
 Filter name: EasyList
@@ -27,7 +27,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 104
 Filter name: EasyList China
-Compiled rules: 19447
+Compiled rules: 19453
 Excluded rules: 52
 URL: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 INVALID RULES:
@@ -62,7 +62,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 108
 Filter name: EasyList Hebrew
-Compiled rules: 1520
+Compiled rules: 1525
 Excluded rules: 112
 URL: https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt
 INVALID RULES:
@@ -72,7 +72,7 @@ Error: Invalid selector: '^script:has-text((window)}catch)' -- Error: unable to 
 ---------------------------
 Filter ID: 109
 Filter name: EasyList Italy
-Compiled rules: 5605
+Compiled rules: 5585
 Excluded rules: 0
 URL: https://easylist-downloads.adblockplus.org/easylistitaly.txt
 All rules are valid.
@@ -157,14 +157,14 @@ All rules are valid.
 ---------------------------
 Filter ID: 122
 Filter name: Fanboy's Annoyances
-Compiled rules: 53818
-Excluded rules: 12620
+Compiled rules: 53821
+Excluded rules: 12636
 URL: https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 All rules are valid.
 ---------------------------
 Filter ID: 123
 Filter name: Fanboy's Social Blocking List
-Compiled rules: 14588
+Compiled rules: 14508
 Excluded rules: 0
 URL: https://easylist-downloads.adblockplus.org/fanboy-social.txt
 All rules are valid.
@@ -231,7 +231,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 208
 Filter name: Online Malicious URL Blocklist
-Compiled rules: 1876
+Compiled rules: 1897
 Excluded rules: 8
 URL: https://urlhaus-filter.pages.dev/urlhaus-filter-ag-online.txt
 All rules are valid.
@@ -544,8 +544,8 @@ URL: https://paulgb.github.io/BarbBlock/blacklists/adblock-plus.txt
 ---------------------------
 Filter ID: 241
 Filter name: EasyList Cookie List
-Compiled rules: 28817
-Excluded rules: 2690
+Compiled rules: 28822
+Excluded rules: 2696
 URL: https://www.fanboy.co.nz/fanboy-cookiemonster.txt
 All rules are valid.
 ---------------------------
@@ -22466,7 +22466,7 @@ Error: "Unknown modifier: ~inline-font" in the rule: "||your-ups-track.com^$all,
 Error: "Unknown modifier: ~inline-font" in the rule: "||zoll-pakete-support.com^$all,~inline-font"
 Error: "Unknown modifier: ~inline-font" in the rule: "||95.214.26.78^$all,~inline-font"
 Error: Invalid selector: ':is(.post,div[data-cell-id][style]:not([data-cell-id*=carousel]),div[tabindex]:is([style^=m],[data-id]:not([class*=" "]),:not([style],[class]))):has-text( click & chat me ):has-text(🔞)' -- Error: unable to select by '*:is(.post, div[data-cell-id][style]:not([data-cell-id*=carousel]), div[tabindex]:is([style^=m], [data-id]:not([class*=" "]), *:not([style], [class])))' — '*:is(.post, div[data-cell-id][style]:not([data-cell-id*=carousel]), div[tabindex]:is([style^=m], [data-id]:not([class*=" "]), *:not([style], [class])))' is not a valid selector in rule: tumblr.com#?#:is(.post,div[data-cell-id][style]:not([data-cell-id*=carousel]),div[tabindex]:is([style^=m],[data-id]:not([class*=" "]),:not([style],[class]))):has-text( click & chat me ):has-text(🔞)
-Error: Invalid selector: ':is(.post,div[data-cell-id][style],div[tabindex]:is([style^=m],[data-id]:not([class*=" "]),:not([style],[class]))):has(a[rel=author]:has-text(/^[a-z]{2,6}-[a-z]{2,6}[0-9]{2}$/i)):has-text(/18|sex/i)' -- Error: unable to select by '*:is(.post, div[data-cell-id][style], div[tabindex]:is([style^=m], [data-id]:not([class*=" "]), *:not([style], [class])))' — '*:is(.post, div[data-cell-id][style], div[tabindex]:is([style^=m], [data-id]:not([class*=" "]), *:not([style], [class])))' is not a valid selector in rule: tumblr.com#?#:is(.post,div[data-cell-id][style],div[tabindex]:is([style^=m],[data-id]:not([class*=" "]),:not([style],[class]))):has(a[rel=author]:has-text(/^[a-z]{2,6}-[a-z]{2,6}[0-9]{2}$/i)):has-text(/18|sex/i)
+Error: Invalid selector: ':is(.post,div[data-cell-id][style],div[tabindex]:is([style^=m],[data-id]:not([class*=" "]),:not([style],[class]))):has(a[rel=author]:has-text(/^[a-z]{2,6}-[a-z]{2,8}[0-9]{2}$/i)):has-text(/18|sex|squirt|booty|/i)' -- Error: unable to select by '*:is(.post, div[data-cell-id][style], div[tabindex]:is([style^=m], [data-id]:not([class*=" "]), *:not([style], [class])))' — '*:is(.post, div[data-cell-id][style], div[tabindex]:is([style^=m], [data-id]:not([class*=" "]), *:not([style], [class])))' is not a valid selector in rule: tumblr.com#?#:is(.post,div[data-cell-id][style],div[tabindex]:is([style^=m],[data-id]:not([class*=" "]),:not([style],[class]))):has(a[rel=author]:has-text(/^[a-z]{2,6}-[a-z]{2,8}[0-9]{2}$/i)):has-text(/18|sex|squirt|booty|/i)
 Error: "Unknown modifier: ~inline-font" in the rule: "||deltacorriher.best^$all,~inline-font"
 Error: "Unknown modifier: ~inline-font" in the rule: "||14d.us^$all,~inline-font"
 Error: "Unknown modifier: ~inline-font" in the rule: "||173.208.96.42^$all,~inline-font"
@@ -22637,7 +22637,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 15
 Filter name: AdGuard DNS filter
-Compiled rules: 59305
+Compiled rules: 59315
 Excluded rules: 308
 URL: https://filters.adtidy.org/extension/chromium/filters/15.txt
 All rules are valid.
@@ -22694,7 +22694,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 224
 Filter name: AdGuard Chinese filter
-Compiled rules: 22749
+Compiled rules: 22755
 Excluded rules: 50
 URL: https://filters.adtidy.org/extension/chromium/filters/224.txt
 INVALID RULES:
@@ -22725,7 +22725,7 @@ Error: "Unknown modifier: webrtc" in the rule: "$webrtc,domain=ack.net|allthetes
 ---------------------------
 Filter ID: 3
 Filter name: AdGuard Tracking Protection filter
-Compiled rules: 77748
+Compiled rules: 77752
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/3.txt
 All rules are valid.
