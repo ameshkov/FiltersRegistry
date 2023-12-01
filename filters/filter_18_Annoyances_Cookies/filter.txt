@@ -2360,7 +2360,7 @@ gra.parkiet.com##.gpw-cookie-popup
 itnext.io#%#//scriptlet('set-local-storage-item', '201805-policy|accepted', '1')
 telegraaf.nl#%#//scriptlet('trusted-click-element', '#didomi-notice-agree-button')
 akket.com###anycomment-root .MuiSnackbarContent-root
-casetify.com#%#//scriptlet('trusted-set-cookie', 'accept_cookies', 'essential,function')
+casetify.com#%#//scriptlet('trusted-set-cookie-reload', 'accept_cookies', 'essential,function')
 lexplain.it###cp-gdpr-choices
 vandenhoeck-ruprecht-verlage.com#%#//scriptlet('set-cookie', 'mnd-cookie-accepted-wwwvandenhoeckruprechtverlagecom1', '1')
 ls-tc.de#%#//scriptlet('trusted-set-cookie', 'disclaimer', '2015040809')
@@ -14896,6 +14896,8 @@ adguard.info,adguard.com,adguard.app##.hello_from_adguard_annoyances_cookies
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/167537
+@@||cdn.privacy-mgmt.com/unified/wrapperMessagingWithoutDetection.js$domain=gentside.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/167464
 !#if (adguard_ext_safari || adguard_app_ios || adguard_ext_android_cb)
 gov.lv#@##cookieConsent
