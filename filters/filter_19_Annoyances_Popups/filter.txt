@@ -11633,6 +11633,8 @@ macwelt.de,pcwelt.de#%#//scriptlet("set-constant", "firebase.messaging", "noopFu
 !
 ! SECTION: Push notifications - Regular rules
 !
+minsknews.by###perfecty-push-dialog-container
+minsknews.by##.perfecty-push-settings-container
 sacbee.com##.ab-in-app-message
 youla.ru##article[role="alert"]
 toy-people.com###notification_alert_container
@@ -12422,6 +12424,7 @@ newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,nordbayern.de,theloca
 !
 ! SECTION: Subscriptions - Regular rules
 !
+minsknews.by##.social-links-custom
 upbeatcode.com#%#//scriptlet('set-session-storage-item', '', 'true')
 hostpro.ua##.hp_subscription
 smartpropertyinvestment.com.au###mailchimpSubscribeForm

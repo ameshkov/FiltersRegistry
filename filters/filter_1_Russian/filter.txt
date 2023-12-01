@@ -22981,6 +22981,7 @@ i.ua$$script[tag-content="var branding"][max-length="2000"]
 !
 !
 !
+lite.telegraf.com.ua##div[data-text="Реклама"]
 hi.dn.ua##div[tabindex="-1"][class] > div[data-test-id^="article-image-"] div[class*=" "][data-test-id^="article-image-"]
 psm7.com##div[style="height: 60px;"]
 storinka.com.ua#?#.article > div.widget:has(> a[href^="https://kshop5.com/"])
