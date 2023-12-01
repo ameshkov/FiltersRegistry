@@ -1,8 +1,8 @@
 !
-! Checksum: k5YjCspQtfsMjIplqN1L9A
-! OriginalVersion: 202312010451
+! Checksum: nGQMsCQIDpgoWTJwHpcERg
+! OriginalVersion: 202312010851
 ! Title: EasyList
-! Last modified: 01 Dec 2023 04:51 UTC
+! Last modified: 01 Dec 2023 08:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31371,6 +31371,7 @@ browsershots.org#@#.advert_area
 ||hotfootpriers.com^
 ||hotgvibe.com^
 ||hothta.com^
+||hotkabachok.com^
 ||hotlinemultiply.com^
 ||hotnews1.me^
 ||hotpics.mom^
@@ -44448,6 +44449,7 @@ browsershots.org#@#.advert_area
 ||tendencysanction.com^
 ||tenderlywomblink.com^
 ||tendernessbranch.com^
+||tendernessknockout.com^
 ||tendingstonier.com^
 ||tendongolach.uno^
 ||tendycdn.online^
@@ -45049,6 +45051,7 @@ browsershots.org#@#.advert_area
 ||tonganserried.life^
 ||tongsgodforsaken.com^
 ||tonicelement.digital^
+||tonicneighbouring.com^
 ||toninjaska.com^
 ||tonqvqwtvksh.com^
 ||tonsilyearling.com^
@@ -46594,6 +46597,7 @@ browsershots.org#@#.advert_area
 ||vergi-gwc.com^
 ||verifychocolate.com^
 ||veritaswhang.com^
+||veritiesgarlejobade.com^
 ||verninchange.com^
 ||vernondesigninghelmet.com^
 ||veronalhaf.com^
@@ -59333,6 +59337,7 @@ ahaan.co.uk##.MuiSnackbar-anchorOriginBottomCenter
 news18.com##.NAT_add
 mangasect.com,manhuaplus.com##.OUTBRAIN
 chronicle.com##.OneColumnContainer
+newscientist.com##.Outbrain
 kentonline.co.uk##.PSDRGC
 govtech.com##.Page-billboard
 afar.com##.Page-header-hat
@@ -62894,6 +62899,7 @@ geoguessr.com##aside[class^="ad_"]
 buffstreams.sx##button[data-openuri*=".allsportsflix."]
 filecrypt.cc,filecrypt.co##button[onclick*="://bullads.net/"]
 psycom.net##center > .vh-quiz-qborder
+turbobits.cc,turbobits.net##center > a > img
 mangas-raw.com##center > div[style]
 greekreporter.com##center > p > [href]
 pricehistoryapp.com##center[class^="min-h-"]
