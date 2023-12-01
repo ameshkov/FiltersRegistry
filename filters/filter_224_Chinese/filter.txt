@@ -5725,9 +5725,13 @@ newduba.cn###jq_youxi
 ||kdgjsf.com^
 ||eapect.icu^
 ||ar611.xyz^
+||sdklcnskvbks.com^
+||rqauutf.icu^
+||1dcbzuv.com^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
+##a[href*=".sudun.com/"]
 ##[style*="sotv.me"]
 ##a[href$="/1c626.com"]
 ##a[href$="/lm2p2.com"]
@@ -9032,6 +9036,7 @@ newduba.cn###jq_youxi
 ||zzrjdp.xyz^
 ||zzxedr.xyz^
 ||zzxmcp.com^
+||lmlmvip.com^
 ||yellowjm.com^
 ||xwdsp.com^
 ||js22f.net^
