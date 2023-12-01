@@ -1,7 +1,7 @@
 !
-! OriginalVersion: 202312010839
+! OriginalVersion: 202312011111
 ! Title: EasyPrivacy
-! Last modified: 01 Dec 2023 08:39 UTC
+! Last modified: 01 Dec 2023 11:11 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 !

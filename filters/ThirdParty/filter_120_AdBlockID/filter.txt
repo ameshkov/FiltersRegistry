@@ -1,8 +1,8 @@
 !
-! OriginalVersion: 23.12.2
+! OriginalVersion: 23.12.3
 ! Title: AdBlockID
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
-! Last modified: 30 Nov 2023 20:04 UTC
+! Last modified: 01 Dec 2023 10:50 UTC
 ! Expires: 1 days
 ! Homepage: https://github.com/realodix/AdBlockID
 .id^*/ads_$domain=~cartalog.id
@@ -2505,8 +2505,8 @@ tempo.co##.bannerfull
 cantika.com,tempo.co##.bannerhead
 sleekr.co##.banners
 kabarnusa.com##.bannerx
-suara.com##.bg-ads-sticky-side
-suara.com##.bg-ads-sticky-top
+dewiku.com,suara.com##.bg-ads-sticky-side
+dewiku.com,suara.com##.bg-ads-sticky-top
 majoo.id##.blog__ads
 inilahkoran.id,marjinal.id##.bn-lg-sidebar
 tirto.id##.bnnr-prmm
@@ -3099,7 +3099,7 @@ infosumbar.net##.code-block:has(> center > script)
 suarapapua.com##.code-block:has(> script)
 cerdasco.com##.code-block:has(noscript)
 hapusakun.com,iuwashplus.or.id,tapanulipost.com##.code-block:has-text(/adv/i)
-blockchainmedia.id,cerdasco.com,skdesu.com##.code-block:matches-css(text-align: center):has-text(/iklan/i)
+blockchainmedia.id,cerdasco.com##.code-block:matches-css(text-align: center):has-text(/iklan/i)
 arenabola.id##.col-lg-3:has-text(/adv/i)
 oneesports.id##.container:has(> .ad-container)
 orami.co.id##.content-wrapper #category-top:has-text(/adv/i)
@@ -4036,7 +4036,6 @@ _usafelink.$third-party,script
 ||adsafelink.com/js/webscript.$third-party,script
 ||akashiro.co.id/safelink.$third-party,script
 ||duit.cc/safelink.$third-party,script
-||kadal.club/js/getlinkz.$third-party,script
 ||pastebin.com/raw/Rw38SyHy$third-party,script
 ||safelinkblog.com/js/v2.$third-party,script
 ||safelinku.com/fullpage/script.$third-party,script
@@ -4389,16 +4388,15 @@ westmanga.info#%#//scriptlet('ubo-nowoif.js')
 ##[href^="https://safelinku.com/ref/"] > img
 miuiku.com,sekilastekno.com###teaser2
 pinloker.com##.text-center:has-text(/adv/i)
-belinfo.my.id,linkerload.com#%#//scriptlet('ubo-acis.js', 'addEventListener', 'google_ad_client')
+linkerload.com#%#//scriptlet('ubo-acis.js', 'addEventListener', 'google_ad_client')
 pinloker.com,sekilastekno.com#%#//scriptlet('ubo-aopr.js', 'AaDetector')
 adikinfo.my.id,mangindo.xyz,nurhamka.com#%#//scriptlet('ubo-aopr.js', 'adBlockDetected')
-skiplink.me#%#//scriptlet('ubo-aopr.js', 'adsBlocked')
 adsafelink.com,dz4link.com,linkpoi.me,rancah.com,sekilastekno.com#%#//scriptlet('ubo-aopr.js', 'app_vars.force_disable_adblock')
 linkpoi.me#%#//scriptlet('ubo-aopr.js', 'disableItToContinue')
 menjelajahi.com,pintunow.com,rancah.com,saungfirmware.id#%#//scriptlet('ubo-aopr.js', 'short_url_app_vars.force_disable_adblock')
 mangindo.xyz#%#//scriptlet('ubo-aopr.js', 'window.adikAds')
 downloadfilm.website,sekilastekno.com#%#//scriptlet('ubo-no-fetch-if.js', 'ads')
-info.gambar.pro,pinloker.com,sekilastekno.com,tutorial.siberuang.com#%#//scriptlet('ubo-no-fetch-if.js', 'adsbygoogle.js')
+info.gambar.pro,pinloker.com,sekilastekno.com#%#//scriptlet('ubo-no-fetch-if.js', 'adsbygoogle.js')
 vebma.com#%#//scriptlet('ubo-no-fetch-if.js', 'pagead2.googlesyndication.com')
 lifesurance.info#%#//scriptlet('ubo-set.js', 'showada', 'true')
 nyawang.com#%#//scriptlet('ubo-acis.js', 'chp_ads_blocker_detector')
@@ -4407,23 +4405,20 @@ pernahsukses.com#%#//scriptlet('ubo-noeval-if.js', '/chp_?ad/')
 @@-ads-banner.js$domain=lifesurance.info|teknoku.me
 @@||duniata.com^$generichide
 @@||mangalist.org^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=skiplink.me
 tonanmedia.my.id#%#//scriptlet('ubo-set-constant.js', 'showAds', 'true')
 tonanmedia.my.id##.post-body center:has-text(/matikan adblok/i)
 tonanmedia.my.id#$#.smokeddlrh > .adsbygoogle { display: block !important }
 @@||tonanmedia.my.id^$generichide
-besargaji.com,carapedi.id,cararegistrasi.com,luangusaha.com,miuiku.com,ponselharian.com,sekilastekno.com,shrinke.me,shrinkme.info,teknosimple.com,tutwuri.id#%#//scriptlet('ubo-nowoif.js')
+besargaji.com,cararegistrasi.com,miuiku.com,ponselharian.com,sekilastekno.com,shrinke.me,shrinkme.info,teknosimple.com,tutwuri.id#%#//scriptlet('ubo-nowoif.js')
 pinloker.com,sekilastekno.com#%#//scriptlet('ubo-nowoif.js', '/\.(com|net)\/4\/|teraboxapp|momerybox/')
-belinfo.my.id#%#//scriptlet('ubo-ra.js', 'onclick', '[onclick*="window.open"]')
 pernahsukses.com#%#//scriptlet('ubo-ra.js', 'target', 'form#alf_continue_form')
 pinloker.com,sekilastekno.com#%#//scriptlet('ubo-ra.js', 'href', 'div[x-data="adtival"] a[href][\@click="scroll"]')
 pernahsukses.com#%#//scriptlet('ubo-adjust-setInterval.js')
 tutwuri.id#%#//scriptlet('ubo-adjust-setInterval.js', 'innerHTML=`Wait')
-adpayl.ink,adsafelink.com,artipedia.id,asupload.com,kadal.club,kutt.io,luangusaha.com,miuiku.com,pernahsukses.com,rancah.com,saungfirmware.id,savetub.com,sekilastekno.com,semruwet.com#%#//scriptlet('ubo-set.js', 'blurred', 'false')
+adpayl.ink,adsafelink.com,asupload.com,miuiku.com,pernahsukses.com,rancah.com,saungfirmware.id,savetub.com,sekilastekno.com,semruwet.com#%#//scriptlet('ubo-set.js', 'blurred', 'false')
 slurr.my.id###content #wpsafegenerate div:has(a > img):not(#wpsafe-link)
 slurr.my.id###content .wpsafe-top div:has(> a > img):not(#wpsafe-generate)
 jenismac.com###hello
-luangusaha.com##.blog-item
 ayobelajarbareng.com##.entry-content .code-block
 shrinke.me,shrinkme.info##.expop
 miuiku.com##.klikdisini
@@ -4440,8 +4435,8 @@ info.gambar.pro##img[width="240"][height="240"]
 info.gambar.pro,sekilastekno.com##img[width="320"][height="105"]
 semruwet.com##img[width="320"][height="90"]
 /download-$image,domain=sekilastekno.com
-/download.$image,domain=belinfo.my.id|egao.in
-/download_$image,domain=carapedi.id|cararegistrasi.com|ponselharian.com
+/download.$image,domain=egao.in
+/download_$image,domain=cararegistrasi.com|ponselharian.com
 @@/abdiusu/project-safelink-viomagz/*/safelink-ViomagzV3.2-2tombol$third-party,script
 isekaipalace.com###anchor-ad
 isekaipalace.com##.fixed-lside

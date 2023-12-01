@@ -788,8 +788,6 @@ _usafelink.$3p,script
 ||akashiro.co.id/safelink.$3p,script
 ! Rule "||duit.cc/safelink.$3p,script" converted to: "||duit.cc/safelink.$third-party,script"
 ||duit.cc/safelink.$3p,script
-! Rule "||kadal.club/js/getlinkz.$3p,script" converted to: "||kadal.club/js/getlinkz.$third-party,script"
-||kadal.club/js/getlinkz.$3p,script
 ! Rule "||pastebin.com/raw/Rw38SyHy$3p,script" converted to: "||pastebin.com/raw/Rw38SyHy$third-party,script"
 ||pastebin.com/raw/Rw38SyHy$3p,script
 ! Rule "||safelinkblog.com/js/v2.$3p,script" converted to: "||safelinkblog.com/js/v2.$third-party,script"
@@ -1168,14 +1166,12 @@ onepieceberwarna.com##+js(aopr, document.oncontextmenu)
 westmanga.info##+js(aeld, contextmenu)
 ! Rule "westmanga.info##+js(nowoif)" converted to: "westmanga.info#%#//scriptlet('ubo-nowoif.js')"
 westmanga.info##+js(nowoif)
-! Rule "belinfo.my.id,linkerload.com##+js(acis, addEventListener, google_ad_client)" converted to: "belinfo.my.id,linkerload.com#%#//scriptlet('ubo-acis.js', 'addEventListener', 'google_ad_client')"
-belinfo.my.id,linkerload.com##+js(acis, addEventListener, google_ad_client)
+! Rule "linkerload.com##+js(acis, addEventListener, google_ad_client)" converted to: "linkerload.com#%#//scriptlet('ubo-acis.js', 'addEventListener', 'google_ad_client')"
+linkerload.com##+js(acis, addEventListener, google_ad_client)
 ! Rule "pinloker.com,sekilastekno.com##+js(aopr, AaDetector)" converted to: "pinloker.com,sekilastekno.com#%#//scriptlet('ubo-aopr.js', 'AaDetector')"
 pinloker.com,sekilastekno.com##+js(aopr, AaDetector)
 ! Rule "adikinfo.my.id,mangindo.xyz,nurhamka.com##+js(aopr, adBlockDetected)" converted to: "adikinfo.my.id,mangindo.xyz,nurhamka.com#%#//scriptlet('ubo-aopr.js', 'adBlockDetected')"
 adikinfo.my.id,mangindo.xyz,nurhamka.com##+js(aopr, adBlockDetected)
-! Rule "skiplink.me##+js(aopr, adsBlocked)" converted to: "skiplink.me#%#//scriptlet('ubo-aopr.js', 'adsBlocked')"
-skiplink.me##+js(aopr, adsBlocked)
 ! Rule "adsafelink.com,dz4link.com,linkpoi.me,rancah.com,sekilastekno.com##+js(aopr, app_vars.force_disable_adblock)" converted to: "adsafelink.com,dz4link.com,linkpoi.me,rancah.com,sekilastekno.com#%#//scriptlet('ubo-aopr.js', 'app_vars.force_disable_adblock')"
 adsafelink.com,dz4link.com,linkpoi.me,rancah.com,sekilastekno.com##+js(aopr, app_vars.force_disable_adblock)
 ! Rule "linkpoi.me##+js(aopr, disableItToContinue)" converted to: "linkpoi.me#%#//scriptlet('ubo-aopr.js', 'disableItToContinue')"
@@ -1186,8 +1182,8 @@ menjelajahi.com,pintunow.com,rancah.com,saungfirmware.id##+js(aopr, short_url_ap
 mangindo.xyz##+js(aopr, window.adikAds)
 ! Rule "downloadfilm.website,sekilastekno.com##+js(no-fetch-if, ads)" converted to: "downloadfilm.website,sekilastekno.com#%#//scriptlet('ubo-no-fetch-if.js', 'ads')"
 downloadfilm.website,sekilastekno.com##+js(no-fetch-if, ads)
-! Rule "info.gambar.pro,pinloker.com,sekilastekno.com,tutorial.siberuang.com##+js(no-fetch-if, adsbygoogle.js)" converted to: "info.gambar.pro,pinloker.com,sekilastekno.com,tutorial.siberuang.com#%#//scriptlet('ubo-no-fetch-if.js', 'adsbygoogle.js')"
-info.gambar.pro,pinloker.com,sekilastekno.com,tutorial.siberuang.com##+js(no-fetch-if, adsbygoogle.js)
+! Rule "info.gambar.pro,pinloker.com,sekilastekno.com##+js(no-fetch-if, adsbygoogle.js)" converted to: "info.gambar.pro,pinloker.com,sekilastekno.com#%#//scriptlet('ubo-no-fetch-if.js', 'adsbygoogle.js')"
+info.gambar.pro,pinloker.com,sekilastekno.com##+js(no-fetch-if, adsbygoogle.js)
 ! Rule "vebma.com##+js(no-fetch-if, pagead2.googlesyndication.com)" converted to: "vebma.com#%#//scriptlet('ubo-no-fetch-if.js', 'pagead2.googlesyndication.com')"
 vebma.com##+js(no-fetch-if, pagead2.googlesyndication.com)
 ! Rule "lifesurance.info##+js(set, showada, true)" converted to: "lifesurance.info#%#//scriptlet('ubo-set.js', 'showada', 'true')"
@@ -1208,12 +1204,10 @@ tonanmedia.my.id##+js(set-constant, showAds, true)
 tonanmedia.my.id##.smokeddlrh > .adsbygoogle:style(display: block !important)
 ! Rule "@@||tonanmedia.my.id^$ghide" converted to: "@@||tonanmedia.my.id^$generichide"
 @@||tonanmedia.my.id^$ghide
-! Rule "besargaji.com,carapedi.id,cararegistrasi.com,luangusaha.com,miuiku.com,ponselharian.com,sekilastekno.com,shrinke.me,shrinkme.info,teknosimple.com,tutwuri.id##+js(nowoif)" converted to: "besargaji.com,carapedi.id,cararegistrasi.com,luangusaha.com,miuiku.com,ponselharian.com,sekilastekno.com,shrinke.me,shrinkme.info,teknosimple.com,tutwuri.id#%#//scriptlet('ubo-nowoif.js')"
-besargaji.com,carapedi.id,cararegistrasi.com,luangusaha.com,miuiku.com,ponselharian.com,sekilastekno.com,shrinke.me,shrinkme.info,teknosimple.com,tutwuri.id##+js(nowoif)
+! Rule "besargaji.com,cararegistrasi.com,miuiku.com,ponselharian.com,sekilastekno.com,shrinke.me,shrinkme.info,teknosimple.com,tutwuri.id##+js(nowoif)" converted to: "besargaji.com,cararegistrasi.com,miuiku.com,ponselharian.com,sekilastekno.com,shrinke.me,shrinkme.info,teknosimple.com,tutwuri.id#%#//scriptlet('ubo-nowoif.js')"
+besargaji.com,cararegistrasi.com,miuiku.com,ponselharian.com,sekilastekno.com,shrinke.me,shrinkme.info,teknosimple.com,tutwuri.id##+js(nowoif)
 ! Rule "pinloker.com,sekilastekno.com##+js(nowoif, /\.(com|net)\/4\/|teraboxapp|momerybox/)" converted to: "pinloker.com,sekilastekno.com#%#//scriptlet('ubo-nowoif.js', '/\.(com|net)\/4\/|teraboxapp|momerybox/')"
 pinloker.com,sekilastekno.com##+js(nowoif, /\.(com|net)\/4\/|teraboxapp|momerybox/)
-! Rule "belinfo.my.id##+js(ra, onclick, [onclick*="window.open"])" converted to: "belinfo.my.id#%#//scriptlet('ubo-ra.js', 'onclick', '[onclick*="window.open"]')"
-belinfo.my.id##+js(ra, onclick, [onclick*="window.open"])
 ! Rule "pernahsukses.com##+js(ra, target, form#alf_continue_form)" converted to: "pernahsukses.com#%#//scriptlet('ubo-ra.js', 'target', 'form#alf_continue_form')"
 pernahsukses.com##+js(ra, target, form#alf_continue_form)
 ! Rule "pinloker.com,sekilastekno.com##+js(ra, href, div[x-data="adtival"] a[href][\@click="scroll"])" converted to: "pinloker.com,sekilastekno.com#%#//scriptlet('ubo-ra.js', 'href', 'div[x-data="adtival"] a[href][\@click="scroll"]')"
@@ -1222,8 +1216,8 @@ pinloker.com,sekilastekno.com##+js(ra, href, div[x-data="adtival"] a[href][\@cli
 pernahsukses.com##+js(adjust-setInterval)
 ! Rule "tutwuri.id##+js(adjust-setInterval, innerHTML=`Wait)" converted to: "tutwuri.id#%#//scriptlet('ubo-adjust-setInterval.js', 'innerHTML=`Wait')"
 tutwuri.id##+js(adjust-setInterval, innerHTML=`Wait)
-! Rule "adpayl.ink,adsafelink.com,artipedia.id,asupload.com,kadal.club,kutt.io,luangusaha.com,miuiku.com,pernahsukses.com,rancah.com,saungfirmware.id,savetub.com,sekilastekno.com,semruwet.com##+js(set, blurred, false)" converted to: "adpayl.ink,adsafelink.com,artipedia.id,asupload.com,kadal.club,kutt.io,luangusaha.com,miuiku.com,pernahsukses.com,rancah.com,saungfirmware.id,savetub.com,sekilastekno.com,semruwet.com#%#//scriptlet('ubo-set.js', 'blurred', 'false')"
-adpayl.ink,adsafelink.com,artipedia.id,asupload.com,kadal.club,kutt.io,luangusaha.com,miuiku.com,pernahsukses.com,rancah.com,saungfirmware.id,savetub.com,sekilastekno.com,semruwet.com##+js(set, blurred, false)
+! Rule "adpayl.ink,adsafelink.com,asupload.com,miuiku.com,pernahsukses.com,rancah.com,saungfirmware.id,savetub.com,sekilastekno.com,semruwet.com##+js(set, blurred, false)" converted to: "adpayl.ink,adsafelink.com,asupload.com,miuiku.com,pernahsukses.com,rancah.com,saungfirmware.id,savetub.com,sekilastekno.com,semruwet.com#%#//scriptlet('ubo-set.js', 'blurred', 'false')"
+adpayl.ink,adsafelink.com,asupload.com,miuiku.com,pernahsukses.com,rancah.com,saungfirmware.id,savetub.com,sekilastekno.com,semruwet.com##+js(set, blurred, false)
 ! Rule "@@/abdiusu/project-safelink-viomagz/*/safelink-ViomagzV3.2-2tombol$3p,script" converted to: "@@/abdiusu/project-safelink-viomagz/*/safelink-ViomagzV3.2-2tombol$third-party,script"
 @@/abdiusu/project-safelink-viomagz/*/safelink-ViomagzV3.2-2tombol$3p,script
 ! Rule "isekaipalace.com##*:style(user-select:text!important;)" converted to: "isekaipalace.com#$#* { user-select:text!important; }"
