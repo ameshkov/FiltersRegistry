@@ -2318,6 +2318,7 @@ cmp.chip.de,cmpv2.netdoktor.ch,cmp.videogameschronicle.com,cmp.svd.se,cmpsp.game
 !
 ! NOTE: Regular rules
 !
+softonic.com#%#//scriptlet('trusted-set-cookie-reload', 'euconsent-v2', 'CP2APYAP2APYAAHABBENAcEgAAAAAAAAAAiQAAAAAAEEoAMAARBqDQAYAAiDUKgAwABEGopABgACINQ6ADAAEQaiEAGAAIg1BIAMAARBqGQAYAAiDUAA.YAAAAAAAAAAA')
 ||cmp.inmobi.com/tcfv2/cmp2*.js$domain=wetter24.de
 fujitv.co.jp##.cookieCheckContainer
 compress-or-die.com##.module_global-cookie-consent
@@ -17824,9 +17825,7 @@ hobbybaecker.de#@#.cookie-notice:not(body):not(html)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59676
 @@||cdn.privacy-mgmt.com/mms/$xmlhttprequest,domain=ccpa-notice.sp-prod.net
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59462
-@@||sdk.privacy-center.org/*/loader.js$domain=softonic.com
-@@||sdk.privacy-center.org/sdk.*.js$domain=softonic.com
-@@||sdk.privacy-center.org/ui-gdp*.js$domain=softonic.com
+@@||sdk.privacy-center.org^$domain=softonic.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59584
 @@||cdn.cookielaw.org/scripttemplates^$domain=trustpilot.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59412
