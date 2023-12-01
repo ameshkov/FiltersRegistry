@@ -1,5 +1,5 @@
 
-FiltersCompiler report 12/1/2023 1:00:16 AM:
+FiltersCompiler report 12/1/2023 5:00:15 AM:
 
 Filter ID: 101
 Filter name: EasyList
@@ -27,7 +27,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 104
 Filter name: EasyList China
-Compiled rules: 19453
+Compiled rules: 19456
 Excluded rules: 52
 URL: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 INVALID RULES:
@@ -157,8 +157,8 @@ All rules are valid.
 ---------------------------
 Filter ID: 122
 Filter name: Fanboy's Annoyances
-Compiled rules: 53821
-Excluded rules: 12636
+Compiled rules: 53741
+Excluded rules: 12644
 URL: https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 All rules are valid.
 ---------------------------
@@ -216,11 +216,10 @@ URL: https://adblock.dk/block.csv
 ---------------------------
 Filter ID: 206
 Filter name: Xfiles
-Compiled rules: 5110
-Excluded rules: 1058
+Compiled rules: 5119
+Excluded rules: 1054
 URL: https://raw.githubusercontent.com/gioxx/xfiles/master/filtri.txt
-INVALID RULES:
-Error: Invalid selector: '.top_bar.top_bar_ad! [NoAds X Files - Elementi bloccati]/blocking' -- Error: unable to select by '.top_bar.top_bar_ad! [NoAds X Files - Elementi bloccati]/blocking' — '.top_bar.top_bar_ad! [NoAds X Files - Elementi bloccati]/blocking' is not a valid selector in rule: zpag.es##.top_bar.top_bar_ad! [NoAds X Files - Elementi bloccati]/blocking
+All rules are valid.
 ---------------------------
 Filter ID: 207
 Filter name: Adblock Warning Removal List
@@ -319,8 +318,8 @@ URL: https://easylist-downloads.adblockplus.org/bitblock.txt
 ---------------------------
 Filter ID: 214
 Filter name: ABPVN List
-Compiled rules: 3086
-Excluded rules: 30
+Compiled rules: 3080
+Excluded rules: 26
 URL: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn_adguard.txt
 All rules are valid.
 ---------------------------
@@ -22694,7 +22693,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 224
 Filter name: AdGuard Chinese filter
-Compiled rules: 22755
+Compiled rules: 22758
 Excluded rules: 50
 URL: https://filters.adtidy.org/extension/chromium/filters/224.txt
 INVALID RULES:

@@ -338,6 +338,8 @@ finewoodworking.com##+js(set-cookie, taunton_user_consent_advertising, false)
 finewoodworking.com##+js(set-cookie, taunton_user_consent_analytics, false)
 ! Rule "resonate.coop##+js(set-cookie, cookieconsent_status, allow)" converted to: "resonate.coop#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow')"
 resonate.coop##+js(set-cookie, cookieconsent_status, allow)
+! Rule "gov.lv##+js(set-cookie, allowCookies, 0)" converted to: "gov.lv#%#//scriptlet('ubo-set-cookie.js', 'allowCookies', '0')"
+gov.lv##+js(set-cookie, allowCookies, 0)
 ! Rule "bgextras.co.uk##+js(set-cookie, CB393_DONOTREOPEN, true)" converted to: "bgextras.co.uk#%#//scriptlet('ubo-set-cookie.js', 'CB393_DONOTREOPEN', 'true')"
 bgextras.co.uk##+js(set-cookie, CB393_DONOTREOPEN, true)
 ! Rule "sede.coruna.gal##+js(set-cookie, AYTO_CORUNA_COOKIES, 1, , reload, 1)" converted to: "sede.coruna.gal#%#//scriptlet('ubo-set-cookie.js', 'AYTO_CORUNA_COOKIES', '1', '', 'reload', '1')"
@@ -3512,6 +3514,8 @@ finewoodworking.com##+js(set-cookie, taunton_user_consent_advertising, false)
 finewoodworking.com##+js(set-cookie, taunton_user_consent_analytics, false)
 ! Rule "resonate.coop##+js(set-cookie, cookieconsent_status, allow)" converted to: "resonate.coop#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow')"
 resonate.coop##+js(set-cookie, cookieconsent_status, allow)
+! Rule "gov.lv##+js(set-cookie, allowCookies, 0)" converted to: "gov.lv#%#//scriptlet('ubo-set-cookie.js', 'allowCookies', '0')"
+gov.lv##+js(set-cookie, allowCookies, 0)
 ! Rule "bgextras.co.uk##+js(set-cookie, CB393_DONOTREOPEN, true)" converted to: "bgextras.co.uk#%#//scriptlet('ubo-set-cookie.js', 'CB393_DONOTREOPEN', 'true')"
 bgextras.co.uk##+js(set-cookie, CB393_DONOTREOPEN, true)
 ! Rule "sede.coruna.gal##+js(set-cookie, AYTO_CORUNA_COOKIES, 1, , reload, 1)" converted to: "sede.coruna.gal#%#//scriptlet('ubo-set-cookie.js', 'AYTO_CORUNA_COOKIES', '1', '', 'reload', '1')"
@@ -6668,6 +6672,8 @@ finewoodworking.com#%#//scriptlet('ubo-set-cookie.js', 'taunton_user_consent_adv
 finewoodworking.com#%#//scriptlet('ubo-set-cookie.js', 'taunton_user_consent_analytics', 'false')
 ! resonate.coop#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow') is excluded by "#%#//scriptlet" in exclusions-low.txt
 resonate.coop#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow')
+! gov.lv#%#//scriptlet('ubo-set-cookie.js', 'allowCookies', '0') is excluded by "#%#//scriptlet" in exclusions-low.txt
+gov.lv#%#//scriptlet('ubo-set-cookie.js', 'allowCookies', '0')
 ! bgextras.co.uk#%#//scriptlet('ubo-set-cookie.js', 'CB393_DONOTREOPEN', 'true') is excluded by "#%#//scriptlet" in exclusions-low.txt
 bgextras.co.uk#%#//scriptlet('ubo-set-cookie.js', 'CB393_DONOTREOPEN', 'true')
 ! sede.coruna.gal#%#//scriptlet('ubo-set-cookie.js', 'AYTO_CORUNA_COOKIES', '1', '', 'reload', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
@@ -9828,6 +9834,8 @@ finewoodworking.com#%#//scriptlet('ubo-set-cookie.js', 'taunton_user_consent_adv
 finewoodworking.com#%#//scriptlet('ubo-set-cookie.js', 'taunton_user_consent_analytics', 'false')
 ! resonate.coop#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow') is excluded by "#%#//scriptlet" in exclusions-low.txt
 resonate.coop#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow')
+! gov.lv#%#//scriptlet('ubo-set-cookie.js', 'allowCookies', '0') is excluded by "#%#//scriptlet" in exclusions-low.txt
+gov.lv#%#//scriptlet('ubo-set-cookie.js', 'allowCookies', '0')
 ! bgextras.co.uk#%#//scriptlet('ubo-set-cookie.js', 'CB393_DONOTREOPEN', 'true') is excluded by "#%#//scriptlet" in exclusions-low.txt
 bgextras.co.uk#%#//scriptlet('ubo-set-cookie.js', 'CB393_DONOTREOPEN', 'true')
 ! sede.coruna.gal#%#//scriptlet('ubo-set-cookie.js', 'AYTO_CORUNA_COOKIES', '1', '', 'reload', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
