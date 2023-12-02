@@ -1,8 +1,8 @@
 !
-! Checksum: gR3ngJzwoedhL877Y0336A
-! OriginalVersion: 202312020051
+! Checksum: 9wg9BcS7tNPhSsZ6b7fMXQ
+! OriginalVersion: 202312020451
 ! Title: EasyList
-! Last modified: 02 Dec 2023 00:51 UTC
+! Last modified: 02 Dec 2023 04:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18582,8 +18582,8 @@ cadlinecommunity.co.uk#@#.sidebar_advert
 24city.cn.ua#@#.single-ads
 hebdenbridge.co.uk#@#.smallads
 itempost.jp#@#.sp-ad
+geekwire.com#@#.sponsor_post
 zdnet.com#@#.sponsoredItem
-kickoff.com#@#.takeover-ad
 kingsofchaos.com#@#.textad
 k24tv.co.ke#@#.top-ad
 cp24.com#@#.topAd
@@ -63463,7 +63463,6 @@ youtube.com###YtKevlarVisibilityIdentifier
 youtube.com###YtSparklesVisibilityIdentifier
 youtube.com###feed-pyv-container
 youtube.com###player-ads
-youtube.com###video-masthead
 youtube.com##.ad-showing > .html5-video-container
 youtube.com##.companion-ad-container
 youtube.com##.list-view[style="margin: 7px 0pt;"]
