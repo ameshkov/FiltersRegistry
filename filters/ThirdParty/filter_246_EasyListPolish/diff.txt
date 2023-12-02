@@ -1,2 +1,4 @@
 ! wp.pl#?#IMG:-abp-properties(position: relative;) is excluded by "-abp-properties" in exclusions.txt
 wp.pl#?#IMG:-abp-properties(position: relative;)
+! Error: Invalid selector: '..adrek' -- Error: unable to select by '..adrek' — '..adrek' is not a valid selector in rule:
+zwierciadlo.pl##..adrek

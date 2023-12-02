@@ -1,8 +1,8 @@
 !
-! Checksum: vPMZw8K1ZFi4xIippjFJyA
-! OriginalVersion: 202312021251
+! Checksum: Z1GajuTJuiqBZsfvoSHNmQ
+! OriginalVersion: 202312021651
 ! Title: EasyList
-! Last modified: 02 Dec 2023 12:51 UTC
+! Last modified: 02 Dec 2023 16:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -60893,6 +60893,7 @@ canarymedia.com##.inset-x-0
 tvarticles.me##.inside
 serverhunter.com##.instant-visit
 flixboss.com##.instream-dynamic
+arstechnica.com##.instream-wrap
 coincarp.com##.interact-mobileBox
 fool.com##.interad
 monochrome-watches.com##.interscroll
