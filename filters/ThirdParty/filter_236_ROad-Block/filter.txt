@@ -641,8 +641,8 @@ nimfomane.com##[href^="https://bcprm.com/promo.php"]
 nimfomane.com##[href="https://luxuryescorts.com/"]
 nimfomane.com##[alt="advertisement_alt"]
 sa-mp.ro#?#.ipsWidget_title.ipsType_reset:-abp-contains(Sponsor)
+sa-mp.ro##[href*="&do=advertisement"]
 ||ro-ph.com/img/banners/roph.jpg
-||sa-mp.ro^*reclama
 craiovaforum.ro##.wpb_wrapper > aside.widget_text.widget
 4tuning.ro##.aobn
 4tuning.ro##.side-col
@@ -694,12 +694,7 @@ scritub.com#?#[style^="overflow:"]:-abp-has([data-ad-slot])
 scritub.com#?#[style^="overflow:"]:-abp-has(#v-scritub-v3)
 ||sighet247.ro/banners/
 sighet247.ro##.ad
-||hdfilmeonline.ro/wp-content/uploads/2021/03/amazon-bands.jpg$image
-||hdfilmeonline.ro/wp-content/uploads/2021/03/amazonnub.png$image
-hdfilmeonline.ro##.bireklam
 ||hoinaru.ro/wp-content/uploads/*/*/banner*$image
-reno.ro##.profitshare
-reno.ro##.adsense
 rasfoiesc.com#?#[style^="overflow:"]:-abp-has([data-ad])
 rasfoiesc.com#?#[style^="overflow:"]:-abp-has([data-ad-slot])
 rasfoiesc.com##td[height^="500"]
@@ -752,10 +747,11 @@ lauralaurentiu.ro##.reclamaLata
 lauralaurentiu.ro##.titluReclama
 lauralaurentiu.ro#?#.code-block:-abp-contains(PUB)
 ziare.com##.branding-container
-ziare.com##[href*="AdB"]
 ||ziare.com^*.gif$image
 @@||ziare.com^$generichide
 ziare.com##.banner
+ziare.com##[href*="AdB"]
+ziare.com##[id^="div-gpt-ad"]
 ! page broken
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=savoriurbane.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=savoriurbane.com
