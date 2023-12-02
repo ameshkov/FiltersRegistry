@@ -1,9 +1,9 @@
 
-FiltersCompiler report 12/2/2023 9:00:16 AM:
+FiltersCompiler report 12/2/2023 1:00:16 PM:
 
 Filter ID: 101
 Filter name: EasyList
-Compiled rules: 65535
+Compiled rules: 65541
 Excluded rules: 46
 URL: https://easylist-downloads.adblockplus.org/easylist.txt
 INVALID RULES:
@@ -12,7 +12,7 @@ Error: "Unknown modifier: webrtc" in the rule: "$webrtc,domain=ack.net|allthetes
 ---------------------------
 Filter ID: 102
 Filter name: ABPindo
-Compiled rules: 9140
+Compiled rules: 9143
 Excluded rules: 30
 URL: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
 INVALID RULES:
@@ -130,7 +130,7 @@ URL: https://raw.githubusercontent.com/KonoromiHimaries/PolishSubFilters/master/
 ---------------------------
 Filter ID: 118
 Filter name: EasyPrivacy
-Compiled rules: 33508
+Compiled rules: 33510
 Excluded rules: 12
 URL: https://easylist.to/easylist/easyprivacy.txt
 All rules are valid.
@@ -142,7 +142,7 @@ URL: https://adblock.gardar.net/is.abp.txt
 ---------------------------
 Filter ID: 120
 Filter name: AdBlockID
-Compiled rules: 5831
+Compiled rules: 5832
 Excluded rules: 1322
 URL: https://raw.githubusercontent.com/realodix/AdBlockID/main/dist/adblockid.adfl.txt
 INVALID RULES:
@@ -157,7 +157,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 122
 Filter name: Fanboy's Annoyances
-Compiled rules: 53751
+Compiled rules: 53754
 Excluded rules: 12648
 URL: https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 All rules are valid.
@@ -230,7 +230,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 208
 Filter name: Online Malicious URL Blocklist
-Compiled rules: 1909
+Compiled rules: 1960
 Excluded rules: 8
 URL: https://urlhaus-filter.pages.dev/urlhaus-filter-ag-online.txt
 All rules are valid.
@@ -361,7 +361,7 @@ Error: Invalid selector: '.modals.dimmer > .gdpr.visible:upward(1):watch-attr([c
 Filter ID: 218
 Filter name: Estonian List
 Compiled rules: 444
-Excluded rules: 40
+Excluded rules: 44
 URL: https://adblock.ee/list.php
 INVALID RULES:
 Error: "Unknown pseudo-class ':remove-class' in selector: 'article.article:remove-class(cookie-paywall-visible)'" in the rule: "postimees.ee##article.article:remove-class(cookie-paywall-visible)"
@@ -442,7 +442,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 232
 Filter name: KAD - Anti-Scam
-Compiled rules: 50909
+Compiled rules: 50941
 Excluded rules: 236
 URL: https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt
 INVALID RULES:
@@ -543,7 +543,7 @@ URL: https://paulgb.github.io/BarbBlock/blacklists/adblock-plus.txt
 ---------------------------
 Filter ID: 241
 Filter name: EasyList Cookie List
-Compiled rules: 28825
+Compiled rules: 28826
 Excluded rules: 2698
 URL: https://www.fanboy.co.nz/fanboy-cookiemonster.txt
 INVALID RULES:
@@ -22637,7 +22637,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 15
 Filter name: AdGuard DNS filter
-Compiled rules: 58544
+Compiled rules: 58547
 Excluded rules: 308
 URL: https://filters.adtidy.org/extension/chromium/filters/15.txt
 All rules are valid.
@@ -22716,7 +22716,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 2
 Filter name: AdGuard Base filter
-Compiled rules: 134383
+Compiled rules: 134386
 Excluded rules: 56
 URL: https://filters.adtidy.org/extension/chromium/filters/2.txt
 INVALID RULES:
