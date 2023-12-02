@@ -13814,6 +13814,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 szxx.com.cn###A0
 szxx.com.cn###A1
+tvyb03.com##a[href*=".qq.com"]
 szxx.com.cn###A2
 gpcxw.com###AA2
 yahoo.com###ACT_crazy

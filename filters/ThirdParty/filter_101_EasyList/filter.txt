@@ -1,8 +1,8 @@
 !
-! Checksum: 9wg9BcS7tNPhSsZ6b7fMXQ
-! OriginalVersion: 202312020451
+! Checksum: vvHPO1tFLxfzpKPjUQHHCQ
+! OriginalVersion: 202312020850
 ! Title: EasyList
-! Last modified: 02 Dec 2023 04:51 UTC
+! Last modified: 02 Dec 2023 08:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -890,7 +890,6 @@
 /googleafc.js
 /googleafs.js
 /gpt.js$script,xmlhttprequest
-/gpt.min.js
 /gpt_ads-public.js
 /headerads1.php
 /homepage_ads/*$domain=~swedishbeauty.com
@@ -12176,6 +12175,7 @@ _800x80_
 ##.bg-ad-gray
 ##.bg-ads
 ##.bg-ads-space
+##.bg-grey-ad
 ##.bgAdBlue
 ##.bg_ad
 ##.bg_ads
