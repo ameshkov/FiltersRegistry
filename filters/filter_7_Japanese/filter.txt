@@ -1795,6 +1795,7 @@ gundamlog.com###more > iframe[src^="https://richlink.blogsys.jp"]
 !
 !
 !
+||dabun.net/js/addAmz.js
 motimoti3d.jp###sidemenu > dl.sidemenu_body:first-child
 motimoti3d.jp##.entry_body > p.ichiran
 bm.best-hit.tv##div[style^="margin-top"][style$="text-align:center;"][style*="margin-bottom"]
@@ -7356,7 +7357,7 @@ mag.app-liv.jp##.bnr-related
 mag.app-liv.jp##.topics-ad-area
 moneyforward.com##.mp-fixed-ads-screen
 moneyforward.com###ad-content-bottom
-||reader.futabanet.jp/parts/gamoverlay.js
+||futabanet.jp/*/gamoverlay.js
 reader.futabanet.jp##._popIn_recommend_header
 futabanet.jp##.r-ad-rectangle
 futabanet.jp##.m-ad-rectangle
