@@ -46232,6 +46232,8 @@ tumblr.com#?#:is(.post,div[data-cell-id][style]:not([data-cell-id*=carousel]),di
 tumblr.com#?#:is(.post,div[data-cell-id][style],div[tabindex]:is([style^=m],[data-id]:not([class*=" "]),:not([style],[class]))):has(a[rel=author]:has-text(/^[a-z]{2,6}-[a-z]{2,8}[0-9]{2}$/i)):has-text(/18|sex|squirt|booty|/i)
 ! Error: "Unknown modifier: ~inline-font" in the rule: "||deltacorriher.best^$all,~inline-font"
 ||deltacorriher.best^$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||cosercosplay.com^$all,~inline-font"
+||cosercosplay.com^$all,~inline-font
 ! Error: "Unknown modifier: ~inline-font" in the rule: "||14d.us^$all,~inline-font"
 ||14d.us^$all,~inline-font
 ! Error: "Unknown modifier: ~inline-font" in the rule: "||173.208.96.42^$all,~inline-font"

@@ -1,5 +1,5 @@
 
-FiltersCompiler report 12/2/2023 5:00:18 PM:
+FiltersCompiler report 12/2/2023 9:00:27 PM:
 
 Filter ID: 101
 Filter name: EasyList
@@ -142,7 +142,7 @@ URL: https://adblock.gardar.net/is.abp.txt
 ---------------------------
 Filter ID: 120
 Filter name: AdBlockID
-Compiled rules: 5832
+Compiled rules: 5833
 Excluded rules: 1322
 URL: https://raw.githubusercontent.com/realodix/AdBlockID/main/dist/adblockid.adfl.txt
 INVALID RULES:
@@ -442,7 +442,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 232
 Filter name: KAD - Anti-Scam
-Compiled rules: 50976
+Compiled rules: 51024
 Excluded rules: 236
 URL: https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt
 INVALID RULES:
@@ -630,8 +630,8 @@ All rules are valid.
 ---------------------------
 Filter ID: 250
 Filter name: Dandelion Sprout's Annoyances List
-Compiled rules: 32850
-Excluded rules: 46438
+Compiled rules: 32851
+Excluded rules: 46440
 URL: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList
 INVALID RULES:
 Error: Invalid selector: '.g:has(a[href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"))' -- Unbalanced brackets for extended pseudo-class: 'not' in rule: www.google.*##.g:has(a[href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"))
@@ -22469,6 +22469,7 @@ Error: "Unknown modifier: ~inline-font" in the rule: "||95.214.26.78^$all,~inlin
 Error: Invalid selector: ':is(.post,div[data-cell-id][style]:not([data-cell-id*=carousel]),div[tabindex]:is([style^=m],[data-id]:not([class*=" "]),:not([style],[class]))):has-text( click & chat me ):has-text(🔞)' -- Error: unable to select by '*:is(.post, div[data-cell-id][style]:not([data-cell-id*=carousel]), div[tabindex]:is([style^=m], [data-id]:not([class*=" "]), *:not([style], [class])))' — '*:is(.post, div[data-cell-id][style]:not([data-cell-id*=carousel]), div[tabindex]:is([style^=m], [data-id]:not([class*=" "]), *:not([style], [class])))' is not a valid selector in rule: tumblr.com#?#:is(.post,div[data-cell-id][style]:not([data-cell-id*=carousel]),div[tabindex]:is([style^=m],[data-id]:not([class*=" "]),:not([style],[class]))):has-text( click & chat me ):has-text(🔞)
 Error: Invalid selector: ':is(.post,div[data-cell-id][style],div[tabindex]:is([style^=m],[data-id]:not([class*=" "]),:not([style],[class]))):has(a[rel=author]:has-text(/^[a-z]{2,6}-[a-z]{2,8}[0-9]{2}$/i)):has-text(/18|sex|squirt|booty|/i)' -- Error: unable to select by '*:is(.post, div[data-cell-id][style], div[tabindex]:is([style^=m], [data-id]:not([class*=" "]), *:not([style], [class])))' — '*:is(.post, div[data-cell-id][style], div[tabindex]:is([style^=m], [data-id]:not([class*=" "]), *:not([style], [class])))' is not a valid selector in rule: tumblr.com#?#:is(.post,div[data-cell-id][style],div[tabindex]:is([style^=m],[data-id]:not([class*=" "]),:not([style],[class]))):has(a[rel=author]:has-text(/^[a-z]{2,6}-[a-z]{2,8}[0-9]{2}$/i)):has-text(/18|sex|squirt|booty|/i)
 Error: "Unknown modifier: ~inline-font" in the rule: "||deltacorriher.best^$all,~inline-font"
+Error: "Unknown modifier: ~inline-font" in the rule: "||cosercosplay.com^$all,~inline-font"
 Error: "Unknown modifier: ~inline-font" in the rule: "||14d.us^$all,~inline-font"
 Error: "Unknown modifier: ~inline-font" in the rule: "||173.208.96.42^$all,~inline-font"
 Error: "Unknown modifier: ~inline-font" in the rule: "||173.208.96.43^$all,~inline-font"
@@ -22638,7 +22639,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 15
 Filter name: AdGuard DNS filter
-Compiled rules: 58547
+Compiled rules: 58548
 Excluded rules: 308
 URL: https://filters.adtidy.org/extension/chromium/filters/15.txt
 All rules are valid.
