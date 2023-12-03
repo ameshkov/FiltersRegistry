@@ -1,9 +1,9 @@
 
-FiltersCompiler report 12/3/2023 1:00:16 AM:
+FiltersCompiler report 12/3/2023 5:00:15 AM:
 
 Filter ID: 101
 Filter name: EasyList
-Compiled rules: 65544
+Compiled rules: 65551
 Excluded rules: 46
 URL: https://easylist-downloads.adblockplus.org/easylist.txt
 INVALID RULES:
@@ -27,7 +27,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 104
 Filter name: EasyList China
-Compiled rules: 18585
+Compiled rules: 18586
 Excluded rules: 52
 URL: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 INVALID RULES:
@@ -130,7 +130,7 @@ URL: https://raw.githubusercontent.com/KonoromiHimaries/PolishSubFilters/master/
 ---------------------------
 Filter ID: 118
 Filter name: EasyPrivacy
-Compiled rules: 33516
+Compiled rules: 33532
 Excluded rules: 12
 URL: https://easylist.to/easylist/easyprivacy.txt
 All rules are valid.
@@ -157,8 +157,8 @@ All rules are valid.
 ---------------------------
 Filter ID: 122
 Filter name: Fanboy's Annoyances
-Compiled rules: 53761
-Excluded rules: 12704
+Compiled rules: 53768
+Excluded rules: 12712
 URL: https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 All rules are valid.
 ---------------------------
@@ -543,8 +543,8 @@ URL: https://paulgb.github.io/BarbBlock/blacklists/adblock-plus.txt
 ---------------------------
 Filter ID: 241
 Filter name: EasyList Cookie List
-Compiled rules: 28835
-Excluded rules: 2712
+Compiled rules: 28840
+Excluded rules: 2714
 URL: https://www.fanboy.co.nz/fanboy-cookiemonster.txt
 INVALID RULES:
 Error: Invalid selector: '+js(trusted-set-local-storage-item, accept_cookie_policy, true)' -- '+js(trusted-set-local-storage-item, accept_cookie_policy, true)' is not a valid selector in rule: vietjetair.com##+js(trusted-set-local-storage-item, accept_cookie_policy, true)
@@ -623,15 +623,15 @@ Error: Invalid selector: '#detail.articleBody p:nth-last-child(-n+3) a[href*="ne
 ---------------------------
 Filter ID: 249
 Filter name: Dandelion Sprout's Nordic Filters
-Compiled rules: 2919
+Compiled rules: 2927
 Excluded rules: 58
 URL: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuard.txt
 All rules are valid.
 ---------------------------
 Filter ID: 250
 Filter name: Dandelion Sprout's Annoyances List
-Compiled rules: 32851
-Excluded rules: 46440
+Compiled rules: 32860
+Excluded rules: 46438
 URL: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList
 INVALID RULES:
 Error: Invalid selector: '.g:has(a[href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"))' -- Unbalanced brackets for extended pseudo-class: 'not' in rule: www.google.*##.g:has(a[href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"))
@@ -19054,8 +19054,7 @@ Error: "Unknown modifier: ~inline-font" in the rule: "||cabura.loan^$all,~inline
 Error: "Unknown modifier: ~inline-font" in the rule: "||csgocup.ru^$all,~inline-font"
 Error: "Unknown modifier: ~inline-font" in the rule: "||csgogf*.xyz^$all,~inline-font"
 Error: "Unknown modifier: ~inline-font" in the rule: "||csgogift*.xyz^$all,~inline-font"
-Error: "Unknown modifier: ~inline-font" in the rule: "||discord*.gift^$all,~inline-font"
-Error: "Rule with $all modifier can not be allowlist rule" in the rule: "@@||discord.gift^$all"
+Error: "Unknown modifier: ~inline-font" in the rule: "/^(.*[./])?discord[a-z0-9-]{1,}\.gifts?(/|$)/$all,~inline-font"
 Error: "Unknown modifier: ~inline-font" in the rule: "||discord*.gifts^$all,~inline-font"
 Error: "Unknown modifier: ~inline-font" in the rule: "||discord-give.$all,~inline-font"
 Error: "Unknown modifier: ~inline-font" in the rule: "||discord-nitro-gift.$all,~inline-font"
@@ -22483,7 +22482,7 @@ Error: Invalid selector: '.g:has(a[href*=".cf/"]:not([href*="google.cf"], [href*
 Error: Invalid selector: '*:has(> * > a[oncontextmenu][href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"))' -- Unbalanced brackets for extended pseudo-class: 'not' in rule: www.google.*#?#*:has(> * > a[oncontextmenu][href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"))
 Error: Invalid selector: '[data-nrn="result"]:has(a[href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"))' -- Unbalanced brackets for extended pseudo-class: 'not' in rule: duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##[data-nrn="result"]:has(a[href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"))
 Error: Invalid selector: ':is(.post,div[data-cell-id][style]:not([data-cell-id*=carousel]),div[tabindex]:is([style^=m],[data-id]:not([class*=" "]),:not([style],[class]))):has-text( click & chat me ):has-text(🔞)' -- Error: unable to select by '*:is(.post, div[data-cell-id][style]:not([data-cell-id*=carousel]), div[tabindex]:is([style^=m], [data-id]:not([class*=" "]), *:not([style], [class])))' — '*:is(.post, div[data-cell-id][style]:not([data-cell-id*=carousel]), div[tabindex]:is([style^=m], [data-id]:not([class*=" "]), *:not([style], [class])))' is not a valid selector in rule: tumblr.com#?#:is(.post,div[data-cell-id][style]:not([data-cell-id*=carousel]),div[tabindex]:is([style^=m],[data-id]:not([class*=" "]),:not([style],[class]))):has-text( click & chat me ):has-text(🔞)
-Error: Invalid selector: ':is(.post,div[data-cell-id][style],div[tabindex]:is([style^=m],[data-id]:not([class*=" "]),:not([style],[class]))):has(a[rel=author]:has-text(/^[a-z]{2,6}-[a-z]{2,6}[0-9]{2}$/i)):has-text(/18|sex/i)' -- Error: unable to select by '*:is(.post, div[data-cell-id][style], div[tabindex]:is([style^=m], [data-id]:not([class*=" "]), *:not([style], [class])))' — '*:is(.post, div[data-cell-id][style], div[tabindex]:is([style^=m], [data-id]:not([class*=" "]), *:not([style], [class])))' is not a valid selector in rule: tumblr.com#?#:is(.post,div[data-cell-id][style],div[tabindex]:is([style^=m],[data-id]:not([class*=" "]),:not([style],[class]))):has(a[rel=author]:has-text(/^[a-z]{2,6}-[a-z]{2,6}[0-9]{2}$/i)):has-text(/18|sex/i)
+Error: Invalid selector: ':is(.post,div[data-cell-id][style],div[tabindex]:is([style^=m],[data-id]:not([class*=" "]),:not([style],[class]))):has(a[rel=author]:has-text(/^[a-z]{2,6}-[a-z]{2,8}[0-9]{2}$/i)):has-text(/18|sex|squirt|booty|/i)' -- Error: unable to select by '*:is(.post, div[data-cell-id][style], div[tabindex]:is([style^=m], [data-id]:not([class*=" "]), *:not([style], [class])))' — '*:is(.post, div[data-cell-id][style], div[tabindex]:is([style^=m], [data-id]:not([class*=" "]), *:not([style], [class])))' is not a valid selector in rule: tumblr.com#?#:is(.post,div[data-cell-id][style],div[tabindex]:is([style^=m],[data-id]:not([class*=" "]),:not([style],[class]))):has(a[rel=author]:has-text(/^[a-z]{2,6}-[a-z]{2,8}[0-9]{2}$/i)):has-text(/18|sex|squirt|booty|/i)
 Error: "Unknown modifier: ~inline-font" in the rule: "||amazonaws.com^$all,~inline-font,badfilter"
 Error: "Unknown pseudo-class ':remove-attr' in selector: 'figure[class]:remove-attr(/^data-login-wall-/)'" in the rule: "tumblr.com##figure[class]:remove-attr(/^data-login-wall-/)"
 Error: "Unknown pseudo-class ':remove-attr' in selector: 'a[class]:remove-attr(/^data-login-wall-/)'" in the rule: "tumblr.com##a[class]:remove-attr(/^data-login-wall-/)"
@@ -22696,7 +22695,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 224
 Filter name: AdGuard Chinese filter
-Compiled rules: 21885
+Compiled rules: 21888
 Excluded rules: 50
 URL: https://filters.adtidy.org/extension/chromium/filters/224.txt
 INVALID RULES:
@@ -22718,7 +22717,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 2
 Filter name: AdGuard Base filter
-Compiled rules: 134389
+Compiled rules: 134396
 Excluded rules: 56
 URL: https://filters.adtidy.org/extension/chromium/filters/2.txt
 INVALID RULES:
