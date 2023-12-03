@@ -1,9 +1,9 @@
 
-FiltersCompiler report 12/3/2023 5:00:15 PM:
+FiltersCompiler report 12/3/2023 9:00:24 PM:
 
 Filter ID: 101
 Filter name: EasyList
-Compiled rules: 65553
+Compiled rules: 65643
 Excluded rules: 46
 URL: https://easylist-downloads.adblockplus.org/easylist.txt
 INVALID RULES:
@@ -100,7 +100,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 113
 Filter name: Liste FR
-Compiled rules: 22146
+Compiled rules: 22169
 Excluded rules: 68
 URL: https://easylist-downloads.adblockplus.org/liste_fr.txt
 INVALID RULES:
@@ -142,7 +142,7 @@ URL: https://adblock.gardar.net/is.abp.txt
 ---------------------------
 Filter ID: 120
 Filter name: AdBlockID
-Compiled rules: 5833
+Compiled rules: 5836
 Excluded rules: 1322
 URL: https://raw.githubusercontent.com/realodix/AdBlockID/main/dist/adblockid.adfl.txt
 INVALID RULES:
@@ -442,7 +442,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 232
 Filter name: KAD - Anti-Scam
-Compiled rules: 51069
+Compiled rules: 51120
 Excluded rules: 236
 URL: https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt
 INVALID RULES:
@@ -607,11 +607,10 @@ URL: https://alleblock.pl/alleblock/alleblock.txt
 ---------------------------
 Filter ID: 246
 Filter name: EasyList Polish
-Compiled rules: 2554
-Excluded rules: 4
+Compiled rules: 2555
+Excluded rules: 2
 URL: https://easylist-downloads.adblockplus.org/easylistpolish.txt
-INVALID RULES:
-Error: Invalid selector: '..adrek' -- Error: unable to select by '..adrek' — '..adrek' is not a valid selector in rule: zwierciadlo.pl##..adrek
+All rules are valid.
 ---------------------------
 Filter ID: 247
 Filter name: Polish Anti-Annoying Special Supplement
@@ -630,8 +629,8 @@ All rules are valid.
 ---------------------------
 Filter ID: 250
 Filter name: Dandelion Sprout's Annoyances List
-Compiled rules: 32860
-Excluded rules: 46438
+Compiled rules: 32863
+Excluded rules: 46484
 URL: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList
 INVALID RULES:
 Error: Invalid selector: '.g:has(a[href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"))' -- Unbalanced brackets for extended pseudo-class: 'not' in rule: www.google.*##.g:has(a[href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"))
@@ -17137,6 +17136,29 @@ Error: "Unknown modifier: ~inline-font" in the rule: "||ko04rf8.cfd^$all,~inline
 Error: "Unknown modifier: ~inline-font" in the rule: "||i3edtgyu.cfd^$all,~inline-font"
 Error: "Unknown modifier: ~inline-font" in the rule: "||pqlbh88z7.cfd^$all,~inline-font"
 Error: "Unknown modifier: ~inline-font" in the rule: "||i3s5qfuvs.cfd^$all,~inline-font"
+Error: "Unknown modifier: ~inline-font" in the rule: "||usazcx.top$all,~inline-font"
+Error: "Unknown modifier: ~inline-font" in the rule: "||usbtre.top$all,~inline-font"
+Error: "Unknown modifier: ~inline-font" in the rule: "||uscnxu.top$all,~inline-font"
+Error: "Unknown modifier: ~inline-font" in the rule: "||usdmxa.com$all,~inline-font"
+Error: "Unknown modifier: ~inline-font" in the rule: "||usdtzm.com$all,~inline-font"
+Error: "Unknown modifier: ~inline-font" in the rule: "||usduut.com$all,~inline-font"
+Error: "Unknown modifier: ~inline-font" in the rule: "||usevsm.com$all,~inline-font"
+Error: "Unknown modifier: ~inline-font" in the rule: "||uslcvz.com$all,~inline-font"
+Error: "Unknown modifier: ~inline-font" in the rule: "||uslouv.top$all,~inline-font"
+Error: "Unknown modifier: ~inline-font" in the rule: "||usmutc.com$all,~inline-font"
+Error: "Unknown modifier: ~inline-font" in the rule: "||usnarx.com$all,~inline-font"
+Error: "Unknown modifier: ~inline-font" in the rule: "||usnsrc.com$all,~inline-font"
+Error: "Unknown modifier: ~inline-font" in the rule: "||usotvs.com$all,~inline-font"
+Error: "Unknown modifier: ~inline-font" in the rule: "||uspret.com$all,~inline-font"
+Error: "Unknown modifier: ~inline-font" in the rule: "||usqtvc.com$all,~inline-font"
+Error: "Unknown modifier: ~inline-font" in the rule: "||usutnr.top$all,~inline-font"
+Error: "Unknown modifier: ~inline-font" in the rule: "||204.44.92.187$all,~inline-font"
+Error: "Unknown modifier: ~inline-font" in the rule: "://ap-trk.$all,~inline-font"
+Error: "Unknown modifier: ~inline-font" in the rule: "://cw-trk.$all,~inline-font"
+Error: "Unknown modifier: ~inline-font" in the rule: "://cw-trak.$all,~inline-font"
+Error: "Unknown modifier: ~inline-font" in the rule: "://ktraks.$all,~inline-font"
+Error: "Unknown modifier: ~inline-font" in the rule: "://flow-clck.$all,~inline-font"
+Error: "Unknown modifier: ~inline-font" in the rule: "://apps-trk.$all,~inline-font"
 Error: "Unknown modifier: ~inline-font" in the rule: "||downloadprovider.me^$all,~inline-font"
 Error: "Unknown modifier: ~inline-font" in the rule: "||cash93.com^$all,~inline-font"
 Error: "Unknown modifier: ~inline-font" in the rule: "||a4alig.com^$all,~inline-font"
@@ -22574,7 +22596,7 @@ Error: "$removeparam rules are not compatible with some other modifiers" in the 
 ---------------------------
 Filter ID: 251
 Filter name: Legitimate URL Shortener
-Compiled rules: 3740
+Compiled rules: 3742
 Excluded rules: 522
 URL: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
 INVALID RULES:
@@ -22638,14 +22660,14 @@ All rules are valid.
 ---------------------------
 Filter ID: 15
 Filter name: AdGuard DNS filter
-Compiled rules: 58565
+Compiled rules: 58567
 Excluded rules: 308
 URL: https://filters.adtidy.org/extension/chromium/filters/15.txt
 All rules are valid.
 ---------------------------
 Filter ID: 16
 Filter name: AdGuard French filter
-Compiled rules: 24766
+Compiled rules: 24789
 Excluded rules: 68
 URL: https://filters.adtidy.org/extension/chromium/filters/16.txt
 INVALID RULES:
@@ -22717,7 +22739,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 2
 Filter name: AdGuard Base filter
-Compiled rules: 134398
+Compiled rules: 134512
 Excluded rules: 56
 URL: https://filters.adtidy.org/extension/chromium/filters/2.txt
 INVALID RULES:

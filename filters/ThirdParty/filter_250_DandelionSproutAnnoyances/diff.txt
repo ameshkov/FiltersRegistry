@@ -35568,6 +35568,52 @@ duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##[
 ||pqlbh88z7.cfd^$all,~inline-font
 ! Error: "Unknown modifier: ~inline-font" in the rule: "||i3s5qfuvs.cfd^$all,~inline-font"
 ||i3s5qfuvs.cfd^$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||usazcx.top$all,~inline-font"
+||usazcx.top$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||usbtre.top$all,~inline-font"
+||usbtre.top$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||uscnxu.top$all,~inline-font"
+||uscnxu.top$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||usdmxa.com$all,~inline-font"
+||usdmxa.com$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||usdtzm.com$all,~inline-font"
+||usdtzm.com$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||usduut.com$all,~inline-font"
+||usduut.com$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||usevsm.com$all,~inline-font"
+||usevsm.com$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||uslcvz.com$all,~inline-font"
+||uslcvz.com$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||uslouv.top$all,~inline-font"
+||uslouv.top$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||usmutc.com$all,~inline-font"
+||usmutc.com$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||usnarx.com$all,~inline-font"
+||usnarx.com$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||usnsrc.com$all,~inline-font"
+||usnsrc.com$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||usotvs.com$all,~inline-font"
+||usotvs.com$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||uspret.com$all,~inline-font"
+||uspret.com$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||usqtvc.com$all,~inline-font"
+||usqtvc.com$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||usutnr.top$all,~inline-font"
+||usutnr.top$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "||204.44.92.187$all,~inline-font"
+||204.44.92.187$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "://ap-trk.$all,~inline-font"
+://ap-trk.$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "://cw-trk.$all,~inline-font"
+://cw-trk.$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "://cw-trak.$all,~inline-font"
+://cw-trak.$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "://ktraks.$all,~inline-font"
+://ktraks.$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "://flow-clck.$all,~inline-font"
+://flow-clck.$all,~inline-font
+! Error: "Unknown modifier: ~inline-font" in the rule: "://apps-trk.$all,~inline-font"
+://apps-trk.$all,~inline-font
 ! Error: "Unknown modifier: ~inline-font" in the rule: "||downloadprovider.me^$all,~inline-font"
 ||downloadprovider.me^$all,~inline-font
 ! Error: "Unknown modifier: ~inline-font" in the rule: "||cash93.com^$all,~inline-font"

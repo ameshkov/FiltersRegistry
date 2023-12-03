@@ -1,8 +1,8 @@
 !
-! Checksum: k/Co9GmHFxu9Xc5kCRU2eQ
-! OriginalVersion: 202312031650
+! Checksum: Uvd5cPqbPzXsTPXxi4JVtg
+! OriginalVersion: 202312032051
 ! Title: EasyList Polish
-! Last modified: 03 Dec 2023 16:50 UTC
+! Last modified: 03 Dec 2023 20:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -885,6 +885,7 @@ kurier-kolski.pl###wrap-top2
 lpg-forum.pl###wrapcentre a[href^="http://phjacus.pl"]
 tkn24.pl###ytplayer
 magazynt3.pl###zox-lead-top
+zwierciadlo.pl##.adrek
 malbork1.pl,wirtualnesuwalki.pl##.A1sub
 onet.pl##.AdPlaceholder_adPlaceholder__hTUe4
 onet.pl##.AdSlotPlaceholder_placeholder__wO7aE
