@@ -1,9 +1,9 @@
 
-FiltersCompiler report 12/3/2023 9:00:16 AM:
+FiltersCompiler report 12/3/2023 1:00:16 PM:
 
 Filter ID: 101
 Filter name: EasyList
-Compiled rules: 65551
+Compiled rules: 65552
 Excluded rules: 46
 URL: https://easylist-downloads.adblockplus.org/easylist.txt
 INVALID RULES:
@@ -27,7 +27,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 104
 Filter name: EasyList China
-Compiled rules: 18586
+Compiled rules: 18587
 Excluded rules: 52
 URL: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 INVALID RULES:
@@ -157,7 +157,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 122
 Filter name: Fanboy's Annoyances
-Compiled rules: 53768
+Compiled rules: 53770
 Excluded rules: 12712
 URL: https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 All rules are valid.
@@ -230,7 +230,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 208
 Filter name: Online Malicious URL Blocklist
-Compiled rules: 1960
+Compiled rules: 1964
 Excluded rules: 8
 URL: https://urlhaus-filter.pages.dev/urlhaus-filter-ag-online.txt
 All rules are valid.
@@ -252,7 +252,7 @@ URL: https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adbl
 ---------------------------
 Filter ID: 212
 Filter name: RU AdList: Counters
-Compiled rules: 1487
+Compiled rules: 1488
 Excluded rules: 236
 URL: https://easylist-downloads.adblockplus.org/cntblock.txt
 INVALID RULES:
@@ -397,7 +397,7 @@ URL: https://www.fanboy.co.nz/fanboy-swedish.txt
 ---------------------------
 Filter ID: 225
 Filter name: Fanboy's Anti-Facebook List
-Compiled rules: 100
+Compiled rules: 101
 Excluded rules: 0
 URL: https://www.fanboy.co.nz/fanboy-antifacebook.txt
 All rules are valid.
@@ -442,7 +442,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 232
 Filter name: KAD - Anti-Scam
-Compiled rules: 51044
+Compiled rules: 51055
 Excluded rules: 236
 URL: https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt
 INVALID RULES:
@@ -499,7 +499,7 @@ Error: "Invalid cosmetic rule, wrong brackets" in the rule: "science.hotnews.ro#
 ---------------------------
 Filter ID: 237
 Filter name: Polish Annoyances Filters
-Compiled rules: 13299
+Compiled rules: 13300
 Excluded rules: 2032
 URL: https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PPB.txt
 INVALID RULES:
@@ -22717,7 +22717,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 2
 Filter name: AdGuard Base filter
-Compiled rules: 134396
+Compiled rules: 134397
 Excluded rules: 56
 URL: https://filters.adtidy.org/extension/chromium/filters/2.txt
 INVALID RULES:

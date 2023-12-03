@@ -1,8 +1,8 @@
 !
-! Checksum: MKkKP7hvnBgCXrV2P7gINw
-! OriginalVersion: 202312030831
+! Checksum: NHOKJKZzHRVmJ4z/tbmhBw
+! OriginalVersion: 202312031240
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-12-03 08:31 UTC
+! Last modified: 2023-12-03 12:40 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -43858,7 +43858,7 @@ cryptopolitan.com,izismile.com,techsupportalert.com##.followit--follow-form-cont
 audfree.com##.foot-newsletter
 iai.tv##.footer--signup
 mediamatters.org##.footer--upper
-blog.elevatedataviz.com##.footer-cta
+blog.duncangeere.com,blog.elevatedataviz.com##.footer-cta
 grid.news##.footer-daily-drop
 howtogeek.com##.footer-email
 paloaltonetworks.com,techxplore.com##.footer-form
@@ -44489,6 +44489,7 @@ suomenmaa.fi##.smm-newsletter
 secretchicago.com##.smn-banner-newsletter
 secretchicago.com##.smn-home-section__sticky-container
 johncodeos.com##.snp-bld-showme
+nhm.ac.uk##.social-signup--container
 experts-exchange.com##.solutionLeadCapture
 herbiesheadshop.com,ukragroconsult.com##.sp-form-outer
 thecurrent.com##.space-y-8 > .subscribe-form
@@ -44586,6 +44587,7 @@ channelnewsasia.com##.subscription__content
 fora.ie##.subscriptions
 idiva.com##.sunscribe-cont
 freightwaves.com##.super-form
+aerospaceamerica.aiaa.org##.supplement
 bigbangnews.com##.suscribehorizontal
 securityweek.com##.sw-newsletter
 propublica.org##.syndicated-modal
