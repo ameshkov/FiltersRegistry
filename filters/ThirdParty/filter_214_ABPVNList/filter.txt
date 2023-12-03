@@ -1,8 +1,8 @@
 !#if (adguard_ext_android_cb)
 ! version for AdGuard Content Blocker only
-! OriginalVersion: 20231203071610
+! OriginalVersion: 20231203145536
 ! Title: ABPVN List
-! Last modified: 03 Dec 2023 07:16:10 UTC+7
+! Last modified: 03 Dec 2023 14:55:36 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter
@@ -476,6 +476,7 @@
 ||player.gliacloud.com^
 ||pub.lavamedia.vn^
 ||pub.lavanetwork.net^$third-party
+||purinediarize.com^
 ||qc.coccoc.com^$third-party
 ||qc.violet.vn^
 ||qcv5.blogtruyen.vn^
@@ -1512,9 +1513,9 @@ vn.phym18.org##div#bnads
 !
 !#if (!adguard_ext_android_cb)
 ! version for all other AdGuard products
-! OriginalVersion: 20231203071610
+! OriginalVersion: 20231203145536
 ! Title: ABPVN List
-! Last modified: 03 Dec 2023 07:16:10 UTC+7
+! Last modified: 03 Dec 2023 14:55:36 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter
@@ -1986,6 +1987,7 @@ vn.phym18.org##div#bnads
 ||player.gliacloud.com^
 ||pub.lavamedia.vn^
 ||pub.lavanetwork.net^$third-party
+||purinediarize.com^
 ||qc.coccoc.com^$third-party
 ||qc.violet.vn^
 ||qcv5.blogtruyen.vn^
