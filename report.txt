@@ -1,9 +1,9 @@
 
-FiltersCompiler report 12/3/2023 1:00:16 PM:
+FiltersCompiler report 12/3/2023 5:00:15 PM:
 
 Filter ID: 101
 Filter name: EasyList
-Compiled rules: 65552
+Compiled rules: 65553
 Excluded rules: 46
 URL: https://easylist-downloads.adblockplus.org/easylist.txt
 INVALID RULES:
@@ -27,7 +27,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 104
 Filter name: EasyList China
-Compiled rules: 18587
+Compiled rules: 18588
 Excluded rules: 52
 URL: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 INVALID RULES:
@@ -397,7 +397,7 @@ URL: https://www.fanboy.co.nz/fanboy-swedish.txt
 ---------------------------
 Filter ID: 225
 Filter name: Fanboy's Anti-Facebook List
-Compiled rules: 101
+Compiled rules: 100
 Excluded rules: 0
 URL: https://www.fanboy.co.nz/fanboy-antifacebook.txt
 All rules are valid.
@@ -442,7 +442,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 232
 Filter name: KAD - Anti-Scam
-Compiled rules: 51055
+Compiled rules: 51069
 Excluded rules: 236
 URL: https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt
 INVALID RULES:
@@ -450,7 +450,7 @@ Error: "Rule has spaces, seems to be an host rule" in the rule: "||tereska .pl^$
 ---------------------------
 Filter ID: 233
 Filter name: Adblock List for Finland
-Compiled rules: 1534
+Compiled rules: 1535
 Excluded rules: 120
 URL: https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/gh-pages/Finland_adb.txt
 INVALID RULES:
@@ -491,7 +491,7 @@ Error: "Unknown modifier: from=vazeh.com" in the rule: "*$third-party,script,fro
 ---------------------------
 Filter ID: 236
 Filter name: road-block light
-Compiled rules: 1459
+Compiled rules: 1431
 Excluded rules: 88
 URL: https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters-light.txt
 INVALID RULES:
@@ -499,7 +499,7 @@ Error: "Invalid cosmetic rule, wrong brackets" in the rule: "science.hotnews.ro#
 ---------------------------
 Filter ID: 237
 Filter name: Polish Annoyances Filters
-Compiled rules: 13300
+Compiled rules: 13301
 Excluded rules: 2032
 URL: https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PPB.txt
 INVALID RULES:
@@ -22631,7 +22631,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 14
 Filter name: AdGuard Annoyances filter
-Compiled rules: 52225
+Compiled rules: 52226
 Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/14.txt
 All rules are valid.
@@ -22681,7 +22681,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 20
 Filter name: AdGuard Mobile App Banners filter
-Compiled rules: 3515
+Compiled rules: 3516
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/20.txt
 All rules are valid.
@@ -22695,7 +22695,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 224
 Filter name: AdGuard Chinese filter
-Compiled rules: 21888
+Compiled rules: 21890
 Excluded rules: 50
 URL: https://filters.adtidy.org/extension/chromium/filters/224.txt
 INVALID RULES:
@@ -22717,7 +22717,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 2
 Filter name: AdGuard Base filter
-Compiled rules: 134397
+Compiled rules: 134398
 Excluded rules: 56
 URL: https://filters.adtidy.org/extension/chromium/filters/2.txt
 INVALID RULES:

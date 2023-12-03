@@ -1,8 +1,8 @@
 !
-! Checksum: DcK68DKQFzCoYVeoBEM7ig
-! OriginalVersion: 202312031251
+! Checksum: 3bU6iSG31A7z703kqBjTeQ
+! OriginalVersion: 202312031650
 ! Title: EasyList
-! Last modified: 03 Dec 2023 12:51 UTC
+! Last modified: 03 Dec 2023 16:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -63480,6 +63480,7 @@ youtube.com###YtKevlarVisibilityIdentifier
 youtube.com###YtSparklesVisibilityIdentifier
 youtube.com###feed-pyv-container
 youtube.com###player-ads
+youtube.com###ytd-player button.ytp-suggested-action-badge
 youtube.com##.ad-showing > .html5-video-container
 youtube.com##.companion-ad-container
 youtube.com##.list-view[style="margin: 7px 0pt;"]
