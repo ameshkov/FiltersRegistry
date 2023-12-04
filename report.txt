@@ -1,9 +1,9 @@
 
-FiltersCompiler report 12/4/2023 1:00:21 PM:
+FiltersCompiler report 12/4/2023 5:00:20 PM:
 
 Filter ID: 101
 Filter name: EasyList
-Compiled rules: 65662
+Compiled rules: 65677
 Excluded rules: 46
 URL: https://easylist-downloads.adblockplus.org/easylist.txt
 INVALID RULES:
@@ -55,7 +55,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 107
 Filter name: EasyList Germany
-Compiled rules: 5386
+Compiled rules: 5388
 Excluded rules: 18
 URL: https://easylist.to/easylistgermany/easylistgermany.txt
 All rules are valid.
@@ -442,7 +442,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 232
 Filter name: KAD - Anti-Scam
-Compiled rules: 51180
+Compiled rules: 50775
 Excluded rules: 236
 URL: https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt
 INVALID RULES:
@@ -607,7 +607,7 @@ URL: https://alleblock.pl/alleblock/alleblock.txt
 ---------------------------
 Filter ID: 246
 Filter name: EasyList Polish
-Compiled rules: 2554
+Compiled rules: 2553
 Excluded rules: 2
 URL: https://easylist-downloads.adblockplus.org/easylistpolish.txt
 All rules are valid.
@@ -22611,7 +22611,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 253
 Filter name: IndianList
-Compiled rules: 8878
+Compiled rules: 8881
 Excluded rules: 0
 URL: https://easylist-downloads.adblockplus.org/indianlist.txt
 All rules are valid.
@@ -22634,7 +22634,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 11
 Filter name: AdGuard Mobile Ads filter
-Compiled rules: 7750
+Compiled rules: 7751
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/11.txt
 All rules are valid.
@@ -22653,7 +22653,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 14
 Filter name: AdGuard Annoyances filter
-Compiled rules: 52257
+Compiled rules: 52261
 Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/14.txt
 All rules are valid.
@@ -22682,7 +22682,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 18
 Filter name: AdGuard Cookie Notices filter
-Compiled rules: 18643
+Compiled rules: 18647
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/18.txt
 All rules are valid.
@@ -22696,7 +22696,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 1
 Filter name: AdGuard Russian filter
-Compiled rules: 24490
+Compiled rules: 24494
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/1.txt
 All rules are valid.
@@ -22739,7 +22739,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 2
 Filter name: AdGuard Base filter
-Compiled rules: 134566
+Compiled rules: 134588
 Excluded rules: 56
 URL: https://filters.adtidy.org/extension/chromium/filters/2.txt
 INVALID RULES:
@@ -22748,14 +22748,14 @@ Error: "Unknown modifier: webrtc" in the rule: "$webrtc,domain=ack.net|allthetes
 ---------------------------
 Filter ID: 3
 Filter name: AdGuard Tracking Protection filter
-Compiled rules: 79497
+Compiled rules: 79501
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/3.txt
 All rules are valid.
 ---------------------------
 Filter ID: 4
 Filter name: AdGuard Social Media filter
-Compiled rules: 14657
+Compiled rules: 14655
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/4.txt
 All rules are valid.
@@ -22769,14 +22769,14 @@ All rules are valid.
 ---------------------------
 Filter ID: 6
 Filter name: AdGuard German filter
-Compiled rules: 11836
+Compiled rules: 11839
 Excluded rules: 18
 URL: https://filters.adtidy.org/extension/chromium/filters/6.txt
 All rules are valid.
 ---------------------------
 Filter ID: 7
 Filter name: AdGuard Japanese filter
-Compiled rules: 10560
+Compiled rules: 10566
 Excluded rules: 8
 URL: https://filters.adtidy.org/extension/chromium/filters/7.txt
 All rules are valid.

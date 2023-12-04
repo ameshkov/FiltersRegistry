@@ -1263,8 +1263,6 @@ turbopages.org##.page__result > div[class*="type_native"]
 !-------JS----------
 !-------------------
 !
-! https://www.musicbusinessworldwide.com/tidal-to-become-latest-music-streaming-platform-to-raise-subscription-prices/
-musicbusinessworldwide.com#%#//scriptlet('remove-class', 'has-uberad', '.mb-article')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/167252
 forum.donanimhaber.com#%#//scriptlet('set-session-storage-item', 'pageCount', '$remove$')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/165172
@@ -2607,7 +2605,6 @@ gamesworld.de,fnn.jp##.Ad
 !
 ! SECTION: Regular rules
 !
-musicbusinessworldwide.com###uberad
 musicbusinessworldwide.com##.mb-advert__incontent
 allabout.co.jp##div[data-tracking-zone^="parts-common-ad"]
 kantan.game##.c-ad-small
