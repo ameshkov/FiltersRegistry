@@ -3,8 +3,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 04 Dec 2023, 00:08 UTC+01:00
-! OriginalVersion: 2023.12.4.0
+! Last modified: Mon, 04 Dec 2023, 13:30 UTC+01:00
+! OriginalVersion: 2023.12.4.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -4653,6 +4653,7 @@
 ||abetterpay.com^$all
 ||abf08405454.chefs-kitchen.co.uk^$all
 ||abfyhf.com^$all
+||abhideeptech.com^$all
 ||abhishekverma.com^$all
 ||abhproductions.com^$all
 ||abid1337avialble.ru^$all
@@ -5003,6 +5004,7 @@
 ||advancednslogin.asesoriasaez.com^$all
 ||advancedtrades.online^$all
 ||advancemycommission.com^$all
+||advanceofferstk.com^$all
 ||advancepeak.info^$all
 ||advantageflooringandwalls.com^$all
 ||adve11ntur3life.xyz^$all
@@ -5840,6 +5842,7 @@
 ||allegrolokalnie.pl-oferta-prywatna8355.pl^$all
 ||allegrolokalnie.pl-oferta-prywatna8365.pl^$all
 ||allegrolokalnie.pl-oferta-uzytkownika34344.pl^$all
+||allegrolokalnie.pl-oferta-uzytkownika34554.pl^$all
 ||allegrolokalnie.pl-oferta-uzytkownika43554.pl^$all
 ||allegrolokalnie.pl-oferta-uzytkownika125532.pl^$all
 ||allegrolokalnie.pl-oferta-uzytkownika125533.pl^$all
@@ -9762,6 +9765,7 @@
 ||bitcoinupapp.com^$all
 ||bitcoinupsale.com^$all
 ||bitconnect.co^$all
+||bitcsupp.com^$all
 ||bitdaobit.icu^$all
 ||bitdaobit.space^$all
 ||bitdigitalzinekolloshece.web.app^$all
@@ -11728,8 +11732,11 @@
 ||ccasx.maxuikl.top^$all
 ||cccatwalkcentral.site^$all
 ||cccmall.top^$all
+||cccmalls.top^$all
+||cccmallvip.top^$all
 ||ccconline.top^$all
 ||cccoutlet.top^$all
+||cccshopvip.top^$all
 ||cccstash.top^$all
 ||cccstore.top^$all
 ||cccxsn.neonas.life^$all
@@ -14295,6 +14302,7 @@
 ||dash-inw.surge.sh^$all
 ||dash.biurosa.com^$all
 ||dashboard.sybitilyvami.top^$all
+||dashboard.tiscalises.com^$all
 ||dashis.sbs^$all
 ||dashpliant.com^$all
 ||dasiphoras.live^$all
@@ -15032,6 +15040,7 @@
 ||dhiexpressfailfastdeliveryy.com^$all
 ||dhj.boats^$all
 ||dhjjkkalljkdlkjioe.site^$all
+||dhl-365.cc^$all
 ||dhl-b70571.ingress-erytho.ewp.live^$all
 ||dhl-de11.tionusquitrissub.cf^$all
 ||dhl-de13.tingfaherz.cf^$all
@@ -16750,6 +16759,7 @@
 ||edlp.org^$all
 ||edmbub.shoptheios.online^$all
 ||edmond2021.com^$all
+||edmondzhou.top^$all
 ||edmontondeveloper.com^$all
 ||ednf.utulo.site^$all
 ||edsa.utulo.site^$all
@@ -17240,6 +17250,7 @@
 ||emonitoringplcom.top^$all
 ||emonitoringpocztapolska.top^$all
 ||emonitoringpocztapolskac.top^$all
+||emonitoringsystems.top^$all
 ||emosystem.com^$all
 ||emosystem.pl^$all
 ||emphasktug.space^$all
@@ -17579,6 +17590,7 @@
 ||esla.space^$all
 ||esldrop.com^$all
 ||eslenglish-hk.com^$all
+||esmallbusinesscheckingaccount.com^$all
 ||esn-apple.com^$all
 ||esnafbank.com^$all
 ||espace-mabanque-bnpparibas.fr^$all
@@ -18298,6 +18310,8 @@
 ||facebookarvrglasses-world.com^$all
 ||facebookpolicy12.ddns.net^$all
 ||facebookpolicy12.ddnsking.com^$all
+||facebookstories-sale.com^$all
+||facebooksunglassshop.com^$all
 ||faceboook.me^$all
 ||facedick.ct8.pl^$all
 ||faceinfocus.net^$all
@@ -23617,6 +23631,8 @@
 ||in-opost.top^$all
 ||in-poland.web.app^$all
 ||in-posst.xyz^$all
+||in-post-jo.top^$all
+||in-post-jo.xyz^$all
 ||in-post-opl.top^$all
 ||in-post-opl.xyz^$all
 ||in-post-pc.top^$all
@@ -24430,6 +24446,7 @@
 ||inpost.gyxezos.org^$all
 ||inpost.icu.id-9467.com^$all
 ||inpost.icu^$all
+||inpost.ink^$all
 ||inpost.ius-help.top^$all
 ||inpost.lat^$all
 ||inpost.link-finally.pw^$all
@@ -24464,6 +24481,7 @@
 ||inpost.pl.*.$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||inpost.posad.site^$all
 ||inpost.reservation83964.cloud^$all
+||inpost.rest^$all
 ||inpost.sedanoxo.click^$all
 ||inpost.store^$all
 ||inpost.twatot.site^$all
@@ -24480,6 +24498,7 @@
 ||inpostepl.life^$all
 ||inpostepl.top^$all
 ||inpostes.top^$all
+||inpostgc.top^$all
 ||inpostill.top^$all
 ||inpostill.xyz^$all
 ||inpostinfo-dispatch.2094452.xyz^$all
@@ -24487,6 +24506,7 @@
 ||inpostl.top^$all
 ||inpostmii.xyz^$all
 ||inpostoffice.info^$all
+||inpostoffice.life^$all
 ||inpostoops.top^$all
 ||inpostoot.top^$all
 ||inpostpe.xyz^$all
@@ -24497,6 +24517,8 @@
 ||inposts.life^$all
 ||inpostspl.life^$all
 ||inpostspl.top^$all
+||inpostspol.life^$all
+||inpostspols.life^$all
 ||inpostst-pl.top^$all
 ||inquilinic.info^$all
 ||inquire.pl^$all
@@ -25188,6 +25210,7 @@
 ||j-v2.sbs^$all
 ||j.gazowamedia.com^$all
 ||j.mellonpatchinn.com^$all
+||ja2a5kvr.dreamwp.com^$all
 ||ja.zlpolska.xyz^$all
 ||jabarano.com^$all
 ||jabawyy.com^$all
@@ -28406,6 +28429,7 @@
 ||loginauthui.website.yandexcloud.net^$all
 ||loginnawza-pl-ref58.pbclimbing.com^$all
 ||loginnawza-pl.bamboologic.eu^$all
+||loginonetpl.wixsite.com^$all
 ||loginpl-nawezamanager.wwadvocaten.be^$all
 ||logintofb.tcp4.me^$all
 ||logiscool-pontaj.com^$all
@@ -28662,6 +28686,7 @@
 ||lublin.lu^$all
 ||lubomir.artcd.net.pl^$all
 ||lubomir.lesniczowka.info.pl^$all
+||lubsal.cl^$all
 ||lucasfleetham.com^$all
 ||luchoylore.com^$all
 ||lucia9s.com^$all
@@ -32854,6 +32879,7 @@
 ||njoy168spg.com^$all
 ||njoysoft.com^$all
 ||njualumni.org^$all
+||njucars.pl^$all
 ||nk-8.one^$all
 ||nk-ofmllm.xyz^$all
 ||nkayh.apprety.site^$all
@@ -33189,6 +33215,7 @@
 ||nutritionflow.com^$all
 ||nuvibuigeu.com^$all
 ||nuxwms.com^$all
+||nuyugym.com^$all
 ||nv2.boats^$all
 ||nv-inv.firebaseapp.com^$all
 ||nv-inv.web.app^$all
@@ -34836,6 +34863,7 @@
 ||pa-wos.web.app^$all
 ||paarla.com^$all
 ||paaswale.com^$all
+||pabijquhycnicaf.com^$all
 ||pabloo0008.github.io^$all
 ||pace.ima-lb.com^$all
 ||pachts.live^$all
@@ -35751,6 +35779,7 @@
 ||pihydoe.com^$all
 ||piieknyogrod.site^$all
 ||piiohmasga.site^$all
+||pijanidrogowcy.click^$all
 ||pijololan.site^$all
 ||pijolollaan.site^$all
 ||pikaerl-xyz.preview-domain.com^$all
@@ -36115,6 +36144,7 @@
 ||pl-oferta-prywatna8355.pl^$all
 ||pl-oferta-prywatna8365.pl^$all
 ||pl-oferta-uzytkownika34344.pl^$all
+||pl-oferta-uzytkownika34554.pl^$all
 ||pl-oferta-uzytkownika43554.pl^$all
 ||pl-oferta-uzytkownika125532.pl^$all
 ||pl-oferta-uzytkownika125533.pl^$all
@@ -36838,6 +36868,7 @@
 ||poczta.eduelo.fr^$all
 ||poczta.hopp.to^$all
 ||poczta.life^$all
+||poczta.pages.dev^$all
 ||poczta.pakiet-pl.com^$all
 ||poczta.polska-pl.world^$all
 ||poczta.polskas-pl.world^$all
@@ -37185,6 +37216,7 @@
 ||polpostsc.top^$all
 ||polpostsup.top^$all
 ||polpprofitt.site^$all
+||pols-inpot.top^$all
 ||polsanews.com^$all
 ||polsanifau.site^$all
 ||polsat-gwiazdy.eu^$all
@@ -37603,6 +37635,7 @@
 ||poste.91-202-5-24.cprapid.com^$all
 ||poste.185-72-199-99.cprapid.com^$all
 ||posteayvende.com^$all
+||postemes.icu^$all
 ||postenorgeidnet.dkonto.pl^$all
 ||poster-it.life^$all
 ||posterspro.com^$all
@@ -38511,6 +38544,7 @@
 ||pub-760be299db2240ccace845e3f7ee1f60.r2.dev^$all
 ||pub-00845c5d10be4d3f99626f6780a3f67d.r2.dev^$all
 ||pub-889a2c3f80c34919af944823d3171fc8.r2.dev^$all
+||pub-917a259551bc4e78b4e5c0e82aea3f66.r2.dev^$all
 ||pub-940f5bcf31b04d00a67ac3c3ab7d1a8b.r2.dev^$all
 ||pub-2072f07f599f497c92468dc206ee86cf.r2.dev^$all
 ||pub-3831c557bafc4ddcac41d97f08f41ee5.r2.dev^$all
@@ -39505,6 +39539,7 @@
 ||redrednews.store^$all
 ||redsimbiotica.com^$all
 ||redsocialsa.com^$all
+||redupn.com^$all
 ||redveinkratom.com^$all
 ||redxwebsolutions.com^$all
 ||reecewedskanica.com^$all
@@ -40654,6 +40689,7 @@
 ||santafeg.com^$all
 ||santamderpl.online^$all
 ||santanacomex.com^$all
+||santandabank.online^$all
 ||santander-app-login.com^$all
 ||santander-app.net^$all
 ||santander-centrum24-pl.wine-culture.eu^$all
@@ -42367,6 +42403,7 @@
 ||source2cs.pro^$all
 ||source-4ef1f.web.app^$all
 ||source-7d2ed.web.app^$all
+||source-payu-pl.webnetworke.com^$all
 ||sourcecsgo2.pro^$all
 ||sourcei2.eu^$all
 ||sourceinfo-trust.info^$all
@@ -42989,6 +43026,7 @@
 ||storeplus.top^$all
 ||stores.inforedan.space^$all
 ||storess.inforedan.space^$all
+||storesteanpowered.com^$all
 ||storiesafterthefall.com^$all
 ||storiiia.com^$all
 ||storik.inforedan.space^$all
@@ -46470,6 +46508,7 @@
 ||ureiowwojahjudduejddd.site^$all
 ||urelacjebo.cfd^$all
 ||urenus16.tunetype.info^$all
+||uret-iens.sbs^$all
 ||ureterogram.life^$all
 ||urfijavedfan.com^$all
 ||urgacrg5zb.lilagoraj.pl^$all
@@ -46774,6 +46813,7 @@
 ||ved7.eutradepeopl.top^$all
 ||ved-c.heavycloud.top^$all
 ||vedosrw.space^$all
+||vedsitn.sbs^$all
 ||vedvidyarthi.com^$all
 ||veengu.net^$all
 ||veferiunuu.live^$all
@@ -46812,6 +46852,7 @@
 ||velobikes.pl^$all
 ||velocia.shop^$all
 ||velocity-invest.pro^$all
+||velocityspurt.biz^$all
 ||velvetl.sbs^$all
 ||velvetsunriise.site^$all
 ||velvettwiliight.site^$all
@@ -46827,6 +46868,7 @@
 ||veneziastash.top^$all
 ||veneziastore.top^$all
 ||venialacocina.com^$all
+||venk-ye.sbs^$all
 ||venshgk.link^$all
 ||venstafediscclan.gq^$all
 ||vent3dlab.online^$all
@@ -47644,6 +47686,7 @@
 ||vintedsk.order4733.eu^$all
 ||vintedsk.order5532.eu^$all
 ||vintedsk.order6099.eu^$all
+||vintedsk.order6423.eu^$all
 ||vintedsk.order6673.eu^$all
 ||vintedsk.order6721.eu^$all
 ||vintedsk.order6815.eu^$all
@@ -48575,6 +48618,7 @@
 ||wellmartpoe.site^$all
 ||wellnesscoach.za.com^$all
 ||wellnesscoaching.sa.com^$all
+||wellnesssource.com.ng^$all
 ||wellnesswarriorpro.live^$all
 ||wellnesswarriorpro.xyz^$all
 ||wellphyto.com^$all

@@ -340,6 +340,8 @@ finewoodworking.com##+js(set-cookie, taunton_user_consent_analytics, false)
 resonate.coop##+js(set-cookie, cookieconsent_status, allow)
 ! Rule "gov.lv##+js(set-cookie, allowCookies, 0)" converted to: "gov.lv#%#//scriptlet('ubo-set-cookie.js', 'allowCookies', '0')"
 gov.lv##+js(set-cookie, allowCookies, 0)
+! Rule "bassolsenergia.com##+js(set-cookie, CookienatorConsent, false)" converted to: "bassolsenergia.com#%#//scriptlet('ubo-set-cookie.js', 'CookienatorConsent', 'false')"
+bassolsenergia.com##+js(set-cookie, CookienatorConsent, false)
 ! Rule "outwrite.com##+js(set-cookie, gradeproof_shown_cookie_warning, true)" converted to: "outwrite.com#%#//scriptlet('ubo-set-cookie.js', 'gradeproof_shown_cookie_warning', 'true')"
 outwrite.com##+js(set-cookie, gradeproof_shown_cookie_warning, true)
 ! Rule "sberbank.com##+js(set-cookie, sber.pers_notice_en, 1)" converted to: "sberbank.com#%#//scriptlet('ubo-set-cookie.js', 'sber.pers_notice_en', '1')"
@@ -3532,6 +3534,8 @@ finewoodworking.com##+js(set-cookie, taunton_user_consent_analytics, false)
 resonate.coop##+js(set-cookie, cookieconsent_status, allow)
 ! Rule "gov.lv##+js(set-cookie, allowCookies, 0)" converted to: "gov.lv#%#//scriptlet('ubo-set-cookie.js', 'allowCookies', '0')"
 gov.lv##+js(set-cookie, allowCookies, 0)
+! Rule "bassolsenergia.com##+js(set-cookie, CookienatorConsent, false)" converted to: "bassolsenergia.com#%#//scriptlet('ubo-set-cookie.js', 'CookienatorConsent', 'false')"
+bassolsenergia.com##+js(set-cookie, CookienatorConsent, false)
 ! Rule "outwrite.com##+js(set-cookie, gradeproof_shown_cookie_warning, true)" converted to: "outwrite.com#%#//scriptlet('ubo-set-cookie.js', 'gradeproof_shown_cookie_warning', 'true')"
 outwrite.com##+js(set-cookie, gradeproof_shown_cookie_warning, true)
 ! Rule "sberbank.com##+js(set-cookie, sber.pers_notice_en, 1)" converted to: "sberbank.com#%#//scriptlet('ubo-set-cookie.js', 'sber.pers_notice_en', '1')"
@@ -6706,6 +6710,8 @@ finewoodworking.com#%#//scriptlet('ubo-set-cookie.js', 'taunton_user_consent_ana
 resonate.coop#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow')
 ! gov.lv#%#//scriptlet('ubo-set-cookie.js', 'allowCookies', '0') is excluded by "#%#//scriptlet" in exclusions-low.txt
 gov.lv#%#//scriptlet('ubo-set-cookie.js', 'allowCookies', '0')
+! bassolsenergia.com#%#//scriptlet('ubo-set-cookie.js', 'CookienatorConsent', 'false') is excluded by "#%#//scriptlet" in exclusions-low.txt
+bassolsenergia.com#%#//scriptlet('ubo-set-cookie.js', 'CookienatorConsent', 'false')
 ! outwrite.com#%#//scriptlet('ubo-set-cookie.js', 'gradeproof_shown_cookie_warning', 'true') is excluded by "#%#//scriptlet" in exclusions-low.txt
 outwrite.com#%#//scriptlet('ubo-set-cookie.js', 'gradeproof_shown_cookie_warning', 'true')
 ! sberbank.com#%#//scriptlet('ubo-set-cookie.js', 'sber.pers_notice_en', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
@@ -9886,6 +9892,8 @@ finewoodworking.com#%#//scriptlet('ubo-set-cookie.js', 'taunton_user_consent_ana
 resonate.coop#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow')
 ! gov.lv#%#//scriptlet('ubo-set-cookie.js', 'allowCookies', '0') is excluded by "#%#//scriptlet" in exclusions-low.txt
 gov.lv#%#//scriptlet('ubo-set-cookie.js', 'allowCookies', '0')
+! bassolsenergia.com#%#//scriptlet('ubo-set-cookie.js', 'CookienatorConsent', 'false') is excluded by "#%#//scriptlet" in exclusions-low.txt
+bassolsenergia.com#%#//scriptlet('ubo-set-cookie.js', 'CookienatorConsent', 'false')
 ! outwrite.com#%#//scriptlet('ubo-set-cookie.js', 'gradeproof_shown_cookie_warning', 'true') is excluded by "#%#//scriptlet" in exclusions-low.txt
 outwrite.com#%#//scriptlet('ubo-set-cookie.js', 'gradeproof_shown_cookie_warning', 'true')
 ! sberbank.com#%#//scriptlet('ubo-set-cookie.js', 'sber.pers_notice_en', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt

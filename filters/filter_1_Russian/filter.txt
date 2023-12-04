@@ -9847,6 +9847,8 @@ kadrovik01.com.ua,kom-dir.ru,gd.ru,buhsoft.ru,dirklinik.ru,fd.ru,business.ru,pro
 !
 !
 !
+uznayvse.ru##.iku_topadcategory
+uznayvse.ru##aside[data-blocktype="smi2"]
 hellomagrussia.ru##.readmore
 wtftime.ru##._recomment_container
 ||anilibria.tv/img/other/a/
