@@ -84,6 +84,7 @@
 !#######################################################
 ! SECTION: Cookies - General element hiding
 !
+###rb-privacy
 ###acceptance_of_cookies
 ###oct-policy
 ##.cookie-permission-container
@@ -5764,7 +5765,6 @@ monkeytype.com###cookiePopupWrapper
 enesco.co.uk#$##cookie-modal { display: none!important; }
 enesco.co.uk#$#.modal-backdrop { display: none!important; }
 enesco.co.uk#$#body { overflow: auto!important; padding-right: 0!important;}
-wfqo.com,khaskhabarrajkot.com,inpoland.net.pl,medias.hr,sempreupdate.com.br,teksnologi.com,brisbanedevelopment.com,privatemoviez.pics,faindx.com,vinstartheme.com,10alert.com,privatemoviez.buzz,przewodnik.tv,mebhocam.com,uniforumtz.com,privatemoviez.fun,rawneix.in###rb-privacy
 pluralsight.com##.cookie-notification-wrapper
 boehringer-ingelheim.de###it-eprivacy-root
 /eprivacy-templates/production/it-eprivacy.js$domain=boehringer-ingelheim.de
@@ -8403,7 +8403,7 @@ aliexpress.*###gdpr-new-container
 integrada.minhabiblioteca.com.br#$?#body > div[class*="Dialog__root-"]:has(> div[class^="Dialog__"] > div[class^="Dialog__"]  > div[class^="Dialog__"] > div[data-testid="CookiesDialog__cookies"]) { display: none!important; }
 integrada.minhabiblioteca.com.br#$#body { overflow: visible!important; }
 /pum-site-scripts.$domain=virtual-dba.com
-importantia.eu###react_element__cookiebar
+importantia.de,importantia.eu###react_element__cookiebar
 vgs2cv.be,woolet.co,retrosix.co.uk,margreiter-shop.de##.ec-notices__wrap
 sentinelone.com###cookie-message-panel
 cafeyn.co###cookiesStrip
