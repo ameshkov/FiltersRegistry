@@ -2319,6 +2319,7 @@ cmp.chip.de,cmpv2.netdoktor.ch,cmp.videogameschronicle.com,cmp.svd.se,cmpsp.game
 !
 ! NOTE: Regular rules
 !
+rtraveler.ru##.notification--cookies
 miroc.co.jp#%#//scriptlet('trusted-set-cookie', 'ACCEPT', 'OK')
 tankionline.com##.cookies-ru
 softonic.com#%#//scriptlet('trusted-set-cookie-reload', 'euconsent-v2', 'CP2APYAP2APYAAHABBENAcEgAAAAAAAAAAiQAAAAAAEEoAMAARBqDQAYAAiDUKgAwABEGopABgACINQ6ADAAEQaiEAGAAIg1BIAMAARBqGQAYAAiDUAA.YAAAAAAAAAAA')
@@ -33897,7 +33898,7 @@ paperpaper.*##.category_main > div.main-page-club-block
 paperpaper.*#?#.stk-post > div.stk-grid:has(> div.stk-grid-col p.stk-reset ~ a[href^="http://paperpaper.ru/"][href*="utm_campaign=promo"])
 best-invest.info##a[href="#signup"]
 ilenta.com##article > div[style="clear:both; padding:10px 0;"]
-34.ua##.subscribe-wrap
+rtraveler.ru,34.ua##.subscribe-wrap
 ferra.ru##.layoutContent a[href="https://t.me/ferraru"]
 elle.ru##div[data-creative-container="hb-promo"]
 grad.ua##.g_news
