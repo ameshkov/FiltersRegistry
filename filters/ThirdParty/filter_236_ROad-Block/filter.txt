@@ -1428,3 +1428,8 @@ vzlinks.com#%#//scriptlet('ubo-nowoif.js')
 vzlinks.com#%#//scriptlet('ubo-set.js', 'adblockcheck', 'false')
 ||unpkg.com/videojs-vast-vpaid@2.0.2/bin/videojs_5.vast.vpaid.min.js$script,domain=vzlinks.com
 @@||regielive.ro^$generichide
+! https://github.com/uBlockOrigin/uAssets/issues/21041
+filme2023.online,onlyplay.online#%#//scriptlet('ubo-aopw.js', '_pop')
+filme2023.online#%#//scriptlet('ubo-rmnt.js', 'script', 'document.head.appendChild')
+*&ad=$subdocument,domain=filme2023.online
+onlyplay.online#%#//scriptlet('ubo-nowoif.js', '', '10')
