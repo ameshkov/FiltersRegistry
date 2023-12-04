@@ -1,8 +1,8 @@
 !#if (adguard_ext_android_cb)
 ! version for AdGuard Content Blocker only
-! OriginalVersion: 20231203145536
+! OriginalVersion: 20231204094539
 ! Title: ABPVN List
-! Last modified: 03 Dec 2023 14:55:36 UTC+7
+! Last modified: 04 Dec 2023 09:45:39 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter
@@ -863,9 +863,9 @@ mitomf.tv,cakhia.de,vebot.live##.align-items-center.justify-content-between.d-fl
 mitomf.tv,cakhia.de,xoilac87.tv##.sub-menu.d-none.d-lg-flex
 mitub.net##.single-box
 mitub.net##[href^="//dooloust.net/"]
-motchill.co,motphimtw.net###mp-adbk
-motchill.co,motphimtw.net###mp-adx-b32
-motchill.co,motphimtw.net,phimmoipro2.net,vkooll.net,phimmoichillh.net,ophim.vip##.mp-adz
+motchilli.net,motphimtw.net###mp-adbk
+motchilli.net,motphimtw.net###mp-adx-b32
+motchilli.net,motphimtw.net,phimmoipro2.net,vkooll.net,phimmoichillh.net,ophim.vip##.mp-adz
 motphim1.info##.widget_custom_html.widget.widget_text
 motphim1.info,hhtq.top,animevip.tv,hhtqvietsub.top##.box_odds
 mphim14.com##.fixed_bottom
@@ -1389,7 +1389,7 @@ $third-party,script,domain=sexdiaryx.us
 ||img.congdongmassage.com/banner/$image
 ||img.nguonc.com/public/images/Film/bet/$image
 ||img.nguonc.com^*.gif
-||javhay.in/theme/custom.int.js
+||javhay.media/theme/custom.int.js
 ||javtopxx.com/public/images/banner/$image
 ||kgfjrb711.com^
 ||kmyamhowpj.com^
@@ -1435,7 +1435,7 @@ filemoon.sx##body>[style*="position: fixed;"]
 gaingon18.com###iklan-atas-wrapper
 gockhuat.net###ad_global_below_navbar
 hentaivn.autos##.qx_135
-javhay.in##.v4j-header>center
+javhay.media##.v4j-header>center
 javhd.shop,vlxx.studio,heovl.io##.hd-tube-desktop
 javhd.shop,vlxx.studio,heovl.io##.hd-tube-mobile
 javtiful.com###latest-censored-videos>.row>div.pb-3.col:nth-of-type(1)
@@ -1513,9 +1513,9 @@ vn.phym18.org##div#bnads
 !
 !#if (!adguard_ext_android_cb)
 ! version for all other AdGuard products
-! OriginalVersion: 20231203145536
+! OriginalVersion: 20231204094539
 ! Title: ABPVN List
-! Last modified: 03 Dec 2023 14:55:36 UTC+7
+! Last modified: 04 Dec 2023 09:45:39 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter
@@ -2374,9 +2374,9 @@ mitomf.tv,cakhia.de,vebot.live##.align-items-center.justify-content-between.d-fl
 mitomf.tv,cakhia.de,xoilac87.tv##.sub-menu.d-none.d-lg-flex
 mitub.net##.single-box
 mitub.net##[href^="//dooloust.net/"]
-motchill.co,motphimtw.net###mp-adbk
-motchill.co,motphimtw.net###mp-adx-b32
-motchill.co,motphimtw.net,phimmoipro2.net,vkooll.net,phimmoichillh.net,ophim.vip##.mp-adz
+motchilli.net,motphimtw.net###mp-adbk
+motchilli.net,motphimtw.net###mp-adx-b32
+motchilli.net,motphimtw.net,phimmoipro2.net,vkooll.net,phimmoichillh.net,ophim.vip##.mp-adz
 motphim1.info##.widget_custom_html.widget.widget_text
 motphim1.info,hhtq.top,animevip.tv,hhtqvietsub.top##.box_odds
 mphim14.com##.fixed_bottom
@@ -2891,7 +2891,7 @@ $third-party,script,domain=sexdiaryx.us
 ||img.congdongmassage.com/banner/$image
 ||img.nguonc.com/public/images/Film/bet/$image
 ||img.nguonc.com^*.gif
-||javhay.in/theme/custom.int.js
+||javhay.media/theme/custom.int.js
 ||javtopxx.com/public/images/banner/$image
 ||kgfjrb711.com^
 ||lxmanga.net/storage/images/banners
@@ -2936,7 +2936,7 @@ filemoon.sx##body>[style*="position: fixed;"]
 gaingon18.com###iklan-atas-wrapper
 gockhuat.net###ad_global_below_navbar
 hentaivn.autos##.qx_135
-javhay.in##.v4j-header>center
+javhay.media##.v4j-header>center
 javhd.shop,vlxx.studio,heovl.io##.hd-tube-desktop
 javhd.shop,vlxx.studio,heovl.io##.hd-tube-mobile
 javtiful.com###latest-censored-videos>.row>div.pb-3.col:nth-of-type(1)
@@ -3077,7 +3077,7 @@ vaoroi13.online,xoivo2.online#%#//scriptlet("set-constant", "adsTvcs", "")
 vebo8.link,khomuc9.live,90phutx.tv,cakhia.de,xoilac87.tv,vebot.live,mitomf.tv,thapcam.live,blog.abit.vn,gavang1.link#$#body {overflow: visible!important;}
 vebo8.link,khomuc9.live,xoilac87.tv,vebot.live,thapcam.live,blog.abit.vn##.modal-backdrop.show
 vebo8.link,khomuc9.live,xoilac87.tv,vebot.live,thapcam.live,blog.abit.vn##.show.fade
-viet69.tube,ungtycomicsvip.com,vlxx.xxx,dualeotruyenww.com,yurineko.net,vlxyz.tv,javhay.in,phimsexhay669.co,cliphot69.biz,doctruyen3qvn.com,hentaizz.vip,animehay.city,heo69.top,tuoi69.one,top1sex.club,lenlut.net,xemsex.asia,hentai-vn.com,web11.sexphim1.com,cdn.streamvl.sbs,buomtv.tv#%#//scriptlet("abort-current-inline-script", "WebAssembly", "instantiate")
+viet69.tube,ungtycomicsvip.com,vlxx.xxx,dualeotruyenww.com,yurineko.net,vlxyz.tv,javhay.media,phimsexhay669.co,cliphot69.biz,doctruyen3qvn.com,hentaizz.vip,animehay.city,heo69.top,tuoi69.one,top1sex.club,lenlut.net,xemsex.asia,hentai-vn.com,web11.sexphim1.com,cdn.streamvl.sbs,buomtv.tv#%#//scriptlet("abort-current-inline-script", "WebAssembly", "instantiate")
 viettoons.tv,phimmoiaz.cc,m.blogtruyen.vn,vinaurl.net,animet.net,anh.moe#%#//scriptlet("abort-on-property-read", "open")
 vndoc.com#%#//scriptlet("set-constant", "seconds", "0")
 vungoctuan.vn#%#//scriptlet("abort-current-inline-script", "document.write", "snow")
