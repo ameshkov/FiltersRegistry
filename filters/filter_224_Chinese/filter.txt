@@ -5773,6 +5773,7 @@ newduba.cn###jq_youxi
 ||xn--9kq29i0tjy6b044actm.com^
 ||v34s6r.com^
 ||hangzhouhdb.top^
+||qydoex.icu^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
