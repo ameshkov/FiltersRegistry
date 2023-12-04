@@ -4495,6 +4495,8 @@ sanalkurs.net###toast-container > .toast-error[aria-live="assertive"]
 !
 ! SECTION: Popups - Regular rules
 !
+rbc.ru#$?##popmechanic-snippet { display: none !important; }
+rbc.ru#$?#.popmechanic-disable-scroll { overflow: auto !important; }
 fortnitetracker.com###portal
 retailmenot.com#%#//scriptlet('prevent-addEventListener', 'prepare-exit-modal', '=>')
 later.com#%#//scriptlet('prevent-addEventListener', 'mouseout', 'relatedTarget')
