@@ -2319,6 +2319,7 @@ cmp.chip.de,cmpv2.netdoktor.ch,cmp.videogameschronicle.com,cmp.svd.se,cmpsp.game
 !
 ! NOTE: Regular rules
 !
+interbus.es##.aviso-de-cookies
 cnn.com###onetrust-consent-sdk:not([style])
 cnn.com#%#//scriptlet('prevent-addEventListener', 'oneTrustBlocked', 'browser-blocked')
 screenflash.io#%#//scriptlet('trusted-set-local-storage-item', 'consents', '{"device":false,"personalizedContent":false,"googleAdsense":false,"googleRecaptcha":false,"youtube":false}')
@@ -35985,7 +35986,7 @@ pult.ru##div[id^="subscription"]
 pult.ru##.s-main-news-subscribe
 readovka.news##.block-community-zen
 hartsofstur.com,vg247.com,rockpapershotgun.com,eurogamer.net,silbonshop.com,dinos.co.jp,supermagnete.de,lampenwelt.de,oxfordlearning.com,caseking.de,lidyana.com,officedepot.co.cr##.footer-newsletter
-latribune.fr,laprovence.com,ouest-france.fr##.bloc-newsletter
+latribune.fr,laprovence.com,ouest-france.fr##body .bloc-newsletter:not(#style_important)
 trendus.com###SideBar-Newsletter
 portal.lviv.ua##.subscribe_social
 engadget.com##div[data-component="NewsletterCard"]
@@ -40807,6 +40808,8 @@ instagram.com##._aagw:empty
 !
 ! End: Instagram.com
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/167641
+ouest-france.fr#%#//scriptlet('set-constant', 'ultimediaVisiblePlayer.scrollVisiblePlayer', 'noopFunc')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/166745
 bilibili.com##.pop-live-small-mode
 ! https://github.com/AdguardTeam/AdguardFilters/issues/166554
@@ -45678,6 +45681,7 @@ theguardian.com##.contributions__adblock
 !
 ! SECTION: Self-promo - Regular rules
 !
+123pan.com##.login-vip-banner
 nifty.com##.newsList > li > a[href^="https://setsuzoku.nifty.com/"]
 askona.ee###catalog > div.main-catalog-box-full-width
 jin10.com##.top-poster
