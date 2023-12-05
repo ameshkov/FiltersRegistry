@@ -1,8 +1,8 @@
 !
-! Checksum: d1LjU0uaRfT4vWmPo9RHfA
-! OriginalVersion: 202312050445
+! Checksum: 4Z2xLideuMRQ+lkYaUxnOQ
+! OriginalVersion: 202312050800
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-12-05 04:45 UTC
+! Last modified: 2023-12-05 08:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -37364,6 +37364,7 @@ butwhytho.net##.bm-social-sharing
 9to5linux.com##.bm-social-top
 breitbart.com##.bnn-social-share
 crn.com##.border-all-mid-gray-rounded
+cardiff.ac.uk##.box-services
 bangkokpost.com##.boxnav--social
 purewow.com##.btn--email
 insidethegames.biz##.btn-block.btn
@@ -38076,7 +38077,7 @@ cadenaazul.com,ilfoglio.it,peoplesweather.com,rfm.fr,sassymamahk.com,zoom.earth#
 !! .Share
 7kanal.co.il,focusjunior.it,inn.co.il##.Share
 !! .social-links
-anothermag.com,armageddonexpo.com,averiecooks.com,bnn.de,bolina.it,cgchannel.com,classic105.com,diariolasamericas.com,ebu.io,fullfact.org,hannity.com,i24news.tv,insurancejournal.com,metro.us,mobilesyrup.com,nextplay.nl,oann.com,quantamagazine.org,realnewsmontana.com,rocketbeans.tv,screencrush.com,skinnyms.com,sowetanlive.co.za,stoneyroads.com,thedailystar.net,tuasaude.com,wantedonline.co.za,wijwedden.net##.social-links
+anothermag.com,armageddonexpo.com,averiecooks.com,bnn.de,bolina.it,cgchannel.com,classic105.com,diariolasamericas.com,ebu.io,fortune.com,fullfact.org,hannity.com,i24news.tv,insurancejournal.com,metro.us,mobilesyrup.com,nextplay.nl,oann.com,quantamagazine.org,realnewsmontana.com,rocketbeans.tv,screencrush.com,skinnyms.com,sowetanlive.co.za,stoneyroads.com,thedailystar.net,tuasaude.com,wantedonline.co.za,wijwedden.net##.social-links
 !! .social-link
 english.nv.ua,jenkemmag.com,largus.fr,masterduelmeta.com,merriam-webster.com##.social-link
 !! .google-news
@@ -40514,7 +40515,7 @@ atomizer.gr,biblio.co.uk,comfortclick.com,discountoffice.nl,nowemiasteczko.pl,or
 !! .banner
 apgbio.com,cheddar.com,co-operative.coop,couchsurfing.com,cyscale.com,diagnosticquestions.com,fluidra.ba,fullscreen.com,haymarketbooks.org,human-facts.com,incyte.jp,jumia.ci,jumia.co.ke,jumia.com.eg,jumia.com.gh,jumia.com.ng,jumia.com.tn,jumia.dz,jumia.ma,jumia.sn,jumia.ug,modrinth.com,oceanmata.com,peer5.com,pluralsight.com,securitylab.github.com,subaru.be,usatoday.com,versobooks.com,zando.co.za##.banner
 !! .notice
-brightree.com,cgtrader.com,configserverfirewall.com,cortesdecima.com,delo.si,dialight.com,discordapp.com,dotmailer.com,evgo.com,exposition-osiris.com,fcc-fac.ca,foreground.com.au,fritchy.com,hilltopads.com,keenfootwear.com,medicalxpress.com,outsideonline.com,pajilleros.com,phys.org,pokemon-trainer.com,revolver.news,shire.com,slovenskenovice.si,snbforums.com,socialmediagirls.com,techxplore.com,thresholdtrailseries.com,ubuntu18.com##.notice
+brightree.com,cgtrader.com,configserverfirewall.com,cortesdecima.com,delo.si,dialight.com,discordapp.com,dotmailer.com,evgo.com,exposition-osiris.com,fcc-fac.ca,foreground.com.au,fritchy.com,hilltopads.com,keenfootwear.com,medicalxpress.com,outsideonline.com,pajilleros.com,phys.org,pokemon-trainer.com,revolver.news,shire.com,slovenskenovice.si,snbforums.com,socialmediagirls.com,techxplore.com,thresholdtrailseries.com,ubuntu18.com,vialibri.net##.notice
 !! GDPRConsent
 cambash.com,massivecams.com,nordforme.org,nordvpn.com##[class^="GDPRConsent"]
 !! .modal-overlay
