@@ -228,12 +228,34 @@ finewoodworking.com##+js(set-cookie, taunton_user_consent_submitted, true)
 finewoodworking.com##+js(set-cookie, taunton_user_consent_advertising, false)
 ! Rule "finewoodworking.com##+js(set-cookie, taunton_user_consent_analytics, false)" converted to: "finewoodworking.com#%#//scriptlet('ubo-set-cookie.js', 'taunton_user_consent_analytics', 'false')"
 finewoodworking.com##+js(set-cookie, taunton_user_consent_analytics, false)
-! Rule "resonate.coop##+js(set-cookie, cookieconsent_status, allow)" converted to: "resonate.coop#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow')"
-resonate.coop##+js(set-cookie, cookieconsent_status, allow)
+! Rule "resonate.coop,northgatevehiclehire.ie##+js(set-cookie, cookieconsent_status, allow)" converted to: "resonate.coop,northgatevehiclehire.ie#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow')"
+resonate.coop,northgatevehiclehire.ie##+js(set-cookie, cookieconsent_status, allow)
+! Rule "pwsweather.com##+js(set-cookie, pws_gdrp_accept, 1)" converted to: "pwsweather.com#%#//scriptlet('ubo-set-cookie.js', 'pws_gdrp_accept', '1')"
+pwsweather.com##+js(set-cookie, pws_gdrp_accept, 1)
+! Rule "airwallex.com##+js(set-cookie, awx_cookie_consent, true)" converted to: "airwallex.com#%#//scriptlet('ubo-set-cookie.js', 'awx_cookie_consent', 'true')"
+airwallex.com##+js(set-cookie, awx_cookie_consent, true)
 ! Rule "gov.lv##+js(set-cookie, allowCookies, 0)" converted to: "gov.lv#%#//scriptlet('ubo-set-cookie.js', 'allowCookies', '0')"
 gov.lv##+js(set-cookie, allowCookies, 0)
+! Rule "tise.com##+js(set-cookie, cookiePolicyAccepted, true)" converted to: "tise.com#%#//scriptlet('ubo-set-cookie.js', 'cookiePolicyAccepted', 'true')"
+tise.com##+js(set-cookie, cookiePolicyAccepted, true)
+! Rule "codecamps.com##+js(set-cookie, codecamps.cookiesConsent, true)" converted to: "codecamps.com#%#//scriptlet('ubo-set-cookie.js', 'codecamps.cookiesConsent', 'true')"
+codecamps.com##+js(set-cookie, codecamps.cookiesConsent, true)
+! Rule "moneyfarm.com##+js(set-cookie, consent_updated, true)" converted to: "moneyfarm.com#%#//scriptlet('ubo-set-cookie.js', 'consent_updated', 'true')"
+moneyfarm.com##+js(set-cookie, consent_updated, true)
 ! Rule "bassolsenergia.com##+js(set-cookie, CookienatorConsent, false)" converted to: "bassolsenergia.com#%#//scriptlet('ubo-set-cookie.js', 'CookienatorConsent', 'false')"
 bassolsenergia.com##+js(set-cookie, CookienatorConsent, false)
+! Rule "simpl.rent##+js(set-cookie, acsr, 1)" converted to: "simpl.rent#%#//scriptlet('ubo-set-cookie.js', 'acsr', '1')"
+simpl.rent##+js(set-cookie, acsr, 1)
+! Rule "hubspot.com##+js(set-cookie, __hs_gpc_banner_dismiss, true)" converted to: "hubspot.com#%#//scriptlet('ubo-set-cookie.js', '__hs_gpc_banner_dismiss', 'true')"
+hubspot.com##+js(set-cookie, __hs_gpc_banner_dismiss, true)
+! Rule "zutobi.com##+js(set-cookie, cookieyes-necessary, yes)" converted to: "zutobi.com#%#//scriptlet('ubo-set-cookie.js', 'cookieyes-necessary', 'yes')"
+zutobi.com##+js(set-cookie, cookieyes-necessary, yes)
+! Rule "zutobi.com##+js(set-cookie, cookieyes-other, no)" converted to: "zutobi.com#%#//scriptlet('ubo-set-cookie.js', 'cookieyes-other', 'no')"
+zutobi.com##+js(set-cookie, cookieyes-other, no)
+! Rule "zutobi.com##+js(set-cookie, cky-action, yes)" converted to: "zutobi.com#%#//scriptlet('ubo-set-cookie.js', 'cky-action', 'yes')"
+zutobi.com##+js(set-cookie, cky-action, yes)
+! Rule "zutobi.com##+js(set-cookie, cookieyes-functional, no)" converted to: "zutobi.com#%#//scriptlet('ubo-set-cookie.js', 'cookieyes-functional', 'no')"
+zutobi.com##+js(set-cookie, cookieyes-functional, no)
 ! Rule "calm.com##+js(set-cookie, has-declined-cookies, true, , reload, 1)" converted to: "calm.com#%#//scriptlet('ubo-set-cookie.js', 'has-declined-cookies', 'true', '', 'reload', '1')"
 calm.com##+js(set-cookie, has-declined-cookies, true, , reload, 1)
 ! Rule "calm.com##+js(set-cookie, has-agreed-to-cookies, false)" converted to: "calm.com#%#//scriptlet('ubo-set-cookie.js', 'has-agreed-to-cookies', 'false')"
@@ -272,6 +294,8 @@ bhaptics.com##+js(set-cookie, accepted_cookies, yes)
 cleverbot.com##+js(set-cookie, note, 1)
 ! Rule "watchaut.film##+js(set-cookie, cookieConsent, required)" converted to: "watchaut.film#%#//scriptlet('ubo-set-cookie.js', 'cookieConsent', 'required')"
 watchaut.film##+js(set-cookie, cookieConsent, required)
+! Rule "fanvue.com##+js(set-cookie, cookieConsent, accepted)" converted to: "fanvue.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsent', 'accepted')"
+fanvue.com##+js(set-cookie, cookieConsent, accepted)
 ! Rule "electronoobs.com##+js(set-cookie, pd_cc, 1)" converted to: "electronoobs.com#%#//scriptlet('ubo-set-cookie.js', 'pd_cc', '1')"
 electronoobs.com##+js(set-cookie, pd_cc, 1)
 ! Rule "xn--lkylen-vxa.se##+js(set-cookie, gdpr_ok, necessary)" converted to: "xn--lkylen-vxa.se#%#//scriptlet('ubo-set-cookie.js', 'gdpr_ok', 'necessary')"
@@ -522,8 +546,8 @@ songtradr.com##+js(set-cookie, cpaccepted, true)
 logo.pt##+js(set-cookie, cookieMessageDismissed, 1)
 ! Rule "logo.pt##+js(set-cookie, LG_COOKIE_CONSENT, 0)" converted to: "logo.pt#%#//scriptlet('ubo-set-cookie.js', 'LG_COOKIE_CONSENT', '0')"
 logo.pt##+js(set-cookie, LG_COOKIE_CONSENT, 0)
-! Rule "dentmania.de,free.navalny.com,latoken.com##+js(set-cookie, CookieConsent, true)" converted to: "dentmania.de,free.navalny.com,latoken.com#%#//scriptlet('ubo-set-cookie.js', 'CookieConsent', 'true')"
-dentmania.de,free.navalny.com,latoken.com##+js(set-cookie, CookieConsent, true)
+! Rule "getunleash.io,dentmania.de,free.navalny.com,latoken.com##+js(set-cookie, CookieConsent, true)" converted to: "getunleash.io,dentmania.de,free.navalny.com,latoken.com#%#//scriptlet('ubo-set-cookie.js', 'CookieConsent', 'true')"
+getunleash.io,dentmania.de,free.navalny.com,latoken.com##+js(set-cookie, CookieConsent, true)
 ! Rule "waitrose.com##+js(set-cookie, wtr_cookie_consent, 1)" converted to: "waitrose.com#%#//scriptlet('ubo-set-cookie.js', 'wtr_cookie_consent', '1')"
 waitrose.com##+js(set-cookie, wtr_cookie_consent, 1)
 ! Rule "waitrose.com##+js(set-cookie, wtr_cookies_functional, 1)" converted to: "waitrose.com#%#//scriptlet('ubo-set-cookie.js', 'wtr_cookies_functional', '1')"
@@ -740,6 +764,8 @@ login.ingbank.pl##+js(set-cookie, sat_track, false)
 fabrykacukiernika.pl##+js(set-cookie, Rodo, 1)
 ! Rule "fabrykacukiernika.pl##+js(set-cookie, cookie_privacy_on, 1)" converted to: "fabrykacukiernika.pl#%#//scriptlet('ubo-set-cookie.js', 'cookie_privacy_on', '1')"
 fabrykacukiernika.pl##+js(set-cookie, cookie_privacy_on, 1)
+! Rule "peaks.com##+js(set-cookie, allow_cookie, false)" converted to: "peaks.com#%#//scriptlet('ubo-set-cookie.js', 'allow_cookie', 'false')"
+peaks.com##+js(set-cookie, allow_cookie, false)
 ! Rule "playlumi.com##+js(set-cookie, cookies-marketing, false)" converted to: "playlumi.com#%#//scriptlet('ubo-set-cookie.js', 'cookies-marketing', 'false')"
 playlumi.com##+js(set-cookie, cookies-marketing, false)
 ! Rule "playlumi.com##+js(set-cookie, cookies-functional, true)" converted to: "playlumi.com#%#//scriptlet('ubo-set-cookie.js', 'cookies-functional', 'true')"
@@ -946,8 +972,8 @@ snap.com##+js(set-cookie, sc-cookies-accepted, true)
 ratemyprofessors.com##+js(set-cookie, ccpa-notice-viewed-02, true)
 ! Rule "filen.io##+js(set-cookie, cookieConsent, yes)" converted to: "filen.io#%#//scriptlet('ubo-set-cookie.js', 'cookieConsent', 'yes')"
 filen.io##+js(set-cookie, cookieConsent, yes)
-! Rule "restaurantclub.pl,context.news##+js(set-cookie, cookieConsent, true)" converted to: "restaurantclub.pl,context.news#%#//scriptlet('ubo-set-cookie.js', 'cookieConsent', 'true')"
-restaurantclub.pl,context.news##+js(set-cookie, cookieConsent, true)
+! Rule "leotrippi.com,restaurantclub.pl,context.news##+js(set-cookie, cookieConsent, true)" converted to: "leotrippi.com,restaurantclub.pl,context.news#%#//scriptlet('ubo-set-cookie.js', 'cookieConsent', 'true')"
+leotrippi.com,restaurantclub.pl,context.news##+js(set-cookie, cookieConsent, true)
 ! Rule "stilord.com,stilord.pl,stilord.de,stilord.fr##+js(set-cookie, plenty-shop-cookie, 0)" converted to: "stilord.com,stilord.pl,stilord.de,stilord.fr#%#//scriptlet('ubo-set-cookie.js', 'plenty-shop-cookie', '0')"
 stilord.com,stilord.pl,stilord.de,stilord.fr##+js(set-cookie, plenty-shop-cookie, 0)
 ! Rule "quantamagazine.org##+js(set-cookie, acceptedPolicy, true)" converted to: "quantamagazine.org#%#//scriptlet('ubo-set-cookie.js', 'acceptedPolicy', 'true')"
@@ -1012,8 +1038,24 @@ omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-other, false)
 omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-seen, true)
 ! Rule "omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-social, true)" converted to: "omroepbrabant.nl#%#//scriptlet('ubo-set-local-storage-item.js', 'psh:cookies-social', 'true')"
 omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-social, true)
+! Rule "starwalk.space##+js(set-local-storage-item, SWCOOKIESACC, 1)" converted to: "starwalk.space#%#//scriptlet('ubo-set-local-storage-item.js', 'SWCOOKIESACC', '1')"
+starwalk.space##+js(set-local-storage-item, SWCOOKIESACC, 1)
+! Rule "codedead.com##+js(set-local-storage-item, hasAcceptedCookieNotice, true)" converted to: "codedead.com#%#//scriptlet('ubo-set-local-storage-item.js', 'hasAcceptedCookieNotice', 'true')"
+codedead.com##+js(set-local-storage-item, hasAcceptedCookieNotice, true)
+! Rule "jove.com##+js(set-local-storage-item, accept-jove-cookie, 1)" converted to: "jove.com#%#//scriptlet('ubo-set-local-storage-item.js', 'accept-jove-cookie', '1')"
+jove.com##+js(set-local-storage-item, accept-jove-cookie, 1)
+! Rule "argent.xyz##+js(set-local-storage-item, cookie_consent_bar_value, true)" converted to: "argent.xyz#%#//scriptlet('ubo-set-local-storage-item.js', 'cookie_consent_bar_value', 'true')"
+argent.xyz##+js(set-local-storage-item, cookie_consent_bar_value, true)
+! Rule "pixeden.com##+js(set-local-storage-item, pxdn_cookie_consent, true)" converted to: "pixeden.com#%#//scriptlet('ubo-set-local-storage-item.js', 'pxdn_cookie_consent', 'true')"
+pixeden.com##+js(set-local-storage-item, pxdn_cookie_consent, true)
+! Rule "akasha.org##+js(set-local-storage-item, akasha__cookiePolicy, true)" converted to: "akasha.org#%#//scriptlet('ubo-set-local-storage-item.js', 'akasha__cookiePolicy', 'true')"
+akasha.org##+js(set-local-storage-item, akasha__cookiePolicy, true)
 ! Rule "ashleyfurniture.com##+js(set-local-storage-item, QMOptIn, false)" converted to: "ashleyfurniture.com#%#//scriptlet('ubo-set-local-storage-item.js', 'QMOptIn', 'false')"
 ashleyfurniture.com##+js(set-local-storage-item, QMOptIn, false)
+! Rule "5sim.net##+js(set-local-storage-item, isCookiesAccepted, true)" converted to: "5sim.net#%#//scriptlet('ubo-set-local-storage-item.js', 'isCookiesAccepted', 'true')"
+5sim.net##+js(set-local-storage-item, isCookiesAccepted, true)
+! Rule "safe.global##+js(set-local-storage-item, safe.global, false)" converted to: "safe.global#%#//scriptlet('ubo-set-local-storage-item.js', 'safe.global', 'false')"
+safe.global##+js(set-local-storage-item, safe.global, false)
 ! Rule "jibjab.com##+js(set-local-storage-item, cookie_banner:hidden, true)" converted to: "jibjab.com#%#//scriptlet('ubo-set-local-storage-item.js', 'cookie_banner:hidden', 'true')"
 jibjab.com##+js(set-local-storage-item, cookie_banner:hidden, true)
 ! Rule "filmzie.com##+js(set-local-storage-item, cookiesAccepted, false)" converted to: "filmzie.com#%#//scriptlet('ubo-set-local-storage-item.js', 'cookiesAccepted', 'false')"
@@ -1034,6 +1076,8 @@ evernote.com##+js(set-local-storage-item, accepts-cookie-notice, true)
 octopusenergy.co.jp##+js(set-local-storage-item, dismissedPrivacyCookieMessage, 1)
 ! Rule "happiful.com##+js(set-local-storage-item, cookie_consent, false)" converted to: "happiful.com#%#//scriptlet('ubo-set-local-storage-item.js', 'cookie_consent', 'false')"
 happiful.com##+js(set-local-storage-item, cookie_consent, false)
+! Rule "plente.com##+js(set-local-storage-item, cookiePolicy, true)" converted to: "plente.com#%#//scriptlet('ubo-set-local-storage-item.js', 'cookiePolicy', 'true')"
+plente.com##+js(set-local-storage-item, cookiePolicy, true)
 ! Rule "findmcserver.com##+js(set-local-storage-item, allowCookies, allowed)" converted to: "findmcserver.com#%#//scriptlet('ubo-set-local-storage-item.js', 'allowCookies', 'allowed')"
 findmcserver.com##+js(set-local-storage-item, allowCookies, allowed)
 ! Rule "traefik.io##+js(set-local-storage-item, cookie_consent, true)" converted to: "traefik.io#%#//scriptlet('ubo-set-local-storage-item.js', 'cookie_consent', 'true')"
