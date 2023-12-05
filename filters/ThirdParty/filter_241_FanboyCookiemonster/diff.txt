@@ -232,8 +232,14 @@ finewoodworking.com##+js(set-cookie, taunton_user_consent_analytics, false)
 resonate.coop,northgatevehiclehire.ie##+js(set-cookie, cookieconsent_status, allow)
 ! Rule "pwsweather.com##+js(set-cookie, pws_gdrp_accept, 1)" converted to: "pwsweather.com#%#//scriptlet('ubo-set-cookie.js', 'pws_gdrp_accept', '1')"
 pwsweather.com##+js(set-cookie, pws_gdrp_accept, 1)
+! Rule "myscience.org##+js(set-cookie, analytics_consent, yes)" converted to: "myscience.org#%#//scriptlet('ubo-set-cookie.js', 'analytics_consent', 'yes')"
+myscience.org##+js(set-cookie, analytics_consent, yes)
+! Rule "7-eleven.com##+js(set-cookie, sei-ccpa-banner, true)" converted to: "7-eleven.com#%#//scriptlet('ubo-set-cookie.js', 'sei-ccpa-banner', 'true')"
+7-eleven.com##+js(set-cookie, sei-ccpa-banner, true)
 ! Rule "airwallex.com##+js(set-cookie, awx_cookie_consent, true)" converted to: "airwallex.com#%#//scriptlet('ubo-set-cookie.js', 'awx_cookie_consent', 'true')"
 airwallex.com##+js(set-cookie, awx_cookie_consent, true)
+! Rule "streema.com##+js(set-cookie, cookie_warning, 1)" converted to: "streema.com#%#//scriptlet('ubo-set-cookie.js', 'cookie_warning', '1')"
+streema.com##+js(set-cookie, cookie_warning, 1)
 ! Rule "gov.lv##+js(set-cookie, allowCookies, 0)" converted to: "gov.lv#%#//scriptlet('ubo-set-cookie.js', 'allowCookies', '0')"
 gov.lv##+js(set-cookie, allowCookies, 0)
 ! Rule "tise.com##+js(set-cookie, cookiePolicyAccepted, true)" converted to: "tise.com#%#//scriptlet('ubo-set-cookie.js', 'cookiePolicyAccepted', 'true')"
@@ -1042,6 +1048,8 @@ omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-social, true)
 starwalk.space##+js(set-local-storage-item, SWCOOKIESACC, 1)
 ! Rule "codedead.com##+js(set-local-storage-item, hasAcceptedCookieNotice, true)" converted to: "codedead.com#%#//scriptlet('ubo-set-local-storage-item.js', 'hasAcceptedCookieNotice', 'true')"
 codedead.com##+js(set-local-storage-item, hasAcceptedCookieNotice, true)
+! Rule "fydeos.com,fydeos.io##+js(set-local-storage-item, is_accept_cookie, true)" converted to: "fydeos.com,fydeos.io#%#//scriptlet('ubo-set-local-storage-item.js', 'is_accept_cookie', 'true')"
+fydeos.com,fydeos.io##+js(set-local-storage-item, is_accept_cookie, true)
 ! Rule "jove.com##+js(set-local-storage-item, accept-jove-cookie, 1)" converted to: "jove.com#%#//scriptlet('ubo-set-local-storage-item.js', 'accept-jove-cookie', '1')"
 jove.com##+js(set-local-storage-item, accept-jove-cookie, 1)
 ! Rule "argent.xyz##+js(set-local-storage-item, cookie_consent_bar_value, true)" converted to: "argent.xyz#%#//scriptlet('ubo-set-local-storage-item.js', 'cookie_consent_bar_value', 'true')"
