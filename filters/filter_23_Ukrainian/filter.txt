@@ -6268,6 +6268,7 @@ gastronom.ru,eg.ru,newsmaker.md,delo-vcusa.ru,tolknews.ru,gorodche.ru,smartpress
 !
 !
 !
+finance.ua##div[class^="AdvertisingBanner"]
 news.meta.ua##.banner-img
 news.meta.ua##small[style^="display:block;"]
 gordonua.com##div[data-action="banners"]
@@ -6456,6 +6457,10 @@ kadrovik01.com.ua,kom-dir.ru,gd.ru,buhsoft.ru,dirklinik.ru,fd.ru,business.ru,pro
 !
 ! Good: example.org###rek; ||example.com/ads/
 ! Bad: example.org#$##rek { display: none !important; } (for instance, should be in general_extensions.txt)
+!
+! `/upload/rk/` - URL and element hiding rule
+/upload/rk/*$domain=citrus.ua|xsport.ua|zi.dn.ua|zi.ua
+citrus.ua,xsport.ua,zi.dn.ua,zi.ua##img[src^="/upload/rk/"]
 !
 !
 !
@@ -7777,7 +7782,6 @@ china-review.com.ua##div.story_footer[style="margin-bottom: 10px; padding-top: 6
 /img/banners/*$domain=bukovina.biz.ua|firtka.if.ua|grivna.ks.ua|podrobnosti.mk.ua|sq.com.ua|champion.com.ua|gotoshop.ua
 /Media/banners/images/*$domain=kr24.com.ua|nikolaev24.com.ua|odessa.net.ua
 /porebl/*$script,domain=at.ua
-/upload/rk/*$domain=citrus.ua|xsport.ua|zi.dn.ua|zi.ua
 /uploads/banner/*$domain=sud.ua
 /uploads/banners/*$domain=china-review.com.ua|pedpresa.ua|telegraf.in.ua
 /wp-content/banners/*$domain=metroplus.com.ua|progomel.by|smolensk-i.ru
