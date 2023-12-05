@@ -4480,6 +4480,8 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||unitelogreport.reader.qq.com^$redirect=noopjs
+||qdp.qidian.com^$redirect=noopjs
 ||analytics.peraichi.com^
 ||ddl.alma.iltalehti.fi^
 ||azq.zozo.jp^
