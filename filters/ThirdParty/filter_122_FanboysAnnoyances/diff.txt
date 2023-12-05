@@ -340,6 +340,12 @@ finewoodworking.com##+js(set-cookie, taunton_user_consent_advertising, false)
 finewoodworking.com##+js(set-cookie, taunton_user_consent_analytics, false)
 ! Rule "resonate.coop,northgatevehiclehire.ie##+js(set-cookie, cookieconsent_status, allow)" converted to: "resonate.coop,northgatevehiclehire.ie#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow')"
 resonate.coop,northgatevehiclehire.ie##+js(set-cookie, cookieconsent_status, allow)
+! Rule "giuseppezanotti.com##+js(set-cookie, cookieConsentPreferencesGranted, 1)" converted to: "giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentPreferencesGranted', '1')"
+giuseppezanotti.com##+js(set-cookie, cookieConsentPreferencesGranted, 1)
+! Rule "giuseppezanotti.com##+js(set-cookie, cookieConsentMarketingGranted, 0)" converted to: "giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentMarketingGranted', '0')"
+giuseppezanotti.com##+js(set-cookie, cookieConsentMarketingGranted, 0)
+! Rule "giuseppezanotti.com##+js(set-cookie, cookieConsentGranted, 1)" converted to: "giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentGranted', '1')"
+giuseppezanotti.com##+js(set-cookie, cookieConsentGranted, 1)
 ! Rule "pwsweather.com##+js(set-cookie, pws_gdrp_accept, 1)" converted to: "pwsweather.com#%#//scriptlet('ubo-set-cookie.js', 'pws_gdrp_accept', '1')"
 pwsweather.com##+js(set-cookie, pws_gdrp_accept, 1)
 ! Rule "theweathernetwork.com##+js(set-cookie, pelm_cstate, 1)" converted to: "theweathernetwork.com#%#//scriptlet('ubo-set-cookie.js', 'pelm_cstate', '1')"
@@ -1114,8 +1120,8 @@ scaleway.com##+js(set-cookie, consent-analytics, false)
 hellotv.nl##+js(set-cookie, cookieConsentClosed, true)
 ! Rule "lasestrellas.tv##+js(set-cookie, _tvsPrivacy, true)" converted to: "lasestrellas.tv#%#//scriptlet('ubo-set-cookie.js', '_tvsPrivacy', 'true')"
 lasestrellas.tv##+js(set-cookie, _tvsPrivacy, true)
-! Rule "anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com##+js(set-cookie, epCookieConsent, 0, , reload, 1)" converted to: "anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com#%#//scriptlet('ubo-set-cookie.js', 'epCookieConsent', '0', '', 'reload', '1')"
-anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com##+js(set-cookie, epCookieConsent, 0, , reload, 1)
+! Rule "kreativverliebt.de,anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com##+js(set-cookie, epCookieConsent, 0, , reload, 1)" converted to: "kreativverliebt.de,anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com#%#//scriptlet('ubo-set-cookie.js', 'epCookieConsent', '0', '', 'reload', '1')"
+kreativverliebt.de,anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com##+js(set-cookie, epCookieConsent, 0, , reload, 1)
 ! Rule "officesuite.com##+js(set-cookie, intro, true)" converted to: "officesuite.com#%#//scriptlet('ubo-set-cookie.js', 'intro', 'true')"
 officesuite.com##+js(set-cookie, intro, true)
 ! Rule "fups.com##+js(set-cookie, SeenCookieBar, true)" converted to: "fups.com#%#//scriptlet('ubo-set-cookie.js', 'SeenCookieBar', 'true')"
@@ -3606,6 +3612,12 @@ finewoodworking.com##+js(set-cookie, taunton_user_consent_advertising, false)
 finewoodworking.com##+js(set-cookie, taunton_user_consent_analytics, false)
 ! Rule "resonate.coop,northgatevehiclehire.ie##+js(set-cookie, cookieconsent_status, allow)" converted to: "resonate.coop,northgatevehiclehire.ie#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow')"
 resonate.coop,northgatevehiclehire.ie##+js(set-cookie, cookieconsent_status, allow)
+! Rule "giuseppezanotti.com##+js(set-cookie, cookieConsentPreferencesGranted, 1)" converted to: "giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentPreferencesGranted', '1')"
+giuseppezanotti.com##+js(set-cookie, cookieConsentPreferencesGranted, 1)
+! Rule "giuseppezanotti.com##+js(set-cookie, cookieConsentMarketingGranted, 0)" converted to: "giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentMarketingGranted', '0')"
+giuseppezanotti.com##+js(set-cookie, cookieConsentMarketingGranted, 0)
+! Rule "giuseppezanotti.com##+js(set-cookie, cookieConsentGranted, 1)" converted to: "giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentGranted', '1')"
+giuseppezanotti.com##+js(set-cookie, cookieConsentGranted, 1)
 ! Rule "pwsweather.com##+js(set-cookie, pws_gdrp_accept, 1)" converted to: "pwsweather.com#%#//scriptlet('ubo-set-cookie.js', 'pws_gdrp_accept', '1')"
 pwsweather.com##+js(set-cookie, pws_gdrp_accept, 1)
 ! Rule "theweathernetwork.com##+js(set-cookie, pelm_cstate, 1)" converted to: "theweathernetwork.com#%#//scriptlet('ubo-set-cookie.js', 'pelm_cstate', '1')"
@@ -4380,8 +4392,8 @@ scaleway.com##+js(set-cookie, consent-analytics, false)
 hellotv.nl##+js(set-cookie, cookieConsentClosed, true)
 ! Rule "lasestrellas.tv##+js(set-cookie, _tvsPrivacy, true)" converted to: "lasestrellas.tv#%#//scriptlet('ubo-set-cookie.js', '_tvsPrivacy', 'true')"
 lasestrellas.tv##+js(set-cookie, _tvsPrivacy, true)
-! Rule "anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com##+js(set-cookie, epCookieConsent, 0, , reload, 1)" converted to: "anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com#%#//scriptlet('ubo-set-cookie.js', 'epCookieConsent', '0', '', 'reload', '1')"
-anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com##+js(set-cookie, epCookieConsent, 0, , reload, 1)
+! Rule "kreativverliebt.de,anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com##+js(set-cookie, epCookieConsent, 0, , reload, 1)" converted to: "kreativverliebt.de,anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com#%#//scriptlet('ubo-set-cookie.js', 'epCookieConsent', '0', '', 'reload', '1')"
+kreativverliebt.de,anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com##+js(set-cookie, epCookieConsent, 0, , reload, 1)
 ! Rule "officesuite.com##+js(set-cookie, intro, true)" converted to: "officesuite.com#%#//scriptlet('ubo-set-cookie.js', 'intro', 'true')"
 officesuite.com##+js(set-cookie, intro, true)
 ! Rule "fups.com##+js(set-cookie, SeenCookieBar, true)" converted to: "fups.com#%#//scriptlet('ubo-set-cookie.js', 'SeenCookieBar', 'true')"
@@ -6854,6 +6866,12 @@ finewoodworking.com#%#//scriptlet('ubo-set-cookie.js', 'taunton_user_consent_adv
 finewoodworking.com#%#//scriptlet('ubo-set-cookie.js', 'taunton_user_consent_analytics', 'false')
 ! resonate.coop,northgatevehiclehire.ie#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow') is excluded by "#%#//scriptlet" in exclusions-low.txt
 resonate.coop,northgatevehiclehire.ie#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow')
+! giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentPreferencesGranted', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
+giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentPreferencesGranted', '1')
+! giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentMarketingGranted', '0') is excluded by "#%#//scriptlet" in exclusions-low.txt
+giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentMarketingGranted', '0')
+! giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentGranted', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
+giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentGranted', '1')
 ! pwsweather.com#%#//scriptlet('ubo-set-cookie.js', 'pws_gdrp_accept', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
 pwsweather.com#%#//scriptlet('ubo-set-cookie.js', 'pws_gdrp_accept', '1')
 ! theweathernetwork.com#%#//scriptlet('ubo-set-cookie.js', 'pelm_cstate', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
@@ -7628,8 +7646,8 @@ scaleway.com#%#//scriptlet('ubo-set-cookie.js', 'consent-analytics', 'false')
 hellotv.nl#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentClosed', 'true')
 ! lasestrellas.tv#%#//scriptlet('ubo-set-cookie.js', '_tvsPrivacy', 'true') is excluded by "#%#//scriptlet" in exclusions-low.txt
 lasestrellas.tv#%#//scriptlet('ubo-set-cookie.js', '_tvsPrivacy', 'true')
-! anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com#%#//scriptlet('ubo-set-cookie.js', 'epCookieConsent', '0', '', 'reload', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
-anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com#%#//scriptlet('ubo-set-cookie.js', 'epCookieConsent', '0', '', 'reload', '1')
+! kreativverliebt.de,anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com#%#//scriptlet('ubo-set-cookie.js', 'epCookieConsent', '0', '', 'reload', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
+kreativverliebt.de,anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com#%#//scriptlet('ubo-set-cookie.js', 'epCookieConsent', '0', '', 'reload', '1')
 ! officesuite.com#%#//scriptlet('ubo-set-cookie.js', 'intro', 'true') is excluded by "#%#//scriptlet" in exclusions-low.txt
 officesuite.com#%#//scriptlet('ubo-set-cookie.js', 'intro', 'true')
 ! fups.com#%#//scriptlet('ubo-set-cookie.js', 'SeenCookieBar', 'true') is excluded by "#%#//scriptlet" in exclusions-low.txt
@@ -10108,6 +10126,12 @@ finewoodworking.com#%#//scriptlet('ubo-set-cookie.js', 'taunton_user_consent_adv
 finewoodworking.com#%#//scriptlet('ubo-set-cookie.js', 'taunton_user_consent_analytics', 'false')
 ! resonate.coop,northgatevehiclehire.ie#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow') is excluded by "#%#//scriptlet" in exclusions-low.txt
 resonate.coop,northgatevehiclehire.ie#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow')
+! giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentPreferencesGranted', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
+giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentPreferencesGranted', '1')
+! giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentMarketingGranted', '0') is excluded by "#%#//scriptlet" in exclusions-low.txt
+giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentMarketingGranted', '0')
+! giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentGranted', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
+giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentGranted', '1')
 ! pwsweather.com#%#//scriptlet('ubo-set-cookie.js', 'pws_gdrp_accept', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
 pwsweather.com#%#//scriptlet('ubo-set-cookie.js', 'pws_gdrp_accept', '1')
 ! theweathernetwork.com#%#//scriptlet('ubo-set-cookie.js', 'pelm_cstate', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
@@ -10882,8 +10906,8 @@ scaleway.com#%#//scriptlet('ubo-set-cookie.js', 'consent-analytics', 'false')
 hellotv.nl#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentClosed', 'true')
 ! lasestrellas.tv#%#//scriptlet('ubo-set-cookie.js', '_tvsPrivacy', 'true') is excluded by "#%#//scriptlet" in exclusions-low.txt
 lasestrellas.tv#%#//scriptlet('ubo-set-cookie.js', '_tvsPrivacy', 'true')
-! anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com#%#//scriptlet('ubo-set-cookie.js', 'epCookieConsent', '0', '', 'reload', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
-anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com#%#//scriptlet('ubo-set-cookie.js', 'epCookieConsent', '0', '', 'reload', '1')
+! kreativverliebt.de,anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com#%#//scriptlet('ubo-set-cookie.js', 'epCookieConsent', '0', '', 'reload', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
+kreativverliebt.de,anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com#%#//scriptlet('ubo-set-cookie.js', 'epCookieConsent', '0', '', 'reload', '1')
 ! officesuite.com#%#//scriptlet('ubo-set-cookie.js', 'intro', 'true') is excluded by "#%#//scriptlet" in exclusions-low.txt
 officesuite.com#%#//scriptlet('ubo-set-cookie.js', 'intro', 'true')
 ! fups.com#%#//scriptlet('ubo-set-cookie.js', 'SeenCookieBar', 'true') is excluded by "#%#//scriptlet" in exclusions-low.txt

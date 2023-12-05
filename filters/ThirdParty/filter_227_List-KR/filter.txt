@@ -1,7 +1,7 @@
 !
 ! Title: List-KR for AdGuard
 ! Description: List-KR for AdGuard. Maintained by the adblock community and AdGuard.
-! OriginalVersion: 2023.1205.3
+! OriginalVersion: 2023.1205.6
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! Support: https://github.com/List-KR/List-KR/issues/223
@@ -1249,6 +1249,10 @@ funbe276.com,funbe277.com,funbe278.com,funbe279.com,funbe280.com,funbe281.com,fu
 !
 ! DOMAIN-REFRESHER: START
 !
+||cokcok.*/wp-json/jt-bad-ux-popup/list/
+||cokcok.*/wp-admin/admin-ajax.php?action=jt_bad_ux_popup
+||cokcok.*/wp-admin/admin-ajax.php?action=load_random_banners
+||jmana.*/resouce/img/adimg/
 /^https:\/\/ww[0-9]+\.torrentdin[0-9]+\.com\/data\/editor\/[0-9]+\/[a-z0-9]+_[a-z0-9]+_[a-z0-9]+\./
 /^https:\/\/ww[0-9]+\.torrentdin[0-9]+\.com\/data\/file\/ad\//
 /^https:\/\/[a-z]+\.aniwolf\.com\/storage\/[A-z0-9]+\./$domain=aniwolf.*
@@ -2598,6 +2602,10 @@ auto.danawa.com#%#//scriptlet('set-constant', 'NAVER_ADPOST_V2', 'noopFunc')
 !#endif
 !#if (adguard_ext_chromium || adguard_ext_edge || adguard_ext_firefox || adguard_ext_opera)
 ||shopsquare.naver.com^$badfilter
+!#endif
+! TODO: remove the following filter if https://github.com/AdguardTeam/CoreLibs/issues/1831 is resolved.
+!#if (adguard_app_android || adguard_app_mac || adguard_app_windows)
+/^https:\/\/m[0-9]+\.kotbc\.com\/img\/[a-z0-9_/]+\.gif$/
 !#endif
 !#if adguard_app_ios
 /^https:\/\/nng-phinf\.pstatic\.net\/[A-z0-9]+\/[A-z0-9-.]+\.[A-Z]+\/naver_[A-z_]+_[0-9]+x[0-9]+_naverads\./$domain=naver.com
