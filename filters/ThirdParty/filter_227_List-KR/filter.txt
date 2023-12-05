@@ -1,7 +1,7 @@
 !
 ! Title: List-KR for AdGuard
 ! Description: List-KR for AdGuard. Maintained by the adblock community and AdGuard.
-! OriginalVersion: 2023.1204.6
+! OriginalVersion: 2023.1205.3
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! Support: https://github.com/List-KR/List-KR/issues/223
@@ -1448,6 +1448,10 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+ygosu.com##div:is(#board_search_result, .search_result) a[target="_blank"][href^="/board/ad/"]
+ygosu.com###rich-media-placement ~ div[style*="height:"][style*="padding-top:"][style*="padding-bottom:"]
+zdnet.co.kr##iframe[src^="/template_ad/?aid="]
+zdnet.co.kr##iframe[src^="https://adv.zdnet.co.kr/"]
 m.sports.naver.com##.main_grid_item> div[class*="_promotion__"]
 prod.danawa.com###powerShoppingContent
 m.richgo.ai##div[class^="DanjiInfomation__"] > div[class^="Divider__SD_Layout-"] + div[class^="Divider__SD_Layout-"]
@@ -2166,7 +2170,7 @@ sign.dcinside.com##.ban_box
 playwares.com##a[href*="../api/redirectAd.php?"]
 kormedi.com##div[id^="better-ads-"]
 kormedi.com##iframe[src*="/wp-content/uploads/ads/"]
-msearch.shopping.naver.com,pann.nate.com,theqoo.net,asiatoday.co.kr,osmanias.com,drapt.com,realty.chosun.com,newstong.co.kr,it.chosun.com,cm.asiae.co.kr,modoodoc.com,salgoonews.com,xportsnews.com##div[class*="_ad_"]
+zdnet.co.kr,msearch.shopping.naver.com,pann.nate.com,theqoo.net,asiatoday.co.kr,osmanias.com,drapt.com,realty.chosun.com,newstong.co.kr,it.chosun.com,cm.asiae.co.kr,modoodoc.com,salgoonews.com,xportsnews.com##div[class*="_ad_"]
 shoppinghow.kakao.com##div[data-gg="{s1:shopping}"] h2 + div[class^="#banner"]
 m.naver.com##div[data-panel-code="SHOP_VOGUE"] ._MM_TREND_PICK
 compuzone.co.kr###gamezone .bnrList_area > ul.rollbnr_list
@@ -3174,6 +3178,7 @@ meeco.kr#@#.googleAd
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=meeco.kr
 @@||meeco.kr^$generichide
 meeco.kr#@#.adsbygoogle
+meeco.kr#$#.adsbygoogle { display: none !important; }
 !#endif
 !#if (adguard_ext_safari)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=meeco.kr
@@ -3486,6 +3491,7 @@ ff14angler.com#@#ins.adsbygoogle
 !#if (adguard && adguard_app_android)
 @@||api-ao-list.adison.co^$app=com.nhn.android.webtoon
 @@||api-ao-list.adison.co^$app=com.nhn.android.nbooks
+||braze-images.com^$app=kr.co.rememberapp
 ||app.dcinside.com/api/_ad_search_link2.php
 ||firebaseinstallations.googleapis.com^$app=instasaver.instagram.video.downloader.photo
 ||ds.11st.co.kr/NetInsight/text/11st/11st_mobile/mobile_product

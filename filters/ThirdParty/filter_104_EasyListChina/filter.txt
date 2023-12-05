@@ -2446,6 +2446,8 @@ newduba.cn###jq_youxi
 ||ygfgzmzo.xyz^
 ||vbzrkme.xyz^
 ||jltolz.xyz^
+||haokanshipin.com^
+||uiszwh.icu^
 ||zzyy19.top^
 ||zzyy20.top^
 !
@@ -10520,8 +10522,10 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||4gamers.com.tw/site/api/aols/media?
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+423down.com##.entry > P[style^="font-size"] > A[href*="/go."]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -16827,7 +16831,7 @@ guailie.com#@#.google-ad
 18comic.org,18comic.vip,18-comic.work#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
 18-comic.work,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > img
 18-comic.work,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > img + [style]
-18-comic.work,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > span[style*="back"]
+18-comic.work,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > [style*="back"]
 ||18-comic.work/media/albums/*?$media
 ||18comic.*/media/albums/*?$media
 !#2

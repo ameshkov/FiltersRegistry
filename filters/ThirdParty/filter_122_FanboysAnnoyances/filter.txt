@@ -1,8 +1,8 @@
 !
-! Checksum: 4Z2xLideuMRQ+lkYaUxnOQ
-! OriginalVersion: 202312050800
+! Checksum: gLVjM3awGcqIF6WOA3ZokQ
+! OriginalVersion: 202312051200
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-12-05 08:00 UTC
+! Last modified: 2023-12-05 12:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -34833,6 +34833,7 @@ dashboard.razorpay.com#@##credential_picker_container
 ||cmp.gemius.com^
 ||cmp.quantcast.com/choice/*/www.themoneytizer.com/choice.js
 ||cmp.setupcmp.com^
+||cmp.sibbo.net^
 ||collectconsent.com^$third-party
 ||conscent.in^$third-party
 ||consensu.io^$third-party
@@ -35127,6 +35128,7 @@ dashboard.razorpay.com#@##credential_picker_container
 ||bysarahkhan.com/wp-content/plugins/surbma-yes-no-popup/
 ||cb-mms.carbuyer.co.uk^
 ||cc.werk3.de/public/app.js
+||cdn-cookieyes.com^$domain=lykke.com
 ||cdn259.talksport.com^
 ||channel4.com/consent/
 ||cmp-static.nature.com^
@@ -36654,6 +36656,8 @@ inquinte.ca##.redirect-background
 ! For the overlay
 !www.youtube.com###ytd-watch-flexy[player-unavailable] #player-container-outer.ytd-watch-flexy:style(visibility: visible !important;)
 !www.youtube.com###yt-playability-error-supported-renderers:style(display: none !important;)
+! https://github.com/uBlockOrigin/uAssets/issues/21076
+grammarly.com##.ReactModalPortal:has-text(confidence)
 ! neilpatel.com
 neilpatel.com##.mfp-ready
 ! levernews.com
@@ -39128,6 +39132,7 @@ sportskeeda.com##.consent-pop-up
 app.traderepublic.com##.consentCard
 fullscript.com##.consent__popup
 remotly.com##.consent_container
+azureprice.net##.consent_container__YUEm1
 xing.com##.consent_wrapper
 vcol.co.uk##.consentmaincontainer
 papayaplay.com##.cont--cookie
@@ -39531,7 +39536,6 @@ itv.com##.itv-glob-foot__cookies
 heycar.co.uk##.iwIYCG
 pictures.reuters.com##.iziToast-wrapper
 slideshare.net##.j-tos-update-banner
-lykke.com##.jLQlLc
 nordiskfilm.com##.jOSWZa
 gronda.eu##.jaEgfx
 fairfx.com##.jdbeLT
@@ -40053,13 +40057,7 @@ stwater.co.uk##.stw-alert
 glose.com##.style__root___1iz9s
 auth.what3words.com##.style_container__nXgX4
 changelly.com##.style_cookie-banner-wrapper__ESo1m
-theweathernetwork.com##.style_cookieBar__9A5UB
-lykke.com##.styled__Banner-hg6ib8-0
-studiofabiobiesel.com##.styled__Banner-sc-1k6hrqt-0
-cityfalcon.com##.styles-module__privacy-notice-container___TomLQ
-monese.com##.styles_Background__3aOgd
 prodigygame.com##.styles__CookieConsentBanner-sc-1cms38v-9
-monese.com##.styles_altCookieBannerContainer__1JCTI
 renebieder.com##.styles_container__0mLyT
 climatecentral.org##.styles_container__6uolX
 account.nowpayments.io##.styles_cookiesAlert__k-VW-
@@ -40190,7 +40188,6 @@ ada.com##.wbl72e-0-footer
 capterra.com##.welcome-banner
 inflight.pacwisp.net##.wisp-modal
 wizards.com##.wizardCookieBanner
-theweathernetwork.com##.woahbar
 wonderplugin.com##.wonderplugin-box
 payhawk.com##.wookiee-wrapper
 hangfire.io##.wpcb-container
@@ -40220,7 +40217,6 @@ pizzahut.co.uk##.z-600
 starlingbank.com##.zYsLEJxzmfBA2Jbfgv8V
 dnb.com##.za43bb12b864a3f8d_privacyBanner
 zoho.com##.zbottom-cookie-container-outer
-ethereumprice.org##.zxc-msg
 santatracker.google.com##SANTA-NOTICE
 trustnet.com##USER-TYPE-POPUP
 lemonade.com##[aria-describedby="cookie-consent-description"]
@@ -40229,11 +40225,9 @@ perlego.com##[aria-label="cookie banner"]
 norwegianholidays.com##[aria-label="cookieconsent"]
 app.wooclap.com##[aria-labelledby="cookie-banner-title"]
 weedmaps.com##[aria-labelledby="notification_label"]
-helmut-fischer.com##[class*="-banner"]
 picarto.tv##[class*="CookieCompliance_"]
 kaspersky.com##[class*="CookiesAccept"]
 biathlonworld.com##[class*="Modal__SmokeScreen-"]
-sportinglife.com##[class*="Notice__StyledNotification-"]
 plente.com##[class*="SnackbarMessages__snackbar_"]
 payback-ltd.com##[class*="cookiesPopUp"]
 noovo.ca##[class*="modalstyles__StyledModalContainer-"]
@@ -45929,6 +45923,8 @@ inquinte.ca##.redirect-background
 ! For the overlay
 !www.youtube.com###ytd-watch-flexy[player-unavailable] #player-container-outer.ytd-watch-flexy:style(visibility: visible !important;)
 !www.youtube.com###yt-playability-error-supported-renderers:style(display: none !important;)
+! https://github.com/uBlockOrigin/uAssets/issues/21076
+grammarly.com##.ReactModalPortal:has-text(confidence)
 ! neilpatel.com
 neilpatel.com##.mfp-ready
 ! levernews.com

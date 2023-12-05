@@ -230,8 +230,26 @@ finewoodworking.com##+js(set-cookie, taunton_user_consent_advertising, false)
 finewoodworking.com##+js(set-cookie, taunton_user_consent_analytics, false)
 ! Rule "resonate.coop,northgatevehiclehire.ie##+js(set-cookie, cookieconsent_status, allow)" converted to: "resonate.coop,northgatevehiclehire.ie#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow')"
 resonate.coop,northgatevehiclehire.ie##+js(set-cookie, cookieconsent_status, allow)
+! Rule "giuseppezanotti.com##+js(set-cookie, cookieConsentPreferencesGranted, 1)" converted to: "giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentPreferencesGranted', '1')"
+giuseppezanotti.com##+js(set-cookie, cookieConsentPreferencesGranted, 1)
+! Rule "giuseppezanotti.com##+js(set-cookie, cookieConsentMarketingGranted, 0)" converted to: "giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentMarketingGranted', '0')"
+giuseppezanotti.com##+js(set-cookie, cookieConsentMarketingGranted, 0)
+! Rule "giuseppezanotti.com##+js(set-cookie, cookieConsentGranted, 1)" converted to: "giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentGranted', '1')"
+giuseppezanotti.com##+js(set-cookie, cookieConsentGranted, 1)
 ! Rule "pwsweather.com##+js(set-cookie, pws_gdrp_accept, 1)" converted to: "pwsweather.com#%#//scriptlet('ubo-set-cookie.js', 'pws_gdrp_accept', '1')"
 pwsweather.com##+js(set-cookie, pws_gdrp_accept, 1)
+! Rule "theweathernetwork.com##+js(set-cookie, pelm_cstate, 1)" converted to: "theweathernetwork.com#%#//scriptlet('ubo-set-cookie.js', 'pelm_cstate', '1')"
+theweathernetwork.com##+js(set-cookie, pelm_cstate, 1)
+! Rule "theweathernetwork.com##+js(set-cookie, pelm_consent, 1)" converted to: "theweathernetwork.com#%#//scriptlet('ubo-set-cookie.js', 'pelm_consent', '1')"
+theweathernetwork.com##+js(set-cookie, pelm_consent, 1)
+! Rule "monese.com##+js(set-cookie, accept-cookies, true)" converted to: "monese.com#%#//scriptlet('ubo-set-cookie.js', 'accept-cookies', 'true')"
+monese.com##+js(set-cookie, accept-cookies, true)
+! Rule "monese.com##+js(set-cookie, accept-analytical-cookies, false)" converted to: "monese.com#%#//scriptlet('ubo-set-cookie.js', 'accept-analytical-cookies', 'false')"
+monese.com##+js(set-cookie, accept-analytical-cookies, false)
+! Rule "monese.com##+js(set-cookie, accept-marketing-cookies, false)" converted to: "monese.com#%#//scriptlet('ubo-set-cookie.js', 'accept-marketing-cookies', 'false')"
+monese.com##+js(set-cookie, accept-marketing-cookies, false)
+! Rule "helmut-fischer.com##+js(set-cookie, cookie-level-v4, 0)" converted to: "helmut-fischer.com#%#//scriptlet('ubo-set-cookie.js', 'cookie-level-v4', '0')"
+helmut-fischer.com##+js(set-cookie, cookie-level-v4, 0)
 ! Rule "myscience.org##+js(set-cookie, analytics_consent, yes)" converted to: "myscience.org#%#//scriptlet('ubo-set-cookie.js', 'analytics_consent', 'yes')"
 myscience.org##+js(set-cookie, analytics_consent, yes)
 ! Rule "7-eleven.com##+js(set-cookie, sei-ccpa-banner, true)" converted to: "7-eleven.com#%#//scriptlet('ubo-set-cookie.js', 'sei-ccpa-banner', 'true')"
@@ -992,8 +1010,8 @@ scaleway.com##+js(set-cookie, consent-analytics, false)
 hellotv.nl##+js(set-cookie, cookieConsentClosed, true)
 ! Rule "lasestrellas.tv##+js(set-cookie, _tvsPrivacy, true)" converted to: "lasestrellas.tv#%#//scriptlet('ubo-set-cookie.js', '_tvsPrivacy', 'true')"
 lasestrellas.tv##+js(set-cookie, _tvsPrivacy, true)
-! Rule "anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com##+js(set-cookie, epCookieConsent, 0, , reload, 1)" converted to: "anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com#%#//scriptlet('ubo-set-cookie.js', 'epCookieConsent', '0', '', 'reload', '1')"
-anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com##+js(set-cookie, epCookieConsent, 0, , reload, 1)
+! Rule "kreativverliebt.de,anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com##+js(set-cookie, epCookieConsent, 0, , reload, 1)" converted to: "kreativverliebt.de,anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com#%#//scriptlet('ubo-set-cookie.js', 'epCookieConsent', '0', '', 'reload', '1')"
+kreativverliebt.de,anderweltverlag.com,octavio-shop.com,forcetools-kepmar.eu,fantecshop.de,hexen-werkstatt.shop,shop-naturstrom.de,biona-shop.de,camokoenig.de,bikepro.de,kaffeediscount.com,vamos-skateshop.com,holland-shop.com,avonika.com##+js(set-cookie, epCookieConsent, 0, , reload, 1)
 ! Rule "officesuite.com##+js(set-cookie, intro, true)" converted to: "officesuite.com#%#//scriptlet('ubo-set-cookie.js', 'intro', 'true')"
 officesuite.com##+js(set-cookie, intro, true)
 ! Rule "fups.com##+js(set-cookie, SeenCookieBar, true)" converted to: "fups.com#%#//scriptlet('ubo-set-cookie.js', 'SeenCookieBar', 'true')"
@@ -1048,6 +1066,8 @@ omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-social, true)
 starwalk.space##+js(set-local-storage-item, SWCOOKIESACC, 1)
 ! Rule "codedead.com##+js(set-local-storage-item, hasAcceptedCookieNotice, true)" converted to: "codedead.com#%#//scriptlet('ubo-set-local-storage-item.js', 'hasAcceptedCookieNotice', 'true')"
 codedead.com##+js(set-local-storage-item, hasAcceptedCookieNotice, true)
+! Rule "studiofabiobiesel.com##+js(set-local-storage-item, fb-cookies-accepted, false)" converted to: "studiofabiobiesel.com#%#//scriptlet('ubo-set-local-storage-item.js', 'fb-cookies-accepted', 'false')"
+studiofabiobiesel.com##+js(set-local-storage-item, fb-cookies-accepted, false)
 ! Rule "fydeos.com,fydeos.io##+js(set-local-storage-item, is_accept_cookie, true)" converted to: "fydeos.com,fydeos.io#%#//scriptlet('ubo-set-local-storage-item.js', 'is_accept_cookie', 'true')"
 fydeos.com,fydeos.io##+js(set-local-storage-item, is_accept_cookie, true)
 ! Rule "jove.com##+js(set-local-storage-item, accept-jove-cookie, 1)" converted to: "jove.com#%#//scriptlet('ubo-set-local-storage-item.js', 'accept-jove-cookie', '1')"

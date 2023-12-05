@@ -36,6 +36,8 @@ inquinte.ca##+js(rc, blocked, body, stay)
 gmarket.co.kr##+js(set, document.oncontextmenu, noopFunc)
 ! Rule "gmarket.co.kr##+js(set, document.onmousedown, noopFunc)" converted to: "gmarket.co.kr#%#//scriptlet('ubo-set.js', 'document.onmousedown', 'noopFunc')"
 gmarket.co.kr##+js(set, document.onmousedown, noopFunc)
+! Rule "grammarly.com##body:style(overflow: auto !important;)" converted to: "grammarly.com#$#body { overflow: auto !important; }"
+grammarly.com##body:style(overflow: auto !important;)
 ! Rule "neilpatel.com##+js(rc, mfp-popup-exit-quiz-v2, , stay)" converted to: "neilpatel.com#%#//scriptlet('ubo-rc.js', 'mfp-popup-exit-quiz-v2', '', 'stay')"
 neilpatel.com##+js(rc, mfp-popup-exit-quiz-v2, , stay)
 ! Rule "neilpatel.com##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "neilpatel.com#$#body,html { overflow: auto !important; position: initial !important; }"
@@ -340,6 +342,18 @@ finewoodworking.com##+js(set-cookie, taunton_user_consent_analytics, false)
 resonate.coop,northgatevehiclehire.ie##+js(set-cookie, cookieconsent_status, allow)
 ! Rule "pwsweather.com##+js(set-cookie, pws_gdrp_accept, 1)" converted to: "pwsweather.com#%#//scriptlet('ubo-set-cookie.js', 'pws_gdrp_accept', '1')"
 pwsweather.com##+js(set-cookie, pws_gdrp_accept, 1)
+! Rule "theweathernetwork.com##+js(set-cookie, pelm_cstate, 1)" converted to: "theweathernetwork.com#%#//scriptlet('ubo-set-cookie.js', 'pelm_cstate', '1')"
+theweathernetwork.com##+js(set-cookie, pelm_cstate, 1)
+! Rule "theweathernetwork.com##+js(set-cookie, pelm_consent, 1)" converted to: "theweathernetwork.com#%#//scriptlet('ubo-set-cookie.js', 'pelm_consent', '1')"
+theweathernetwork.com##+js(set-cookie, pelm_consent, 1)
+! Rule "monese.com##+js(set-cookie, accept-cookies, true)" converted to: "monese.com#%#//scriptlet('ubo-set-cookie.js', 'accept-cookies', 'true')"
+monese.com##+js(set-cookie, accept-cookies, true)
+! Rule "monese.com##+js(set-cookie, accept-analytical-cookies, false)" converted to: "monese.com#%#//scriptlet('ubo-set-cookie.js', 'accept-analytical-cookies', 'false')"
+monese.com##+js(set-cookie, accept-analytical-cookies, false)
+! Rule "monese.com##+js(set-cookie, accept-marketing-cookies, false)" converted to: "monese.com#%#//scriptlet('ubo-set-cookie.js', 'accept-marketing-cookies', 'false')"
+monese.com##+js(set-cookie, accept-marketing-cookies, false)
+! Rule "helmut-fischer.com##+js(set-cookie, cookie-level-v4, 0)" converted to: "helmut-fischer.com#%#//scriptlet('ubo-set-cookie.js', 'cookie-level-v4', '0')"
+helmut-fischer.com##+js(set-cookie, cookie-level-v4, 0)
 ! Rule "myscience.org##+js(set-cookie, analytics_consent, yes)" converted to: "myscience.org#%#//scriptlet('ubo-set-cookie.js', 'analytics_consent', 'yes')"
 myscience.org##+js(set-cookie, analytics_consent, yes)
 ! Rule "7-eleven.com##+js(set-cookie, sei-ccpa-banner, true)" converted to: "7-eleven.com#%#//scriptlet('ubo-set-cookie.js', 'sei-ccpa-banner', 'true')"
@@ -1156,6 +1170,8 @@ omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-social, true)
 starwalk.space##+js(set-local-storage-item, SWCOOKIESACC, 1)
 ! Rule "codedead.com##+js(set-local-storage-item, hasAcceptedCookieNotice, true)" converted to: "codedead.com#%#//scriptlet('ubo-set-local-storage-item.js', 'hasAcceptedCookieNotice', 'true')"
 codedead.com##+js(set-local-storage-item, hasAcceptedCookieNotice, true)
+! Rule "studiofabiobiesel.com##+js(set-local-storage-item, fb-cookies-accepted, false)" converted to: "studiofabiobiesel.com#%#//scriptlet('ubo-set-local-storage-item.js', 'fb-cookies-accepted', 'false')"
+studiofabiobiesel.com##+js(set-local-storage-item, fb-cookies-accepted, false)
 ! Rule "fydeos.com,fydeos.io##+js(set-local-storage-item, is_accept_cookie, true)" converted to: "fydeos.com,fydeos.io#%#//scriptlet('ubo-set-local-storage-item.js', 'is_accept_cookie', 'true')"
 fydeos.com,fydeos.io##+js(set-local-storage-item, is_accept_cookie, true)
 ! Rule "jove.com##+js(set-local-storage-item, accept-jove-cookie, 1)" converted to: "jove.com#%#//scriptlet('ubo-set-local-storage-item.js', 'accept-jove-cookie', '1')"
@@ -3294,6 +3310,8 @@ inquinte.ca##+js(rc, blocked, body, stay)
 gmarket.co.kr##+js(set, document.oncontextmenu, noopFunc)
 ! Rule "gmarket.co.kr##+js(set, document.onmousedown, noopFunc)" converted to: "gmarket.co.kr#%#//scriptlet('ubo-set.js', 'document.onmousedown', 'noopFunc')"
 gmarket.co.kr##+js(set, document.onmousedown, noopFunc)
+! Rule "grammarly.com##body:style(overflow: auto !important;)" converted to: "grammarly.com#$#body { overflow: auto !important; }"
+grammarly.com##body:style(overflow: auto !important;)
 ! Rule "neilpatel.com##+js(rc, mfp-popup-exit-quiz-v2, , stay)" converted to: "neilpatel.com#%#//scriptlet('ubo-rc.js', 'mfp-popup-exit-quiz-v2', '', 'stay')"
 neilpatel.com##+js(rc, mfp-popup-exit-quiz-v2, , stay)
 ! Rule "neilpatel.com##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "neilpatel.com#$#body,html { overflow: auto !important; position: initial !important; }"
@@ -3590,6 +3608,18 @@ finewoodworking.com##+js(set-cookie, taunton_user_consent_analytics, false)
 resonate.coop,northgatevehiclehire.ie##+js(set-cookie, cookieconsent_status, allow)
 ! Rule "pwsweather.com##+js(set-cookie, pws_gdrp_accept, 1)" converted to: "pwsweather.com#%#//scriptlet('ubo-set-cookie.js', 'pws_gdrp_accept', '1')"
 pwsweather.com##+js(set-cookie, pws_gdrp_accept, 1)
+! Rule "theweathernetwork.com##+js(set-cookie, pelm_cstate, 1)" converted to: "theweathernetwork.com#%#//scriptlet('ubo-set-cookie.js', 'pelm_cstate', '1')"
+theweathernetwork.com##+js(set-cookie, pelm_cstate, 1)
+! Rule "theweathernetwork.com##+js(set-cookie, pelm_consent, 1)" converted to: "theweathernetwork.com#%#//scriptlet('ubo-set-cookie.js', 'pelm_consent', '1')"
+theweathernetwork.com##+js(set-cookie, pelm_consent, 1)
+! Rule "monese.com##+js(set-cookie, accept-cookies, true)" converted to: "monese.com#%#//scriptlet('ubo-set-cookie.js', 'accept-cookies', 'true')"
+monese.com##+js(set-cookie, accept-cookies, true)
+! Rule "monese.com##+js(set-cookie, accept-analytical-cookies, false)" converted to: "monese.com#%#//scriptlet('ubo-set-cookie.js', 'accept-analytical-cookies', 'false')"
+monese.com##+js(set-cookie, accept-analytical-cookies, false)
+! Rule "monese.com##+js(set-cookie, accept-marketing-cookies, false)" converted to: "monese.com#%#//scriptlet('ubo-set-cookie.js', 'accept-marketing-cookies', 'false')"
+monese.com##+js(set-cookie, accept-marketing-cookies, false)
+! Rule "helmut-fischer.com##+js(set-cookie, cookie-level-v4, 0)" converted to: "helmut-fischer.com#%#//scriptlet('ubo-set-cookie.js', 'cookie-level-v4', '0')"
+helmut-fischer.com##+js(set-cookie, cookie-level-v4, 0)
 ! Rule "myscience.org##+js(set-cookie, analytics_consent, yes)" converted to: "myscience.org#%#//scriptlet('ubo-set-cookie.js', 'analytics_consent', 'yes')"
 myscience.org##+js(set-cookie, analytics_consent, yes)
 ! Rule "7-eleven.com##+js(set-cookie, sei-ccpa-banner, true)" converted to: "7-eleven.com#%#//scriptlet('ubo-set-cookie.js', 'sei-ccpa-banner', 'true')"
@@ -4406,6 +4436,8 @@ omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-social, true)
 starwalk.space##+js(set-local-storage-item, SWCOOKIESACC, 1)
 ! Rule "codedead.com##+js(set-local-storage-item, hasAcceptedCookieNotice, true)" converted to: "codedead.com#%#//scriptlet('ubo-set-local-storage-item.js', 'hasAcceptedCookieNotice', 'true')"
 codedead.com##+js(set-local-storage-item, hasAcceptedCookieNotice, true)
+! Rule "studiofabiobiesel.com##+js(set-local-storage-item, fb-cookies-accepted, false)" converted to: "studiofabiobiesel.com#%#//scriptlet('ubo-set-local-storage-item.js', 'fb-cookies-accepted', 'false')"
+studiofabiobiesel.com##+js(set-local-storage-item, fb-cookies-accepted, false)
 ! Rule "fydeos.com,fydeos.io##+js(set-local-storage-item, is_accept_cookie, true)" converted to: "fydeos.com,fydeos.io#%#//scriptlet('ubo-set-local-storage-item.js', 'is_accept_cookie', 'true')"
 fydeos.com,fydeos.io##+js(set-local-storage-item, is_accept_cookie, true)
 ! Rule "jove.com##+js(set-local-storage-item, accept-jove-cookie, 1)" converted to: "jove.com#%#//scriptlet('ubo-set-local-storage-item.js', 'accept-jove-cookie', '1')"
@@ -6520,6 +6552,8 @@ inquinte.ca#%#//scriptlet('ubo-rc.js', 'blocked', 'body', 'stay')
 gmarket.co.kr#%#//scriptlet('ubo-set.js', 'document.oncontextmenu', 'noopFunc')
 ! gmarket.co.kr#%#//scriptlet('ubo-set.js', 'document.onmousedown', 'noopFunc') is excluded by "#%#//scriptlet" in exclusions-low.txt
 gmarket.co.kr#%#//scriptlet('ubo-set.js', 'document.onmousedown', 'noopFunc')
+! grammarly.com#$#body { overflow: auto !important; } is excluded by "#$#" in exclusions-low.txt
+grammarly.com#$#body { overflow: auto !important; }
 ! neilpatel.com#%#//scriptlet('ubo-rc.js', 'mfp-popup-exit-quiz-v2', '', 'stay') is excluded by "#%#//scriptlet" in exclusions-low.txt
 neilpatel.com#%#//scriptlet('ubo-rc.js', 'mfp-popup-exit-quiz-v2', '', 'stay')
 ! neilpatel.com#$#body,html { overflow: auto !important; position: initial !important; } is excluded by "#$#" in exclusions-low.txt
@@ -6822,6 +6856,18 @@ finewoodworking.com#%#//scriptlet('ubo-set-cookie.js', 'taunton_user_consent_ana
 resonate.coop,northgatevehiclehire.ie#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow')
 ! pwsweather.com#%#//scriptlet('ubo-set-cookie.js', 'pws_gdrp_accept', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
 pwsweather.com#%#//scriptlet('ubo-set-cookie.js', 'pws_gdrp_accept', '1')
+! theweathernetwork.com#%#//scriptlet('ubo-set-cookie.js', 'pelm_cstate', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
+theweathernetwork.com#%#//scriptlet('ubo-set-cookie.js', 'pelm_cstate', '1')
+! theweathernetwork.com#%#//scriptlet('ubo-set-cookie.js', 'pelm_consent', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
+theweathernetwork.com#%#//scriptlet('ubo-set-cookie.js', 'pelm_consent', '1')
+! monese.com#%#//scriptlet('ubo-set-cookie.js', 'accept-cookies', 'true') is excluded by "#%#//scriptlet" in exclusions-low.txt
+monese.com#%#//scriptlet('ubo-set-cookie.js', 'accept-cookies', 'true')
+! monese.com#%#//scriptlet('ubo-set-cookie.js', 'accept-analytical-cookies', 'false') is excluded by "#%#//scriptlet" in exclusions-low.txt
+monese.com#%#//scriptlet('ubo-set-cookie.js', 'accept-analytical-cookies', 'false')
+! monese.com#%#//scriptlet('ubo-set-cookie.js', 'accept-marketing-cookies', 'false') is excluded by "#%#//scriptlet" in exclusions-low.txt
+monese.com#%#//scriptlet('ubo-set-cookie.js', 'accept-marketing-cookies', 'false')
+! helmut-fischer.com#%#//scriptlet('ubo-set-cookie.js', 'cookie-level-v4', '0') is excluded by "#%#//scriptlet" in exclusions-low.txt
+helmut-fischer.com#%#//scriptlet('ubo-set-cookie.js', 'cookie-level-v4', '0')
 ! myscience.org#%#//scriptlet('ubo-set-cookie.js', 'analytics_consent', 'yes') is excluded by "#%#//scriptlet" in exclusions-low.txt
 myscience.org#%#//scriptlet('ubo-set-cookie.js', 'analytics_consent', 'yes')
 ! 7-eleven.com#%#//scriptlet('ubo-set-cookie.js', 'sei-ccpa-banner', 'true') is excluded by "#%#//scriptlet" in exclusions-low.txt
@@ -7638,6 +7684,8 @@ omroepbrabant.nl#%#//scriptlet('ubo-set-local-storage-item.js', 'psh:cookies-soc
 starwalk.space#%#//scriptlet('ubo-set-local-storage-item.js', 'SWCOOKIESACC', '1')
 ! codedead.com#%#//scriptlet('ubo-set-local-storage-item.js', 'hasAcceptedCookieNotice', 'true') is excluded by "#%#//scriptlet" in exclusions-low.txt
 codedead.com#%#//scriptlet('ubo-set-local-storage-item.js', 'hasAcceptedCookieNotice', 'true')
+! studiofabiobiesel.com#%#//scriptlet('ubo-set-local-storage-item.js', 'fb-cookies-accepted', 'false') is excluded by "#%#//scriptlet" in exclusions-low.txt
+studiofabiobiesel.com#%#//scriptlet('ubo-set-local-storage-item.js', 'fb-cookies-accepted', 'false')
 ! fydeos.com,fydeos.io#%#//scriptlet('ubo-set-local-storage-item.js', 'is_accept_cookie', 'true') is excluded by "#%#//scriptlet" in exclusions-low.txt
 fydeos.com,fydeos.io#%#//scriptlet('ubo-set-local-storage-item.js', 'is_accept_cookie', 'true')
 ! jove.com#%#//scriptlet('ubo-set-local-storage-item.js', 'accept-jove-cookie', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
@@ -9766,6 +9814,8 @@ inquinte.ca#%#//scriptlet('ubo-rc.js', 'blocked', 'body', 'stay')
 gmarket.co.kr#%#//scriptlet('ubo-set.js', 'document.oncontextmenu', 'noopFunc')
 ! gmarket.co.kr#%#//scriptlet('ubo-set.js', 'document.onmousedown', 'noopFunc') is excluded by "#%#//scriptlet" in exclusions-low.txt
 gmarket.co.kr#%#//scriptlet('ubo-set.js', 'document.onmousedown', 'noopFunc')
+! grammarly.com#$#body { overflow: auto !important; } is excluded by "#$#" in exclusions-low.txt
+grammarly.com#$#body { overflow: auto !important; }
 ! neilpatel.com#%#//scriptlet('ubo-rc.js', 'mfp-popup-exit-quiz-v2', '', 'stay') is excluded by "#%#//scriptlet" in exclusions-low.txt
 neilpatel.com#%#//scriptlet('ubo-rc.js', 'mfp-popup-exit-quiz-v2', '', 'stay')
 ! neilpatel.com#$#body,html { overflow: auto !important; position: initial !important; } is excluded by "#$#" in exclusions-low.txt
@@ -10060,6 +10110,18 @@ finewoodworking.com#%#//scriptlet('ubo-set-cookie.js', 'taunton_user_consent_ana
 resonate.coop,northgatevehiclehire.ie#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow')
 ! pwsweather.com#%#//scriptlet('ubo-set-cookie.js', 'pws_gdrp_accept', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
 pwsweather.com#%#//scriptlet('ubo-set-cookie.js', 'pws_gdrp_accept', '1')
+! theweathernetwork.com#%#//scriptlet('ubo-set-cookie.js', 'pelm_cstate', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
+theweathernetwork.com#%#//scriptlet('ubo-set-cookie.js', 'pelm_cstate', '1')
+! theweathernetwork.com#%#//scriptlet('ubo-set-cookie.js', 'pelm_consent', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
+theweathernetwork.com#%#//scriptlet('ubo-set-cookie.js', 'pelm_consent', '1')
+! monese.com#%#//scriptlet('ubo-set-cookie.js', 'accept-cookies', 'true') is excluded by "#%#//scriptlet" in exclusions-low.txt
+monese.com#%#//scriptlet('ubo-set-cookie.js', 'accept-cookies', 'true')
+! monese.com#%#//scriptlet('ubo-set-cookie.js', 'accept-analytical-cookies', 'false') is excluded by "#%#//scriptlet" in exclusions-low.txt
+monese.com#%#//scriptlet('ubo-set-cookie.js', 'accept-analytical-cookies', 'false')
+! monese.com#%#//scriptlet('ubo-set-cookie.js', 'accept-marketing-cookies', 'false') is excluded by "#%#//scriptlet" in exclusions-low.txt
+monese.com#%#//scriptlet('ubo-set-cookie.js', 'accept-marketing-cookies', 'false')
+! helmut-fischer.com#%#//scriptlet('ubo-set-cookie.js', 'cookie-level-v4', '0') is excluded by "#%#//scriptlet" in exclusions-low.txt
+helmut-fischer.com#%#//scriptlet('ubo-set-cookie.js', 'cookie-level-v4', '0')
 ! myscience.org#%#//scriptlet('ubo-set-cookie.js', 'analytics_consent', 'yes') is excluded by "#%#//scriptlet" in exclusions-low.txt
 myscience.org#%#//scriptlet('ubo-set-cookie.js', 'analytics_consent', 'yes')
 ! 7-eleven.com#%#//scriptlet('ubo-set-cookie.js', 'sei-ccpa-banner', 'true') is excluded by "#%#//scriptlet" in exclusions-low.txt
@@ -10876,6 +10938,8 @@ omroepbrabant.nl#%#//scriptlet('ubo-set-local-storage-item.js', 'psh:cookies-soc
 starwalk.space#%#//scriptlet('ubo-set-local-storage-item.js', 'SWCOOKIESACC', '1')
 ! codedead.com#%#//scriptlet('ubo-set-local-storage-item.js', 'hasAcceptedCookieNotice', 'true') is excluded by "#%#//scriptlet" in exclusions-low.txt
 codedead.com#%#//scriptlet('ubo-set-local-storage-item.js', 'hasAcceptedCookieNotice', 'true')
+! studiofabiobiesel.com#%#//scriptlet('ubo-set-local-storage-item.js', 'fb-cookies-accepted', 'false') is excluded by "#%#//scriptlet" in exclusions-low.txt
+studiofabiobiesel.com#%#//scriptlet('ubo-set-local-storage-item.js', 'fb-cookies-accepted', 'false')
 ! fydeos.com,fydeos.io#%#//scriptlet('ubo-set-local-storage-item.js', 'is_accept_cookie', 'true') is excluded by "#%#//scriptlet" in exclusions-low.txt
 fydeos.com,fydeos.io#%#//scriptlet('ubo-set-local-storage-item.js', 'is_accept_cookie', 'true')
 ! jove.com#%#//scriptlet('ubo-set-local-storage-item.js', 'accept-jove-cookie', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
