@@ -2319,6 +2319,7 @@ thepopverse.com,cmp.chip.de,cmpv2.netdoktor.ch,cmp.videogameschronicle.com,cmp.s
 !
 ! NOTE: Regular rules
 !
+bluera.com##.blueOcean_GDPR
 ||reusch.com/plugins/DCcookie/dist/main.min.js
 parametric-architecture.com###elementor-popup-modal-61325
 nazdarbazar.cz##.cookie__container_2
@@ -10343,7 +10344,7 @@ mycircle.tv###notif_ck
 asus.com.cn,asus.com###cookie-policy-info
 start.me##.app__message
 getyourguide.at,getyourguide.ch,getyourguide.co.kr,getyourguide.co.uk,getyourguide.com,getyourguide.com.br,getyourguide.com.mx,getyourguide.com.tr,getyourguide.com.tw,getyourguide.de,getyourguide.dk,getyourguide.es,getyourguide.fi,getyourguide.fr,getyourguide.it,getyourguide.jp,getyourguide.nl,getyourguide.no,getyourguide.pl,getyourguide.pt,getyourguide.ru,getyourguide.se##.notifications-container--bottom
-volkswagen-karriere.de,vw.com,vw.com.hk,vw.com.mx,vw.ca,volkswagen.*###cookiemgmt
+volkswagen-utilitaires.fr,volkswagen-karriere.de,vw.com,vw.com.hk,vw.com.mx,vw.ca,volkswagen.*###cookiemgmt
 bmw.de##.cc-consentdrawer
 avtodor-tr.ru,tempmail.net,tempail.com##.we-use-cookies
 zeenews.india.com##.co-container

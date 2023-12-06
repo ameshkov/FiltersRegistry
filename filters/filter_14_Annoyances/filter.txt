@@ -2319,6 +2319,7 @@ thepopverse.com,cmp.chip.de,cmpv2.netdoktor.ch,cmp.videogameschronicle.com,cmp.s
 !
 ! NOTE: Regular rules
 !
+bluera.com##.blueOcean_GDPR
 ||reusch.com/plugins/DCcookie/dist/main.min.js
 parametric-architecture.com###elementor-popup-modal-61325
 nazdarbazar.cz##.cookie__container_2
@@ -10343,7 +10344,7 @@ mycircle.tv###notif_ck
 asus.com.cn,asus.com###cookie-policy-info
 start.me##.app__message
 getyourguide.at,getyourguide.ch,getyourguide.co.kr,getyourguide.co.uk,getyourguide.com,getyourguide.com.br,getyourguide.com.mx,getyourguide.com.tr,getyourguide.com.tw,getyourguide.de,getyourguide.dk,getyourguide.es,getyourguide.fi,getyourguide.fr,getyourguide.it,getyourguide.jp,getyourguide.nl,getyourguide.no,getyourguide.pl,getyourguide.pt,getyourguide.ru,getyourguide.se##.notifications-container--bottom
-volkswagen-karriere.de,vw.com,vw.com.hk,vw.com.mx,vw.ca,volkswagen.*###cookiemgmt
+volkswagen-utilitaires.fr,volkswagen-karriere.de,vw.com,vw.com.hk,vw.com.mx,vw.ca,volkswagen.*###cookiemgmt
 bmw.de##.cc-consentdrawer
 avtodor-tr.ru,tempmail.net,tempail.com##.we-use-cookies
 zeenews.india.com##.co-container
@@ -23096,6 +23097,7 @@ sanalkurs.net###toast-container > .toast-error[aria-live="assertive"]
 !
 ! SECTION: Popups - Regular rules
 !
+tospo-keiba.jp#%#//scriptlet('trusted-set-cookie', 'bannerClosed', 'true')
 m.qdmm.com##div[data-v-6b364e7b]
 justjoin.it##div[style="pointer-events:auto"] + div > div.MuiBox-root > div[style^="opacity: 1; transform: none; transition: opacity"]
 avvenire.it#$##suggetionsModal { display: none !important; }
@@ -24906,7 +24908,7 @@ qobuz.com##.store-launch-injector
 qobuz.com##.modal-backdrop
 noklapja.hu#$#.blurry { filter: none !important; }
 noklapja.hu#$#.m-fbPopup { display: none !important; }
-nikkan-spa.jp,tokyo-sports.co.jp,my-golfdigest.jp,mapple.net,news.mynavi.jp###pianoj_slidein
+tospo-keiba.jp,nikkan-spa.jp,tokyo-sports.co.jp,my-golfdigest.jp,mapple.net,news.mynavi.jp###pianoj_slidein
 kyobun.co.jp,bunshun.jp,mainichi.jp,nikkei.com,news.mynavi.jp###pianoj_ribbon
 01.kg,0154.by,0312.ua,032.ua,0332.ua,0342.ua,0352.ua,0362.ua,0372.ua,0382.ua,0412.ua,04141.com.ua,0432.ua,04563.com.ua,04597.com.ua,04598.com.ua,0462.ua,0472.ua,048.ua,04868.com.ua,0512.com.ua,05136.com.ua,0522.ua,0532.ua,05366.com.ua,0542.ua,05447.com.ua,0552.ua,056.ua,0564.ua,0566.com.ua,0569.com.ua,057.ua,061.ua,06153.com.ua,0619.com.ua,0623.com.ua,06236.com.ua,06237.com.ua,06239.com.ua,06242.ua,06252.com.ua,06267.com.ua,06272.com.ua,06274.com.ua,06277.com.ua,0629.com.ua,0642.ua,06452.com.ua,1rnd.ru,3652.ru,3654.ru,3849.com.ua,44.ua,4594.com.ua,5692.com.ua,62.ua,6262.com.ua,6264.com.ua,65.media,7152.kz,7232.kz,8422city.ru,8692.ru,city04.kz,city41.ru,citydomodedovo.ru,go31.ru,go61.ru,go7812.ru,gorod3466.ru,inaktau.kz,inalmaty.kz,inastana.kz,inatyrau.kz,inkaragandy.kz,inshymkent.kz,karelia.news,kaskelenec.kz,oshto.kg,qapshagai-city.kz,uralskcity.kz##.push-panel
 video.laxd.com##.noLoginSticker
@@ -31036,6 +31038,7 @@ newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,nordbayern.de,theloca
 !
 ! SECTION: Subscriptions - Regular rules
 !
+ekonomim.com##.newsletter-widget-side
 parametric-architecture.com###elementor-popup-modal-57849
 racinggames.gg#?#body > .overlay:has(> .overlay__content > .modal__body > div > img[src^="/images/newsletter"])
 finance.ua#?##main_article_container > div[class^="ArticleParagraphstyles"]:has(> span > a[href*="project.finance.ua/sendy-currency"])
@@ -34759,7 +34762,7 @@ kaspersky.*#?#.c-page > section:has(> section > div.o-container-fluid > div.c-fo
 stiripesurse.ro,lance.com.br,1prospekte.de,wallpaper.com,marksandspencer.com,blogto.com,deingartenbedarf.de,amp.usatoday.com,thewirecutter.com,thebaffler.com,androidpolice.com##.newsletter-container
 androidpolice.com#?#.sidebar > .sidebar-trending > .newsletter-container:upward(1)
 livelib.ru###popup-mail
-sonhaberler.com,superhaber.com,gazeteduvar.com.tr,sanliurfaolay.com,medyatava.com,internethaber.com##.google-news_wrapper
+ekonomim.com,sonhaberler.com,superhaber.com,gazeteduvar.com.tr,sanliurfaolay.com,medyatava.com,internethaber.com##.google-news_wrapper
 rotadasbandeiras.com.br##.boxAlertas
 abc.net.au##div[data-component="InlineSubscribe"]
 abc.net.au##aside[data-component="CampaignNewsletter"]
