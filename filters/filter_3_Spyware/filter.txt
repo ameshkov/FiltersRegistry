@@ -512,6 +512,9 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+!
+!
+||ohmy.bid^
 ||nakanohito.jp^$third-party
 ||cpt.geniee.jp^
 ||analytics.fcgtalent.fi^

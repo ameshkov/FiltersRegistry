@@ -2319,6 +2319,7 @@ thepopverse.com,cmp.chip.de,cmpv2.netdoktor.ch,cmp.videogameschronicle.com,cmp.s
 !
 ! NOTE: Regular rules
 !
+nazdarbazar.cz##.cookie__container_2
 standard.sk##.standard-cookie
 tomtom.com#?#footer + div[class^="sc-"]:has(> div[class^="Box-sc"] + div.cookie-panel-buttons)
 gameleap.com##core-banner
@@ -42787,10 +42788,6 @@ closermag.fr#$#body[style*="overflow: hidden;"] { overflow: visible!important; }
 closermag.fr#$#html[style^="overflow: hidden;"] { overflow: visible!important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/27803
 animedia.tv##.right-sidebar > center > a[target="_blank"]
-! https://github.com/AdguardTeam/AdguardFilters/issues/27801
-yummyanime.club,yummyanime.com##a[target="_blank"] > img[style="width: 100%"]
-yummyanime.club,yummyanime.com#?#.sidebar-block > div.block-header:contains(Рекомендуем)
-yummyanime.club,yummyanime.com#?#.sidebar-block > div.block-header:contains(Рекомендуем) ~ div[style^="margin-bottom: 10px"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/27763
 mob-mobile.ru##a[href="#puzzle"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/27731
@@ -45873,7 +45870,11 @@ kcrw.com###cta-get-involved-large-cta
 allure.com##.journey-unit__container
 blog.csdn.net###asideWriteGuide
 world.taobao.com##div[data-spm="banner_above"]
-zdopravy.cz#%#//scriptlet('trusted-set-local-storage-item', 'eshop-modal', '{"value":true}')
+zdopravy.cz#%#//scriptlet('set-local-storage-item', 'show-pages', '0')
+zdopravy.cz#%#//scriptlet('trusted-set-local-storage-item', 'eshop-modal-2', '{"value":true}')
+zdopravy.cz#$##eshopModal { display: none !important; }
+zdopravy.cz#$##eshopModal ~ .modal-backdrop { display: none !important; }
+zdopravy.cz#$#body.modal-open { overflow: auto !important; padding-right: 0 !important; }
 ||j-depo.com/news/tpl/images/bnner_kango_simple_300_250.jpg
 tech-camp.in##a[data-gtm-tcb^="TCB_CLICK_buntyubanner_"]
 tech-camp.in##a[data-gtm-tcb="TCB_CLICK_scrollbanner_default_exp_income"]
