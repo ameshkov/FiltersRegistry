@@ -22526,6 +22526,7 @@ $stylesheet,third-party,domain=1fichier.com|7-up.net|9xupload.me|adshr.ink|adshr
 ##a[href^="https://badoinkvr.com/?"]
 ##a[href^="https://bestapppro.com/"]
 ##a[href^="https://blockadz.com/?"]
+##a[href^="https://boomerang.club/ref/"] > img
 ##a[href^="https://checkout.hidemyass.com/affiliate.php?"] > img
 ##a[href^="https://click.hooligapps.com/?pid="]
 ##a[href^="https://clickadilla.com/?"]
@@ -23086,6 +23087,7 @@ alalettre.com,annonces-automobile.com,fun-trades.com,hardware.fr,lemoteurdusexe.
 largus.fr###partenaires-aside
 letour.fr###partenaires2
 lexpress.fr###partenaires_crm
+francoischarron.com###partipate_video_bottom
 auchan.fr###partner--container
 expat.com###partner-ajax-on-forum
 cciaf.org###partner_content
