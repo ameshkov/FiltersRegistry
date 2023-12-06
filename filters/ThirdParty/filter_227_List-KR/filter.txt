@@ -1,7 +1,7 @@
 !
 ! Title: List-KR for AdGuard
 ! Description: List-KR for AdGuard. Maintained by the adblock community and AdGuard.
-! OriginalVersion: 2023.1205.6
+! OriginalVersion: 2023.1206.0
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! Support: https://github.com/List-KR/List-KR/issues/223
@@ -232,6 +232,7 @@
 ! DOMAIN-REFRESHER: START
 !
 ||i.keezip.com^
+||awd.spochak.com^
 !
 ! DOMAIN-REFRESHER: END
 ||nsmartad.com^
@@ -2451,6 +2452,7 @@ osen.mt.co.kr##div#close_mask
 !
 ! DOMAIN-REFRESHER: START
 !
+spochak.com##.list-webzine .list-item
 torrentdin4.com,torrentdin5.com,torrentdin6.com,torrentdin7.com,torrentdin8.com,torrentdin9.com,torrentdin10.com,torrentdin11.com,torrentdin12.com,torrentdin13.com,torrentdin14.com,torrentdin15.com###hd_pop
 torrentdin4.com,torrentdin5.com,torrentdin6.com,torrentdin7.com,torrentdin8.com,torrentdin9.com,torrentdin10.com,torrentdin11.com,torrentdin12.com,torrentdin13.com,torrentdin14.com,torrentdin15.com##.at-main > .widget-box
 torrentreel50.site,torrentreel51.site,torrentreel52.site,torrentreel53.site,torrentreel54.site,torrentreel55.site,torrentreel56.site,torrentreel57.site,torrentreel58.site,torrentreel59.site##.ad-cont-box ~ div[style^="margin:"]
@@ -2975,6 +2977,7 @@ berryjam.co.kr#?#table[width="1200"]:has(> tbody > tr > td > div[class*="slider-
 !
 ! DOMAIN-REFRESHER: START
 !
+spochak.com#?#table .basic-info-alert:has(a[href="/marble/"])
 avsee.*#?#.widget-side-box > .main-box:has(img[src^="/imgs/"])
 viewtorrent13.com,viewtorrent14.com,viewtorrent15.com,viewtorrent16.com,viewtorrent17.com,viewtorrent18.com,viewtorrent19.com,viewtorrent20.com,viewtorrent21.com,viewtorrent22.com,viewtorrent23.com,viewtorrent24.com,viewtorrent25.com#?#article[itemprop="articleBody"] > div[class]:has(div[role="alert"])
 zzzz.lol#?#.widget-side .widget-title:has(+ div a[href^="/bbs/link.php?bo_table="][target="_blank"])

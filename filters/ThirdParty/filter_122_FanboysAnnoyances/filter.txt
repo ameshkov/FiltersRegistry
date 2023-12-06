@@ -1,8 +1,8 @@
 !
-! Checksum: XOYQt2rdDyWJlpgn9cKJSA
-! OriginalVersion: 202312060815
+! Checksum: La+hWEoNL7M4u6gN8J8UrA
+! OriginalVersion: 202312061200
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-12-06 08:15 UTC
+! Last modified: 2023-12-06 12:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -38560,6 +38560,7 @@ fxstreet.com###prestitial-handle
 3q.video,mondaq.co.uk,mondaq.com,prevac.eu,tesda.gov.ph,vindy.com###privacy
 worldjournal.com###privacy-agreement
 business-humanrights.org###privacy-choices
+monitor.civicus.org###privacy-choices-banner
 weather.com###privacy-data-notice
 dnddiceroller.com###privacy-div
 playstation.com###privacy-header
@@ -40989,7 +40990,7 @@ allinone.im,jsonquerytool.com,mydirtyhobby.com,sweetcombecottages.co.uk##.MuiDia
 !! .MuiSnackbar-root
 bloggersnetworkdaily.com,coingate.com,customerservicedaily.com,dailyhuntingnews.com,exceldailynews.com,logistica.la,mysilife.com,schlossbergapotheken-zeitung.de,taipeinewsnetwork.com,therobbreview.org##.MuiSnackbar-root
 !! .bottom-0
-aktiivikristinusko.fi,aktiveschristentum.de,aktivkeresztenyseg.hu,aktivkristendom.dk,aktivkristendom.no,aktivkristendom.se,aktivnoyekhristianstvo.ru,aktywnechrzescijanstwo.pl,appsmith.com,badael.org,bateswells.co.uk,bishopfox.com,burnleyfootballclub.com,centricabusinesssolutions.ie,checkoutwithcoupon.com,cherryservers.com,cheshirecommunityfoundation.org.uk,christenzijn.nl,christianismeactif.fr,cll.net.nz,clubmed.co.il,consumentenbond.nl,crestinismactiv.ro,cristianesimoattivo.it,cristianismoativo.org,csirt.gov.it,d2iq.com,deceiveinc.com,devstudio.bg,egis-group.com,forumdamobilidadeinteligente.pt,glinche-automobiles.com,globusgroup.com,gloot.com,graphy.com,matador-diervoeders.be,matador-diervoeders.com,medpets.fr,milliescookies.com,mirabilisapartments.com,moonpay.com,nooz-optics.com,nucleusnetwork.com,piggy.eu,pro.kraken.com,qualityedge.com,rambox.app,refurbed.at,refurbed.es,refurbed.it,regiojet.cz,sfc.edu,slice.is,studiorebels.nl,teym.eu,thaicycling.or.th,theburydirectory.co.uk,tpg.com,truecaller.com,undercovertea.es,valasztas.hu,vilavitaparc.com,wallstreetenglish.in.th,webcatalog.io,wentworthpuzzles.com,zennio-deutschland.de,zennio.com,zennio.com.au,zennio.mx,zymurgorium.com##.bottom-0
+aktiivikristinusko.fi,aktiveschristentum.de,aktivkeresztenyseg.hu,aktivkristendom.dk,aktivkristendom.no,aktivkristendom.se,aktivnoyekhristianstvo.ru,aktywnechrzescijanstwo.pl,appsmith.com,askfinny.com,badael.org,bateswells.co.uk,bishopfox.com,burnleyfootballclub.com,centricabusinesssolutions.ie,checkoutwithcoupon.com,cherryservers.com,cheshirecommunityfoundation.org.uk,christenzijn.nl,christianismeactif.fr,cll.net.nz,clubmed.co.il,consumentenbond.nl,crestinismactiv.ro,cristianesimoattivo.it,cristianismoativo.org,csirt.gov.it,d2iq.com,deceiveinc.com,devstudio.bg,egis-group.com,forumdamobilidadeinteligente.pt,glinche-automobiles.com,globusgroup.com,gloot.com,graphy.com,matador-diervoeders.be,matador-diervoeders.com,medpets.fr,milliescookies.com,mirabilisapartments.com,moonpay.com,nooz-optics.com,nucleusnetwork.com,piggy.eu,pro.kraken.com,qualityedge.com,rambox.app,refurbed.at,refurbed.es,refurbed.it,regiojet.cz,sfc.edu,slice.is,studiorebels.nl,teym.eu,thaicycling.or.th,theburydirectory.co.uk,tpg.com,truecaller.com,undercovertea.es,valasztas.hu,vilavitaparc.com,wallstreetenglish.in.th,webcatalog.io,wentworthpuzzles.com,zennio-deutschland.de,zennio.com,zennio.com.au,zennio.mx,zymurgorium.com##.bottom-0
 !! .mysticky-welcomebar-fixed-wrap
 fabocompany.com,polipc.hu##.mysticky-welcomebar-fixed-wrap
 !! mod_cms_accept_tags
@@ -42568,7 +42569,7 @@ rtu.lv##.uce-banner
 xsports.lv##.global-site-notice
 ! dodo.fr
 ! swal2-container consents
-distrokid.com,viajesatodotren.com,ribena.co.uk,wps.co.uk,hentys.com,wps.co.uk,littlewoodfencing.co.uk,lucozade.com,suntorybeverageandfood-europe.com,lucozadeenergy.com,profileeurope.co.uk,agenziavista.it,ticketingcine.fr##.swal2-container
+anywhereesim.com,distrokid.com,viajesatodotren.com,ribena.co.uk,wps.co.uk,hentys.com,wps.co.uk,littlewoodfencing.co.uk,lucozade.com,suntorybeverageandfood-europe.com,lucozadeenergy.com,profileeurope.co.uk,agenziavista.it,ticketingcine.fr##.swal2-container
 ! infomaniak.com
 infomaniak.com##module-rgpd-component
 ! womex.com
@@ -44110,6 +44111,7 @@ themighty.com##.meta-join
 mv-voice.com##.meter-warning-box
 paloaltoonline.com##.meter-warning-text
 metro.co.uk##.metro-email-signup
+investing.com##.mid-page-promo-btn-wrapper
 missouri.edu##.miz-layer
 motherjones.com##.mj-text-cta
 heartfm.co.za##.mk-subscribe-link
@@ -47412,7 +47414,7 @@ rtu.lv##.uce-banner
 xsports.lv##.global-site-notice
 ! dodo.fr
 ! swal2-container consents
-distrokid.com,viajesatodotren.com,ribena.co.uk,wps.co.uk,hentys.com,wps.co.uk,littlewoodfencing.co.uk,lucozade.com,suntorybeverageandfood-europe.com,lucozadeenergy.com,profileeurope.co.uk,agenziavista.it,ticketingcine.fr##.swal2-container
+anywhereesim.com,distrokid.com,viajesatodotren.com,ribena.co.uk,wps.co.uk,hentys.com,wps.co.uk,littlewoodfencing.co.uk,lucozade.com,suntorybeverageandfood-europe.com,lucozadeenergy.com,profileeurope.co.uk,agenziavista.it,ticketingcine.fr##.swal2-container
 ! infomaniak.com
 infomaniak.com##module-rgpd-component
 ! womex.com

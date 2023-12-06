@@ -1519,8 +1519,6 @@ waveaddy.com#%#AG_onLoad(function() { setTimeout(function() { clock = -1; window
 aydindenge.com.tr#%#//scriptlet("set-constant", "start", "1")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/34999
 dreamfancy.org#%#(function() { window.open_ = window.open; var w_open = window.open, regex = /itemsultan\.com/; window.open = function(a, b) { if (typeof a !== 'string' || !regex.test(a)) { w_open(a, b); } }; })();
-! https://github.com/AdguardTeam/AdguardFilters/issues/34548
-sinemavitrini.com#%#document.cookie = "gosterilen_popup=1; path=/";
 ! https://github.com/AdguardTeam/AdguardFilters/issues/18946
 milligazete.com.tr#%#AG_onLoad(function() { var _setInterval=setInterval(function(){removeAd()},500);function removeAd(){var a=$('ul.row[role="tablist"] > li > a[href^="/service/advertclick"]');a.length&&($('ul.row[role="tablist"] > li > a[href^="/service/advertclick"]').closest('li').remove(),$('div.slick-track > a[href^="/service/advertclick"]').closest('a').remove())}setTimeout(function(){clearInterval(_setInterval)},5e3); });
 ! https://github.com/AdguardTeam/AdguardFilters/issues/16695
@@ -2425,7 +2423,6 @@ yesilcamtv.eu#?#body > #colorbox:has(#popup-reklam)
 yesilcamtv.eu#?#body > #cboxOverlay:has(+#colorbox:has(#popup-reklam))
 airkule.com#?#tr > td[valign="top"]:has(> table > tbody > tr > td[bgcolor] > a[href^="/showad"])
 elazigyenihaber.com#?#.container:has( > div.row > div[class] > div.center-block > div[class*="-adv"])
-sinemavitrini.com#$?#.once-reklam { remove: true; }
 her-sey.net#?##sidebar-container > .sidebar-widget:has(> .textwidget > span[id^="ezoic-pub-ad-placeholder-"])
 oyunkuzusu.com#?#tbody > tr > td[height^="25"]:has(>.adsbygoogle)
 oyunkuzusu.com#?#tbody > tr > td[height="100"]:has(>.adsbygoogle)
