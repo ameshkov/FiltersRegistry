@@ -3,8 +3,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 06 Dec 2023, 17:22 UTC+01:00
-! OriginalVersion: 2023.12.6.2
+! Last modified: Wed, 06 Dec 2023, 21:17 UTC+01:00
+! OriginalVersion: 2023.12.6.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2622,6 +2622,7 @@
 ||0lx.144247.xyz^$all
 ||0lx.144248.xyz^$all
 ||00lx.8856574.xyz^$all
+||0lx.9423537.xyz^$all
 ||0lx.19754841.xyz^$all
 ||0lx.29754841.xyz^$all
 ||0lx.49484121.xyz^$all
@@ -5589,6 +5590,7 @@
 ||allegrolokalnie-pl.payregisway.pw^$all
 ||allegrolokalnie-zakupy.pl^$all
 ||allegrolokalnie.24-platnosci.pl^$all
+||allegrolokalnie.24pay-u.pl^$all
 ||allegrolokalnie.398543.pw^$all
 ||allegrolokalnie.$document,domain=~allegro.pl|~allegrolokalnie.pl|~bing.*|~duckduck.*|~ecosia.org|~google.*|~qwant.com|~startpage.com|~wp.pl|~yahoo.*
 ||allegrolokalnie.aukcja-allegro.pl^$all
@@ -5755,8 +5757,16 @@
 ||allegrolokalnie.pl-oferta-sprzedazy98710.pl^$all
 ||allegrolokalnie.pl-oferta-sprzedazy122212.pl^$all
 ||allegrolokalnie.pl-oferta-sprzedazy122213.pl^$all
+||allegrolokalnie.pl-oferta-sprzedazy122221.pl^$all
 ||allegrolokalnie.pl-oferta-sprzedazy122222.pl^$all
 ||allegrolokalnie.pl-oferta-sprzedazy122223.pl^$all
+||allegrolokalnie.pl-oferta-sprzedazy122224.pl^$all
+||allegrolokalnie.pl-oferta-sprzedazy122225.pl^$all
+||allegrolokalnie.pl-oferta-sprzedazy122227.pl^$all
+||allegrolokalnie.pl-oferta-sprzedazy122234.pl^$all
+||allegrolokalnie.pl-oferta-sprzedazy122235.pl^$all
+||allegrolokalnie.pl-oferta-sprzedazy122245.pl^$all
+||allegrolokalnie.pl-oferta-sprzedazy122246.pl^$all
 ||allegrolokalnie.pl-oferta-uzytkownika34344.pl^$all
 ||allegrolokalnie.pl-oferta-uzytkownika34554.pl^$all
 ||allegrolokalnie.pl-oferta-uzytkownika43554.pl^$all
@@ -6297,6 +6307,7 @@
 ||amzstudy.com^$all
 ||an0o2-lp20.pl-1x6.pl^$all
 ||an-kapi.newplx.site^$all
+||an.klewmedia.com^$all
 ||an.polex.live^$all
 ||anaannpot.site^$all
 ||anaanpot.site^$all
@@ -7545,12 +7556,14 @@
 ||autoescuelavirgendeluna.com^$all
 ||autogielda-borek.pl^$all
 ||autogielda-borowski.pl^$all
+||autogielda-brzewski.pl^$all
 ||autogielda-czajkowski.pl^$all
 ||autogielda-drewniak.pl^$all
 ||autogielda-jablonski.pl^$all
 ||autogielda-kaczmarek.pl^$all
 ||autogielda-kaczor.pl^$all
 ||autogielda-kaminski.pl^$all
+||autogielda-korowski.pl^$all
 ||autogielda-tomanski.pl^$all
 ||autogielda-wawrzyniak.pl^$all
 ||autogielda-zarski.pl^$all
@@ -9168,6 +9181,7 @@
 ||bf2.boats^$all
 ||bf11ea4bf8c.chefs-kitchen.co.uk^$all
 ||bf72677da9a.bakerstreet.uk.com^$all
+||bf-7.cfd^$all
 ||bf.eutrty.top^$all
 ||bfagwo.com^$all
 ||bfeip.tomdeng.com^$all
@@ -12142,6 +12156,7 @@
 ||cjghezcee.com^$all
 ||cjjkakdjhhhcjjdhdre.site^$all
 ||cjpfhk.s3.us-east-005.backblazeb2.com^$all
+||ckbi.pw^$all
 ||ckfotjtt.online^$all
 ||ckgo5.cfd^$all
 ||ckgtyk.ballerswallet.com^$all
@@ -14331,6 +14346,7 @@
 ||dehorned.live^$all
 ||deinorniss.live^$all
 ||dejesusbowtique.com^$all
+||dekret.visite-vendee.com^$all
 ||deksaint.com^$all
 ||dekum.xyz^$all
 ||del-dhl-express.com^$all
@@ -16968,6 +16984,7 @@
 ||enchantresss.online^$all
 ||enclisis.sbs^$all
 ||encoretrade.ltd^$all
+||encounter.ebutudan.com^$all
 ||encouragement-repeort-service.surge.sh^$all
 ||encouragementapp.cfd^$all
 ||encqs.infolocity.com^$all
@@ -17999,6 +18016,7 @@
 ||facebookarvrglasses-world.com^$all
 ||facebookpolicy12.ddns.net^$all
 ||facebookpolicy12.ddnsking.com^$all
+||facebooksecurytii.pages.net.br^$all
 ||facebookstories-sale.com^$all
 ||facebooksunglassshop.com^$all
 ||faceboook.me^$all
@@ -24127,6 +24145,7 @@
 ||inpostspol.life^$all
 ||inpostspols.life^$all
 ||inpostst-pl.top^$all
+||inpostweb.life^$all
 ||inpostweb.top^$all
 ||inposty.xyz^$all
 ||inquilinic.info^$all
@@ -27881,6 +27900,7 @@
 ||lnpost.bestbuds.space^$all
 ||lnpost.bignaturals.xyz^$all
 ||lnpost.blockno2.shop^$all
+||lnpost.co.pl^$all
 ||lnpost.createu.shop^$all
 ||lnpost.daisyfx.shop^$all
 ||lnpost.discountvacations.xyz^$all
@@ -29693,6 +29713,7 @@
 ||mev6.boats^$all
 ||mevlidpaketi.com^$all
 ||mevoni38-fs.sbs^$all
+||mevs-gn6.sbs^$all
 ||mevsimindeyiyelim.com^$all
 ||mewantthat.com^$all
 ||mewnds.sbs^$all
@@ -33015,7 +33036,9 @@
 ||odsniezarka-sprzedam.pl^$all
 ||odsniezarki-dudek.pl^$all
 ||odsniezarki-holownia.pl^$all
+||odsniezarki-kubica.pl^$all
 ||odsniezarki-kupno.pl^$all
+||odsniezarki-lewandowski.pl^$all
 ||odsniezarki-rusina.pl^$all
 ||odsniezarki-sprzedam.pl^$all
 ||odsniezarki-zakopane.pl^$all
@@ -35592,6 +35615,16 @@
 ||pl-oferta-sprzedazy98710.pl^$all
 ||pl-oferta-sprzedazy122212.pl^$all
 ||pl-oferta-sprzedazy122213.pl^$all
+||pl-oferta-sprzedazy122221.pl^$all
+||pl-oferta-sprzedazy122222.pl^$all
+||pl-oferta-sprzedazy122223.pl^$all
+||pl-oferta-sprzedazy122224.pl^$all
+||pl-oferta-sprzedazy122225.pl^$all
+||pl-oferta-sprzedazy122227.pl^$all
+||pl-oferta-sprzedazy122234.pl^$all
+||pl-oferta-sprzedazy122235.pl^$all
+||pl-oferta-sprzedazy122245.pl^$all
+||pl-oferta-sprzedazy122246.pl^$all
 ||pl-oferta-uzytkownika34344.pl^$all
 ||pl-oferta-uzytkownika34554.pl^$all
 ||pl-oferta-uzytkownika43544.pl^$all
@@ -39157,6 +39190,7 @@
 ||replycase12991.tilda.ws^$all
 ||repoor1ting.site^$all
 ||report.expobarrio.com^$all
+||report.polylia.com^$all
 ||reportabless.site^$all
 ||reporterfrpl.com^$all
 ||reportmetacenter.servehttp.com^$all
@@ -43560,6 +43594,7 @@
 ||tennisapienacademy.com^$all
 ||tennysonianism.info^$all
 ||tennysonschildrenscentre.com^$all
+||tenqiv.sbs^$all
 ||tension-offers.com^$all
 ||tententennis.com^$all
 ||tento-com.preview-domain.com^$all
@@ -43760,6 +43795,7 @@
 ||teuse.life^$all
 ||teuse.top^$all
 ||tevas.space^$all
+||tew-62t.sbs^$all
 ||tewortop.com^$all
 ||tex1.tex1.xyz^$all
 ||tex5.tesx3.top^$all
@@ -47269,6 +47305,7 @@
 ||vlnted-gb.agglg.info^$all
 ||vlnted-gb.aggwe.info^$all
 ||vlnted-gb.aglbe.info^$all
+||vlnted-gb.aiiok.info^$all
 ||vlnted-gb.aille.info^$all
 ||vlnted-gb.aiolj.info^$all
 ||vlnted-gb.aiuok.info^$all

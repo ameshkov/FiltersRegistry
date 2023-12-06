@@ -1,8 +1,8 @@
 !
-! Checksum: jMDkQaTa53T5eyYpGbXv1Q
-! OriginalVersion: 202312061615
+! Checksum: M1Q84+2ZnnpAWdtEWbMP2g
+! OriginalVersion: 202312062015
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-12-06 16:15 UTC
+! Last modified: 2023-12-06 20:15 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -49965,6 +49965,7 @@ bundeswehrkarriere.de##.autoprivacy
 sanko-solar.de##.avg-bar
 elbdeichcam.de,sne.at##.b-modal
 dfg.de##.bab-modul-cookie-consent
+shop.m-budget.migros.ch##.backdrop-filter
 roompot.de,vakantiegevoel.be##.background-fade
 laliberte.ch##.bandeau
 barzahlen.de##.banner-wrapper
