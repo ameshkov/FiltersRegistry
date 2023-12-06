@@ -1,8 +1,8 @@
 !
-! Checksum: YEuyI4dyce649TgUJmkM1g
-! OriginalVersion: 202312061250
+! Checksum: UBGqOvDEFvK/GY2/LmAfHQ
+! OriginalVersion: 202312061652
 ! Title: EasyList
-! Last modified: 06 Dec 2023 12:50 UTC
+! Last modified: 06 Dec 2023 16:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17681,6 +17681,7 @@ _800x80_
 ##a[href^="http://li.blogtrottr.com/click?"]
 ##a[href^="http://m.hue2m.com/"]
 ##a[href^="http://partners.etoro.com/"]
+##a[href^="http://revolvemockerycopper.com/"]
 ##a[href^="http://static.fleshlight.com/images/banners/"]
 ##a[href^="http://tc.tradetracker.net/"] > img
 ##a[href^="http://tour.mrskin.com/"]
@@ -19097,6 +19098,7 @@ browsershots.org#@#.advert_area
 ||3j8c56p9.de^
 ||3lift.com^
 ||3lr67y45.com^
+||3mhg.site^
 ||3myad.com^
 ||3qfe1gfa.de^
 ||3r1kwxcd.top^
@@ -20068,6 +20070,7 @@ browsershots.org#@#.advert_area
 ||adexprt.com^
 ||adexprts.com^
 ||adf4fdd723.com^
+||adfahrapps.com^
 ||adfburwubd.com^
 ||adfeedstrk.com^
 ||adffihcuqax.com^
@@ -25182,6 +25185,7 @@ browsershots.org#@#.advert_area
 ||conative.network^
 ||conatysystems.com^
 ||concealbeakerdough.com^
+||concealmentbrainpower.com^
 ||conceitedarmpit.com^
 ||conceitedblessblockade.com^
 ||conceitslidpredicate.com^
@@ -29645,6 +29649,7 @@ browsershots.org#@#.advert_area
 ||g5rillh2awn8.com^
 ||g91games.com^
 ||ga-ads.com^
+||gacoufti.com^
 ||gadgetnews.one^
 ||gadsabs.com^
 ||gadsatz.com^
@@ -31168,6 +31173,7 @@ browsershots.org#@#.advert_area
 ||hfib5s-sdds-248d.xyz^
 ||hfk128dfs-dsfbheuoys.xyz^
 ||hfnzhczqgdp.com^
+||hforuvqrgyvbspi.xyz^
 ||hfudugo.com^
 ||hfufkifmeni.com^
 ||hfuostp.com^
@@ -43198,6 +43204,7 @@ browsershots.org#@#.advert_area
 ||soavesermon.com^
 ||soavouca.com^
 ||soawhoaw.com^
+||soawousa.xyz^
 ||sobakapi2sa8la09.com^
 ||sobakenchmaphk.com^
 ||sobbingservingcolony.com^
@@ -46994,6 +47001,7 @@ browsershots.org#@#.advert_area
 ||violondeaf.guru^
 ||vionito.com^
 ||viowrel.com^
+||vioytuituunmsr.com^
 ||vip-datings.life^
 ||vip-vip-vup.com^
 ||vipads.live^
@@ -52426,6 +52434,7 @@ browsershots.org#@#.advert_area
 ||kz796.com^$popup
 ||l4meet.com^$popup
 ||lacquerreddeform.com^$popup
+||ladiesforyou.net^$popup
 ||ladyphapty.com^$popup
 ||lalofilters.website^$popup
 ||lameterthenhep.com^$popup
@@ -55188,6 +55197,7 @@ browsershots.org#@#.advert_area
 ||1186656647.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1194047269.rsc.cdn77.org^
+||1203782659.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1537621450.rsc.cdn77.org^
 ||1540685764.rsc.cdn77.org^

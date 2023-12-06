@@ -1,8 +1,8 @@
 !
-! Checksum: m1ju2WW921jYD7LIQY/NDg
-! OriginalVersion: 202312061250
+! Checksum: TeKYlr72L/Ist/gFYF3Hcw
+! OriginalVersion: 202312061652
 ! Title: EasyList Polish
-! Last modified: 06 Dec 2023 12:50 UTC
+! Last modified: 06 Dec 2023 16:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1338,7 +1338,6 @@ gazetalubliniecka.pl##.gazet-gold-zone
 gazetacz.com.pl##.gazet-gorny-lewy
 gazetacz.com.pl##.gazet-gorny-prawy
 gazetacz.com.pl##.gazet-pod-menu
-gazetarumska.pl##.gazet-w-artykule-reklama
 gazetacz.com.pl##.gazet-widget
 lubartow24.pl##.gazetka-box
 kresy.pl##.gbcfxawvaHsi

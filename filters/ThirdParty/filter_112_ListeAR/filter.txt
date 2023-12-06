@@ -1,8 +1,8 @@
 !
-! Checksum: Vnwof5Jbni9ivS44bH9fnw
-! OriginalVersion: 202312061250
+! Checksum: UgUZIqOOrgw1tw0vDOdEmg
+! OriginalVersion: 202312061652
 ! Title: Liste AR
-! Last modified: 06 Dec 2023 12:50 UTC
+! Last modified: 06 Dec 2023 16:52 UTC
 ! Expires: 1 days (fréquence des mises à jour automatiques)
 ! Homepage: https://code.google.com/p/liste-ar-adblock/
 !
