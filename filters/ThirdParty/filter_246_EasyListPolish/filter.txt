@@ -1,8 +1,8 @@
 !
-! Checksum: H932A98vyopmQZv1WC3Xow
-! OriginalVersion: 202312070451
+! Checksum: W9/EvU8cJ+ZYzeXI4zQh7A
+! OriginalVersion: 202312070851
 ! Title: EasyList Polish
-! Last modified: 07 Dec 2023 04:51 UTC
+! Last modified: 07 Dec 2023 08:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1005,7 +1005,7 @@ koty.pl,psy.pl##.adsenseAd
 cgm.pl,egarwolin.pl,ekspresjaroslawski.pl,historykon.pl,itvpiaseczno.pl,lowicz24.eu,mtv24.tv,nowawrzesnia.pl,pogonszczecin.pl,tp.com.pl,vegespot.pl,zlotowskie.pl##.adv
 nowezyciepabianic.pl##.adv--above-news
 24jgora.pl,24wroclaw.pl,zambrow.org##.adv--halfpage
-wterenie.pl##.adv--rectangle
+24wroclaw.pl,wterenie.pl##.adv--rectangle
 mma.pl##.adv-body-banner
 24zabrze.pl,tko.pl##.adv-link
 dlaprodukcji.pl##.adv-wide
@@ -1397,7 +1397,6 @@ bobrzanie.pl##.homeadv
 skawinska.pl##.homepage-ad-area
 firmypolski.pl##.hot-info-slider
 fakt.pl##.hot_three.promo_box
-rdn.pl##.hred_cont_re
 korsokolbuszowskie.pl##.iad
 muzyczneradio.pl##.idBanner4
 zalukaj.cc##.iii > #aab
