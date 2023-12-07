@@ -234,8 +234,18 @@ resonate.coop,northgatevehiclehire.ie##+js(set-cookie, cookieconsent_status, all
 bvmed.de##+js(set-cookie, MATOMO_CONSENT_GIVEN, 0)
 ! Rule "calendardate.com##+js(set-cookie, warn, true)" converted to: "calendardate.com#%#//scriptlet('ubo-set-cookie.js', 'warn', 'true')"
 calendardate.com##+js(set-cookie, warn, true)
+! Rule "brettspiel-angebote.de##+js(set-cookie, privacy-shown, true)" converted to: "brettspiel-angebote.de#%#//scriptlet('ubo-set-cookie.js', 'privacy-shown', 'true')"
+brettspiel-angebote.de##+js(set-cookie, privacy-shown, true)
+! Rule "brettspiel-angebote.de##+js(set-cookie, slimstat_optout_tracking, true)" converted to: "brettspiel-angebote.de#%#//scriptlet('ubo-set-cookie.js', 'slimstat_optout_tracking', 'true')"
+brettspiel-angebote.de##+js(set-cookie, slimstat_optout_tracking, true)
 ! Rule "nio.com##+js(set-cookie, npp_analytical, 0)" converted to: "nio.com#%#//scriptlet('ubo-set-cookie.js', 'npp_analytical', '0')"
 nio.com##+js(set-cookie, npp_analytical, 0)
+! Rule "kancelarskepotreby.net##+js(set-cookie, inshopCookiesSet, true)" converted to: "kancelarskepotreby.net#%#//scriptlet('ubo-set-cookie.js', 'inshopCookiesSet', 'true')"
+kancelarskepotreby.net##+js(set-cookie, inshopCookiesSet, true)
+! Rule "kancelarskepotreby.net##+js(set-cookie, adsCookies, false)" converted to: "kancelarskepotreby.net#%#//scriptlet('ubo-set-cookie.js', 'adsCookies', 'false')"
+kancelarskepotreby.net##+js(set-cookie, adsCookies, false)
+! Rule "kancelarskepotreby.net##+js(set-cookie, performanceCookies, false)" converted to: "kancelarskepotreby.net#%#//scriptlet('ubo-set-cookie.js', 'performanceCookies', 'false')"
+kancelarskepotreby.net##+js(set-cookie, performanceCookies, false)
 ! Rule "segment-anything.com##+js(set-cookie, sa_demo, false)" converted to: "segment-anything.com#%#//scriptlet('ubo-set-cookie.js', 'sa_demo', 'false')"
 segment-anything.com##+js(set-cookie, sa_demo, false)
 ! Rule "sketch.metademolab.com##+js(set-cookie, animated_drawings, true)" converted to: "sketch.metademolab.com#%#//scriptlet('ubo-set-cookie.js', 'animated_drawings', 'true')"

@@ -1,7 +1,7 @@
 !
 ! Title: List-KR for AdGuard
 ! Description: List-KR for AdGuard. Maintained by the adblock community and AdGuard.
-! OriginalVersion: 2023.1206.0
+! OriginalVersion: 2023.1207.0
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! Support: https://github.com/List-KR/List-KR/issues/223
@@ -3239,6 +3239,10 @@ aagag.com#@#ins.adsbygoogle
 aagag.com#$#.la { height: 75px !important; width: 75px !important; visibility: hidden !important; }
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest
 !
+sbs.co.kr#%#//scriptlet('prevent-element-src-loading', 'script', 'imasdk.googleapis.com/js/sdkloader/ima3.js')
+!#if (adguard_app_ios)
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=sbs.co.kr
+!#endif
 !#if (adguard_app_android)
 bera.world,sellas.ink,1412.live#$#[class^="document_"].xe_content { display: block !important; height: 100% !important; }
 bera.world,sellas.ink,1412.live#$#.et_vars { height: auto !important; overflow: visible !important; }
@@ -3398,6 +3402,7 @@ te31.com#@#.textAd
 te31.com#@#.text_ad
 te31.com#@#.text_ads
 !
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=sbs.co.kr
 @@||zuzunza.com^$generichide
 @@||zuzunza.com/theme/BS4-Basic/storage/image/logo-zlogo*#ad&adv_keywords=
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=3dpchip.com
