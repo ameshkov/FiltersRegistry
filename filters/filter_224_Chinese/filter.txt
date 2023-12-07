@@ -5822,6 +5822,9 @@ newduba.cn###jq_youxi
 ||rfxnff.xyz^
 ||iephrenhq.com^
 ||nwpcptmm.xyz^
+||maxun066.top^
+||maxun118.top^
+##a[href*=".mhtimes.cn"]
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]

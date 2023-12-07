@@ -1,8 +1,8 @@
 !
-! Checksum: M1Q84+2ZnnpAWdtEWbMP2g
-! OriginalVersion: 202312062015
+! Checksum: iD7+7bPiLinjWkMS9wQGhA
+! OriginalVersion: 202312070030
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-12-06 20:15 UTC
+! Last modified: 2023-12-07 00:30 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -36621,6 +36621,7 @@ fastcompany.com##.fancybox-overlay
 huckberry.com##.modal-content
 huckberry.com##.fade
 ! bestrecipes.com.au (forced login)
+! xda-developers.com (forced login)
 ! opensecrets.org
 opensecrets.org##.is-visible.js-init.Modal
 ! abhiandroid.com
@@ -43109,6 +43110,7 @@ unchainedcrypto.com###block-10 > .container > .background-gradient
 esquireme.com###block-12
 musically.com###block-15
 airfactsjournal.com###block-2
+newsroom.co.nz###block-24
 breathedreamgo.com###block-4
 spacenews.com###block-5
 decode39.com###block-8
@@ -45892,6 +45894,7 @@ fastcompany.com##.fancybox-overlay
 huckberry.com##.modal-content
 huckberry.com##.fade
 ! bestrecipes.com.au (forced login)
+! xda-developers.com (forced login)
 ! opensecrets.org
 opensecrets.org##.is-visible.js-init.Modal
 ! abhiandroid.com
