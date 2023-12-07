@@ -1,8 +1,8 @@
 !
-! Checksum: lkhI3xX4h7CxJc6aldRskg
-! OriginalVersion: 202312071251
+! Checksum: ZV5AKkuyhU7cNG3yVP24Ww
+! OriginalVersion: 202312071650
 ! Title: EasyList
-! Last modified: 07 Dec 2023 12:51 UTC
+! Last modified: 07 Dec 2023 16:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -752,6 +752,7 @@
 /css/adv.
 /cubead.
 /curveball/ads/*
+/custom_ads.js
 /customad.js
 /defaults_ads/*
 /deliverad/fc.js
@@ -7850,7 +7851,6 @@ _800x80_
 ##.ad-disclaimer-text
 ##.ad-display
 ##.ad-displayed
-##.ad-div
 ##.ad-div-a0-wrapper
 ##.ad-div-t0-wrapper
 ##.ad-diver
@@ -18436,7 +18436,7 @@ wiki.fextralife.com#@#.ad-sidebar
 wegotads.co.za#@#.ad-source
 isewanferry.co.jp,jreu-h.jp,junkmail.co.za,nexco-hoken.co.jp,version2.dk#@#.ad-text
 job.inshokuten.com#@#.ad-title
-lifeinvader.com,spanishdict.com,studentski-servis.com#@#.ad-wrapper
+lifeinvader.com,marginalreport.net,spanishdict.com,studentski-servis.com#@#.ad-wrapper
 leffatykki.com#@#.ad728x90
 cw.com.tw#@#.adActive
 thoughtcatalog.com#@#.adChoicesLogo
@@ -18558,7 +18558,6 @@ austurfrett.is,boards.4chan.org,boards.4channel.org#@#.middlead
 sankei.com#@#.module_ad
 seura.fi,www.msn.com#@#.nativead
 dogva.com#@#.node-ad
-youtube.com#@#.overlay-ads
 bloomberg.com#@#.page-ad
 rottentomatoes.com#@#.page_ad
 player.ex.co,theautopian.com#@#.pbs__player
@@ -18584,7 +18583,7 @@ k24tv.co.ke#@#.top-ad
 cp24.com#@#.topAd
 outinthepaddock.com.au#@#.topads
 codedevstuff.blogspot.com,hassiweb-programming.blogspot.com#@#.vertical-ads
-ads.google.com,youtube.com#@#.video-ads
+ads.google.com#@#.video-ads
 javynow.com#@#.videos-ad
 sacbee.com#@#.wps-player-wrap
 gumtree.com.au#@#[data-ad-name]
@@ -26278,6 +26277,7 @@ browsershots.org#@#.advert_area
 ||demurerbewary.live^
 ||denansgdfier.info^
 ||denansgdfierc.com^
+||denarocepa.com^
 ||denbeigemark.com^
 ||denbsd.com^
 ||dencejvlq.com^
@@ -42102,6 +42102,7 @@ browsershots.org#@#.advert_area
 ||savouryadolescent.com^
 ||savoyedpollet.life^
 ||savtvkdny.xyz^
+||sawalinitwits.com^
 ||sawanincreasein.info^
 ||saweatherco.com^
 ||sawfishdiapsid.com^
@@ -43038,6 +43039,7 @@ browsershots.org#@#.advert_area
 ||slimlyeneas.com^
 ||slimreply.pro^
 ||slimy-sport.pro^
+||slinkyfoliot.com^
 ||slipperspinchingsyntax.com^
 ||slipperswallpaper.com^
 ||slippery-bed.pro^
@@ -43674,6 +43676,7 @@ browsershots.org#@#.advert_area
 ||starvationdefence.com^
 ||starvegingerwaist.com^
 ||starverwear.com^
+||starvybryan.com^
 ||stastips.net^
 ||stat-rock.com^
 ||statcamp.net^
@@ -44292,6 +44295,7 @@ browsershots.org#@#.advert_area
 ||syruphamster.com^
 ||sysdmt.com^
 ||syseinpoundaym.info^
+||sysoutvariola.com^
 ||system-notify.app^
 ||systeme-business.online^
 ||systemengagedwisely.com^
@@ -45727,10 +45731,12 @@ browsershots.org#@#.advert_area
 ||tuffoonincaged.com^
 ||tufteraureous.digital^
 ||tugarmyindistinct.com^
+||tuglikevertigo.com^
 ||tugust.com^
 ||tuitionpancake.com^
 ||tujajnatzbmo.com^
 ||tujourda.net^
+||tukeelsy.com^
 ||tukulordimera.com^
 ||tulasitoughie.com^
 ||tuleceti.com^
@@ -45883,6 +45889,7 @@ browsershots.org#@#.advert_area
 ||tytothwarts.com^
 ||tytyeastfeukufun.info^
 ||tywdchppfgds.xyz^
+||tzaristdiploma.com^
 ||tzegilo.com^
 ||tzgygfy.com^
 ||tzugumojfm.com^
@@ -63677,9 +63684,7 @@ youtube.com###related > div#player-ads
 youtube.com###ytd-player button.ytp-suggested-action-badge
 youtube.com##.ad-showing > .html5-video-container
 youtube.com##.companion-ad-container
-youtube.com##.list-view[style="margin: 7px 0pt;"]
 youtube.com##.promoted-sparkles-text-search-root-container
-youtube.com##.promoted-videos
 youtube.com##.statement-banner-foreground-content
 youtube.com##.ytd-action-companion-ad-renderer
 youtube.com##.ytd-carousel-ad-renderer

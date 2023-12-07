@@ -1,7 +1,7 @@
 !
 ! Title: List-KR for AdGuard
 ! Description: List-KR for AdGuard. Maintained by the adblock community and AdGuard.
-! OriginalVersion: 2023.1207.0
+! OriginalVersion: 2023.1207.2
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! Support: https://github.com/List-KR/List-KR/issues/223
@@ -1409,7 +1409,7 @@ mydaily.co.kr,section.cafe.naver.com,mlbpark.donga.com,forwarder.kr,kwnews.co.kr
 ! ##div[class^="ad"]
 m.gamechosun.co.kr,hub.zum.com,news.heraldcorp.com,lalawin.com,badayak.com,ujnews.co.kr,realty.chosun.com,koreadaily.com,it.chosun.com,m.fmkorea.com,maple.gg,ytn.co.kr,www.ebs.co.kr,newsis.com,m.newsen.com,jwmx.tistory.com,thespike.co.kr,hobbyen.co.kr,socialvalue.kr,entertainpost.com,m.moneys.co.kr,basketkorea.com,m.ohmynews.com,heraldcorp.com,slrclub.com##div[class^="ad"]
 ! ##div[class^="banner_"]
-gqkorea.co.kr,beyondpost.co.kr,m.fomos.kr,m.kin.naver.com,jjan.kr,m.sports.naver.com,newspic.kr,www.ebs.co.kr,prod.danawa.com,auth.danawa.com,socialvalue.kr,news.jtbc.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
+m.hub.zum.com,gqkorea.co.kr,beyondpost.co.kr,m.fomos.kr,m.kin.naver.com,jjan.kr,m.sports.naver.com,newspic.kr,www.ebs.co.kr,prod.danawa.com,auth.danawa.com,socialvalue.kr,news.jtbc.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
 ! ##div[class$="Banner"]
 mimint.co.kr,economist.co.kr,dailian.co.kr,bigkinds.or.kr,hungryapp.co.kr,rhythmer.net##div[class$="Banner"]
 ! ##div[class$="banner"]
@@ -2626,6 +2626,7 @@ auto.danawa.com#%#//scriptlet('set-constant', 'NAVER_ADPOST_V2', 'noopFunc')
 !#endif
 !#endif
 !#if (adguard && !adguard_ext_android_cb)
+m.hub.zum.com#$#.banner_slot_top + #container .article_cover { top: 100px !important; }
 mlbpark.donga.com#$#div[id^="SmartPhone_"][id$="_today"] .lists > li::before { padding-top: 0px !important; border-bottom: none !important; }
 thehousemagazine.kr,tminews.co.kr,maxmovie.kr,capress.kr,youtu.co,dfast.kr,mememedia.co.kr,newautopost.co.kr#$#.news-view-wrap { padding-top: 0px !important; }
 gall.dcinside.com#$##zzbang_img { display: block !important; }
@@ -3076,6 +3077,7 @@ blacktoon253.com,blacktoon254.com,blacktoon255.com,blacktoon256.com,blacktoon257
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet('abort-current-inline-script', 'popMagic.init')
 !
+hub.zum.com#%#//scriptlet('set-constant', 'Math.uuid', '', '', 'asFunction')
 sbs.co.kr#%#//scriptlet('hide-in-shadow-dom', 'sbs-player-ad-wrapper', 'sbs-player[media]')
 youtu.co,dfast.kr#%#//scriptlet('prevent-addEventListener', 'hashchange', '#viewus-explore-more')
 mememedia.co.kr#%#//scriptlet('set-constant', 'jQuery.fn.getUrlParameter', '', '', 'asFunction')
