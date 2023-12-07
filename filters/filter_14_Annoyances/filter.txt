@@ -2319,6 +2319,7 @@ thepopverse.com,cmp.chip.de,cmpv2.netdoktor.ch,cmp.videogameschronicle.com,cmp.s
 !
 ! NOTE: Regular rules
 !
+fdrive.cz##.cmp__wrapper
 joyn.at#%#//scriptlet('set-local-storage-item', 'uc_user_interaction', 'true')
 joyn.at#%#//scriptlet('trusted-set-local-storage-item', 'uc_settings', '{"controllerId":"1","id":"1","language":"de","version":"1"}')
 windowspower.de#%#//scriptlet('trusted-click-element', 'a[href="#"][data-order="1"][role="button"]')
@@ -17676,8 +17677,10 @@ kokaihop.se#@#.cookiePolicy:not(body):not(html)
 rtlxl.nl#@##onetrust-consent-sdk
 ! https://github.com/AdguardTeam/AdguardFilters/issues/65978
 trixie.de#@#.cookie_accept
+! https://github.com/AdguardTeam/AdguardFilters/issues/167939
 ! https://github.com/AdguardTeam/AdguardFilters/issues/80283
 ! https://github.com/AdguardTeam/AdguardFilters/issues/65868
+@@||collector.appconsent.io/hello$domain=linternaute.com
 @@||cdn.appconsent.io/*.js$domain=journaldesfemmes.fr|linternaute.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/109240
 ! https://github.com/AdguardTeam/AdguardFilters/issues/65752
