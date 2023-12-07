@@ -1856,7 +1856,6 @@ fsylr.com##.plus_r
 9uu.com##.gao-wrapper
 ||n.sinaimg.cn/sinakd10117/*/bd54-kentcvx6065228.png
 theav.xyz##div[v-if="is_show()"]
-v.qq.com##.video-card-module > div[dt-params*="ad_creative_id="]
 1010dy3.com##div[id^="slide"]
 1010dy3.com###arBRyGHxuDYU
 91rb99.com##.top
@@ -3727,6 +3726,7 @@ nfmovies.com#@?#div[id]:-abp-has(>img[onclick="openurl()"])
 /guanggao2.
 /gubawap/ad/*
 /gwunggou/*
+.com/rs/shto/$third-party
 /h/k.php?u=*&l=*&v=$third-party
 /hao123_api/api/cpc/*
 /haojio/images/KF-ZL.jpg
@@ -5833,6 +5833,7 @@ newduba.cn###jq_youxi
 ||manymgsgn.com^
 ||bmatgg18.xyz^
 ||44180055.cn^
+||ysxt9.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]

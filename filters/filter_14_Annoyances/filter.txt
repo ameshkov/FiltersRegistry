@@ -2643,7 +2643,9 @@ sakhaday.ru###personalDataPolicy
 app.programme.conventus.de##ion-app > #ion-overlay-1
 digiturk.com.tr###app_cookieconsent
 account.samsung.com##eu-cookie-action-bar
-account.samsung.com##.MuiGrid-container > .MuiBox-root[style^="transform: none; transition: transform 225ms cubic-bezier"]
+v3.account.samsung.com#$#body[style] { overflow: auto !important; padding-right: 0 !important; }
+v3.account.samsung.com#$?#body > .MuiDrawer-root:has(>.MuiModal-backdrop[style^="opacity: 1; transition: opacity 225ms cubic-bezier"] ~ .MuiPaper-root[style^="transform: none; transition: transform 225ms cubic-bezier"]) { display: none !important; }
+v3.account.samsung.com#%#//scriptlet('set-cookie', 'sa_enable', 'off')
 infranken.de#%#//scriptlet('trusted-click-element', '#cmpbntyestxt')
 cursorinfo.co.il#%#//scriptlet('remove-attr', 'style', 'html,body')
 cursorinfo.co.il#$##cmp-iframe { display: none !important; }
@@ -9550,7 +9552,7 @@ stayer.su##.info-panel
 millet-mountain.com##.banner-cookies-alert
 shop-lot.ru###jnr-cookie
 bazaraki.com,market.fenerium.com,istegelsin.com##.privacy-cookies
-imobie.jp,imobie.com##.fixedbot
+ioforth.com,imobie.jp,imobie.com##.fixedbot
 scania.com##c-cookie
 ||cdn.ethyca.com/org/*/cookie.js
 dutchbros.com,stentime.si,comune.lavis.tn.it,w-poblizu.pl,edisonmail.com,brandible.de,epubli.de,bmsofort.de,dogemate.com###cconsent-bar
@@ -12829,6 +12831,11 @@ xhtab2.com,xhamster20.desi,xhamster19.desi,xhwebsite2.com,xhamster18.desi,xhadul
 !
 ! adguard - cookies
 adguardvpn-help.com,adguard-vpn.info,adguard-dns.io,adguard-vpn.net,adguard-vpn.com,adguard.info,adguard.app,adguard.com##.sticky-bar--cookie
+! https://github.com/AdguardTeam/AdguardFilters/issues/167649
+!#if (adguard_app_ios)
+ajc.com#%#//scriptlet('remove-class', 'tp-scroll-prevented', 'html')
+ajc.com#%#//scriptlet('remove-class', 'tp-body-scroll-prevented', 'body')
+!#endif
 ! https://github.com/AdguardTeam/AdguardFilters/issues/163230
 !#if (ext_ublock)
 pizzafan.gr#$#.modal-backdrop { display: none !important; }
@@ -31060,6 +31067,7 @@ newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,nordbayern.de,theloca
 !
 ! SECTION: Subscriptions - Regular rules
 !
+dealmoon.com##.dm-newsletter-subscribe
 haber.doviz.com##.follow-google-news
 zonealarm.com#%#//scriptlet('set-session-storage-item', 'modal-newsletter', 'false')
 esports.gg#?#.order-3 > .items-center > .p-6:has(> .my-3 > input[placeholder="Enter your email address"])
@@ -37430,6 +37438,9 @@ turkishairlines.com,atmos-tokyo.com,radarbox.com,ciceksepeti.com,rabota.by,temp-
 ! https://github.com/AdguardTeam/AdguardFilters/issues/161301
 temu.com#?#div[role="main"] div[style] > div[style]:has(> div[style] div[js-selector="mobile-download-ui"])
 !
+snapchat.com##div[class^="Footer_baseMobile__"]
+snapchat.com##div[class^="CTAModal_"]
+dealmoon.com#?#body > .dm-right-float:has(p:contains(/APP|App/))
 commonsensemedia.org###cta-modal-block
 m.qdmm.com#?#.y-popup:has(> .y-mask:first-child + .y-popup__content--bottom:last-child)
 m.qdmm.com##div[data-bid][data-type="dl"]
@@ -39377,7 +39388,7 @@ m.gamer.com.tw##.dialogify
 m.guancha.cn##.content_appstore
 m.guancha.cn##.downloadBtn-box
 aksarayhaber68.com##a[href="https://play.google.com/store/apps/details?id=com.aksarayhaber.altmissekiz"]
-ngoisao.net,vc.ru,spark.ru,dtf.ru##.download_app
+dealmoon.com,ngoisao.net,vc.ru,spark.ru,dtf.ru##.download_app
 eiga.com###app-notice
 motorsport.com##.ms-side-widget--promo-app
 motorsport.com##.ms-promo-widget--app
@@ -44010,6 +44021,8 @@ yandex.*##.meteum-promo
 [$path=/maps]yandex.*#?#.toponym-service-orgs > div[data-chunk="search-snippet"]:has(> a.search-lavka-view)
 [$path=/maps]yandex.*#?#.business-card-view__orgpage-actions div.carousel__item > div._type_action_button > a[role] > span:contains(Скачать приложение)
 [$path=/maps]yandex.*##.business-card-view__main-wrapper div.card-offer-view
+[$path=/maps]yandex.*##.business-card-title-view__advert
+[$path=/maps]yandex.*##.business-card-title-view__actions .button._view_advertisement
 !
 ! Yandex.Music
 music.yandex.*#$#html > body.no-scroll { overflow: auto !important; }
