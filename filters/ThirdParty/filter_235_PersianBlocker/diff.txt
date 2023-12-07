@@ -400,8 +400,8 @@ divar.ir##a.button-row-item[href^="https://open-platform-redirect.divar.ir?app_s
 ||downloadha.com/pic/top-posts-ads.png^$image,xhr
 ! Rule "||downloadha.com/pic/*.gif^$image,1p" converted to: "||downloadha.com/pic/*.gif^$image,~third-party"
 ||downloadha.com/pic/*.gif^$image,1p
-! Rule "||download.ir/api/geoip$xhr,1p" converted to: "||download.ir/api/geoip$xmlhttprequest,~third-party"
-||download.ir/api/geoip$xhr,1p
+! Rule "||vidiran.com^$3p,domain=download.ir" converted to: "||vidiran.com^$third-party,domain=download.ir"
+||vidiran.com^$3p,domain=download.ir
 ! Rule "eghtesadgardan.ir##.container:style(width: 95% !important;)" converted to: "eghtesadgardan.ir#$#.container { width: 95% !important; }"
 eghtesadgardan.ir##.container:style(width: 95% !important;)
 ! Rule "eghtesadepooya.ir##.container:style(width: 95% !important;)" converted to: "eghtesadepooya.ir#$#.container { width: 95% !important; }"
@@ -2244,6 +2244,8 @@ rasm.io##+js(set-local-storage-item, VisitedCompanies, $remove$)
 takhfifan.com##input.filter:remove-attr(disabled)
 ! Error: "Unknown pseudo-class ':remove-class' in selector: 'input.filter:remove-class(filter)'" in the rule: "takhfifan.com##input.filter:remove-class(filter)"
 takhfifan.com##input.filter:remove-class(filter)
+! Error: Invalid selector: '+js(href-sanitizer, article[data-post-id] > div.post-content > div.post-body a[href^="https://l.vrgl.ir/r?"][href*="&l=http"], ?l)' -- '+js(href-sanitizer, article[data-post-id] > div.post-content > div.post-body a[href^="https://l.vrgl.ir/r?"][href*="&l=http"], ?l)' is not a valid selector in rule:
+virgool.io##+js(href-sanitizer, article[data-post-id] > div.post-content > div.post-body a[href^="https://l.vrgl.ir/r?"][href*="&l=http"], ?l)
 ! Error: Invalid selector: 'input[type="hidden"]:is(input#log_id, input#log_code):remove-attr(value)' -- Error: unable to select by 'input[type="hidden"]:remove-attr(value):is(input#log_id, input#log_code)' — unknown pseudo-class selector ':remove-attr(value):is(input#log_id, input#log_code)' in rule:
 virgool.io##input[type="hidden"]:is(input#log_id, input#log_code):remove-attr(value)
 ! Error: "Unknown modifier: from=vazeh.com" in the rule: "*$third-party,script,from=vazeh.com,to=sahandpress.ir|jaarchee.ir"

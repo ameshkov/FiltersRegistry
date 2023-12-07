@@ -1,9 +1,9 @@
 
-FiltersCompiler report 12/7/2023 5:00:18 PM:
+FiltersCompiler report 12/7/2023 9:00:20 PM:
 
 Filter ID: 101
 Filter name: EasyList
-Compiled rules: 65754
+Compiled rules: 65761
 Excluded rules: 46
 URL: https://easylist-downloads.adblockplus.org/easylist.txt
 INVALID RULES:
@@ -55,7 +55,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 107
 Filter name: EasyList Germany
-Compiled rules: 5399
+Compiled rules: 5404
 Excluded rules: 18
 URL: https://easylist.to/easylistgermany/easylistgermany.txt
 All rules are valid.
@@ -142,7 +142,7 @@ URL: https://adblock.gardar.net/is.abp.txt
 ---------------------------
 Filter ID: 120
 Filter name: AdBlockID
-Compiled rules: 5815
+Compiled rules: 5818
 Excluded rules: 1300
 URL: https://raw.githubusercontent.com/realodix/AdBlockID/main/dist/adblockid.adfl.txt
 INVALID RULES:
@@ -441,7 +441,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 232
 Filter name: KAD - Anti-Scam
-Compiled rules: 49087
+Compiled rules: 49125
 Excluded rules: 236
 URL: https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt
 INVALID RULES:
@@ -449,7 +449,7 @@ Error: "Rule has spaces, seems to be an host rule" in the rule: "||tereska .pl^$
 ---------------------------
 Filter ID: 233
 Filter name: Adblock List for Finland
-Compiled rules: 1548
+Compiled rules: 1547
 Excluded rules: 120
 URL: https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/gh-pages/Finland_adb.txt
 INVALID RULES:
@@ -464,8 +464,8 @@ All rules are valid.
 ---------------------------
 Filter ID: 235
 Filter name: Persian Blocker
-Compiled rules: 3444
-Excluded rules: 2250
+Compiled rules: 3446
+Excluded rules: 2252
 URL: https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlocker.txt
 INVALID RULES:
 Error: "Unknown modifier: strict3p" in the rule: "||websocket.*/?u=*&s=$websocket,~third-party,strict3p"
@@ -485,6 +485,7 @@ Error: Invalid selector: '+js(set-local-storage-item, VisitedCompanies, $remove$
 Error: "Unknown modifier: strict3p" in the rule: "*$image,strict3p,domain=rozup.ir"
 Error: "Unknown pseudo-class ':remove-attr' in selector: 'input.filter:remove-attr(disabled)'" in the rule: "takhfifan.com##input.filter:remove-attr(disabled)"
 Error: "Unknown pseudo-class ':remove-class' in selector: 'input.filter:remove-class(filter)'" in the rule: "takhfifan.com##input.filter:remove-class(filter)"
+Error: Invalid selector: '+js(href-sanitizer, article[data-post-id] > div.post-content > div.post-body a[href^="https://l.vrgl.ir/r?"][href*="&l=http"], ?l)' -- '+js(href-sanitizer, article[data-post-id] > div.post-content > div.post-body a[href^="https://l.vrgl.ir/r?"][href*="&l=http"], ?l)' is not a valid selector in rule: virgool.io##+js(href-sanitizer, article[data-post-id] > div.post-content > div.post-body a[href^="https://l.vrgl.ir/r?"][href*="&l=http"], ?l)
 Error: Invalid selector: 'input[type="hidden"]:is(input#log_id, input#log_code):remove-attr(value)' -- Error: unable to select by 'input[type="hidden"]:remove-attr(value):is(input#log_id, input#log_code)' — unknown pseudo-class selector ':remove-attr(value):is(input#log_id, input#log_code)' in rule: virgool.io##input[type="hidden"]:is(input#log_id, input#log_code):remove-attr(value)
 Error: "Unknown modifier: from=vazeh.com" in the rule: "*$third-party,script,from=vazeh.com,to=sahandpress.ir|jaarchee.ir"
 ---------------------------
@@ -606,7 +607,7 @@ URL: https://alleblock.pl/alleblock/alleblock.txt
 ---------------------------
 Filter ID: 246
 Filter name: EasyList Polish
-Compiled rules: 2549
+Compiled rules: 2550
 Excluded rules: 2
 URL: https://easylist-downloads.adblockplus.org/easylistpolish.txt
 All rules are valid.
@@ -22339,14 +22340,14 @@ All rules are valid.
 ---------------------------
 Filter ID: 14
 Filter name: AdGuard Annoyances filter
-Compiled rules: 52360
+Compiled rules: 52361
 Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/14.txt
 All rules are valid.
 ---------------------------
 Filter ID: 15
 Filter name: AdGuard DNS filter
-Compiled rules: 58915
+Compiled rules: 58937
 Excluded rules: 308
 URL: https://filters.adtidy.org/extension/chromium/filters/15.txt
 All rules are valid.
@@ -22396,14 +22397,14 @@ All rules are valid.
 ---------------------------
 Filter ID: 21
 Filter name: AdGuard Other Annoyances filter
-Compiled rules: 9451
+Compiled rules: 9452
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/21.txt
 All rules are valid.
 ---------------------------
 Filter ID: 224
 Filter name: AdGuard Chinese filter
-Compiled rules: 21980
+Compiled rules: 21981
 Excluded rules: 50
 URL: https://filters.adtidy.org/extension/chromium/filters/224.txt
 INVALID RULES:
@@ -22425,26 +22426,23 @@ All rules are valid.
 ---------------------------
 Filter ID: 2
 Filter name: AdGuard Base filter
-Compiled rules: 134804
-Excluded rules: 62
+Compiled rules: 134817
+Excluded rules: 56
 URL: https://filters.adtidy.org/extension/chromium/filters/2.txt
 INVALID RULES:
-Error: "Unknown pseudo-class ':h-\' in selector: '.justify-center > .w-full > .text-center[class^="h-\[100px\] md:h-\[90px\] xl:h-\[250px\]"]'" in the rule: "esports.gg##.justify-center > .w-full > .text-center[class^="h-\[100px\] md:h-\[90px\] xl:h-\[250px\]"]"
-Error: "Unknown pseudo-class ':h-\' in selector: '.justify-center > .w-full > .items-center > .text-center[class^="h-\[280px\] md:h-\[90px\] xl:h-\[250px\]"]'" in the rule: "esports.gg##.justify-center > .w-full > .items-center > .text-center[class^="h-\[280px\] md:h-\[90px\] xl:h-\[250px\]"]"
-Error: "Unknown pseudo-class ':h-\' in selector: '.justify-center > .w-full > div[class^="flex justify-around h-\[100px\] xl:h-\[250px\] mb-3 xl:max-w-\[970px\]"]:empty'" in the rule: "esports.gg##.justify-center > .w-full > div[class^="flex justify-around h-\[100px\] xl:h-\[250px\] mb-3 xl:max-w-\[970px\]"]:empty"
 Error: "Unknown modifier: webrtc" in the rule: "$webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepiratebay.org|thepiratebay10.org"
 Error: "Unknown modifier: webrtc" in the rule: "$webrtc,domain=ack.net|allthetests.com|azvideo.net|champion.gg|clicknupload.link|colourlovers.com|csgolounge.com|dispatch.com|fastplay.to|go4up.com|janjua.pw|janjua.tv|jpost.com|megaup.net|netdna-storage.com|ouo.io|ouo.press|rlslog.net|sourceforge.net|spanishdict.com|telegram.com|torlock.icu|torlock2.com|uptobox.com|uptobox.eu|uptobox.fr|uptobox.link|vidtodo.com|yts.gs|yts.mx"
 ---------------------------
 Filter ID: 3
 Filter name: AdGuard Tracking Protection filter
-Compiled rules: 79564
+Compiled rules: 79568
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/3.txt
 All rules are valid.
 ---------------------------
 Filter ID: 4
 Filter name: AdGuard Social Media filter
-Compiled rules: 14666
+Compiled rules: 14667
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/4.txt
 All rules are valid.
@@ -22458,14 +22456,14 @@ All rules are valid.
 ---------------------------
 Filter ID: 6
 Filter name: AdGuard German filter
-Compiled rules: 11854
+Compiled rules: 11859
 Excluded rules: 18
 URL: https://filters.adtidy.org/extension/chromium/filters/6.txt
 All rules are valid.
 ---------------------------
 Filter ID: 7
 Filter name: AdGuard Japanese filter
-Compiled rules: 10579
+Compiled rules: 10580
 Excluded rules: 8
 URL: https://filters.adtidy.org/extension/chromium/filters/7.txt
 All rules are valid.

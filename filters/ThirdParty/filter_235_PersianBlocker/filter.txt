@@ -8,6 +8,9 @@
 ! مشارکت: https://github.com/MasterKia/PersianBlocker/pulls
 !  لیستی برای برگرداندن آزادی کاربران، چون هر کاربر این آزادی را دارد که چه چیزی وارد مرورگرش می‌شود و چه چیزی وارد نمی‌شود
 !-------------------------v Experimental Generic Filters v-----------------------!
+! download.ir, fastmobile.ir, par30games.net, roozdl1.ir
+~arongroups.site,~arongroups.co##a[href^="https://arongroups.site/"]
+~arongroups.site,~arongroups.co##a[href^="https://arongroups.co/"]
 ! Popup: needpop (vc_url)
 artmusics.top,musicpars3.ir,musicguitars.ir,subf2m.ir,zeemusic.ir,najiremix.ir,musichi.ir,likeemusic.ir#%#//scriptlet('ubo-nowoif.js')
 ! rouydad24.ir, ibena.ir, tejaratemrouz.ir, irdc.ir
@@ -969,11 +972,10 @@ doostihaa.com##aside.lefts_sides:has(> div.txt_letfs > ul.ads_txtcv)
 ||downloadha.com/pic/*.gif^$image,~third-party
 downloadha.com##div.popup-ads
 downloadha.com##div.ads
-||download.ir/api/geoip$xmlhttprequest,~third-party
-download.ir##.top-full-ads
-download.ir##.parsi-ads:upward(.widget)
-download.ir##aside > .widget .textwidget-title:has-text(تبلیغات):upward(.widget)
-download.ir##aside img[alt="جایگاه تبلیغات"]
+||analytics.hostiran.net^
+||vidiran.com^$third-party,domain=download.ir
+download.ir##div.top-full-ads
+download.ir##div.textwidget:has(> div.parsi-ads)
 ! >> E <<
 web.eitaa.com##div.chatlist-parts > div.chatlist-top > ul.ads-dialog-box
 ! https://github.com/MasterKia/PersianBlocker/issues/174
@@ -1076,7 +1078,6 @@ fileboro.com#%#//scriptlet('ubo-acis.js', 'document.onselectstart', 'killCopy')
 fileboro.com#%#//scriptlet('ubo-aopw.js', 'document.oncopy')
 fileboro.com##div.ads-content
 ||filmtarin.com^$third-party,domain=fastmobile.ir
-fastmobile.ir##a[href^="https://arongroups.site/"]
 fastmobile.ir##div#ADbox-1
 fastmobile.ir##div#phon
 ! https://github.com/MasterKia/PersianBlocker/issues/199
@@ -1781,7 +1782,6 @@ najiremix.ir$$script[tag-content="window.location="][max-length="262144"]
 najiremix.ir#%#//scriptlet('ubo-rmnt.js', 'script', 'window.location=')
 !#endif
 najiremix.ir##div.is_ads
-najiremix.ir##a[href^="https://arongroups.co/"]
 ||oscaranimation.in^
 ||xxx.atlas-music.ir/tab.php^$subdocument,third-party
 *$script,third-party,domain=nex11music.ir|show-music.ir
@@ -2008,7 +2008,6 @@ par30games.net#$#body { background-image: none !important; }
 par30games.net##article.fixedadv:not(:has(> div.fixedadvcontent > a[href="https://www.youtube.com/c/Par30Game"]))
 par30games.net##section.sidebar-box-shop
 par30games.net##div.adbox
-par30games.net##a[data-wpel-link="external"][href*="arongroups"]
 ||paperhub.ir/images/*.gif
 p30world.com##.post-ads
 p30world.com##.sidebar-ads
@@ -2091,6 +2090,9 @@ rastannews.ir##.all_ads
 ||rajanews.com/sites/default/files/superadmin/*.gif
 rajanews.com###block-block-22.ads
 ! >> S <<
+! https://github.com/MasterKia/PersianBlocker/issues/213
+7sobh.com##div.container-ads
+7sobh.com##div.left-ads
 ! On sepehrtv.ir:
 ||analytics.eirib.ir^
 ||statistics.iriborg.ir^
@@ -2649,13 +2651,13 @@ vipofilm.com##aside > .title:has-text(تبلیغات):upward(aside)
 ! https://github.com/uBlockOrigin/uAssets/issues/12411
 vakil.net#%#//scriptlet('ubo-acis.js', 'document.oncontextmenu')
 vakil.net#$#* { -webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important; }
+! https://github.com/MasterKia/PersianBlocker/issues/215
 ||virgool.io^$removeparam=source
 ||sentry.virgool.io^$~third-party
 ||countly.virgool.io/sdk/web/countly.min.js^$script,~third-party
 virgool.io##div.js-userLogin-popup
 virgool.io##div.feedAdsBox
 virgool.io##aside[class]:has(> a[href^="https://l.vrgl.ir/r?l=http"][target="_blank"]:has-text(تبلیغات))
-virgool.io##article[data-post-id] > div.post-content > div.post-body a[href^="https://l.vrgl.ir/r?ad=1&l=http"]
 ! https://github.com/MasterKia/PersianBlocker/pull/10
 ! https://github.com/MasterKia/PersianBlocker/pull/15
 vgdl.ir##div#ads__start_of_the_post

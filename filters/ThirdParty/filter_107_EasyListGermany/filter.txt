@@ -1,7 +1,7 @@
 !
-! OriginalVersion: 202312071635
+! OriginalVersion: 202312071930
 ! Title: EasyList Germany
-! Last modified: 07 Dec 2023 16:35 UTC
+! Last modified: 07 Dec 2023 19:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3032,6 +3032,7 @@ bauexpertenforum.de###leaderboardBelowNav
 koelner.de###leaderboard_nav
 anime-loads.org###leaderwidget
 macwelt.de,pcwelt.de###leadfullWrapper
+autouncle.de###left-banner-container
 kleinanzeigen.de###liberty-home-above-header
 kleinanzeigen.de###liberty-home-billboard
 kleinanzeigen.de###liberty-vip-billboard
@@ -3141,6 +3142,7 @@ gelbeseiten.de###rectangles
 produck.de###rel-article
 pressecop24.com###responsive_lightbox_image_widget-5
 pressecop24.com###responsive_lightbox_image_widget-6
+autouncle.de###right-banner-container
 gebraucht-kaufen.de###right-banners
 nydus.org###right160x600
 tvhalle.de###rightCont
@@ -3897,7 +3899,7 @@ homeandsmart.de##.hs_anbieter_box_block
 boerse-online.de##.hsbc_homepage_topflop
 news.de##.ialayerContainer
 gmx.net,web.de##.iba-variant-test
-24rhein.de,az-online.de,bgland24.de,buzzfeed.at,buzzfeed.de,bw24.de,chiemgau24.de,come-on.de,costanachrichten.com,fnp.de,fr.de,hallo-muenchen.de,hna.de,ingame.de,innsalzach24.de,kreiszeitung.de,mangfall24.de,merkur.de,rosenheim24.de,sauerlandkurier.de,soester-anzeiger.de,tz.de,wa.de,wasserburg24.de##.id-TBeepSlot
+24auto.de,24garten.de,24rhein.de,24royal.de,24vita.de,az-online.de,bgland24.de,buzzfeed.at,buzzfeed.de,bw24.de,chiemgau24.de,come-on.de,costanachrichten.com,fnp.de,fr.de,hallo-muenchen.de,hna.de,ingame.de,innsalzach24.de,kreiszeitung.de,mangfall24.de,merkur.de,rosenheim24.de,sauerlandkurier.de,soester-anzeiger.de,tz.de,wa.de,wasserburg24.de##.id-TBeepSlot
 pcwelt.de##.idgAmazonTextV2
 computerwoche.de,tecchannel.de##.idgLeaderBoard
 channelpartner.de##.idgWebcastsCarousel
@@ -3966,6 +3968,7 @@ wohnidee.wunderweib.de##.logo-slider
 zfans.de##.logo_rechts_mitte
 thsv-eisenach.de##.logos
 tv.herthabsc.com##.logos-partner-holder
+wallstreet-online.de##.lynxAds
 stuttgarter-nachrichten.de##.m-weekli
 juedische-allgemeine.de##.magazinteaser
 filmstarts.de##.main-banner
@@ -4700,6 +4703,7 @@ t-online.de,www-t--online-de.cdn.ampproject.org##div[class^="Tsshopst"]
 sport.de##div[class^="ada-preservespace-"]
 berliner-zeitung.de##div[class^="article_billboard-"]
 2ix2.com##div[class^="bireklam"]
+experten.de##div[class^="c-ad-exper-"]
 costanachrichten.com##div[class^="lp_track_"]
 morecore.de##div[class^="morec-"]
 emtb-news.de,mtb-news.de##div[class^="mtbnews-ad-container"]
@@ -4867,6 +4871,7 @@ nydus.org##div[style="overflow:hidden;border: 1px solid #ccc;background:#f7f7f7;
 sprachnudel.de##div[style="padding:5px 0 5px 0;"][align="center"]
 weristdeinfreund.de##div[style="position:absolute; top:5px; left:0px; text-align:center; width:100%; max-width:1000px; height:90px; overflow:hidden;"]
 4fansites.de##div[style="text-align: center; min-height: 110px;"]
+autouncle.de##div[style="text-align: center; min-height: 180px;"]
 4fansites.de##div[style="text-align: center; min-height:260px;"]
 quoka.de##div[style="width: 100%; height: 250px; overflow: hidden; text-align: center; padding-top: 10px;"]
 stroxley.de##div[style="width: 160px; height: 600px; margin: auto;"]
