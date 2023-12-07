@@ -103,6 +103,8 @@ instagram.com##._aagw:empty
 !
 ! End: Instagram.com
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/167620
+tunnelbear.com##.view-content > div > .badge > a[href="https://www.tunnelbear.com/blog/lets-talk-about-racism/"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/167558
 fotomac.com.tr##.google-news-widget
 ! https://github.com/AdguardTeam/AdguardFilters/issues/167641
@@ -3291,6 +3293,8 @@ www.kinopoisk.ru##div[class^="trailer-promo"]
 ! END: Yandex
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/167675
+iqiyi.com#?#body > .header__ele:has(> .header__toast:contains(VIP))
 ! freundin.de - banner ad at top to buy their magazine for a reduced price
 freundin.de###abtestHeaderBannerCTA
 ! https://github.com/AdguardTeam/AdguardFilters/commit/b87b92051b9262e762ebba80b29b2b50a2949e03#commitcomment-133152994

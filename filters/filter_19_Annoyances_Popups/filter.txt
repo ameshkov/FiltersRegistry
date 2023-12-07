@@ -12944,7 +12944,7 @@ tulapressa.ru##.msg_fixed_bot
 log.com.tr##.google-news-subscribe
 chip.com.tr##.newsletter-side
 newgrodno.by##.subscribe__wrapper
-flicksbar.lol,flicksbar.club###tgWrapper
+flicksbar.fun,flicksbar.lol,flicksbar.club###tgWrapper
 theconversation.com##.promo
 moneycontrol.com#$##all_login_popup { display: none !important; }
 moneycontrol.com#$#body.modal-open { overflow: auto !important; }
@@ -18060,7 +18060,7 @@ ipress.ua###subscribe_us
 designmodo.com###subscribesinglepad
 cs-fundamentals.com###subscription-form
 theglobeandmail.com###subscription-pencil-area
-outsidethebox.ms###subscription-wrap
+mobalytics.gg,outsidethebox.ms###subscription-wrap
 championat.com###subscription_block
 naturallycurly.com###suscribe-form
 buzz.be.com###text-35

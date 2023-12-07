@@ -521,6 +521,8 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 !
 !
 !
+||dmp.eland-tech.com^
+||stat.gn01.top^
 ||ohmy.bid^
 ||nakanohito.jp^$third-party
 ||cpt.geniee.jp^
