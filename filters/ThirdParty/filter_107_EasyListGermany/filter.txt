@@ -1,7 +1,7 @@
 !
-! OriginalVersion: 202312071930
+! OriginalVersion: 202312072157
 ! Title: EasyList Germany
-! Last modified: 07 Dec 2023 19:30 UTC
+! Last modified: 07 Dec 2023 21:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5259,8 +5259,6 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||adsafeprotected.com/services/pub?anId=$xmlhttprequest,domain=gentside.de|ohmymag.de
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=gamestar.de|moviepilot.de
 @@||amazon-adsystem.com/widgets/q?*^ad_type=product_link^$subdocument,domain=fotoworkshop-stuttgart.de|kombi.de
-@@||anyclip.com/main.js?$script,domain=videos.heute.at
-@@||anyclip.com/static/js/$script,domain=videos.heute.at
 @@||asadcdn.com/adlib/$domain=autobild.de|rollingstone.de
 @@||asadcdn.com/adlib/$script,domain=sportbild.bild.de
 @@||asadcdn.com/adlib/adlib_seq.js$script,domain=stylebook.de
@@ -5300,7 +5298,7 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||ib.adnxs.com^$xmlhttprequest,domain=finanzen.ch
 @@||idealo.net/js/idealoWidget-$script,domain=travelbook.de
 @@||ikiosk.de/pdf/company/2/advertisement/$image,domain=ikiosk.de
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=atv.at|autobild.de|chip.de|computerbild.de|gentside.de|oe24.at|ohmymag.de|phonostar.de|schwaebische.de|spielaffe.de|sport.sky.de|videos.heute.at|wetteronline.de
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=atv.at|autobild.de|chip.de|computerbild.de|gentside.de|oe24.at|ohmymag.de|phonostar.de|schwaebische.de|spielaffe.de|sport.sky.de|wetteronline.de
 @@||img.classistatic.de/api/v1/mo-prod/images/ad/$image,domain=mobile.de
 @@||img.welt.de/img/Advertorials/$image,domain=welt.de
 @@||improvedigital.com/pbw/headerlift.min.js$domain=jetztspielen.de
