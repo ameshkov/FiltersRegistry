@@ -6,12 +6,12 @@
 !
 !For more information about this list, see: https://pgl.yoyo.org/adservers/
 !----
-!Last modified: Thu, 07 Dec 2023 11:18:00 GMT
+!Last modified: Fri, 08 Dec 2023 10:16:08 GMT
 !Homepage:      https://pgl.yoyo.org/adservers/
 !Format:        adblockplus
-!Entries:       3780
+!Entries:       3776
 !Credits:       Peter Lowe - pgl@yoyo.org - pgl on github - https://pgl.yoyo.org/
-!This URL:      https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext&title=list
+!This URL:      https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext
 !Policy:        https://pgl.yoyo.org/adservers/policy.php
 !Other formats: https://pgl.yoyo.org/adservers/formats.php
 !
@@ -475,7 +475,6 @@
 ||ads.gamigo.de^
 ||ads.gaming-universe.de^
 ||ads.gaming1.com^
-||ads.gaypoint.hu^
 ||ads.geekswithblogs.net^
 ||ads.getlucky.com^
 ||ads.gld.dk^
@@ -942,7 +941,6 @@
 ||alenty.com^
 ||alertafterthought.com^
 ||alexa-sitestats.s3.amazonaws.com^
-||alexametrics.com^
 ||algorix.co^
 ||aliasanvil.com^
 ||alikeaddition.com^
@@ -1043,7 +1041,6 @@
 ||as2.adserverhd.com^
 ||aserv.motorsgate.com^
 ||asewlfjqwlflkew.com^
-||asia999.website^
 ||aso1.net^
 ||assets1.exgfnetwork.com^
 ||assoc-amazon.com^
@@ -1257,6 +1254,7 @@
 ||bridgetrack.com^
 ||briefstem.com^
 ||brightcom.com^
+||brightinfo.com^
 ||brightmountainmedia.com^
 ||broadboundary.com^
 ||broadcastbed.com^
@@ -2178,7 +2176,6 @@
 ||l6b587txj1.com^
 ||lakequincy.com^
 ||lameletters.com^
-||lanistaads.com^
 ||larati.net^
 ||largebrass.com^
 ||laughablecopper.com^
@@ -3422,6 +3419,7 @@
 ||tour.brazzers.com^
 ||track.adform.net^
 ||track.anchorfree.com^
+||track.canva.com^
 ||track.contently.com^
 ||track.effiliation.com^
 ||track.flexlinks.com^
@@ -3529,7 +3527,6 @@
 ||trk.bc.shutterfly.com^
 ||trk.pinterest.com^
 ||trk.techtarget.com^
-||trk.us-learn-teacher-poetry.xyz^
 ||trk42.net^
 ||trkn.us^
 ||trknths.com^
@@ -3638,7 +3635,6 @@
 ||volatilevessel.com^
 ||voluum.com^
 ||voluumtrk2.com^
-||volvelle.tech^
 ||voyagepotato.com^
 ||vpon.com^
 ||vrs.cz^

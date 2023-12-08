@@ -1130,6 +1130,8 @@ safe.global##+js(set-local-storage-item, safe.global, false)
 jibjab.com##+js(set-local-storage-item, cookie_banner:hidden, true)
 ! Rule "filmzie.com##+js(set-local-storage-item, cookiesAccepted, false)" converted to: "filmzie.com#%#//scriptlet('ubo-set-local-storage-item.js', 'cookiesAccepted', 'false')"
 filmzie.com##+js(set-local-storage-item, cookiesAccepted, false)
+! Rule "vietjetair.com##+js(set-local-storage-item, accept_cookie_policy, true)" converted to: "vietjetair.com#%#//scriptlet('ubo-set-local-storage-item.js', 'accept_cookie_policy', 'true')"
+vietjetair.com##+js(set-local-storage-item, accept_cookie_policy, true)
 ! Rule "betterprogramming.pub,medium.com,500ish.com,gitconnected.com,bettermarketing.pub,diylifetech.com,thebolditalic.com,writingcooperative.com,fanfare.pub,betterhumans.pub##+js(set-local-storage-item, 201805-policy|accepted, 1)" converted to: "betterprogramming.pub,medium.com,500ish.com,gitconnected.com,bettermarketing.pub,diylifetech.com,thebolditalic.com,writingcooperative.com,fanfare.pub,betterhumans.pub#%#//scriptlet('ubo-set-local-storage-item.js', '201805-policy|accepted', '1')"
 betterprogramming.pub,medium.com,500ish.com,gitconnected.com,bettermarketing.pub,diylifetech.com,thebolditalic.com,writingcooperative.com,fanfare.pub,betterhumans.pub##+js(set-local-storage-item, 201805-policy|accepted, 1)
 ! Rule "kick.com##+js(set-local-storage-item, kick_cookie_accepted, true)" converted to: "kick.com#%#//scriptlet('ubo-set-local-storage-item.js', 'kick_cookie_accepted', 'true')"
@@ -2830,5 +2832,3 @@ kiertokanki.com##body:style(overflow: auto !important;)
 flip.bg##.modal-open:style(overflow: auto !important;)
 ! Rule "podleze-piekielko.pl#$#abort-on-property-read cookieman" converted to: "podleze-piekielko.pl#%#//scriptlet('abp-abort-on-property-read', 'cookieman')"
 podleze-piekielko.pl#$#abort-on-property-read cookieman
-! Error: Invalid selector: '+js(trusted-set-local-storage-item, accept_cookie_policy, true)' -- '+js(trusted-set-local-storage-item, accept_cookie_policy, true)' is not a valid selector in rule:
-vietjetair.com##+js(trusted-set-local-storage-item, accept_cookie_policy, true)

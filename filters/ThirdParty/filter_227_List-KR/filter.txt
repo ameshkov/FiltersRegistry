@@ -1,7 +1,7 @@
 !
 ! Title: List-KR for AdGuard
 ! Description: List-KR for AdGuard. Maintained by the adblock community and AdGuard.
-! OriginalVersion: 2023.1207.2
+! OriginalVersion: 2023.1208.0
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! Support: https://github.com/List-KR/List-KR/issues/223
@@ -2263,7 +2263,7 @@ autopostkorea.com##div[class^="floating_ad_"]
 newreop.com##.app-layout-content > #app-board > .app-board-section > .app-board-container > div[style]:not([class])
 newreop.com##main.app-main > .app-layout-container > .app-layout-content > #app-board > div > div[style]:not([class])
 cuonet.com##div[style~="background-image:"][style*=".cuonet.com/data/apms/background/"].item
-soxak.com,itwind.co.kr,koreatimes.net##div[id$="-ad"]
+newsfeed.dispatch.co.kr,soxak.com,itwind.co.kr,koreatimes.net##div[id$="-ad"]
 minelist.kr##.content.ad
 koreapas.com##img[src^="athe/"]
 koreapas.com##img[src*="koreapas.com/bbs/data/"]
