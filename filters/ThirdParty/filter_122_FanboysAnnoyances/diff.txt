@@ -1242,6 +1242,8 @@ safe.global##+js(set-local-storage-item, safe.global, false)
 jibjab.com##+js(set-local-storage-item, cookie_banner:hidden, true)
 ! Rule "filmzie.com##+js(set-local-storage-item, cookiesAccepted, false)" converted to: "filmzie.com#%#//scriptlet('ubo-set-local-storage-item.js', 'cookiesAccepted', 'false')"
 filmzie.com##+js(set-local-storage-item, cookiesAccepted, false)
+! Rule "vietjetair.com##+js(set-local-storage-item, accept_cookie_policy, true)" converted to: "vietjetair.com#%#//scriptlet('ubo-set-local-storage-item.js', 'accept_cookie_policy', 'true')"
+vietjetair.com##+js(set-local-storage-item, accept_cookie_policy, true)
 ! Rule "betterprogramming.pub,medium.com,500ish.com,gitconnected.com,bettermarketing.pub,diylifetech.com,thebolditalic.com,writingcooperative.com,fanfare.pub,betterhumans.pub##+js(set-local-storage-item, 201805-policy|accepted, 1)" converted to: "betterprogramming.pub,medium.com,500ish.com,gitconnected.com,bettermarketing.pub,diylifetech.com,thebolditalic.com,writingcooperative.com,fanfare.pub,betterhumans.pub#%#//scriptlet('ubo-set-local-storage-item.js', '201805-policy|accepted', '1')"
 betterprogramming.pub,medium.com,500ish.com,gitconnected.com,bettermarketing.pub,diylifetech.com,thebolditalic.com,writingcooperative.com,fanfare.pub,betterhumans.pub##+js(set-local-storage-item, 201805-policy|accepted, 1)
 ! Rule "kick.com##+js(set-local-storage-item, kick_cookie_accepted, true)" converted to: "kick.com#%#//scriptlet('ubo-set-local-storage-item.js', 'kick_cookie_accepted', 'true')"
@@ -4558,6 +4560,8 @@ safe.global##+js(set-local-storage-item, safe.global, false)
 jibjab.com##+js(set-local-storage-item, cookie_banner:hidden, true)
 ! Rule "filmzie.com##+js(set-local-storage-item, cookiesAccepted, false)" converted to: "filmzie.com#%#//scriptlet('ubo-set-local-storage-item.js', 'cookiesAccepted', 'false')"
 filmzie.com##+js(set-local-storage-item, cookiesAccepted, false)
+! Rule "vietjetair.com##+js(set-local-storage-item, accept_cookie_policy, true)" converted to: "vietjetair.com#%#//scriptlet('ubo-set-local-storage-item.js', 'accept_cookie_policy', 'true')"
+vietjetair.com##+js(set-local-storage-item, accept_cookie_policy, true)
 ! Rule "betterprogramming.pub,medium.com,500ish.com,gitconnected.com,bettermarketing.pub,diylifetech.com,thebolditalic.com,writingcooperative.com,fanfare.pub,betterhumans.pub##+js(set-local-storage-item, 201805-policy|accepted, 1)" converted to: "betterprogramming.pub,medium.com,500ish.com,gitconnected.com,bettermarketing.pub,diylifetech.com,thebolditalic.com,writingcooperative.com,fanfare.pub,betterhumans.pub#%#//scriptlet('ubo-set-local-storage-item.js', '201805-policy|accepted', '1')"
 betterprogramming.pub,medium.com,500ish.com,gitconnected.com,bettermarketing.pub,diylifetech.com,thebolditalic.com,writingcooperative.com,fanfare.pub,betterhumans.pub##+js(set-local-storage-item, 201805-policy|accepted, 1)
 ! Rule "kick.com##+js(set-local-storage-item, kick_cookie_accepted, true)" converted to: "kick.com#%#//scriptlet('ubo-set-local-storage-item.js', 'kick_cookie_accepted', 'true')"
@@ -7856,8 +7860,8 @@ safe.global#%#//scriptlet('ubo-set-local-storage-item.js', 'safe.global', 'false
 jibjab.com#%#//scriptlet('ubo-set-local-storage-item.js', 'cookie_banner:hidden', 'true')
 ! filmzie.com#%#//scriptlet('ubo-set-local-storage-item.js', 'cookiesAccepted', 'false') is excluded by "#%#//scriptlet" in exclusions-low.txt
 filmzie.com#%#//scriptlet('ubo-set-local-storage-item.js', 'cookiesAccepted', 'false')
-! vietjetair.com##+js(trusted-set-local-storage-item, accept_cookie_policy, true) is excluded by "##+js" in exclusions-low.txt
-vietjetair.com##+js(trusted-set-local-storage-item, accept_cookie_policy, true)
+! vietjetair.com#%#//scriptlet('ubo-set-local-storage-item.js', 'accept_cookie_policy', 'true') is excluded by "#%#//scriptlet" in exclusions-low.txt
+vietjetair.com#%#//scriptlet('ubo-set-local-storage-item.js', 'accept_cookie_policy', 'true')
 ! betterprogramming.pub,medium.com,500ish.com,gitconnected.com,bettermarketing.pub,diylifetech.com,thebolditalic.com,writingcooperative.com,fanfare.pub,betterhumans.pub#%#//scriptlet('ubo-set-local-storage-item.js', '201805-policy|accepted', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
 betterprogramming.pub,medium.com,500ish.com,gitconnected.com,bettermarketing.pub,diylifetech.com,thebolditalic.com,writingcooperative.com,fanfare.pub,betterhumans.pub#%#//scriptlet('ubo-set-local-storage-item.js', '201805-policy|accepted', '1')
 ! kick.com#%#//scriptlet('ubo-set-local-storage-item.js', 'kick_cookie_accepted', 'true') is excluded by "#%#//scriptlet" in exclusions-low.txt
@@ -11160,8 +11164,8 @@ safe.global#%#//scriptlet('ubo-set-local-storage-item.js', 'safe.global', 'false
 jibjab.com#%#//scriptlet('ubo-set-local-storage-item.js', 'cookie_banner:hidden', 'true')
 ! filmzie.com#%#//scriptlet('ubo-set-local-storage-item.js', 'cookiesAccepted', 'false') is excluded by "#%#//scriptlet" in exclusions-low.txt
 filmzie.com#%#//scriptlet('ubo-set-local-storage-item.js', 'cookiesAccepted', 'false')
-! vietjetair.com##+js(trusted-set-local-storage-item, accept_cookie_policy, true) is excluded by "##+js" in exclusions-low.txt
-vietjetair.com##+js(trusted-set-local-storage-item, accept_cookie_policy, true)
+! vietjetair.com#%#//scriptlet('ubo-set-local-storage-item.js', 'accept_cookie_policy', 'true') is excluded by "#%#//scriptlet" in exclusions-low.txt
+vietjetair.com#%#//scriptlet('ubo-set-local-storage-item.js', 'accept_cookie_policy', 'true')
 ! betterprogramming.pub,medium.com,500ish.com,gitconnected.com,bettermarketing.pub,diylifetech.com,thebolditalic.com,writingcooperative.com,fanfare.pub,betterhumans.pub#%#//scriptlet('ubo-set-local-storage-item.js', '201805-policy|accepted', '1') is excluded by "#%#//scriptlet" in exclusions-low.txt
 betterprogramming.pub,medium.com,500ish.com,gitconnected.com,bettermarketing.pub,diylifetech.com,thebolditalic.com,writingcooperative.com,fanfare.pub,betterhumans.pub#%#//scriptlet('ubo-set-local-storage-item.js', '201805-policy|accepted', '1')
 ! kick.com#%#//scriptlet('ubo-set-local-storage-item.js', 'kick_cookie_accepted', 'true') is excluded by "#%#//scriptlet" in exclusions-low.txt

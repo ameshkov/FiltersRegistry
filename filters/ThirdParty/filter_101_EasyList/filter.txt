@@ -1,8 +1,8 @@
 !
-! Checksum: cJurzCPw2InODg/QSRTQIg
-! OriginalVersion: 202312081251
+! Checksum: wuj16EPRUldjmvgPoVDfhg
+! OriginalVersion: 202312081650
 ! Title: EasyList
-! Last modified: 08 Dec 2023 12:51 UTC
+! Last modified: 08 Dec 2023 16:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -821,7 +821,7 @@
 /external_ads.
 /externalad.
 /externalads/*
-/fastclick.min.js
+/fastclick.min.js|
 /fc_ads.
 /fel456.js$script
 /files/ad/*

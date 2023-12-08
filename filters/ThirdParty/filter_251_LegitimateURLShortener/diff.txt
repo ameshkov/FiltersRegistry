@@ -510,6 +510,8 @@ $doc,removeparam=st,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyi
 $doc,removeparam=gci
 ! Rule "$doc,removeparam=af_reengagement_window" converted to: "$document,removeparam=af_reengagement_window"
 $doc,removeparam=af_reengagement_window
+! Rule "||instagram.com^$doc,removeparam=short_redirect" converted to: "||instagram.com^$document,removeparam=short_redirect"
+||instagram.com^$doc,removeparam=short_redirect
 ! Rule "actionewz.com,animemojo.com,comicbookmovie.com,fearhq.com,gamefragger.com,mtvuutiset.fi,sffgazette.com,theringreport.com,toonado.com##+js(set, GSvars.addressTracking, false)" converted to: "actionewz.com,animemojo.com,comicbookmovie.com,fearhq.com,gamefragger.com,mtvuutiset.fi,sffgazette.com,theringreport.com,toonado.com#%#//scriptlet('ubo-set.js', 'GSvars.addressTracking', 'false')"
 actionewz.com,animemojo.com,comicbookmovie.com,fearhq.com,gamefragger.com,mtvuutiset.fi,sffgazette.com,theringreport.com,toonado.com##+js(set, GSvars.addressTracking, false)
 ! Rule "buffalonews.com##+js(set, lee_trkLinkSrc, noopFunc)" converted to: "buffalonews.com#%#//scriptlet('ubo-set.js', 'lee_trkLinkSrc', 'noopFunc')"

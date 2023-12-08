@@ -1,8 +1,8 @@
 !
-! Checksum: slmpVCJuVuILuYu7+5zowA
-! OriginalVersion: 202312081251
+! Checksum: IPojjdrfS5BbGO33Z9mzeQ
+! OriginalVersion: 202312081650
 ! Title: EasyList Polish
-! Last modified: 08 Dec 2023 12:51 UTC
+! Last modified: 08 Dec 2023 16:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -679,7 +679,6 @@ satkurier.pl###idmnet_horizontal_top_750x100
 zszywka.pl###inv-request-popup
 jestbeka.pl###ips-popup
 jestbeka.pl###ips-popup-wrapper
-trawka.org###ipsLayout_mainArea > a > img
 sokolka.tv###jm-content-top
 sokolka.tv###jm-right
 anonse-krosno.pl###jm-top-mod2-in

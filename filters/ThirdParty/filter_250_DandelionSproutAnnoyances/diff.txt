@@ -124,8 +124,8 @@ linkedin.com#?#body:style(overflow: auto !important;)
 ||loan^$doc
 ! Rule "||agency^$doc,domain=~battlefield.agency|~baam.agency|~robotzebra.agency|~uphotel.agency|~ws.agency" converted to: "||agency^$document,domain=~battlefield.agency|~baam.agency|~robotzebra.agency|~uphotel.agency|~ws.agency"
 ||agency^$doc,domain=~battlefield.agency|~baam.agency|~robotzebra.agency|~uphotel.agency|~ws.agency
-! Rule "||gdn^$doc,domain=~cst.gdn" converted to: "||gdn^$document,domain=~cst.gdn"
-||gdn^$doc,domain=~cst.gdn
+! Rule "||gdn^$doc,domain=~cst.gdn|~pss.gdn" converted to: "||gdn^$document,domain=~cst.gdn|~pss.gdn"
+||gdn^$doc,domain=~cst.gdn|~pss.gdn
 ! Rule "||bid^$doc" converted to: "||bid^$document"
 ||bid^$doc
 ! Rule "||ooo^$doc,domain=~toast.ooo" converted to: "||ooo^$document,domain=~toast.ooo"
@@ -1952,6 +1952,8 @@ $doc,removeparam=st,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyi
 $doc,removeparam=gci
 ! Rule "$doc,removeparam=af_reengagement_window" converted to: "$document,removeparam=af_reengagement_window"
 $doc,removeparam=af_reengagement_window
+! Rule "||instagram.com^$doc,removeparam=short_redirect" converted to: "||instagram.com^$document,removeparam=short_redirect"
+||instagram.com^$doc,removeparam=short_redirect
 ! Rule "actionewz.com,animemojo.com,comicbookmovie.com,fearhq.com,gamefragger.com,mtvuutiset.fi,sffgazette.com,theringreport.com,toonado.com##+js(set, GSvars.addressTracking, false)" converted to: "actionewz.com,animemojo.com,comicbookmovie.com,fearhq.com,gamefragger.com,mtvuutiset.fi,sffgazette.com,theringreport.com,toonado.com#%#//scriptlet('ubo-set.js', 'GSvars.addressTracking', 'false')"
 actionewz.com,animemojo.com,comicbookmovie.com,fearhq.com,gamefragger.com,mtvuutiset.fi,sffgazette.com,theringreport.com,toonado.com##+js(set, GSvars.addressTracking, false)
 ! Rule "buffalonews.com##+js(set, lee_trkLinkSrc, noopFunc)" converted to: "buffalonews.com#%#//scriptlet('ubo-set.js', 'lee_trkLinkSrc', 'noopFunc')"
