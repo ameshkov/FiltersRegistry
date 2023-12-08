@@ -2319,6 +2319,7 @@ thepopverse.com,cmp.chip.de,cmpv2.netdoktor.ch,cmp.videogameschronicle.com,cmp.s
 !
 ! NOTE: Regular rules
 !
+selexion.be#%#//scriptlet('set-local-storage-item', 'allowCookies', 'true')
 net2ftp.com#%#//scriptlet('set-cookie', 'net2ftpcookie_consent_necessary', '1')
 net2ftp.com#%#//scriptlet('set-cookie', 'net2ftpcookie_consent_nonpersonalized_ads', '1')
 net2ftp.com#%#//scriptlet('set-cookie', 'net2ftpcookie_consent_personalized_ads', '0')
@@ -14934,6 +14935,8 @@ adguard.info,adguard.com,adguard.app##.hello_from_adguard_annoyances_cookies
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/167631
+selexion.be#@##cookie-popup
 ! https://github.com/AdguardTeam/AdguardFilters/issues/168040
 geoportal.gov.pl#@#.accept-cookies
 ! https://github.com/AdguardTeam/AdguardFilters/issues/167998
@@ -41058,7 +41061,7 @@ igromania.ru##a[class^="KanobuSocialCommunities_twitter"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/153021
 forbes.ua##.c-post-subscribe
 ! https://privatter.net/p/9889173
-twitter.com#?#section[aria-labelledby^="accessible-list"] div[style^="transform"]:has(div[data-testid="card.wrapper"] span[style]:contains(/^(asahsi\.com|bnc\.lt|fanlink\.to|gamerzz\.net|jp\.cookie-food\.com|keeping-healthy\.com|kinmirainews\.com|helpgive\.to|(n9oi1|mainichi|nhk|nikkei|sankei|sokuhou|tokyo-np|yomiuri|yytbe)\.app\.link|sancei\.com|sankeii\.com|sokuhou\.onelink\.me|tongari-tent\.blue)$/))
+twitter.com#?#section[aria-labelledby^="accessible-list"] div[style^="transform"]:has(div[data-testid="card.wrapper"] span[style]:contains(/^(asahsi\.com|bnc\.lt|eventlink\.to|fanlink\.to|gamerzz\.net|jp\.cookie-food\.com|keeping-healthy\.com|kinmirainews\.com|helpgive\.to|(n9oi1|mainichi|nhk|nikkei|sankei|sokuhou|tokyo-np|yomiuri|yytbe)\.app\.link|sancei\.com|sankeii\.com|sokuhou\.onelink\.me|tongari-tent\.blue)$/))
 ! https://github.com/AdguardTeam/AdguardFilters/issues/152867
 posta.com.tr##.content-box > a[href^="https://flipboard.com/"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/151928
