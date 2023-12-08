@@ -1,5 +1,5 @@
 
-FiltersCompiler report 12/8/2023 5:00:15 AM:
+FiltersCompiler report 12/8/2023 9:00:24 AM:
 
 Filter ID: 101
 Filter name: EasyList
@@ -27,7 +27,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 104
 Filter name: EasyList China
-Compiled rules: 18677
+Compiled rules: 18678
 Excluded rules: 52
 URL: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 INVALID RULES:
@@ -441,7 +441,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 232
 Filter name: KAD - Anti-Scam
-Compiled rules: 48608
+Compiled rules: 48642
 Excluded rules: 236
 URL: https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt
 INVALID RULES:
@@ -464,8 +464,8 @@ All rules are valid.
 ---------------------------
 Filter ID: 235
 Filter name: Persian Blocker
-Compiled rules: 3446
-Excluded rules: 2252
+Compiled rules: 3525
+Excluded rules: 2402
 URL: https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlocker.txt
 INVALID RULES:
 Error: "Unknown modifier: strict3p" in the rule: "||websocket.*/?u=*&s=$websocket,~third-party,strict3p"
@@ -485,8 +485,7 @@ Error: Invalid selector: '+js(set-local-storage-item, VisitedCompanies, $remove$
 Error: "Unknown modifier: strict3p" in the rule: "*$image,strict3p,domain=rozup.ir"
 Error: "Unknown pseudo-class ':remove-attr' in selector: 'input.filter:remove-attr(disabled)'" in the rule: "takhfifan.com##input.filter:remove-attr(disabled)"
 Error: "Unknown pseudo-class ':remove-class' in selector: 'input.filter:remove-class(filter)'" in the rule: "takhfifan.com##input.filter:remove-class(filter)"
-Error: Invalid selector: '+js(href-sanitizer, article[data-post-id] > div.post-content > div.post-body a[href^="https://l.vrgl.ir/r?"][href*="&l=http"], ?l)' -- '+js(href-sanitizer, article[data-post-id] > div.post-content > div.post-body a[href^="https://l.vrgl.ir/r?"][href*="&l=http"], ?l)' is not a valid selector in rule: virgool.io##+js(href-sanitizer, article[data-post-id] > div.post-content > div.post-body a[href^="https://l.vrgl.ir/r?"][href*="&l=http"], ?l)
-Error: Invalid selector: 'input[type="hidden"]:is(input#log_id, input#log_code):remove-attr(value)' -- Error: unable to select by 'input[type="hidden"]:remove-attr(value):is(input#log_id, input#log_code)' — unknown pseudo-class selector ':remove-attr(value):is(input#log_id, input#log_code)' in rule: virgool.io##input[type="hidden"]:is(input#log_id, input#log_code):remove-attr(value)
+Error: Invalid selector: '+js(href-sanitizer, a[href^="https://l.vrgl.ir/r?"][href*="&l=http"], ?l)' -- '+js(href-sanitizer, a[href^="https://l.vrgl.ir/r?"][href*="&l=http"], ?l)' is not a valid selector in rule: virgool.io##+js(href-sanitizer, a[href^="https://l.vrgl.ir/r?"][href*="&l=http"], ?l)
 Error: "Unknown modifier: from=vazeh.com" in the rule: "*$third-party,script,from=vazeh.com,to=sahandpress.ir|jaarchee.ir"
 ---------------------------
 Filter ID: 236
@@ -22321,7 +22320,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 11
 Filter name: AdGuard Mobile Ads filter
-Compiled rules: 7752
+Compiled rules: 7753
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/11.txt
 All rules are valid.
@@ -22340,14 +22339,14 @@ All rules are valid.
 ---------------------------
 Filter ID: 14
 Filter name: AdGuard Annoyances filter
-Compiled rules: 52361
+Compiled rules: 52367
 Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/14.txt
 All rules are valid.
 ---------------------------
 Filter ID: 15
 Filter name: AdGuard DNS filter
-Compiled rules: 58949
+Compiled rules: 58951
 Excluded rules: 308
 URL: https://filters.adtidy.org/extension/chromium/filters/15.txt
 All rules are valid.
@@ -22369,14 +22368,14 @@ All rules are valid.
 ---------------------------
 Filter ID: 18
 Filter name: AdGuard Cookie Notices filter
-Compiled rules: 18687
+Compiled rules: 18690
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/18.txt
 All rules are valid.
 ---------------------------
 Filter ID: 19
 Filter name: AdGuard Popups filter
-Compiled rules: 18772
+Compiled rules: 18775
 Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/19.txt
 All rules are valid.
@@ -22404,7 +22403,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 224
 Filter name: AdGuard Chinese filter
-Compiled rules: 21990
+Compiled rules: 21991
 Excluded rules: 50
 URL: https://filters.adtidy.org/extension/chromium/filters/224.txt
 INVALID RULES:
@@ -22426,7 +22425,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 2
 Filter name: AdGuard Base filter
-Compiled rules: 134829
+Compiled rules: 134836
 Excluded rules: 56
 URL: https://filters.adtidy.org/extension/chromium/filters/2.txt
 INVALID RULES:
@@ -22435,7 +22434,7 @@ Error: "Unknown modifier: webrtc" in the rule: "$webrtc,domain=ack.net|allthetes
 ---------------------------
 Filter ID: 3
 Filter name: AdGuard Tracking Protection filter
-Compiled rules: 79568
+Compiled rules: 79569
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/3.txt
 All rules are valid.
@@ -22477,7 +22476,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 9
 Filter name: AdGuard Spanish/Portuguese filter
-Compiled rules: 6316
+Compiled rules: 6317
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/9.txt
 All rules are valid.

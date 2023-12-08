@@ -1,8 +1,8 @@
 !
-! Checksum: xPCMA9M+VqFAaoViNliJVw
-! OriginalVersion: 202312080451
+! Checksum: XMZDJ1TAuz0LGmdtw8ddzg
+! OriginalVersion: 202312080851
 ! Title: EasyList Polish
-! Last modified: 08 Dec 2023 04:51 UTC
+! Last modified: 08 Dec 2023 08:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2035,6 +2035,7 @@ haczyk.pl##a[href="http://www.pontony.net.pl"]
 mojprzewodnik.pl##a[href="http://www.printcafe.pl/"]
 7dni.pila.pl##a[href="http://www.sklepmuzycznydemo.pl"]
 mojprzewodnik.pl##a[href="http://www.slubcafe.pl/"]
+30minut.pl##a[href="http://www.staropolanka.pl/"]
 zwolen24.pl##a[href="http://www.zlomotex.com.pl/"]
 ceo.com.pl##a[href="https://123tlumacz.pl/"]
 gazeta-mosina.pl##a[href="https://autocompol.dacia.pl/"]
@@ -2157,7 +2158,6 @@ przeclaw24.pl##a[href^="https://booksy.com/"]
 narodowcy.net##a[href^="https://capitalbook.com.pl/"]
 swoszowice.org.pl##a[href^="https://carline.com.pl/"]
 nanarty.info##a[href^="https://cervenohorskesedlo.eu"]
-swiatoze.pl##a[href^="https://columbusenergy.pl/"]
 brief.pl##a[href^="https://dreamemployer.pl"]
 mobiletrends.pl##a[href^="https://escola.pl/?utm_source=Mobile+Trends&utm_medium="]
 weszlo.com##a[href^="https://fuksiarz.pl/"]
