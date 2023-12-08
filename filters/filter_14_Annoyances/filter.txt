@@ -2319,6 +2319,12 @@ thepopverse.com,cmp.chip.de,cmpv2.netdoktor.ch,cmp.videogameschronicle.com,cmp.s
 !
 ! NOTE: Regular rules
 !
+net2ftp.com#%#//scriptlet('set-cookie', 'net2ftpcookie_consent_necessary', '1')
+net2ftp.com#%#//scriptlet('set-cookie', 'net2ftpcookie_consent_nonpersonalized_ads', '1')
+net2ftp.com#%#//scriptlet('set-cookie', 'net2ftpcookie_consent_personalized_ads', '0')
+net2ftp.com#%#//scriptlet('set-cookie', 'net2ftpcookie_consent_statistics', '0')
+net2ftp.com#%#//scriptlet('set-cookie', 'net2ftpcookie_consent_preferences', '0')
+net2ftp.com#%#//scriptlet('trusted-set-cookie-reload', 'CONSENT', 'YES+')
 translatorscafe.com###site-notification-cookie-consent
 mapillary.com#%#//scriptlet('trusted-click-element', '[data-testid="cookie-policy-banner-accept"]', '', '500')
 fdrive.cz##.cmp__wrapper
@@ -23127,6 +23133,7 @@ sanalkurs.net###toast-container > .toast-error[aria-live="assertive"]
 !
 ! SECTION: Popups - Regular rules
 !
+fastweb.it##.sticky_card_ebook
 indiatoday.in##.sana_popout
 russiatoday.ru##body div.Popup-telegram
 indiatoday.in##.recommended__widget
@@ -46369,6 +46376,7 @@ elle.de##.ab-products-entityType_not_set
 ||mixhost.jp/vpn-column/wp-content/uploads/*/600x500
 deepfakeporn.net##.sponsor
 deepfakeporn.net##.notice
+gname.com##.swiper-container.min_banner
 gname.com##.footShow
 ||kinokordon.love/d.kinokordonchat.gif
 anny.gift##a.AspectRatioBox-Type-HeaderBanner
