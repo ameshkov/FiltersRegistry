@@ -234,6 +234,8 @@ resonate.coop,northgatevehiclehire.ie##+js(set-cookie, cookieconsent_status, all
 bvmed.de##+js(set-cookie, MATOMO_CONSENT_GIVEN, 0)
 ! Rule "calendardate.com##+js(set-cookie, warn, true)" converted to: "calendardate.com#%#//scriptlet('ubo-set-cookie.js', 'warn', 'true')"
 calendardate.com##+js(set-cookie, warn, true)
+! Rule "wefashion.ch,wefashion.fr,wefashion.lu,wefashion.be,wefashion.de,wefashion.nl##+js(set-cookie, optinCookieSetting, 1)" converted to: "wefashion.ch,wefashion.fr,wefashion.lu,wefashion.be,wefashion.de,wefashion.nl#%#//scriptlet('ubo-set-cookie.js', 'optinCookieSetting', '1')"
+wefashion.ch,wefashion.fr,wefashion.lu,wefashion.be,wefashion.de,wefashion.nl##+js(set-cookie, optinCookieSetting, 1)
 ! Rule "brettspiel-angebote.de##+js(set-cookie, privacy-shown, true)" converted to: "brettspiel-angebote.de#%#//scriptlet('ubo-set-cookie.js', 'privacy-shown', 'true')"
 brettspiel-angebote.de##+js(set-cookie, privacy-shown, true)
 ! Rule "brettspiel-angebote.de##+js(set-cookie, slimstat_optout_tracking, true)" converted to: "brettspiel-angebote.de#%#//scriptlet('ubo-set-cookie.js', 'slimstat_optout_tracking', 'true')"
