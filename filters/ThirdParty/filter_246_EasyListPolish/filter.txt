@@ -1,8 +1,8 @@
 !
-! Checksum: 13bIMtCrKuOQT2TymwbI2A
-! OriginalVersion: 202312091251
+! Checksum: NRxMy25Nhj9JtkyC2PrSoQ
+! OriginalVersion: 202312091650
 ! Title: EasyList Polish
-! Last modified: 09 Dec 2023 12:51 UTC
+! Last modified: 09 Dec 2023 16:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2324,7 +2324,6 @@ divers24.pl##div[class^="angwp-"]
 baltic.info.pl,ogrodinfo.pl##div[class^="angwp_"]
 elblag.net##div[class^="baner"]
 portaltenisowy.info##div[class^="banner"]
-motoocena.pl##div[class^="banner-ad-"]
 lajfy.com##div[class^="banner-over-"]
 bochniazbliska.pl##div[class^="bochn-"] > .ad-label + *
 codziennikmlawski.pl##div[class^="code-block code-block-"]
