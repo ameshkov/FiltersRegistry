@@ -48,6 +48,8 @@ mobiili.fi##.mainbody.extended:style(margin-top: 2em !important)
 mvlehti.net##.featured-row-small:style(background-color: white !important)
 ! Rule "nyan.ax##.widget_adrotate_widgets:remove()" converted to: "nyan.ax#$?#.widget_adrotate_widgets { remove: true; }"
 nyan.ax##.widget_adrotate_widgets:remove()
+! Rule "proshop.fi##body:style(background-image: unset !important)" converted to: "proshop.fi#$#body { background-image: unset !important }"
+proshop.fi##body:style(background-image: unset !important)
 ! Rule "puhelinvertailu.com##.index-wrap:style(left: 0px !important)" converted to: "puhelinvertailu.com#$#.index-wrap { left: 0px !important }"
 puhelinvertailu.com##.index-wrap:style(left: 0px !important)
 ! Rule "tiketti.fi###tik_fixed.with-ebanner:style(top: 0 !important)" converted to: "tiketti.fi#$##tik_fixed.with-ebanner { top: 0 !important }"
