@@ -1,9 +1,9 @@
 
-FiltersCompiler report 12/9/2023 9:00:17 AM:
+FiltersCompiler report 12/9/2023 1:00:16 PM:
 
 Filter ID: 101
 Filter name: EasyList
-Compiled rules: 65804
+Compiled rules: 65229
 Excluded rules: 46
 URL: https://easylist-downloads.adblockplus.org/easylist.txt
 INVALID RULES:
@@ -130,7 +130,7 @@ URL: https://raw.githubusercontent.com/KonoromiHimaries/PolishSubFilters/master/
 ---------------------------
 Filter ID: 118
 Filter name: EasyPrivacy
-Compiled rules: 33545
+Compiled rules: 33544
 Excluded rules: 12
 URL: https://easylist.to/easylist/easyprivacy.txt
 All rules are valid.
@@ -334,7 +334,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 216
 Filter name: Official Polish filters for AdBlock, uBlock Origin & AdGuard
-Compiled rules: 6451
+Compiled rules: 6450
 Excluded rules: 594
 URL: https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt
 INVALID RULES:
@@ -408,7 +408,7 @@ URL: https://www.fanboy.co.nz/fanboy-vietnam.txt
 ---------------------------
 Filter ID: 227
 Filter name: List-KR
-Compiled rules: 3581
+Compiled rules: 3582
 Excluded rules: 24
 URL: https://raw.githubusercontent.com/List-KR/List-KR/master/filter-AdGuard.txt
 All rules are valid.
@@ -441,7 +441,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 232
 Filter name: KAD - Anti-Scam
-Compiled rules: 48489
+Compiled rules: 48512
 Excluded rules: 236
 URL: https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt
 INVALID RULES:
@@ -22345,7 +22345,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 15
 Filter name: AdGuard DNS filter
-Compiled rules: 59029
+Compiled rules: 58254
 Excluded rules: 308
 URL: https://filters.adtidy.org/extension/chromium/filters/15.txt
 All rules are valid.
@@ -22424,7 +22424,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 2
 Filter name: AdGuard Base filter
-Compiled rules: 134938
+Compiled rules: 134364
 Excluded rules: 56
 URL: https://filters.adtidy.org/extension/chromium/filters/2.txt
 INVALID RULES:
