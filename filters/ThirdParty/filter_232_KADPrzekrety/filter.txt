@@ -3,8 +3,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 10 Dec 2023, 13:28 UTC+01:00
-! OriginalVersion: 2023.12.10.2
+! Last modified: Sun, 10 Dec 2023, 17:19 UTC+01:00
+! OriginalVersion: 2023.12.10.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3339,6 +3339,7 @@
 ||70cb94b386f63cfc3ccf4ec37bc2ac9c.astrisla.pl^$all
 ||70d2a669dc1.chefs-kitchen.co.uk^$all
 ||70d-j.cfd^$all
+||72-7nl.cfd^$all
 ||73-sfh.homes^$all
 ||73ad252ea1bb6a9e0830dcc604310bf4.liamartem.pl^$all
 ||073d613cd2c.chefs-kitchen.co.uk^$all
@@ -5475,6 +5476,12 @@
 ||allegrolokalnie.platnoscwsieci.pl^$all
 ||allegrolokalnie.promowaneaukcje.pl^$all
 ||allegrolokalnie.prywatne-oferty247.pl^$all
+||allegrolokalnie.prywatne-oferty32411.pl^$all
+||allegrolokalnie.prywatne-oferty32412.pl^$all
+||allegrolokalnie.prywatne-oferty32413.pl^$all
+||allegrolokalnie.prywatne-oferty32414.pl^$all
+||allegrolokalnie.prywatne-oferty32415.pl^$all
+||allegrolokalnie.prywatne-oferty32416.pl^$all
 ||allegrolokalnie.prywatne-platnosci.pl^$all
 ||allegrolokalnie.przyjazne-zamowienia.pl^$all
 ||allegrolokalnie.sprawdzone-platnosci.pl^$all
@@ -6700,6 +6707,7 @@
 ||asteresports.com^$all
 ||asterton.shop^$all
 ||astesosa1.champwat.xyz^$all
+||astheny.sbs^$all
 ||astomatale.com^$all
 ||astonishing-bombolone-e044fd.netlify.app^$all
 ||astoriaveg.com^$all
@@ -7120,16 +7128,21 @@
 ||autoescuelavirgendeluna.com^$all
 ||autogielda-borek.pl^$all
 ||autogielda-brzewski.pl^$all
+||autogielda-brzezina.pl^$all
 ||autogielda-drewniak.pl^$all
 ||autogielda-korowski.pl^$all
+||autogielda-moya.pl^$all
 ||autogielda-perfect.pl^$all
 ||autogielda-tomanski.pl^$all
 ||autogielda-wawrzyniak.pl^$all
 ||autogielda-zarski.pl^$all
 ||autoinformacja.com^$all
 ||autokomis-brzewski.pl^$all
+||autokomis-brzezina.pl^$all
 ||autokomis-merkur.pl^$all
 ||autokomis-miradzinski.pl^$all
+||autokomis-moya.pl^$all
+||autokomis-polanski.pl^$all
 ||autokomis-stolarczyk.pl^$all
 ||autokomis-wawrzyniak.pl^$all
 ||autokomis-wegrowski.pl^$all
@@ -7985,6 +7998,7 @@
 ||bankmilleneum.press^$all
 ||bankmilleneum.ru^$all
 ||bankmilleneum.xyz^$all
+||bankmilleniium.pl^$all
 ||bankmillenium.xyz^$all
 ||bankmillennium.biz^$all
 ||bankmillennium.site^$all
@@ -9960,6 +9974,7 @@
 ||buckthorn.sbs^$all
 ||bucuresti-shuttle.com^$all
 ||budarmy.com^$all
+||budda-loteria.live^$all
 ||buddhistawry.com^$all
 ||budeowwnictwo.site^$all
 ||budfrancis.net^$all
@@ -11590,6 +11605,7 @@
 ||claimfreemulticoins.com^$all
 ||claimyfy.com^$all
 ||clamoraloe.space^$all
+||clangour.cfd^$all
 ||clarain.sbs^$all
 ||claritybeauty.com^$all
 ||clarityprecision.shop^$all
@@ -12838,6 +12854,7 @@
 ||cubarepresion.com^$all
 ||cubgeek.com^$all
 ||cubic3a.com^$all
+||cuboid.sbs^$all
 ||cud.pro1program.site^$all
 ||cudesnictoo.info^$all
 ||cudia-spot.cyou^$all
@@ -15475,6 +15492,7 @@
 ||e-urzad-pl.org^$all
 ||e-urzad-skarbowy.online^$all
 ||e-urzad-skarbowy.org^$all
+||e-urzdskarbovvy.com^$all
 ||e-wiadomosci.click^$all
 ||e-wyborcza24-*.cleverapps.io^$all
 ||e-wyborcza24-e.cleverapps.io^$all
@@ -16073,6 +16091,7 @@
 ||els1.lifepeoplexf.top^$all
 ||els2.lifepeoplexf.top^$all
 ||elslift2.com^$all
+||elvine.cfd^$all
 ||elxodlus.com^$all
 ||elyoungkingthetour.com^$all
 ||elysiandreamer.com^$all
@@ -20900,6 +20919,7 @@
 ||h5hvf9.webwave.dev^$all
 ||h5mnpae97wsjxrk.com^$all
 ||h5pmqqvk5jic3jsu.com^$all
+||h6-6hr.cfd^$all
 ||h6aren08rc2b.com^$all
 ||h6lj.com^$all
 ||h6s9g8vyqcn5.com^$all
@@ -20911,6 +20931,7 @@
 ||h24j3mdn8abwg.com^$all
 ||h34.vertysbos.top^$all
 ||h34v.cfd^$all
+||h39-24.cfd^$all
 ||h49zpudk6e8qajf.com^$all
 ||h54uu879.internwgxb.site^$all
 ||h65hn2etfo0xa.com^$all
@@ -21352,6 +21373,7 @@
 ||help-support-package.com^$all
 ||help-tracksav.com^$all
 ||help-ups.com^$all
+||help-upsparcel.com^$all
 ||help-yourpackage.com^$all
 ||helpdesk-b9834ioe.vercel.app^$all
 ||helpdesk-center.com^$all
@@ -21865,6 +21887,7 @@
 ||hptransparts.com^$all
 ||hq1.space^$all
 ||hqpatent.org^$all
+||hr6-50.cfd^$all
 ||hr45.cfd^$all
 ||hr-success.com^$all
 ||hracles.com^$all
@@ -23607,6 +23630,7 @@
 ||inwtsap.club^$all
 ||inwwprzyszlosc.online^$all
 ||inxpost-pl.top^$all
+||inzpost-pl.top^$all
 ||io288q.web.app^$all
 ||io-loadingsuite.com^$all
 ||io-loadmetaapp.com^$all
@@ -23718,6 +23742,7 @@
 ||irooxyh.cn^$all
 ||irotradex.com^$all
 ||irritatefantasy.com^$all
+||irt-73.cfd^$all
 ||irv-4.cfd^$all
 ||irvineyao1997.com^$all
 ||irvjwlaladjjfieueqiii.com^$all
@@ -24152,6 +24177,8 @@
 ||jeweled-ablaze-leptoceratops.glitch.me^$all
 ||jewelindiajpr.com^$all
 ||jewishrockrecords.com^$all
+||jey836.sbs^$all
+||jey-y2.cfd^$all
 ||jeysport.com^$all
 ||jf648.cfd^$all
 ||jf.eutrty.top^$all
@@ -24606,6 +24633,7 @@
 ||jymihaysii.live^$all
 ||jymosoahao.info^$all
 ||jyqimoazyi.com^$all
+||jyr64-4.cfd^$all
 ||jyraviation.com^$all
 ||jyriohjtiouuthur.weebly.com^$all
 ||jysanyuan.com^$all
@@ -24829,6 +24857,7 @@
 ||kazukohillyertatsumura.com^$all
 ||kazurax.com^$all
 ||kb.purocueroecuador.com^$all
+||kbahhz.webwave.dev^$all
 ||kbdemolering.se^$all
 ||kbepm.mineralaggregates.com^$all
 ||kbm.bitgarage.com.np^$all
@@ -24945,6 +24974,7 @@
 ||ketowithluke.com^$all
 ||ketoxime.com^$all
 ||ketslein.asia^$all
+||keu-84.sbs^$all
 ||keue.homes^$all
 ||kevalamyoga.com^$all
 ||kevin-yousef.se^$all
@@ -26022,6 +26052,7 @@
 ||lbifibui.com^$all
 ||lbitcrypr.com^$all
 ||lbjgfoijhighitjhotrihit.weebly.com^$all
+||lcawe.cfd^$all
 ||lcbj.one^$all
 ||lcend.viralspotlight.com^$all
 ||lclisting.com^$all
@@ -27973,6 +28004,7 @@
 ||mariontwinapartments.com^$all
 ||maritimen.sbs^$all
 ||mariusz.ameliagosia.com.pl^$all
+||mariuszklimkiewicz.alisawanda.pl^$all
 ||mariuszprokopp111.wixsite.com^$all
 ||mark-et-info4.xyz^$all
 ||mark-lawchambers.com^$all
@@ -32829,6 +32861,7 @@
 ||orrinamenotttemerty.site^$all
 ||orroiieoopdkaqjnc.site^$all
 ||orsolini-assicurazioni.com^$all
+||ort-53.cfd^$all
 ||ortevndly.site^$all
 ||orthoklazer.site^$all
 ||orthopt.com^$all
@@ -35554,6 +35587,7 @@
 ||polskie-informacje.eu^$all
 ||polskie-paczki.com^$all
 ||polskie-sledztwa.pl^$all
+||polskie-sluzby24.pl^$all
 ||polskie-zaginiecia.eu3.org^$all
 ||polskiedrogi-fakty.eu5.net^$all
 ||polskieinfod.site^$all
@@ -36512,6 +36546,10 @@
 ||pryan-offers.com^$all
 ||pryley.com^$all
 ||prywatne-fotki.mywebcommunity.org^$all
+||prywatne-oferty32411.pl^$all
+||prywatne-oferty32412.pl^$all
+||prywatne-oferty32414.pl^$all
+||prywatne-oferty32416.pl^$all
 ||przbmkisur.sa.com^$all
 ||przechodzimy-dalej.homes^$all
 ||przechodzimy-dalej.info^$all
@@ -43765,6 +43803,7 @@
 ||ttttss.neonas.life^$all
 ||tttttf.s3.us-east-005.backblazeb2.com^$all
 ||ttv.tradx.top^$all
+||ttvfssr.com^$all
 ||ttyhhv.neuru.top^$all
 ||tu-7.cfd^$all
 ||tu.marcukesh.top^$all
@@ -44441,6 +44480,7 @@
 ||ups-info-tracking.com^$all
 ||ups-login.com^$all
 ||ups-logistics.com^$all
+||ups-mojapaczka.com^$all
 ||ups-my-package.net^$all
 ||ups-mytracking-package.com^$all
 ||ups-online.pl^$all
@@ -47242,6 +47282,7 @@
 ||yabo-bls.com^$all
 ||yachatsbigband.com^$all
 ||yachtingnewstoday.com^$all
+||yaelsaffron.com^$all
 ||yagerslance.com^$all
 ||yagsviyen.site^$all
 ||yahoo-login.com.tilda.ws^$all

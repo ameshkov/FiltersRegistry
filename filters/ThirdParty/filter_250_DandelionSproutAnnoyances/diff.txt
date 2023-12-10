@@ -2570,12 +2570,8 @@ positivr.fr##.viously-sticked:style(position: absolute !important; top: 0 !impor
 youtube.com##ytd-miniplayer[has-playlist-data] #movie_player video:remove()
 ! vimeo.com#%#AG_setConstant('vimeo.clip_page_config.continuous_play_enabled', 'false'); is excluded by "#%#" in exclusions-high.txt
 vimeo.com#%#AG_setConstant('vimeo.clip_page_config.continuous_play_enabled', 'false');
-! Error: Invalid selector: '.g:has(a[href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"))' -- Unbalanced brackets for extended pseudo-class: 'not' in rule:
-www.google.*##.g:has(a[href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"))
 ! Error: Invalid selector: 'a[oncontextmenu][href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"):upward(2)' -- Unbalanced brackets for extended pseudo-class: 'not' in rule:
 www.google.*##a[oncontextmenu][href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"):upward(2)
-! Error: Invalid selector: '[data-nrn="result"]:has(a[href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"))' -- Unbalanced brackets for extended pseudo-class: 'not' in rule:
-duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##[data-nrn="result"]:has(a[href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"))
 ! Error: "Unknown modifier: ~inline-font" in the rule: "||oldgames.4all.cc^$all,~inline-font"
 ||oldgames.4all.cc^$all,~inline-font
 ! Error: "Unknown modifier: ~inline-font" in the rule: "||useragentswitch.com^$all,~inline-font"
