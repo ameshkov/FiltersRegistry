@@ -230,8 +230,32 @@ finewoodworking.com##+js(set-cookie, taunton_user_consent_advertising, false)
 finewoodworking.com##+js(set-cookie, taunton_user_consent_analytics, false)
 ! Rule "resonate.coop,northgatevehiclehire.ie##+js(set-cookie, cookieconsent_status, allow)" converted to: "resonate.coop,northgatevehiclehire.ie#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow')"
 resonate.coop,northgatevehiclehire.ie##+js(set-cookie, cookieconsent_status, allow)
+! Rule "bammusic.com##+js(set-cookie, analyticsCookiesAccepted, false)" converted to: "bammusic.com#%#//scriptlet('ubo-set-cookie.js', 'analyticsCookiesAccepted', 'false')"
+bammusic.com##+js(set-cookie, analyticsCookiesAccepted, false)
+! Rule "bammusic.com##+js(set-cookie, mediaCookiesAccepted, false)" converted to: "bammusic.com#%#//scriptlet('ubo-set-cookie.js', 'mediaCookiesAccepted', 'false')"
+bammusic.com##+js(set-cookie, mediaCookiesAccepted, false)
+! Rule "bammusic.com##+js(set-cookie, mandatoryCookiesAccepted, true)" converted to: "bammusic.com#%#//scriptlet('ubo-set-cookie.js', 'mandatoryCookiesAccepted', 'true')"
+bammusic.com##+js(set-cookie, mandatoryCookiesAccepted, true)
+! Rule "phish-test.de##+js(set-cookie, gtag, true)" converted to: "phish-test.de#%#//scriptlet('ubo-set-cookie.js', 'gtag', 'true')"
+phish-test.de##+js(set-cookie, gtag, true)
+! Rule "bokadirekt.se##+js(set-cookie, BokadirektCookiePreferencesMP, 1)" converted to: "bokadirekt.se#%#//scriptlet('ubo-set-cookie.js', 'BokadirektCookiePreferencesMP', '1')"
+bokadirekt.se##+js(set-cookie, BokadirektCookiePreferencesMP, 1)
+! Rule "ford.lt,ford.pt,ford.fr,ford.de,ford.dk,ford.pl,ford.se,ford.nl,ford.no,ford.fi,ford.gr,ford.it##+js(set-cookie, cookieAcknowledged, true)" converted to: "ford.lt,ford.pt,ford.fr,ford.de,ford.dk,ford.pl,ford.se,ford.nl,ford.no,ford.fi,ford.gr,ford.it#%#//scriptlet('ubo-set-cookie.js', 'cookieAcknowledged', 'true')"
+ford.lt,ford.pt,ford.fr,ford.de,ford.dk,ford.pl,ford.se,ford.nl,ford.no,ford.fi,ford.gr,ford.it##+js(set-cookie, cookieAcknowledged, true)
+! Rule "data-media.gr##+js(set-cookie, data-privacy-statement, true)" converted to: "data-media.gr#%#//scriptlet('ubo-set-cookie.js', 'data-privacy-statement', 'true')"
+data-media.gr##+js(set-cookie, data-privacy-statement, true)
+! Rule "e-food.gr##+js(set-cookie, cookie_privacy_level, required)" converted to: "e-food.gr#%#//scriptlet('ubo-set-cookie.js', 'cookie_privacy_level', 'required')"
+e-food.gr##+js(set-cookie, cookie_privacy_level, required)
+! Rule "e-food.gr##+js(set-cookie, accepted_cookies, true)" converted to: "e-food.gr#%#//scriptlet('ubo-set-cookie.js', 'accepted_cookies', 'true')"
+e-food.gr##+js(set-cookie, accepted_cookies, true)
 ! Rule "bvmed.de##+js(set-cookie, MATOMO_CONSENT_GIVEN, 0)" converted to: "bvmed.de#%#//scriptlet('ubo-set-cookie.js', 'MATOMO_CONSENT_GIVEN', '0')"
 bvmed.de##+js(set-cookie, MATOMO_CONSENT_GIVEN, 0)
+! Rule "babyshop.com##+js(set-cookie, BABY_MARKETING_COOKIES_CONSENTED, false)" converted to: "babyshop.com#%#//scriptlet('ubo-set-cookie.js', 'BABY_MARKETING_COOKIES_CONSENTED', 'false')"
+babyshop.com##+js(set-cookie, BABY_MARKETING_COOKIES_CONSENTED, false)
+! Rule "babyshop.com##+js(set-cookie, BABY_PERFORMANCE_COOKIES_CONSENTED, false)" converted to: "babyshop.com#%#//scriptlet('ubo-set-cookie.js', 'BABY_PERFORMANCE_COOKIES_CONSENTED', 'false')"
+babyshop.com##+js(set-cookie, BABY_PERFORMANCE_COOKIES_CONSENTED, false)
+! Rule "babyshop.com##+js(set-cookie, BABY_NECESSARY_COOKIES_CONSENTED, true)" converted to: "babyshop.com#%#//scriptlet('ubo-set-cookie.js', 'BABY_NECESSARY_COOKIES_CONSENTED', 'true')"
+babyshop.com##+js(set-cookie, BABY_NECESSARY_COOKIES_CONSENTED, true)
 ! Rule "griffbereit24.de##+js(set-cookie, consent_essential, allow)" converted to: "griffbereit24.de#%#//scriptlet('ubo-set-cookie.js', 'consent_essential', 'allow')"
 griffbereit24.de##+js(set-cookie, consent_essential, allow)
 ! Rule "checkwx.com##+js(set-cookie, cookieshown, 1)" converted to: "checkwx.com#%#//scriptlet('ubo-set-cookie.js', 'cookieshown', '1')"
@@ -368,8 +392,8 @@ digimobil.es##+js(set-cookie, analyticsConsent, false)
 digimobil.es##+js(set-cookie, adsConsent, false)
 ! Rule "teenage.engineering##+js(set-cookie, te_cookie_ok, 1)" converted to: "teenage.engineering#%#//scriptlet('ubo-set-cookie.js', 'te_cookie_ok', '1')"
 teenage.engineering##+js(set-cookie, te_cookie_ok, 1)
-! Rule "converse.pl,shop.wf-education.com##+js(set-cookie, amcookie_policy_restriction, allowed)" converted to: "converse.pl,shop.wf-education.com#%#//scriptlet('ubo-set-cookie.js', 'amcookie_policy_restriction', 'allowed')"
-converse.pl,shop.wf-education.com##+js(set-cookie, amcookie_policy_restriction, allowed)
+! Rule "merrell.pl,converse.pl,shop.wf-education.com##+js(set-cookie, amcookie_policy_restriction, allowed)" converted to: "merrell.pl,converse.pl,shop.wf-education.com#%#//scriptlet('ubo-set-cookie.js', 'amcookie_policy_restriction', 'allowed')"
+merrell.pl,converse.pl,shop.wf-education.com##+js(set-cookie, amcookie_policy_restriction, allowed)
 ! Rule "converse.com##+js(set-cookie, dw_cookies_accepted, 1)" converted to: "converse.com#%#//scriptlet('ubo-set-cookie.js', 'dw_cookies_accepted', '1')"
 converse.com##+js(set-cookie, dw_cookies_accepted, 1)
 ! Rule "converse.com##+js(set-cookie, acceptConverseCookiePolicy, 0)" converted to: "converse.com#%#//scriptlet('ubo-set-cookie.js', 'acceptConverseCookiePolicy', '0')"
@@ -874,8 +898,8 @@ blista.de##+js(set-cookie, cookieconsent_essential, yes)
 gift.be##+js(set-cookie, CP_ESSENTIAL, 1)
 ! Rule "gift.be##+js(set-cookie, CP_PREFERENCES, 1)" converted to: "gift.be#%#//scriptlet('ubo-set-cookie.js', 'CP_PREFERENCES', '1')"
 gift.be##+js(set-cookie, CP_PREFERENCES, 1)
-! Rule "animaze.us,penn-elcom.com,curantus.de,mtbmarket.de,spanienweinonline.ch,novap.fr,shop.wf-education.com##+js(set-cookie, amcookie_allowed, 1)" converted to: "animaze.us,penn-elcom.com,curantus.de,mtbmarket.de,spanienweinonline.ch,novap.fr,shop.wf-education.com#%#//scriptlet('ubo-set-cookie.js', 'amcookie_allowed', '1')"
-animaze.us,penn-elcom.com,curantus.de,mtbmarket.de,spanienweinonline.ch,novap.fr,shop.wf-education.com##+js(set-cookie, amcookie_allowed, 1)
+! Rule "merrell.pl,animaze.us,penn-elcom.com,curantus.de,mtbmarket.de,spanienweinonline.ch,novap.fr,shop.wf-education.com##+js(set-cookie, amcookie_allowed, 1)" converted to: "merrell.pl,animaze.us,penn-elcom.com,curantus.de,mtbmarket.de,spanienweinonline.ch,novap.fr,shop.wf-education.com#%#//scriptlet('ubo-set-cookie.js', 'amcookie_allowed', '1')"
+merrell.pl,animaze.us,penn-elcom.com,curantus.de,mtbmarket.de,spanienweinonline.ch,novap.fr,shop.wf-education.com##+js(set-cookie, amcookie_allowed, 1)
 ! Rule "bizkaia.eus##+js(set-cookie, pc_analitica_bizkaia, false)" converted to: "bizkaia.eus#%#//scriptlet('ubo-set-cookie.js', 'pc_analitica_bizkaia', 'false')"
 bizkaia.eus##+js(set-cookie, pc_analitica_bizkaia, false)
 ! Rule "bizkaia.eus##+js(set-cookie, pc_preferencias_bizkaia, true)" converted to: "bizkaia.eus#%#//scriptlet('ubo-set-cookie.js', 'pc_preferencias_bizkaia', 'true')"
@@ -1098,6 +1122,8 @@ omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-social, true)
 makerz.me##+js(set-local-storage-item, makerz_allow_consentmgr, 0)
 ! Rule "subscribercounter.com##+js(set-local-storage-item, ytsc_accepted_cookies, true)" converted to: "subscribercounter.com#%#//scriptlet('ubo-set-local-storage-item.js', 'ytsc_accepted_cookies', 'true')"
 subscribercounter.com##+js(set-local-storage-item, ytsc_accepted_cookies, true)
+! Rule "temu.com##+js(set-local-storage-item, cookie_prompt_times, 1)" converted to: "temu.com#%#//scriptlet('ubo-set-local-storage-item.js', 'cookie_prompt_times', '1')"
+temu.com##+js(set-local-storage-item, cookie_prompt_times, 1)
 ! Rule "librumreader.com##+js(set-local-storage-item, librumreader.com, false)" converted to: "librumreader.com#%#//scriptlet('ubo-set-local-storage-item.js', 'librumreader.com', 'false')"
 librumreader.com##+js(set-local-storage-item, librumreader.com, false)
 ! Rule "visnos.com##+js(set-local-storage-item, 2020-04-05, 1)" converted to: "visnos.com#%#//scriptlet('ubo-set-local-storage-item.js', '2020-04-05', '1')"
@@ -1620,6 +1646,8 @@ akbw.de##body,html:style(overflow: auto !important; position: initial !important
 biegnaszczyt.pl##+js(rc, blurred, , stay)
 ! Rule "futterhaus.de##+js(rc, is-blurred-cookiebox, , stay)" converted to: "futterhaus.de#%#//scriptlet('ubo-rc.js', 'is-blurred-cookiebox', '', 'stay')"
 futterhaus.de##+js(rc, is-blurred-cookiebox, , stay)
+! Rule "pasticceriaquadrifoglio.com##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "pasticceriaquadrifoglio.com#$#body,html { overflow: auto !important; position: initial !important; }"
+pasticceriaquadrifoglio.com##body,html:style(overflow: auto !important; position: initial !important;)
 ! Rule "bionic.co.uk##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "bionic.co.uk#$#body,html { overflow: auto !important; position: initial !important; }"
 bionic.co.uk##body,html:style(overflow: auto !important; position: initial !important;)
 ! Rule "sogeti.ie,sogeti.de,sogeti.fi,sogeti.be,sogeti.lu,sogeti.no,sogeti.es,sogeti.se,sogeti.com##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "sogeti.ie,sogeti.de,sogeti.fi,sogeti.be,sogeti.lu,sogeti.no,sogeti.es,sogeti.se,sogeti.com#$#body,html { overflow: auto !important; position: initial !important; }"
