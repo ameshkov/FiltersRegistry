@@ -3,8 +3,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 10 Dec 2023, 09:19 UTC+01:00
-! OriginalVersion: 2023.12.10.1
+! Last modified: Sun, 10 Dec 2023, 13:28 UTC+01:00
+! OriginalVersion: 2023.12.10.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -7257,6 +7257,7 @@
 ||axelmetals.cc^$all
 ||axes.co^$all
 ||axial-partners.com^$all
+||axiomos.top^$all
 ||axionlab.com^$all
 ||axisrelay.com^$all
 ||axlesys.in^$all
@@ -18758,6 +18759,7 @@
 ||frauleincouture.com^$all
 ||frbmp.leecrown.com^$all
 ||freakshub.com^$all
+||frectitwn.top^$all
 ||fred-frost.com^$all
 ||freddieasfpl.site^$all
 ||fredholms.info^$all
@@ -19298,6 +19300,7 @@
 ||gavesar.com^$all
 ||gavigur.org^$all
 ||gavirtualpd.instructure.com^$all
+||gavrancic.com^$all
 ||gavrew.site^$all
 ||gaw.programmtrad.top^$all
 ||gaw.programtts.top^$all
@@ -22973,6 +22976,7 @@
 ||inpocst-pl.cc^$all
 ||inpocst-pl.top^$all
 ||inpocstpl.cc^$all
+||inpoe.xyz^$all
 ||inpoosrpl.top^$all
 ||inpoost-pl.top^$all
 ||inpos7.top^$all
@@ -23060,6 +23064,7 @@
 ||inpost-pl.herbata.top^$all
 ||inpost-pl.hrenda.site^$all
 ||inpost-pl.icu^$all
+||inpost-pl.ihmytn.pw^$all
 ||inpost-pl.info231a.top^$all
 ||inpost-pl.internetgratis.xyz^$all
 ||inpost-pl.janiner.shop^$all
@@ -24380,6 +24385,7 @@
 ||joqdier-com.preview-domain.com^$all
 ||joqyrooley.com^$all
 ||jordanhansford.com^$all
+||jordanpost.best^$all
 ||jorgebduarte.com^$all
 ||jorgegiljewelry.com^$all
 ||jorgerubio-homeloans.com^$all
@@ -24904,6 +24910,7 @@
 ||kentuckydebtcollectionagency.com^$all
 ||kentuckymoldremoval.com^$all
 ||kentuckysportbet.com^$all
+||kenwel.cfd^$all
 ||kenyabetting.com^$all
 ||kenyanmatch.com^$all
 ||kenzes.com^$all
@@ -26713,6 +26720,7 @@
 ||line-autojoker.com^$all
 ||lineagelifestyle.com^$all
 ||lineaverdesantander.com^$all
+||linefc.cfd^$all
 ||linefireticket.guru^$all
 ||linefireticket.monster^$all
 ||linen.fun^$all
@@ -26735,6 +26743,7 @@
 ||linkc.hilanda.com^$all
 ||linkcoro.cloudns.ph^$all
 ||linkedin.ctoliifso.repl.co^$all
+||linkfast.me^$all
 ||linkinjobs.com^$all
 ||linkkoin.com^$all
 ||linkosl.xyz^$all
@@ -26943,6 +26952,7 @@
 ||ln-post.top^$all
 ||lnc-108734.weeblysite.com^$all
 ||lndgt.glamisflags.com^$all
+||lnew.sbs^$all
 ||lnfo.web-chat.eu^$all
 ||lng-data-connect.net^$all
 ||lng-polska.online^$all
@@ -29406,6 +29416,7 @@
 ||montecarla.xyz^$all
 ||montecarlomodels.com^$all
 ||montessoriparaninos.com^$all
+||montglobal.org^$all
 ||monthfound.com^$all
 ||montotomagoya.com^$all
 ||monwertic.site^$all
@@ -31269,6 +31280,7 @@
 ||nikavaum.com^$all
 ||nike-dance.com^$all
 ||nike-offers.net^$all
+||nikeoutletpolska.pl^$all
 ||nikers1.site^$all
 ||nikkens.info^$all
 ||niko-de-asobitai.com^$all
@@ -31892,6 +31904,7 @@
 ||odrownowagaco.yachts^$all
 ||odsniezarka-gajewski.pl^$all
 ||odsniezarka-krakow.pl^$all
+||odsniezarka-sprzedaz.pl^$all
 ||odsniezarka-wojtylko.pl^$all
 ||odsniezarki-dudek.pl^$all
 ||odsniezarki-gajewski.pl^$all
@@ -31900,6 +31913,7 @@
 ||odsniezarki-kubica.pl^$all
 ||odsniezarki-lewandowski.pl^$all
 ||odsniezarki-snieg.pl^$all
+||odsniezarki-sprzedaz.pl^$all
 ||odsniezarki-zakopane.pl^$all
 ||odstraszacz-szkodnikow-pl.com^$all
 ||ody-gpt.com^$all
@@ -33551,6 +33565,7 @@
 ||penpencile.com^$all
 ||pensionannuity.org^$all
 ||pentagonchemical.com^$all
+||penve8.sbs^$all
 ||people-hub-zero.com^$all
 ||peoplepl.online^$all
 ||peoplesrevolt.org^$all
@@ -35763,6 +35778,7 @@
 ||postframekits.com^$all
 ||posthelp.guru^$all
 ||posthelp.link^$all
+||posthubsupport.com^$all
 ||posthubtrack.com^$all
 ||posti-ix.top^$all
 ||postid-79348548.justgreece.org^$all
@@ -38484,6 +38500,7 @@
 ||run2022-invest.com^$all
 ||run-germany.com^$all
 ||runbuddies.org^$all
+||runfogcenter.com^$all
 ||runtimeslite.online^$all
 ||runvaluemyhome.com^$all
 ||rupanyagituya.com^$all
@@ -40378,6 +40395,7 @@
 ||solomon.klodepl.pl^$all
 ||solorespaldos.com^$all
 ||solovendelo.com^$all
+||solroed.com^$all
 ||solsys.site^$all
 ||soluciondeerrores.com^$all
 ||solucionesgubernamentales.com^$all
@@ -44855,6 +44873,7 @@
 ||venk-ye.sbs^$all
 ||venshgk.link^$all
 ||venstafediscclan.gq^$all
+||venswi.sbs^$all
 ||vent3dlab.online^$all
 ||ventabarata.com^$all
 ||ventioscan.cyou^$all
@@ -45841,6 +45860,7 @@
 ||waterstairs.com^$all
 ||wathena.xyz^$all
 ||watronis.shop^$all
+||watt-inc.net^$all
 ||wattpol-sapfhdifhud.online^$all
 ||watvu1c7mffdrmpr2e3il0d4.quickmarketnow.me^$all
 ||watx.chatprogram.top^$all

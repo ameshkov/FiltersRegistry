@@ -1,8 +1,8 @@
 !
-! Checksum: Mp4trYXUtzS6x5fkdzhAqw
-! OriginalVersion: 202312100850
+! Checksum: IZrw/pDtOJSK6aU956AisQ
+! OriginalVersion: 202312101250
 ! Title: Liste FR
-! Last modified: 10 Dec 2023 08:50 UTC
+! Last modified: 10 Dec 2023 12:50 UTC
 ! Expires: 1 days (fréquence des mises a jour automatiques)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=91
 !
