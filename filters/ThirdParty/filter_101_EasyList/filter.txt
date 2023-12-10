@@ -1,8 +1,8 @@
 !
-! Checksum: Oz4ykC9PZMmILMukLqClCQ
-! OriginalVersion: 202312101650
+! Checksum: muWdEtu43QvIPYQF1lfMjA
+! OriginalVersion: 202312102050
 ! Title: EasyList
-! Last modified: 10 Dec 2023 16:50 UTC
+! Last modified: 10 Dec 2023 20:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -29129,6 +29129,7 @@ browsershots.org#@#.advert_area
 ||fortunegossipyattentive.com^
 ||fortunescrollstrap.com^
 ||fortyflattenrosebud.com^
+||fortyphlosiona.com^
 ||forumsotiatry.com^
 ||forunfezanttor.com^
 ||forworksyconus.com^
@@ -32639,6 +32640,7 @@ browsershots.org#@#.advert_area
 ||jgqflgggex.com^
 ||jgszymcphwcege.com^
 ||jgydqhp.com^
+||jhdiujyjihnw.com^
 ||jhfhdkhkh.site^
 ||jhiekkjeyyfbj.com^
 ||jhoncj.com^
@@ -36309,6 +36311,7 @@ browsershots.org#@#.advert_area
 ||nightsboostam.com^
 ||nigion.com^
 ||nigmen.com^
+||nigooshe.net^
 ||nigure.com^
 ||nihiy.com^
 ||nikkiexxxads.com^
@@ -50674,6 +50677,7 @@ browsershots.org#@#.advert_area
 ||bestgames-2022.com^$popup
 ||bestgirls4fuck.com^$popup
 ||bestmoviesflix.xyz^$popup
+||bestplaceforall.com^$popup
 ||bestproducttesters.com^$popup
 ||bestrevenuenetwork.com^$popup
 ||bestvenadvertising.com^$popup
@@ -50963,6 +50967,7 @@ browsershots.org#@#.advert_area
 ||coticoffee.com^$popup
 ||countertrck.com^$popup
 ||countessbridge.com^$popup
+||countvouchers.com^$popup
 ||countypuddleillusion.com^$popup
 ||cpalabtracking.com^$popup
 ||cpaoffers.network^$popup
@@ -51383,6 +51388,7 @@ browsershots.org#@#.advert_area
 ||formulacountess.com^$popup
 ||forooqso.tv^$popup
 ||forthdigestive.com^$popup
+||fortyphlosiona.com^$popup
 ||forzubatr.com^$popup
 ||fostereminent.com^$popup
 ||fourwhenstatistics.com^$popup
@@ -52988,6 +52994,7 @@ browsershots.org#@#.advert_area
 ||rtpdn12.com^$popup
 ||rtyznd.com^$popup
 ||rubylife.go2cloud.org^$popup
+||rudderwebmy.com^$popup
 ||rufflycouncil.com^$popup
 ||rulefloor.com^$popup
 ||rummagemason.com^$popup
@@ -53249,6 +53256,7 @@ browsershots.org#@#.advert_area
 ||stimaariraco.info^$popup
 ||stinglackingrent.com^$popup
 ||stoagergu.com^$popup
+||stoaltoa.top^$popup
 ||stoorgel.com^$popup
 ||stop-adblocker.info^$popup
 ||stopadblocker.com^$popup
@@ -53941,6 +53949,7 @@ browsershots.org#@#.advert_area
 ||yourfreshposts.com^$popup
 ||yourperfectdating.life^$popup
 ||yourprivacy.icu^$popup
+||yourtopwords.com^$popup
 ||ysesials.net^$popup
 ||ytgzz.com^$popup
 ||yukclick.me^$popup

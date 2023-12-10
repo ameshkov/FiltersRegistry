@@ -1,8 +1,8 @@
 !
-! Checksum: /bpLK4Ie9vkags2laf1p6w
-! OriginalVersion: 202312101650
+! Checksum: u1F6KsYmuf0VaDt60moxDg
+! OriginalVersion: 202312102050
 ! Title: RU AdList: Counters
-! Last modified: 10 Dec 2023 16:50 UTC
+! Last modified: 10 Dec 2023 20:50 UTC
 ! Expires: 1 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1269,6 +1269,7 @@ yandex.*#?#.touch-feed > div > .feed-item[id^="zen-row-"]:-abp-has([class^="zen-
 @@||yandex.ru/ads/system/context.js|$domain=dzen.ru|ya.ru|yandex.by|yandex.kz|yandex.ru|yandex.uz
 @@||yandex.ru/ads/system/header-bidding.js|$xmlhttprequest,domain=yandex.by|yandex.kz|yandex.ru|yandex.uz
 @@||yastatic.net/daas/atom.js|$domain=yandex.by|yandex.kz|yandex.ru|yandex.uz
+@@||yastatic.net/pcode/adfox/loader.js|$xmlhttprequest,domain=yandex.by|yandex.kz|yandex.ru|yandex.uz
 @@||yastatic.net/safeframe-bundles/*/host.js|$xmlhttprequest,domain=ya.ru|yandex.by|yandex.kz|yandex.ru|yandex.uz
 !
 ! 4pda.to (ранее 4pda.ru)

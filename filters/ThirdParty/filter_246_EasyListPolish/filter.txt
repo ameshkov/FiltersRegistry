@@ -1,8 +1,8 @@
 !
-! Checksum: 1gn6msjazu1LNXyJyOGbVQ
-! OriginalVersion: 202312101650
+! Checksum: DN8bonirBZGoR9s2a7TvGw
+! OriginalVersion: 202312102050
 ! Title: EasyList Polish
-! Last modified: 10 Dec 2023 16:50 UTC
+! Last modified: 10 Dec 2023 20:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -372,6 +372,7 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 ||mgsm.pl/js/getSkapiecAds.
 ||miastokolobrzeg.pl^*^brico
 ||mmarocks.pl^*^1342x178.
+||modele.sklep.pl/images/banery^$image,domain=pfmrc.eu
 ||motocykle125.pl^*^junak^$subdocument
 ||naszekielce.com^*^inkubator_kielce.
 ||naszekielce.com^*_250x500.
@@ -602,6 +603,7 @@ tarnobrzeg.info###block-11
 gloskoninski.pl###block-26
 budowlanematerialy.eu###block-43
 obiektysakralne.pl###block-54
+plusblog.pl###block-7
 tylkomedycyna.pl###block-block-16
 innemedium.pl###block-block-19
 zmianynaziemi.pl###block-block-29
@@ -941,7 +943,7 @@ mistrzowie.org##.abox-view-content
 avrupadaokuma.eu,bachelor.undergraduatestudy.eu,distancelearningstudy.eu,dlamaturzysty.info,dlaucznia.info,doctoralstudy.eu,dualstudies.eu,edubaza.pl,estudarnaeuropa.eu,estudiareneuropa.eu,etudiereneurope.eu,gramatyka-angielska.info,kierunki-studiow.info,kursy-zawodowe.kwalifikacjezawodowe.info,kursyjezykowe.biz,kursyonline.info,kursysemestralne.pl,master.postgraduatestudy.eu,mba-studies.eu,ochschulen.studiumineuropa.eu,organizacjestudenckie.pl,pracaikariera.pl,rektorzy.pl,studenckamarka.pl,studenckamoda.pl,studentka.pl,studentnews.eu,studentnews.pl,studiadoktoranckie.info,studiainzynierskie.info,studialicencjackie.info,studiamagisterskie.info,studiamba.info,studianiestacjonarne.info,studiaonline.info,studiastacjonarne.info,studiaweuropie.eu,studies-in-english.pl,studies-in-europe.eu,studies-in-poland.pl,studiumveurope.eu,szkolyjezykowe.info,tanulmanyokeuropaban.eu,universita.studiareineuropa.eu,wameryce.info,weuropie.info##.acccb
 24opole.pl##.acl_bd
 300polityka.pl,bazarek.net.pl,codziennypoznan.pl,debica.tv,dwadozera.pl,evertiq.pl,gazeo.pl,jarock.pl,lublin112.pl,nurkowapolska.pl,pcworld.pl,pieniny24.pl,polsatnews.pl,polsatsport.pl,radiofm-online.com,samequizy.pl,stomil.olsztyn.pl,teleman.pl,termomodernizacja.pl,wirtualnepniewy.pl##.ad
-24wroclaw.pl,bp24.pl,debica24.eu,kartuzy.info,ototorun.pl,tulegnica.pl,zyciesokolowa.pl##.ad--bill-top
+24wroclaw.pl,bp24.pl,debica24.eu,goral.info.pl,kartuzy.info,ototorun.pl,powiatowa.info,tulegnica.pl,zyciesokolowa.pl##.ad--bill-top
 kazimierzdolny.pl##.ad--main
 defence24.pl##.ad-banner
 pcworld.pl##.ad-bilbo2
@@ -999,7 +1001,7 @@ terazgostynin.pl##.ads__top
 24wspolnota.pl,gostynska.pl,jarocinska.pl,krotoszynska.pl,magazynona.pl,rawicz24.pl,zpleszewa.pl,zwielkopolski24.pl##.ads__wrapper
 pl.hospitalby.com##.adsense
 koty.pl,psy.pl##.adsenseAd
-bp24.pl,cgm.pl,debica24.eu,egarwolin.pl,ekspresjaroslawski.pl,historykon.pl,itvpiaseczno.pl,kartuzy.info,lowicz24.eu,mtv24.tv,nowawrzesnia.pl,pogonszczecin.pl,tp.com.pl,vegespot.pl,zlotowskie.pl##.adv
+bp24.pl,cgm.pl,debica24.eu,egarwolin.pl,ekspresjaroslawski.pl,goral.info.pl,historykon.pl,itvpiaseczno.pl,kartuzy.info,lowicz24.eu,mtv24.tv,nowawrzesnia.pl,pogonszczecin.pl,powiatowa.info,tp.com.pl,vegespot.pl,zlotowskie.pl##.adv
 nowezyciepabianic.pl##.adv--above-news
 24jgora.pl,24wroclaw.pl,zambrow.org##.adv--halfpage
 24wroclaw.pl,wterenie.pl##.adv--rectangle
@@ -1172,9 +1174,9 @@ grojeckie24.pl##.block-image > .imageblock-image
 terazpasy.pl##.block-type-1-polecane
 magazynszum.pl##.block_reklama_top
 bielsko.tv,pless.pl,tychy.info##.blok-baner
-bielskiedrogi.pl,czecho.pl,czechowice.tv,pless.pl,pszczyna.tv##.blok-billboard
+bielskiedrogi.pl,czecho.pl,czechowice.biz,czechowice.tv,pless.pl,pszczyna.biz,pszczyna.tv,tychy.info##.blok-billboard
 czechowice.tv,pszczyna.tv##.blok-link-rotacyjny
-bielskiedrogi.pl,bielsko.tv,czecho.pl,pless.pl##.blok-r
+bielskiedrogi.pl,bielsko.tv,czecho.pl,czechowice.biz,pless.pl,pszczyna.biz,tychy.info##.blok-r
 pszczyna.tv##.blok-skyscraper-fit
 burda.pl,elle.pl,glamour.pl,kobieta.pl,mojpieknyogrod.pl,national-geographic.pl,przyslijprzepis.pl##.bm-ad-placement
 newsdiscopolo.info##.bn-lg-sidebar
@@ -1253,7 +1255,7 @@ mecze.com##.cool-stuff
 gol24.pl##.cs
 bielsko.biala.pl##.cukierek_container
 palegro.pl##.custom-commercial-banner-container
-bp24.pl,debica24.eu,kartuzy.info##.custom-html-box > .box__container > div
+bp24.pl,debica24.eu,goral.info.pl,kartuzy.info,powiatowa.info##.custom-html-box > .box__container > div
 bukmacherstwo.info,kliknijwzdrowie.pl,odkrywamyzakryte.com##.custom-html-widget
 probasket.pl##.custom-html-widget a > img
 tvswietokrzyska.pl##.custommarginbanner_topbottom
@@ -1352,7 +1354,7 @@ stadionowioprawcy.net##.google_box a
 log4.pl##.grafikaKlienta
 wiadomoscihandlowe.pl##.grid--ad
 money.pl##.grid-item-wpapiad
-24jgora.pl,bp24.pl,debica24.eu,itvpiaseczno.pl,kartuzy.info,lowicz24.eu,ototorun.pl,tp.com.pl,zlotowskie.pl,zyciesokolowa.pl##.grid__ad
+24jgora.pl,bp24.pl,debica24.eu,goral.info.pl,itvpiaseczno.pl,kartuzy.info,lowicz24.eu,ototorun.pl,powiatowa.info,tp.com.pl,zlotowskie.pl,zyciesokolowa.pl##.grid__ad
 nowiny24.pl,nowosci.com.pl##.gry
 zwiedzamyparyz.pl##.gyg-widget
 odkryjpomorze.pl##.h-line
@@ -1546,6 +1548,7 @@ wadowiceonline.pl##.nspArts
 polakwholandii.nl##.o-ad
 polakwholandii.nl##.o-ad__container
 beskidy.news##.o-promo
+mgsm.pl##.oa_replacement
 iautomatyka.pl##.ofertaa
 ekspertbudowlany.pl##.oferteo-widget
 zw.pl##.oglo_box2
@@ -1722,6 +1725,7 @@ slowoseniora.pl##.slowo-widget
 gratka.pl##.small-12.columns.textC.nieSkacz
 30minut.pl##.small-adv
 fronda.pl##.small-info
+wiesci.info.pl##.sp-module > .reklama-title
 4tour.pl##.span2
 informator-stolicy.pl##.span_r
 eszkola.pl,wirtualnemedia.pl##.spolecznoscinet
@@ -1775,6 +1779,7 @@ agronews.com.pl##.tdi_31
 onetontour.pl##.test-drive-banner
 lifemanagerka.pl##.text-9
 skarzyski.eu##.text-center
+goral.info.pl,powiatowa.info##.text-center > div[id^="bills_in_rotation_"]
 bociany.tv,katowice24.info,spece.it##.textwidget
 ikmag.pl##.thb_ad_header
 starosadeckie.info##.the-slider ~ div[style^="overflow: hidden"]
@@ -1989,6 +1994,7 @@ monitorlocalnews.com##a[href*="/banners/click"]
 dsi.net.pl##a[href*="/banners/click/"]
 emecze.pl##a[href*="/r/"]
 kurierzamojski.pl##a[href*="/redirect/"]
+btcpolska.com##a[href*="?utm_campaign=btcpolska&"]
 linktopoland.com##a[href*="autoczescionline24.pl"]
 businesstraveller.pl##a[href*="campaign=baner_"]
 cozadzien.pl##a[href*="czesciauto24.pl"]

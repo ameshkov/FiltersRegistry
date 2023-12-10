@@ -516,6 +516,8 @@ revivaltv.id###play3-sdk-iframe:remove()
 kuyou.id###video-float:remove()
 ! Rule "katadata.co.id###video_in_article:remove()" converted to: "katadata.co.id#$?##video_in_article { remove: true; }"
 katadata.co.id###video_in_article:remove()
+! Rule "viva.co.id###viva-viu-player:remove()" converted to: "viva.co.id#$?##viva-viu-player { remove: true; }"
+viva.co.id###viva-viu-player:remove()
 ! Rule "bangsaonline.com##.add-banner:has(.embed-responsive):remove()" converted to: "bangsaonline.com#$?#.add-banner:has(.embed-responsive) { remove: true; }"
 bangsaonline.com##.add-banner:has(.embed-responsive):remove()
 ! Rule "republika.co.id##.article-news .dailymotion-player-root:remove()" converted to: "republika.co.id#$?#.article-news .dailymotion-player-root { remove: true; }"
