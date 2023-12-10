@@ -1,8 +1,8 @@
 !
-! Checksum: Y+T4qtZ7kdMi/CxKmCXUVQ
-! OriginalVersion: 202312100415
+! Checksum: UmM3VYADMp/nG5M6uHt0JQ
+! OriginalVersion: 202312100800
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-12-10 04:15 UTC
+! Last modified: 2023-12-10 08:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -34865,6 +34865,7 @@ dashboard.razorpay.com#@##credential_picker_container
 ||cookiebox.ro^$third-party
 ||cookiechoices.org^$third-party
 ||cookiecode.nl/dist/latest.js
+||cookieconsent.com^$third-party
 ||cookiefirst.com^$third-party
 ||cookieform.pl^$third-party
 ||cookiehub.net^$third-party
