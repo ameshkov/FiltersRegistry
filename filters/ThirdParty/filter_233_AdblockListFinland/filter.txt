@@ -2,7 +2,7 @@
 ! Title: Adblock List for Finland
 ! Description: Finnish adblock list
 ! Expires: 4 days
-! Last modified: Sat, 09 Dec 2023 19:28:30 +0000
+! Last modified: Sat, 09 Dec 2023 23:19:58 +0000
 ! Homepage: https://github.com/finnish-easylist-addition/finnish-easylist-addition
 ! License: https://unlicense.org/
 ! Raportoi mainoksenestoon liittyvistä ongelmista tai estämättömistä mainoksista täällä / Please report adblocking related issues or unblocked ads at:
@@ -41,6 +41,7 @@ nyan.ax#?#.wpb_column.vc_column_container.td-pb-span8:has(a[onclick*='banner']):
 outlook.live.com##div[aria-label=Siirtymisruutu] ~ div[data-max-width="2400"] + div[class]
 proshop.fi#$#body { background-image: unset !important }
 puhelinvertailu.com#$#.index-wrap { left: 0px !important }
+seiska.fi#$?#.jwplayer.column:has(.jw-video[src="https://seiska.b-cdn.net/Mainos.mp4"]) { remove: true; }
 talouselama.fi,tekniikkatalous.fi##section hr:matches-css-before(content: /Mainos /):upward(1)
 tiketti.fi###front_big_event
 tiketti.fi#$##tik_fixed.with-ebanner { top: 0 !important }
@@ -1353,6 +1354,7 @@ _300x300_*.mp4$media,domain=futisfani.com|kiekkofani.com|penkkiurheilu.com|uutis
 ||cloudfront.net/poppartners/$script
 ||deals.innocode.no/api/public/v1/widgets$domain=aland.com|alandstidningen.ax|enontekionsanomat.fi|inarilainen.fi|kainuunsanomat.fi|kittilalehti.fi|kotilappi.fi|kuhmolainen.fi|luoteis-lappi.fi|saariselansanomat.fi|sompio.fi|sotkamolehti.fi|ylakainuu.fi
 ||deals.kledjut.com^$domain=viranomaisuutiset.fi
+||dropbox.com/*usbanner.gif$image,domain=urbaanisanakirja.com
 ||elmotv.com/wp-content/uploads/*/stake-banneri-$image,domain=elmotv.com
 ||es.ylilauta.org^$domain=ylilauta.org
 ||etn.fi/images/banners/$image
@@ -1538,6 +1540,7 @@ tori.fi##.appnexus-container
 ! @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=gamereactor.fi
 @@||leiki.com$domain=etuovi.com|iltalehti.fi
 @@||power.fi/Umbraco/Api/Tracking/TrackOrder$xmlhttprequest,domain=power.fi
+@@||seiska.b-cdn.net/Mainos.mp4$media,domain=seiska.fi
 @@||tags.tiqcdn.com/utag/sanoma-fi/*/utag.js
 anna.fi,kaksplus.fi#@#.sponsored-content
 hs.fi,sokos.fi#@#.mainokset

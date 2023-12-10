@@ -52,6 +52,8 @@ nyan.ax##.widget_adrotate_widgets:remove()
 proshop.fi##body:style(background-image: unset !important)
 ! Rule "puhelinvertailu.com##.index-wrap:style(left: 0px !important)" converted to: "puhelinvertailu.com#$#.index-wrap { left: 0px !important }"
 puhelinvertailu.com##.index-wrap:style(left: 0px !important)
+! Rule "seiska.fi##.jwplayer.column:has(.jw-video[src="https://seiska.b-cdn.net/Mainos.mp4"]):remove()" converted to: "seiska.fi#$?#.jwplayer.column:has(.jw-video[src="https://seiska.b-cdn.net/Mainos.mp4"]) { remove: true; }"
+seiska.fi##.jwplayer.column:has(.jw-video[src="https://seiska.b-cdn.net/Mainos.mp4"]):remove()
 ! Rule "tiketti.fi###tik_fixed.with-ebanner:style(top: 0 !important)" converted to: "tiketti.fi#$##tik_fixed.with-ebanner { top: 0 !important }"
 tiketti.fi###tik_fixed.with-ebanner:style(top: 0 !important)
 ! Rule "www.suomi24.fi##div[class^="ThreadGridItemWrapper__CardCol"][width="100%"] * div[class^="ThreadCardFooter__CardFooter"] > div[class^="ThreadCardFooter__ColumnContainer"]:style(padding-right: 15px !important)" converted to: "www.suomi24.fi#$#div[class^="ThreadGridItemWrapper__CardCol"][width="100%"] * div[class^="ThreadCardFooter__CardFooter"] > div[class^="ThreadCardFooter__ColumnContainer"] { padding-right: 15px !important }"
