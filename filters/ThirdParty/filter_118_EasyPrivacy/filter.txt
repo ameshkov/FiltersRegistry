@@ -1,7 +1,7 @@
 !
-! OriginalVersion: 202312110033
+! OriginalVersion: 202312110335
 ! Title: EasyPrivacy
-! Last modified: 11 Dec 2023 00:33 UTC
+! Last modified: 11 Dec 2023 03:35 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 !
@@ -32472,7 +32472,6 @@ arketing.indianadunes.com^
 ||matt.mercadolivre.com.br^
 ||metrics.uol.com.br^
 ||olx.com.br^*/lurker.
-||passeidireto.com/pd-tracking-lib/
 ||poder360.com.br/_tracker
 ||r7.com/comscore/
 ||sapo.*/clk?u=
