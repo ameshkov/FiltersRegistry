@@ -1,8 +1,8 @@
 !
-! Checksum: IttdxR67rY21iJBfGNUE0g
-! OriginalVersion: 202312111251
+! Checksum: ahA4myvkpZr3xu8MyLXE3w
+! OriginalVersion: 202312111650
 ! Title: RU AdList: Counters
-! Last modified: 11 Dec 2023 12:51 UTC
+! Last modified: 11 Dec 2023 16:50 UTC
 ! Expires: 1 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !

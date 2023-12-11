@@ -1,7 +1,7 @@
 !
-! OriginalVersion: 202312111231
+! OriginalVersion: 202312111438
 ! Title: EasyPrivacy
-! Last modified: 11 Dec 2023 12:31 UTC
+! Last modified: 11 Dec 2023 14:38 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 !
@@ -569,6 +569,7 @@
 /clientele/reports/*
 /clientlib-analytics-core.
 /clientstat?
+/cls/check.php?$image
 /cls_report?
 /cmanalytics.min.js
 /cms.gif?
