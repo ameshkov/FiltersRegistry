@@ -23140,6 +23140,7 @@ sanalkurs.net###toast-container > .toast-error[aria-live="assertive"]
 !
 ! SECTION: Popups - Regular rules
 !
+gatonplayseries.com#%#//scriptlet('set-cookie', 'pum-14592', 'true')
 xcacgs.com##div[id^="Bar"][id$="_big"]
 fastweb.it##.sticky_card_ebook
 indiatoday.in##.sana_popout
