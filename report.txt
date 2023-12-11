@@ -1,10 +1,10 @@
 
-FiltersCompiler report 12/11/2023 5:00:17 PM:
+FiltersCompiler report 12/11/2023 9:00:18 PM:
 
 Filter ID: 101
 Filter name: EasyList
-Compiled rules: 65280
-Excluded rules: 46
+Compiled rules: 65289
+Excluded rules: 48
 URL: https://easylist-downloads.adblockplus.org/easylist.txt
 INVALID RULES:
 Error: "Unknown modifier: webrtc" in the rule: "$webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepiratebay.org|thepiratebay10.org"
@@ -142,8 +142,8 @@ URL: https://adblock.gardar.net/is.abp.txt
 ---------------------------
 Filter ID: 120
 Filter name: AdBlockID
-Compiled rules: 5833
-Excluded rules: 1300
+Compiled rules: 5834
+Excluded rules: 1302
 URL: https://raw.githubusercontent.com/realodix/AdBlockID/main/dist/adblockid.adfl.txt
 INVALID RULES:
 Error: "Unknown pseudo-class ':remove-class' in selector: 'html:remove-class(cdk-global-scrollblock)'" in the rule: "duniagames.co.id##html:remove-class(cdk-global-scrollblock)"
@@ -157,8 +157,8 @@ All rules are valid.
 ---------------------------
 Filter ID: 122
 Filter name: Fanboy's Annoyances
-Compiled rules: 57055
-Excluded rules: 6776
+Compiled rules: 57060
+Excluded rules: 6784
 URL: https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 INVALID RULES:
 Error: Invalid selector: '+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)' -- '+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)' is not a valid selector in rule: deepl.com##+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)
@@ -447,7 +447,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 232
 Filter name: KAD - Anti-Scam
-Compiled rules: 48841
+Compiled rules: 48885
 Excluded rules: 236
 URL: https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt
 INVALID RULES:
@@ -548,8 +548,8 @@ URL: https://paulgb.github.io/BarbBlock/blacklists/adblock-plus.txt
 ---------------------------
 Filter ID: 241
 Filter name: EasyList Cookie List
-Compiled rules: 28868
-Excluded rules: 2906
+Compiled rules: 28871
+Excluded rules: 2910
 URL: https://www.fanboy.co.nz/fanboy-cookiemonster.txt
 INVALID RULES:
 Error: Invalid selector: '+js(set-cooke, cookie-accepted, yes)' -- '+js(set-cooke, cookie-accepted, yes)' is not a valid selector in rule: fizjobaza.pl##+js(set-cooke, cookie-accepted, yes)
@@ -22323,7 +22323,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 11
 Filter name: AdGuard Mobile Ads filter
-Compiled rules: 7760
+Compiled rules: 7761
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/11.txt
 All rules are valid.
@@ -22342,14 +22342,14 @@ All rules are valid.
 ---------------------------
 Filter ID: 14
 Filter name: AdGuard Annoyances filter
-Compiled rules: 52392
+Compiled rules: 52385
 Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/14.txt
 All rules are valid.
 ---------------------------
 Filter ID: 15
 Filter name: AdGuard DNS filter
-Compiled rules: 58303
+Compiled rules: 58317
 Excluded rules: 308
 URL: https://filters.adtidy.org/extension/chromium/filters/15.txt
 All rules are valid.
@@ -22371,14 +22371,14 @@ All rules are valid.
 ---------------------------
 Filter ID: 18
 Filter name: AdGuard Cookie Notices filter
-Compiled rules: 18701
+Compiled rules: 18688
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/18.txt
 All rules are valid.
 ---------------------------
 Filter ID: 19
 Filter name: AdGuard Popups filter
-Compiled rules: 18781
+Compiled rules: 18787
 Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/19.txt
 All rules are valid.
@@ -22428,8 +22428,8 @@ All rules are valid.
 ---------------------------
 Filter ID: 2
 Filter name: AdGuard Base filter
-Compiled rules: 134450
-Excluded rules: 56
+Compiled rules: 134484
+Excluded rules: 58
 URL: https://filters.adtidy.org/extension/chromium/filters/2.txt
 INVALID RULES:
 Error: "Unknown modifier: webrtc" in the rule: "$webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepiratebay.org|thepiratebay10.org"
@@ -22472,7 +22472,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 8
 Filter name: AdGuard Dutch filter
-Compiled rules: 1774
+Compiled rules: 1775
 Excluded rules: 4
 URL: https://filters.adtidy.org/extension/chromium/filters/8.txt
 All rules are valid.

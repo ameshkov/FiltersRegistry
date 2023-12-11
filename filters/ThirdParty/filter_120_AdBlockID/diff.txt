@@ -596,6 +596,8 @@ jurnas.com##article .youtube-player[allow="autoplay"]:upward(1):remove()
 metrorakyat.com##article div:has(> iframe[src^="https://www.youtube.com/embed/"]):remove()
 ! Rule "liputan6.com##article iframe.vidio-embed:remove()" converted to: "liputan6.com#$?#article iframe.vidio-embed { remove: true; }"
 liputan6.com##article iframe.vidio-embed:remove()
+! Rule "cnnindonesia.com##p:has(> .inview_ap_0.videocnn):remove()" converted to: "cnnindonesia.com#$?#p:has(> .inview_ap_0.videocnn) { remove: true; }"
+cnnindonesia.com##p:has(> .inview_ap_0.videocnn):remove()
 ! Rule "intipseleb.com###dmRelatedPlayer:remove()" converted to: "intipseleb.com#$?##dmRelatedPlayer { remove: true; }"
 intipseleb.com###dmRelatedPlayer:remove()
 ! Rule "m.riau24.com##.content_article .dm-player:remove()" converted to: "m.riau24.com#$?#.content_article .dm-player { remove: true; }"
