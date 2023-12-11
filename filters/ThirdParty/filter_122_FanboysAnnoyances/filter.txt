@@ -1,8 +1,8 @@
 !
-! Checksum: nGZwqYKc0cnuQbyGyoah8A
-! OriginalVersion: 202312110400
+! Checksum: WcwemE/e/PZQXnSB5WBZqA
+! OriginalVersion: 202312110840
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-12-11 04:00 UTC
+! Last modified: 2023-12-11 08:40 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -25229,6 +25229,7 @@ dashboard.razorpay.com#@##credential_picker_container
 ##.cookie-dialogue
 ##.cookie-directive-alert
 ##.cookie-directive-container
+##.cookie-directive-overlay
 ##.cookie-disclaimer--default
 ##.cookie-disclaimer--overlay
 ##.cookie-disclaimer-backdrop
@@ -39217,6 +39218,7 @@ bitfeed.co,worldbook.com##.cookiebanner
 plitch.com##.cookiebar-overlay
 paymentcloudinc.com##.cookiebtn
 autotoll.com.hk##.cookies-agreement-container
+gstarcad.net##.cookies-ask
 gomosafer.com##.cookies-body
 eib.org##.cookies-home_overlay
 brocoders.com##.cookies-modal-module--wrapper--17WJR
@@ -49977,6 +49979,7 @@ proaurum.de##.cookiefirst-root
 weddyplace.com##.core-modal
 aok-erleben.de##.csm_wrapper
 barfuss.it##.css-1ienoy8.e1gi2aal2
+legalbird.de##.css-1tbvhrn.jss86
 hotelheller.de##.css-jyar7y
 propellermann.de,wg-elbtal.de##.cw_ov
 discover-utrecht.com##.dSWqfk
@@ -50781,6 +50784,7 @@ gezondheidsplein.nl##.reveal-overlay
 asr.nl##.review-banner
 vanderlindentandartsen.nl##.row-md-split
 meistershof.nl##.rstboxes
+plenion.be##.s-cookie__modal32
 ketnet.be##.sc-gmmXAg.bfDcwE
 iservoetbalvanavond.nl##.sc-hGPBjI
 moderndentalcare.nl##.sh-page-notice
