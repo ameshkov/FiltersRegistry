@@ -1,9 +1,9 @@
 
-FiltersCompiler report 12/11/2023 9:00:17 AM:
+FiltersCompiler report 12/11/2023 1:00:19 PM:
 
 Filter ID: 101
 Filter name: EasyList
-Compiled rules: 65240
+Compiled rules: 65246
 Excluded rules: 46
 URL: https://easylist-downloads.adblockplus.org/easylist.txt
 INVALID RULES:
@@ -157,10 +157,16 @@ All rules are valid.
 ---------------------------
 Filter ID: 122
 Filter name: Fanboy's Annoyances
-Compiled rules: 53712
-Excluded rules: 13424
+Compiled rules: 57053
+Excluded rules: 6772
 URL: https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
-All rules are valid.
+INVALID RULES:
+Error: Invalid selector: '+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)' -- '+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)' is not a valid selector in rule: deepl.com##+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)
+Error: Invalid selector: '+js(set-local-storage-item, onboardingData, $remove$)' -- '+js(set-local-storage-item, onboardingData, $remove$)' is not a valid selector in rule: deepl.com##+js(set-local-storage-item, onboardingData, $remove$)
+Error: Invalid selector: '+js(set-cooke, cookie-accepted, yes)' -- '+js(set-cooke, cookie-accepted, yes)' is not a valid selector in rule: fizjobaza.pl##+js(set-cooke, cookie-accepted, yes)
+Error: Invalid selector: '+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)' -- '+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)' is not a valid selector in rule: deepl.com##+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)
+Error: Invalid selector: '+js(set-local-storage-item, onboardingData, $remove$)' -- '+js(set-local-storage-item, onboardingData, $remove$)' is not a valid selector in rule: deepl.com##+js(set-local-storage-item, onboardingData, $remove$)
+Error: Invalid selector: '+js(set-cooke, cookie-accepted, yes)' -- '+js(set-cooke, cookie-accepted, yes)' is not a valid selector in rule: fizjobaza.pl##+js(set-cooke, cookie-accepted, yes)
 ---------------------------
 Filter ID: 123
 Filter name: Fanboy's Social Blocking List
@@ -320,7 +326,7 @@ URL: https://easylist-downloads.adblockplus.org/bitblock.txt
 ---------------------------
 Filter ID: 214
 Filter name: ABPVN List
-Compiled rules: 3120
+Compiled rules: 3116
 Excluded rules: 30
 URL: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn_adguard.txt
 All rules are valid.
@@ -408,7 +414,7 @@ URL: https://www.fanboy.co.nz/fanboy-vietnam.txt
 ---------------------------
 Filter ID: 227
 Filter name: List-KR
-Compiled rules: 3582
+Compiled rules: 3581
 Excluded rules: 24
 URL: https://raw.githubusercontent.com/List-KR/List-KR/master/filter-AdGuard.txt
 All rules are valid.
@@ -422,7 +428,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 229
 Filter name: I don't care about cookies
-Compiled rules: 24340
+Compiled rules: 24341
 Excluded rules: 0
 URL: https://www.i-dont-care-about-cookies.eu/abp/
 All rules are valid.
@@ -441,7 +447,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 232
 Filter name: KAD - Anti-Scam
-Compiled rules: 48669
+Compiled rules: 48767
 Excluded rules: 236
 URL: https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt
 INVALID RULES:
@@ -542,8 +548,8 @@ URL: https://paulgb.github.io/BarbBlock/blacklists/adblock-plus.txt
 ---------------------------
 Filter ID: 241
 Filter name: EasyList Cookie List
-Compiled rules: 28871
-Excluded rules: 2888
+Compiled rules: 28865
+Excluded rules: 2906
 URL: https://www.fanboy.co.nz/fanboy-cookiemonster.txt
 INVALID RULES:
 Error: Invalid selector: '+js(set-cooke, cookie-accepted, yes)' -- '+js(set-cooke, cookie-accepted, yes)' is not a valid selector in rule: fizjobaza.pl##+js(set-cooke, cookie-accepted, yes)
@@ -22294,7 +22300,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 253
 Filter name: IndianList
-Compiled rules: 8885
+Compiled rules: 8886
 Excluded rules: 0
 URL: https://easylist-downloads.adblockplus.org/indianlist.txt
 All rules are valid.
@@ -22317,7 +22323,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 11
 Filter name: AdGuard Mobile Ads filter
-Compiled rules: 7755
+Compiled rules: 7759
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/11.txt
 All rules are valid.
@@ -22336,14 +22342,14 @@ All rules are valid.
 ---------------------------
 Filter ID: 14
 Filter name: AdGuard Annoyances filter
-Compiled rules: 52375
+Compiled rules: 52391
 Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/14.txt
 All rules are valid.
 ---------------------------
 Filter ID: 15
 Filter name: AdGuard DNS filter
-Compiled rules: 58302
+Compiled rules: 58303
 Excluded rules: 308
 URL: https://filters.adtidy.org/extension/chromium/filters/15.txt
 All rules are valid.
@@ -22358,21 +22364,21 @@ Error: "Unknown modifier: webrtc" in the rule: "$webrtc,domain=11anim.com|1337x.
 ---------------------------
 Filter ID: 17
 Filter name: AdGuard URL Tracking filter
-Compiled rules: 2004
+Compiled rules: 2006
 Excluded rules: 0
 URL: https://filters.adtidy.org/windows/filters/17.txt
 All rules are valid.
 ---------------------------
 Filter ID: 18
 Filter name: AdGuard Cookie Notices filter
-Compiled rules: 18701
+Compiled rules: 18703
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/18.txt
 All rules are valid.
 ---------------------------
 Filter ID: 19
 Filter name: AdGuard Popups filter
-Compiled rules: 18767
+Compiled rules: 18779
 Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/19.txt
 All rules are valid.
@@ -22386,7 +22392,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 20
 Filter name: AdGuard Mobile App Banners filter
-Compiled rules: 3533
+Compiled rules: 3535
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/20.txt
 All rules are valid.
@@ -22400,7 +22406,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 224
 Filter name: AdGuard Chinese filter
-Compiled rules: 22034
+Compiled rules: 22036
 Excluded rules: 50
 URL: https://filters.adtidy.org/extension/chromium/filters/224.txt
 INVALID RULES:
@@ -22422,7 +22428,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 2
 Filter name: AdGuard Base filter
-Compiled rules: 134376
+Compiled rules: 134407
 Excluded rules: 56
 URL: https://filters.adtidy.org/extension/chromium/filters/2.txt
 INVALID RULES:
@@ -22431,14 +22437,14 @@ Error: "Unknown modifier: webrtc" in the rule: "$webrtc,domain=ack.net|allthetes
 ---------------------------
 Filter ID: 3
 Filter name: AdGuard Tracking Protection filter
-Compiled rules: 79578
+Compiled rules: 83259
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/3.txt
 All rules are valid.
 ---------------------------
 Filter ID: 4
 Filter name: AdGuard Social Media filter
-Compiled rules: 14667
+Compiled rules: 14668
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/4.txt
 All rules are valid.

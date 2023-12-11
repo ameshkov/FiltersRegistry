@@ -1,7 +1,7 @@
 !
 ! Title: List-KR for AdGuard
 ! Description: List-KR for AdGuard. Maintained by the adblock community and AdGuard.
-! OriginalVersion: 2023.1209.0
+! OriginalVersion: 2023.1211.3
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! Support: https://github.com/List-KR/List-KR/issues/223
@@ -1453,7 +1453,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
-m.humoruniv.com##.btn_set ~ dd[class^="gbt"]#d3
+m.humoruniv.com##div[id$="_boom_boom_wrap"][class*=" "]
 ygosu.com##div:is(#board_search_result, .search_result) a[target="_blank"][href^="/board/ad/"]
 ygosu.com###rich-media-placement ~ div[style*="height:"][style*="padding-top:"][style*="padding-bottom:"]
 zdnet.co.kr##iframe[src^="/template_ad/?aid="]
@@ -1468,7 +1468,6 @@ www.dt.co.kr##.main_wrap > center > div[style*=" height:"]
 www.dt.co.kr##.article_view > div[style$="overflow:hidden"].img_center
 gukjenews.com,mnews.imaeil.com##body > #bottom-sticky
 bizhankook.com##footer ~ div[style^="position:"]
-m.humoruniv.com##div[id*="_wrap_"][id*="_comm_"].bg0
 m.ohmynews.com##iframe[src^="https://ojsfile.ohmynews.com/AD_FILE/"]
 extrememanual.net##.post_content > div[data-dest="placeholder"][style^="min-height:"]
 dtoday.co.kr##body > div[style*="position: fixed;"][style*="z-index:99999"][style*="bottom:"]
@@ -1485,9 +1484,7 @@ search.naver.com##div:is(._pl_section, ._bz_section).ad_section
 wadiz.kr##div[class^="RecommendationMobile_cardWrapper_"] > a[class^="MainBannerV2_container_"][data-promo-name]
 wadiz.kr##div[class^="KeyVisualBanner_container_"]
 ppss.kr##ad-shield-ads
-m.humoruniv.com###read_ok_desc_div + div[style^="text-align:"].bg1
 web.humoruniv.com###wrap_cnts > div[style*="margin:"][style^="width:"].box
-m.humoruniv.com##div[data-adsbygoogle-status="done"]
 m.mydaily.co.kr##.article_view ~ div[style^="width:"].clean_banner ~ .wcms_banner ~ .h50
 m.mydaily.co.kr##.article_view ~ div[style^="text-align:"].clean_banner ~ .wcms_banner + .h45
 m.mydaily.co.kr##.article_view ~ div[style^="text-align:"].clean_banner +.h50
@@ -3017,6 +3014,7 @@ mule.co.kr#$?#.section-lefttop-center:has(> .mule-today) { width: 100% !importan
 zzzz.lol#$?#.ent_wrapper.slide-vertical-effect .ent_news:not(:has(.ent_prefix:contains(ZZAPFLIX))) { remove: true; }
 !
 ! DOMAIN-REFRESHER: END
+m.pay.naver.com#?##content > .recommend_section:has(> div[style^="padding:"] > #m_pay_deliverytracking):contains(/^[ \\n]+$/)
 pedia.watcha.com#?#section[class^="css-"] section[class^="css-"] > [class^="css-"]:is(:has(section > a[target="_blank"]), :has(> div[class^="media-area "])):contains( · AD):not(:has(section ~ section))
 eomisae.co.kr#?#._listA tr.notice:has(span[style]:contains(AD))
 bonik.me#?##sidebar > .module:contains(Ad)
@@ -3078,16 +3076,19 @@ blacktoon253.com,blacktoon254.com,blacktoon255.com,blacktoon256.com,blacktoon257
 !
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet('abort-current-inline-script', 'popMagic.init')
+! m.humoruniv.com
+!#if (adguard_app_ios || adguard_ext_safari)
+m.humoruniv.com#%#//scriptlet('abort-on-stack-trace', '$.prototype.html', 'ch')
+!#endif
+m.humoruniv.com#%#//scriptlet('set-constant', 'list_end_run', 'noopFunc')
+m.humoruniv.com#%#//scriptlet('abort-on-stack-trace', '$.prototype.html', '_boom')
+m.humoruniv.com#%#//scriptlet('abort-current-inline-script', '$.prototype.html', '/\/images\/[A-z0-9-_]+\.(jpg|gif)/')
 !
-m.humoruniv.com#%#//scriptlet('set-cookie-reload', 'post_cook', '')
 hub.zum.com#%#//scriptlet('set-constant', 'Math.uuid', '', '', 'asFunction')
 sbs.co.kr#%#//scriptlet('hide-in-shadow-dom', 'sbs-player-ad-wrapper', 'sbs-player[media]')
 youtu.co,dfast.kr#%#//scriptlet('prevent-addEventListener', 'hashchange', '#viewus-explore-more')
 mememedia.co.kr#%#//scriptlet('set-constant', 'jQuery.fn.getUrlParameter', '', '', 'asFunction')
 shopping.interpark.com#%#//scriptlet('set-constant', '$is.powerLink.loadPowerLink', 'noopFunc')
-!#if (adguard_app_ios || adguard_ext_safari)
-m.humoruniv.com#%#//scriptlet('abort-on-stack-trace', '$.prototype.html', 'ch')
-!#endif
 msearch.shopping.naver.com#%#//scriptlet('json-prune', 'adRecommend.adUnits.[]')
 humors.zigcou.com#%#//scriptlet('set-constant', 'window.__NEXT_DATA__.props.pageProps.initialState.post.adhistory', 'emptyObj')
 slrclub.com#%#//scriptlet('abort-on-stack-trace', 'encodeURIComponent', '/(\/bbs\/zboard\.php\?id=|bbs_view[a-z]{3,}\.js)/')
@@ -3113,8 +3114,6 @@ search.11st.co.kr#%#//scriptlet('set-constant', 'searchDataFactory.focusPrdList'
 search.11st.co.kr#%#//scriptlet('set-constant', 'searchDataFactory.powerPrdList', 'emptyObj')
 search.11st.co.kr#%#//scriptlet('set-constant', 'searchDataFactory.plusPrdList', 'emptyObj')
 enuri.com#%#//scriptlet('json-prune', 'data.supertopADNos')
-m.humoruniv.com#%#//scriptlet('abort-current-inline-script', '$.prototype.html', '/\/images\/[A-z0-9-_]+\.(jpg|gif)/')
-m.humoruniv.com#%#//scriptlet('prevent-setTimeout', '/[A-z0-9_]+\(ch[0-9]+_[A-z0-9]+\)/')
 sbs.co.kr#%#//scriptlet('set-constant', 'player.renderAdSequence', 'undefined')
 domin.co.kr#%#//scriptlet('set-constant', 'bannerpop.popup', 'noopFunc')
 nesin.com#%#//scriptlet('abort-current-inline-script', 'open', '/\/popup\//')

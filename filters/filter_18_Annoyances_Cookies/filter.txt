@@ -2381,7 +2381,7 @@ newsflare.com##.nf-cookie-consent
 itvbd.com##.cookies-eu-banner
 topsporter.net##.penci-wrap-gprd-law
 baltimoresun.com##.osano-cm-dialog-custom
-||cmp.inmobi.com^$domain=24.hu|documaniatv.com|goniec.pl
+||cmp.inmobi.com^$domain=24.hu|documaniatv.com|goniec.pl|lelum.pl
 blue.vanmarcke.com#$##cookieModal { display: none !important; }
 blue.vanmarcke.com#$#.modal-backdrop { display: none !important; }
 blue.vanmarcke.com#$#body.modal-open { overflow: auto !important; }
@@ -15849,7 +15849,7 @@ makro.pl#@#.cookie-disclaimer:not(body)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/138596
 @@||cdn.privacy-mgmt.com/privacy-manager/index.html$domain=inside-digital.de
 ! https://github.com/AdguardTeam/AdguardFilters/issues/138489
-@@||cdn.privacy-mgmt.com/privacy-manager/index.html$domain=eatsmarter.de
+@@||cdn.privacy-mgmt.com^$domain=eatsmarter.de
 ! https://github.com/AdguardTeam/AdguardFilters/issues/138174
 gqmagazine.fr#@##onetrust-consent-sdk
 ! https://github.com/AdguardTeam/AdguardFilters/issues/138101

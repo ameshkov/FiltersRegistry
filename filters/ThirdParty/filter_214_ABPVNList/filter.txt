@@ -1,8 +1,8 @@
 !#if (adguard_ext_android_cb)
 ! version for AdGuard Content Blocker only
-! OriginalVersion: 20231211154817
+! OriginalVersion: 20231211192935
 ! Title: ABPVN List
-! Last modified: 11 Dec 2023 15:48:17 UTC+7
+! Last modified: 11 Dec 2023 19:29:35 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter
@@ -154,7 +154,6 @@
 ||images1.violympic.vn/violympic/images/upload/banner$image,domain=violympic.vn
 ||images2-focus-opensocial.googleusercontent.com^*.gif$image,domain=phimdinhcao.net|phimdinhcao.com|phimlongtieng.net|anivn.club
 ||images2.imgbox.com^*.gif$image,domain=ocumoe.com
-||img.blogtruyen.vn/sharex/$image
 ||img.dothi.net^*.gif
 ||img.dtruyen.com/login-ads-desktop.gif$domain=dtruyen.com
 ||img.ketqua9.net^*.gif
@@ -206,7 +205,7 @@
 ||mehoathinh3.com/xml/
 ||mephimtv.net/wp-banner$image
 ||mephimtv.net^*.gif
-||metruyencv.com/passback/$subdocument
+||metruyencv.info/passback/$subdocument
 ||mocfun.net/uploads/banners/
 ||motchillzz.co/banner$image
 ||motchillzz.co/videoi9/$media,redirect=noopmp3-0.1s,domain=motchillzz.co
@@ -484,7 +483,6 @@
 ||purinediarize.com^
 ||qc.coccoc.com^$third-party
 ||qc.violet.vn^
-||qcv5.blogtruyen.vn^
 ||qcv5.blogtruyenmoi.com^
 ||realclick.vn^$third-party
 ||rkgwzfwjgk.com^
@@ -846,19 +844,19 @@ mephimtv.net##.flex-wrap-banner
 mephimtv.net##.movie-banner
 mephimtv.net##.mv-banner
 mephimtv.net##.ws-banner
-metruyencv.com###js-read__body + .mt-3
-metruyencv.com###tpads-pc-top-page
-metruyencv.com##.nh-read__alert
-metruyencv.com##.px-3.nh-read__body>.text-center.pb-3
-metruyencv.com##.text-center.pb-3.nh-read__pagination
-metruyencv.com##div.text-center.pt-3:nth-of-type(1)
-metruyencv.com##div.text-center.pt-3:nth-of-type(2)
-metruyencv.com,metruyencv.net###div-ub-metruyencv_net
-metruyencv.com,metruyencv.net##.tpm-unit
-metruyencv.com,metruyencv.net#?#.text-center:-abp-has(small:-abp-contains(QUẢNG CÁO))
+metruyencv.info###js-read__body + .mt-3
+metruyencv.info###tpads-pc-top-page
+metruyencv.info##.nh-read__alert
+metruyencv.info##.px-3.nh-read__body>.text-center.pb-3
+metruyencv.info##.text-center.pb-3.nh-read__pagination
+metruyencv.info##div.text-center.pt-3:nth-of-type(1)
+metruyencv.info##div.text-center.pt-3:nth-of-type(2)
+metruyencv.info,metruyencv.net###div-ub-metruyencv_net
+metruyencv.info,metruyencv.net##.tpm-unit
+metruyencv.info,metruyencv.net#?#.text-center:-abp-has(small:-abp-contains(QUẢNG CÁO))
 metruyencv.net###js-read-body>.text-center.pb-3
 metruyencv.net##.text-center.pb-3.nh-read__pagination>.mb-1>.text-muted
-metruyencv.net##[href="https://metruyencv.com/goout/lazada"]
+metruyencv.net##[href="https://metruyencv.info/goout/lazada"]
 metruyencv.net##section.nh-section:nth-of-type(5)
 minhngoc.net.vn,vn-z.vn,kinhtedothi.vn##[id^="adv"]
 mitomf.tv###menu-item-52424
@@ -1399,7 +1397,7 @@ $third-party,script,domain=sexdiaryx.us
 ||i.imgur.com^$image,domain=phym18.org|phim18hd.biz|phim18vn.biz|phim18hd.me|xamvn.love
 ||i2.wp.com/hentaivnmoi.net/*banner
 ||i9zk5f8szj4x8saj5wcks8acja5sk1dz8stjs2g8isdcn6ejxn8zsr5xjs5h.com^
-||img.av3x.net/upload/av3x.net/banners/
+||img.av3x.net/upload/av3x.net/banners/$domain=phimsexhay669.co
 ||img.congdongmassage.com/banner/$image
 ||img.nguonc.com/public/images/Film/bet/$image
 ||img.nguonc.com^*.gif
@@ -1527,9 +1525,9 @@ vn.phym18.org##div#bnads
 !
 !#if (!adguard_ext_android_cb)
 ! version for all other AdGuard products
-! OriginalVersion: 20231211154817
+! OriginalVersion: 20231211192935
 ! Title: ABPVN List
-! Last modified: 11 Dec 2023 15:48:17 UTC+7
+! Last modified: 11 Dec 2023 19:29:35 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter
@@ -1681,7 +1679,6 @@ vn.phym18.org##div#bnads
 ||images1.violympic.vn/violympic/images/upload/banner$image,domain=violympic.vn
 ||images2-focus-opensocial.googleusercontent.com^*.gif$image,domain=phimdinhcao.net|phimdinhcao.com|phimlongtieng.net|anivn.club
 ||images2.imgbox.com^*.gif$image,domain=ocumoe.com
-||img.blogtruyen.vn/sharex/$image
 ||img.dothi.net^*.gif
 ||img.dtruyen.com/login-ads-desktop.gif$domain=dtruyen.com
 ||img.ketqua9.net^*.gif
@@ -1733,7 +1730,7 @@ vn.phym18.org##div#bnads
 ||mehoathinh3.com/xml/
 ||mephimtv.net/wp-banner$image
 ||mephimtv.net^*.gif
-||metruyencv.com/passback/$subdocument
+||metruyencv.info/passback/$subdocument
 ||mocfun.net/uploads/banners/
 ||motchillzz.co/banner$image
 ||motchillzz.co/videoi9/$media,redirect=noopmp3-0.1s,domain=motchillzz.co
@@ -2009,7 +2006,6 @@ vn.phym18.org##div#bnads
 ||purinediarize.com^
 ||qc.coccoc.com^$third-party
 ||qc.violet.vn^
-||qcv5.blogtruyen.vn^
 ||qcv5.blogtruyenmoi.com^
 ||realclick.vn^$third-party
 ||rkgwzfwjgk.com^
@@ -2371,19 +2367,19 @@ mephimtv.net##.flex-wrap-banner
 mephimtv.net##.movie-banner
 mephimtv.net##.mv-banner
 mephimtv.net##.ws-banner
-metruyencv.com###js-read__body + .mt-3
-metruyencv.com###tpads-pc-top-page
-metruyencv.com##.nh-read__alert
-metruyencv.com##.px-3.nh-read__body>.text-center.pb-3
-metruyencv.com##.text-center.pb-3.nh-read__pagination
-metruyencv.com##div.text-center.pt-3:nth-of-type(1)
-metruyencv.com##div.text-center.pt-3:nth-of-type(2)
-metruyencv.com,metruyencv.net###div-ub-metruyencv_net
-metruyencv.com,metruyencv.net##.tpm-unit
-metruyencv.com,metruyencv.net#?#.text-center:-abp-has(small:-abp-contains(QUẢNG CÁO))
+metruyencv.info###js-read__body + .mt-3
+metruyencv.info###tpads-pc-top-page
+metruyencv.info##.nh-read__alert
+metruyencv.info##.px-3.nh-read__body>.text-center.pb-3
+metruyencv.info##.text-center.pb-3.nh-read__pagination
+metruyencv.info##div.text-center.pt-3:nth-of-type(1)
+metruyencv.info##div.text-center.pt-3:nth-of-type(2)
+metruyencv.info,metruyencv.net###div-ub-metruyencv_net
+metruyencv.info,metruyencv.net##.tpm-unit
+metruyencv.info,metruyencv.net#?#.text-center:-abp-has(small:-abp-contains(QUẢNG CÁO))
 metruyencv.net###js-read-body>.text-center.pb-3
 metruyencv.net##.text-center.pb-3.nh-read__pagination>.mb-1>.text-muted
-metruyencv.net##[href="https://metruyencv.com/goout/lazada"]
+metruyencv.net##[href="https://metruyencv.info/goout/lazada"]
 metruyencv.net##section.nh-section:nth-of-type(5)
 minhngoc.net.vn,vn-z.vn,kinhtedothi.vn##[id^="adv"]
 mitomf.tv###menu-item-52424
@@ -2915,7 +2911,7 @@ $third-party,script,domain=sexdiaryx.us
 ||i.imgur.com^$image,domain=phym18.org|phim18hd.biz|phim18vn.biz|phim18hd.me|xamvn.love
 ||i2.wp.com/hentaivnmoi.net/*banner
 ||i9zk5f8szj4x8saj5wcks8acja5sk1dz8stjs2g8isdcn6ejxn8zsr5xjs5h.com^
-||img.av3x.net/upload/av3x.net/banners/
+||img.av3x.net/upload/av3x.net/banners/$domain=phimsexhay669.co
 ||img.congdongmassage.com/banner/$image
 ||img.nguonc.com/public/images/Film/bet/$image
 ||img.nguonc.com^*.gif
