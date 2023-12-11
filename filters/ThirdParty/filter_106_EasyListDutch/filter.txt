@@ -1,8 +1,8 @@
 !
-! Checksum: VJNZ2LOmi8IzOpahqPaKwg
-! OriginalVersion: 202312102050
+! Checksum: i+6PGqiRUD1PSgFZqWzDow
+! OriginalVersion: 202312110051
 ! Title: EasyList Dutch
-! Last modified: 10 Dec 2023 20:50 UTC
+! Last modified: 11 Dec 2023 00:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 !
