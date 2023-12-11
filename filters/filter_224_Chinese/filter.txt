@@ -5893,6 +5893,7 @@ newduba.cn###jq_youxi
 ||ukkkmg.xyz^
 ||ucjevgue.xyz^
 ||seutop.icu^
+||kkisoo.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -13965,6 +13966,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 szxx.com.cn###A0
+aiyingshi.tv###ADmask
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
