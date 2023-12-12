@@ -1,7 +1,7 @@
 !
-! OriginalVersion: 202312112044
+! OriginalVersion: 202312120008
 ! Title: EasyPrivacy
-! Last modified: 11 Dec 2023 20:44 UTC
+! Last modified: 12 Dec 2023 00:08 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 !
@@ -9469,6 +9469,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||branch.io^$third-party
 ||brandcdn.com/pixel/
 ||bravenet.com/counter/
+||braze.eu/api/v3/data/
 ||browser-intake-datadoghq.com^
 ||browser.events.data.microsoft.com^$ping
 ||browser.pipe.aria.microsoft.com^

@@ -232,6 +232,12 @@ finewoodworking.com##+js(set-cookie, taunton_user_consent_analytics, false)
 physikinstrumente.de,karlknauer.de,schoeck.com,resonate.coop,northgatevehiclehire.ie,badhall.at##+js(set-cookie, cookieconsent_status, allow)
 ! Rule "securityconference.org##+js(set-cookie, MSC_Cookiebanner, false)" converted to: "securityconference.org#%#//scriptlet('ubo-set-cookie.js', 'MSC_Cookiebanner', 'false')"
 securityconference.org##+js(set-cookie, MSC_Cookiebanner, false)
+! Rule "crushwineco.com##+js(set-cookie, acceptcookietermCookieBanner, true)" converted to: "crushwineco.com#%#//scriptlet('ubo-set-cookie.js', 'acceptcookietermCookieBanner', 'true')"
+crushwineco.com##+js(set-cookie, acceptcookietermCookieBanner, true)
+! Rule "levi.pt##+js(set-cookie, cookie_status, 1, , reload, 1)" converted to: "levi.pt#%#//scriptlet('ubo-set-cookie.js', 'cookie_status', '1', '', 'reload', '1')"
+levi.pt##+js(set-cookie, cookie_status, 1, , reload, 1)
+! Rule "splityourticket.co.uk##+js(set-cookie, cookieNotification.shown, 1)" converted to: "splityourticket.co.uk#%#//scriptlet('ubo-set-cookie.js', 'cookieNotification.shown', '1')"
+splityourticket.co.uk##+js(set-cookie, cookieNotification.shown, 1)
 ! Rule "eramba.org##+js(set-cookie, localConsent, false)" converted to: "eramba.org#%#//scriptlet('ubo-set-cookie.js', 'localConsent', 'false')"
 eramba.org##+js(set-cookie, localConsent, false)
 ! Rule "kupbilecik.com,kupbilecik.de,kupbilecik.pl##+js(set-cookie, allow-cookie, 1)" converted to: "kupbilecik.com,kupbilecik.de,kupbilecik.pl#%#//scriptlet('ubo-set-cookie.js', 'allow-cookie', '1')"
@@ -1166,6 +1172,12 @@ makerz.me##+js(set-local-storage-item, makerz_allow_consentmgr, 0)
 bazaartracker.com##+js(set-local-storage-item, cookiesAgree, true)
 ! Rule "subscribercounter.com##+js(set-local-storage-item, ytsc_accepted_cookies, true)" converted to: "subscribercounter.com#%#//scriptlet('ubo-set-local-storage-item.js', 'ytsc_accepted_cookies', 'true')"
 subscribercounter.com##+js(set-local-storage-item, ytsc_accepted_cookies, true)
+! Rule "app.klarna.com##+js(set-local-storage-item, safe-storage/v1/tracking-consent/trackingConsentMarketingKey, false)" converted to: "app.klarna.com#%#//scriptlet('ubo-set-local-storage-item.js', 'safe-storage/v1/tracking-consent/trackingConsentMarketingKey', 'false')"
+app.klarna.com##+js(set-local-storage-item, safe-storage/v1/tracking-consent/trackingConsentMarketingKey, false)
+! Rule "app.klarna.com##+js(set-local-storage-item, safe-storage/v1/tracking-consent/trackingConsentAdvertisingKey, false)" converted to: "app.klarna.com#%#//scriptlet('ubo-set-local-storage-item.js', 'safe-storage/v1/tracking-consent/trackingConsentAdvertisingKey', 'false')"
+app.klarna.com##+js(set-local-storage-item, safe-storage/v1/tracking-consent/trackingConsentAdvertisingKey, false)
+! Rule "app.klarna.com##+js(set-local-storage-item, safe-storage/v1/tracking-consent/trackingConsentAnalyticsKey, false)" converted to: "app.klarna.com#%#//scriptlet('ubo-set-local-storage-item.js', 'safe-storage/v1/tracking-consent/trackingConsentAnalyticsKey', 'false')"
+app.klarna.com##+js(set-local-storage-item, safe-storage/v1/tracking-consent/trackingConsentAnalyticsKey, false)
 ! Rule "instantspoursoi.fr##+js(set-local-storage-item, agreeToCookie, false)" converted to: "instantspoursoi.fr#%#//scriptlet('ubo-set-local-storage-item.js', 'agreeToCookie', 'false')"
 instantspoursoi.fr##+js(set-local-storage-item, agreeToCookie, false)
 ! Rule "thealliance.ai##+js(set-local-storage-item, AI Alliance_ReactCookieAcceptance_hasSetCookies, true)" converted to: "thealliance.ai#%#//scriptlet('ubo-set-local-storage-item.js', 'AI Alliance_ReactCookieAcceptance_hasSetCookies', 'true')"
@@ -1622,8 +1634,6 @@ steirerjobs.at,eliis.eu,flip.ro,zvsaar.de,visittallinn.ee,inbank.ee,ekoplaza.nl,
 napakka.fi,lampshoponline.com,husted-emballage.dk,nordahl.se,besthealthfoodshop.com##body,html:style(overflow: auto !important; position: initial !important;)
 ! Rule "trinta.net,clinicapardinas.com,ocurrodaparra.com,colegioemma.com,forsasesores.com,laburgueria.com,escenoset.es,ebainteriors.com,clinicadentalrv.com,dentoolapp.com,carbajobarrios.com,elmega.com,lacavita.com,globaltopografia.es,clinicaprodent.es,estudiometropolitano.com##body:style(overflow: auto !important; position: initial !important;)" converted to: "trinta.net,clinicapardinas.com,ocurrodaparra.com,colegioemma.com,forsasesores.com,laburgueria.com,escenoset.es,ebainteriors.com,clinicadentalrv.com,dentoolapp.com,carbajobarrios.com,elmega.com,lacavita.com,globaltopografia.es,clinicaprodent.es,estudiometropolitano.com#$#body { overflow: auto !important; position: initial !important; }"
 trinta.net,clinicapardinas.com,ocurrodaparra.com,colegioemma.com,forsasesores.com,laburgueria.com,escenoset.es,ebainteriors.com,clinicadentalrv.com,dentoolapp.com,carbajobarrios.com,elmega.com,lacavita.com,globaltopografia.es,clinicaprodent.es,estudiometropolitano.com##body:style(overflow: auto !important; position: initial !important;)
-! Rule "crushwineco.com##body:style(overflow: auto !important; position: initial !important;)" converted to: "crushwineco.com#$#body { overflow: auto !important; position: initial !important; }"
-crushwineco.com##body:style(overflow: auto !important; position: initial !important;)
 ! Rule "bigoutlet.dk,rcmodeltruck.dk,travshoppen.dk##body:style(overflow: auto !important; position: initial !important;)" converted to: "bigoutlet.dk,rcmodeltruck.dk,travshoppen.dk#$#body { overflow: auto !important; position: initial !important; }"
 bigoutlet.dk,rcmodeltruck.dk,travshoppen.dk##body:style(overflow: auto !important; position: initial !important;)
 ! Rule "pigmentmarkets.com,wearconferences.com##body:style(overflow: auto !important; position: initial !important;)" converted to: "pigmentmarkets.com,wearconferences.com#$#body { overflow: auto !important; position: initial !important; }"
@@ -1646,8 +1656,6 @@ realpeoplemedia.co.uk##body,html:style(overflow: auto !important; position: init
 fakenewsfrance.com,mediapart.fr##body:style(overflow: auto !important; position: initial !important;)
 ! Rule "avhdairy.com,beleaf.eu,bontadivina.it,chaesbueb.ch,derscharfemaxx.com,emmi-aktifit.ch,emmi-benecol.ch,emmi-caffelatte.com,emmi-energy-milk.ch,emmi-good-day.com,emmi-industrie.com,emmi-kaltbach.com,emmi-luzerner.ch,emmi-pur.ch,emmi-republicofblends.fr,emmidessert.it,emmilangnau.ch,gerberfondue.ch,glaeserne-molkerei.de,goatmilkpowder.com,group.emmi.com,kaeserei-studer.ch,leeb-milch.at,lepetitchevrier.ch,lesa.ch,mylove-mylife.at,rachelli.it,regiomolkerei.ch,tonis.ch,walserstolz.at##body:style(overflow: auto !important; position: initial !important;)" converted to: "avhdairy.com,beleaf.eu,bontadivina.it,chaesbueb.ch,derscharfemaxx.com,emmi-aktifit.ch,emmi-benecol.ch,emmi-caffelatte.com,emmi-energy-milk.ch,emmi-good-day.com,emmi-industrie.com,emmi-kaltbach.com,emmi-luzerner.ch,emmi-pur.ch,emmi-republicofblends.fr,emmidessert.it,emmilangnau.ch,gerberfondue.ch,glaeserne-molkerei.de,goatmilkpowder.com,group.emmi.com,kaeserei-studer.ch,leeb-milch.at,lepetitchevrier.ch,lesa.ch,mylove-mylife.at,rachelli.it,regiomolkerei.ch,tonis.ch,walserstolz.at#$#body { overflow: auto !important; position: initial !important; }"
 avhdairy.com,beleaf.eu,bontadivina.it,chaesbueb.ch,derscharfemaxx.com,emmi-aktifit.ch,emmi-benecol.ch,emmi-caffelatte.com,emmi-energy-milk.ch,emmi-good-day.com,emmi-industrie.com,emmi-kaltbach.com,emmi-luzerner.ch,emmi-pur.ch,emmi-republicofblends.fr,emmidessert.it,emmilangnau.ch,gerberfondue.ch,glaeserne-molkerei.de,goatmilkpowder.com,group.emmi.com,kaeserei-studer.ch,leeb-milch.at,lepetitchevrier.ch,lesa.ch,mylove-mylife.at,rachelli.it,regiomolkerei.ch,tonis.ch,walserstolz.at##body:style(overflow: auto !important; position: initial !important;)
-! Rule "goodram.com##body:style(overflow: auto !important; position: initial !important;)" converted to: "goodram.com#$#body { overflow: auto !important; position: initial !important; }"
-goodram.com##body:style(overflow: auto !important; position: initial !important;)
 ! Rule "zitekick.dk,eltechno.dk##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "zitekick.dk,eltechno.dk#$#body,html { overflow: auto !important; position: initial !important; }"
 zitekick.dk,eltechno.dk##body,html:style(overflow: auto !important; position: initial !important;)
 ! Rule "batteryempire.cz##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "batteryempire.cz#$#body,html { overflow: auto !important; position: initial !important; }"
@@ -1778,8 +1786,6 @@ eobuv.com,eobuv.cz,eobuwie.com.pl,ecipele.hr,eavalyne.lt,efootwear.eu,eschuhe.ch
 ford-kimmerle-reutlingen.de,autohaus-reitermayer.de,autohaus-diefenbach-waldbrunn.de,autohaus-diefenbach.de,autohaus-musberg.de,ford-ah-im-hunsrueck-simmern.de,ford-arndt-goerlitz.de,ford-autogalerie-alfeld.de,ford-bacher-schrobenhausen.de,ford-bathauer-bad-harzburg.de,ford-behrend-waren.de,ford-bergland-frankfurt-oder.de,ford-bergland-wipperfuerth.de,ford-besico-glauchau.de,ford-besico-nuernberg.de,ford-bischoff-neumuenster.de,ford-bodach-borgentreich.de,ford-bunk-saarbruecken.de,ford-bunk-voelklingen.de,ford-busch-kirchberg.de,ford-diermeier-muenchen.de,ford-dinnebier-leipzig.de,ford-duennes-regensburg.de,ford-fischer-bochum.de,ford-fischer-muenster.de,ford-foerster-koblenz.de,ford-fuchs-uffenheim.de,ford-geberzahn-koeln.de,ford-gerstmann-duesseldorf.de,ford-haefner-und-strunk-kassel.de,ford-hartmann-kempten.de,ford-hartmann-rastatt.de,ford-hatzner-karlsruhe.de,ford-heine-hoexter.de,ford-hentschel-hildesheim.de,ford-hessengarage-dreieich.de,ford-hessengarage-frankfurt.de,ford-hga-windeck.de,ford-hommert-coburg.de,ford-horstmann-rastede.de,ford-janssen-sonsbeck.de,ford-jochem-stingbert.de,ford-jungmann-wuppertal.de,ford-kestel-marktzeuln.de,ford-klaiber-bad-friedrichshall.de,ford-koenig-eschwege.de,ford-kohlhoff-mannheim.de,ford-kt-automobile-coesfeld.de,ford-lackermann-wesel.de,ford-ludewig-delligsen.de,ford-maiwald-linsengericht.de,ford-mertens-beckum.de,ford-meyer-bad-oeynhausen.de,ford-mgs-bayreuth.de,ford-mgs-radebeul.de,ford-muecke-berlin.de,ford-norren-weissenthurm.de,ford-nrw-garage-duesseldorf.de,ford-nrw-garage-handweiser.de,ford-nuding-remshalden.de,ford-ohm-rendsburg.de,ford-reinicke-muecheln.de,ford-rennig.de,ford-roerentrop-luenen.de,ford-schankola-dudweiler.de,ford-sg-goeppingen.de,ford-sg-leonberg.de,ford-sg-neu-ulm.de,ford-sg-pforzheim.de,ford-sg-waiblingen.de,ford-storz-st-georgen.de,ford-strunk-koeln.de,ford-tobaben-hamburg.de,ford-toenjes-zetel.de,ford-wagner-mayen.de,ford-wahl-fritzlar.de,ford-wahl-siegen.de,ford-weege-bad-salzuflen.de,ford-westhoff-hamm.de,ford-wieland-hasbergen.de,mokart.it##html:style(overflow: auto !important)
 ! Rule "trivagin.pl##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "trivagin.pl#$#body,html { overflow: auto !important; position: initial !important; }"
 trivagin.pl##body,html:style(overflow: auto !important; position: initial !important;)
-! Rule "bever.nl##body:style(overflow: auto !important; position: initial !important;)" converted to: "bever.nl#$#body { overflow: auto !important; position: initial !important; }"
-bever.nl##body:style(overflow: auto !important; position: initial !important;)
 ! Rule "tether.to##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "tether.to#$#body,html { overflow: auto !important; position: initial !important; }"
 tether.to##body,html:style(overflow: auto !important; position: initial !important;)
 ! Rule "roundhouse.org.uk##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "roundhouse.org.uk#$#body,html { overflow: auto !important; position: initial !important; }"
@@ -2090,8 +2096,8 @@ just-eat.dk##body,html:style(height: auto !important; overflow: auto !important)
 lekarna-bella.cz##body:style(overflow: auto !important; position: initial !important;)
 ! Rule "prosciutteriasandaniele.it##body:style(overflow: auto !important; position: initial !important;)" converted to: "prosciutteriasandaniele.it#$#body { overflow: auto !important; position: initial !important; }"
 prosciutteriasandaniele.it##body:style(overflow: auto !important; position: initial !important;)
-! Rule "vki.at,konsument.at##body:style(overflow: auto !important; position: initial !important;)" converted to: "vki.at,konsument.at#$#body { overflow: auto !important; position: initial !important; }"
-vki.at,konsument.at##body:style(overflow: auto !important; position: initial !important;)
+! Rule "vki.at,konsument.at##+js(set-cookie, vkicookieconsent, 0)" converted to: "vki.at,konsument.at#%#//scriptlet('ubo-set-cookie.js', 'vkicookieconsent', '0')"
+vki.at,konsument.at##+js(set-cookie, vkicookieconsent, 0)
 ! Rule "bayernlabo.de,bayernlb.de##body:style(overflow: auto !important; position: initial !important;)" converted to: "bayernlabo.de,bayernlb.de#$#body { overflow: auto !important; position: initial !important; }"
 bayernlabo.de,bayernlb.de##body:style(overflow: auto !important; position: initial !important;)
 ! Rule "linztourismus.at##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "linztourismus.at#$#body,html { overflow: auto !important; position: initial !important; }"
@@ -2762,8 +2768,6 @@ fertagus.pt##body,html:style(height: auto !important; overflow: auto !important)
 erco.com##body,html:style(overflow: auto !important; position: initial !important;)
 ! Rule "maybach-luxury.com,leiternprofi24.de,genusshandwerker.de##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "maybach-luxury.com,leiternprofi24.de,genusshandwerker.de#$#body,html { overflow: auto !important; position: initial !important; }"
 maybach-luxury.com,leiternprofi24.de,genusshandwerker.de##body,html:style(overflow: auto !important; position: initial !important;)
-! Rule "levi.pt##body,html:style(height: auto !important; overflow: auto !important)" converted to: "levi.pt#$#body,html { height: auto !important; overflow: auto !important }"
-levi.pt##body,html:style(height: auto !important; overflow: auto !important)
 ! Rule "virbac.pt,virbac.com##body,html:style(height: auto !important; overflow: auto !important)" converted to: "virbac.pt,virbac.com#$#body,html { height: auto !important; overflow: auto !important }"
 virbac.pt,virbac.com##body,html:style(height: auto !important; overflow: auto !important)
 ! Rule "vias.be##body,html:style(height: auto !important; overflow: auto !important)" converted to: "vias.be#$#body,html { height: auto !important; overflow: auto !important }"
@@ -2908,3 +2912,5 @@ flip.bg##.modal-open:style(overflow: auto !important;)
 podleze-piekielko.pl#$#abort-on-property-read cookieman
 ! Error: Invalid selector: '+js(set-cooke, cookie-accepted, yes)' -- '+js(set-cooke, cookie-accepted, yes)' is not a valid selector in rule:
 fizjobaza.pl##+js(set-cooke, cookie-accepted, yes)
+! Error: Invalid selector: '+js(trusted-set-local-storage-item, consentCookie, true)' -- '+js(trusted-set-local-storage-item, consentCookie, true)' is not a valid selector in rule:
+goodram.com##+js(trusted-set-local-storage-item, consentCookie, true)
