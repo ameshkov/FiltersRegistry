@@ -1,8 +1,8 @@
 !
-! Checksum: 4xr0WwC4Bw/cGbsWbL7hsg
-! OriginalVersion: 202312120051
+! Checksum: UAs9rfWOwuW1Vb+2TSZnxw
+! OriginalVersion: 202312120450
 ! Title: Adblock Warning Removal List
-! Last modified: 12 Dec 2023 00:51 UTC
+! Last modified: 12 Dec 2023 04:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/antiadblockfilters
 ! Licence: https://easylist.to/pages/licence.html
