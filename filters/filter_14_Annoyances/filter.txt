@@ -23124,6 +23124,7 @@ sanalkurs.net###toast-container > .toast-error[aria-live="assertive"]
 !
 ! SECTION: Popups - Regular rules
 !
+truthout.org##iframe[title="Message Bar with Donate Button"]
 smotreshka.tv#?#.notifications-container:has(> div:not([data-cy="notification-auth-reg"]))
 gatonplayseries.com#%#//scriptlet('set-cookie', 'pum-14592', 'true')
 xcacgs.com##div[id^="Bar"][id$="_big"]
@@ -31076,6 +31077,7 @@ newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,nordbayern.de,theloca
 !
 ! SECTION: Subscriptions - Regular rules
 !
+dot.asahi.com##.g-sidebar-magazine
 politico.com##.story-enhancement > #weekend-promo
 twitter.com#?#div[style^="transform"]:has(div[data-testid="inlinePrompt"] > div > a[href="/i/premium_sign_up?referring_page=timeline_prompt"])
 frankwatching.com##.container-fullwidth-subscription
@@ -45784,6 +45786,8 @@ theguardian.com##.contributions__adblock
 !
 ! SECTION: Self-promo - Regular rules
 !
+dot.asahi.com##.info
+dot.asahi.com##.leafs-pr-under
 123pan.com##.login-vip-banner
 nifty.com##.newsList > li > a[href^="https://setsuzoku.nifty.com/"]
 askona.ee###catalog > div.main-catalog-box-full-width
@@ -50431,6 +50435,7 @@ blog.livedoor.jp##div[id^="shitarss_title_"]
 !
 ! NOTE: Blogroll specific rules
 !
+crx7601.com#?#.article-body-inner .twitter-tweet ~ b:has(+ .ninja-recommend-block)
 yokohama-sports.com##.antenna-midashi
 yokohama-sports.com##.text-rss-list
 hmangamatome.net##.rssbox_midashi
