@@ -1,8 +1,8 @@
 !
-! Checksum: ZYAxzPqsaZmn/C/41/Eddg
-! OriginalVersion: 202312121251
+! Checksum: 3US6Oiv154R1TC6z9jnVrQ
+! OriginalVersion: 202312121650
 ! Title: EasyList
-! Last modified: 12 Dec 2023 12:51 UTC
+! Last modified: 12 Dec 2023 16:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -35430,7 +35430,6 @@ browsershots.org#@#.advert_area
 ||mm-cgnews.com^
 ||mm-syringe.com^
 ||mmadsgadget.com^
-||mmcdn.com^
 ||mmctsvc.com^
 ||mmdyvkndcsiw.com^
 ||mmgads.com^
