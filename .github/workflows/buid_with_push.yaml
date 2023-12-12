@@ -1,7 +1,9 @@
-name: Build Filters Registry
+name: Build and Push Filters Registry
 
 on:
   push:
+    branches:
+      - main
     paths-ignore:
       # do not trigger build on changes to the following files.
       # it is needed to avoid pull request merge blocking
@@ -37,7 +39,4 @@ jobs:
         run: yarn validate
 
       - name: Push to master
-        run: |
-          git config user.name 'Filters Builder'
-          git config user.email 'AdGuardFiltersBuilder@users.noreply.github.com'
-          yarn push
+        run: yarn push
