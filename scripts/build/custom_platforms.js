@@ -1,6 +1,6 @@
 /**
  * @file Overwrite default FilterCompiler's platforms configuration.
- * @see {@link https://github.com/AdguardTeam/FiltersCompiler/src/main/platforms-config.js}
+ * @see {@link https://github.com/AdguardTeam/FiltersCompiler/blob/master/src/main/platforms-config.js}
  *
  * IMPORTANT: During making any changes in this file,
  * the default configuration should also be updated through PR on BitBucket.
