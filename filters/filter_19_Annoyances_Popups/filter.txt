@@ -12461,6 +12461,7 @@ newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,nordbayern.de,theloca
 !
 ! SECTION: Subscriptions - Regular rules
 !
+politico.com##.story-enhancement > #weekend-promo
 twitter.com#?#div[style^="transform"]:has(div[data-testid="inlinePrompt"] > div > a[href="/i/premium_sign_up?referring_page=timeline_prompt"])
 frankwatching.com##.container-fullwidth-subscription
 rtl.hu##.newsletter-modal
@@ -14492,7 +14493,7 @@ fintolk.pro##.articles-telegram
 oann.com##.ctct-flyout-form
 bqprime.com##.pn-boilerplate--newsletter
 oggusto.com##.subscription-form-lg
-auto-swiat.pl##.googleNewsBanner
+komputerswiat.pl,auto-swiat.pl##.googleNewsBanner
 newsgeorgia.ge##.custom_html-23
 kapook.com##.likepage
 kapook.com##.foot
