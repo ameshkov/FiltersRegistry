@@ -192,14 +192,14 @@ More information about the `@include` directive and its options can be found her
 yarn install
 ```
 
-Build filters and patches:
+Build filters and patches with TTL 60 minutes:
 ```
-yarn build && yarn build:patches
+yarn build && yarn build:patches 60 m
 ```
 
 Build with white/black lists:
 ```
-yarn build -i=1,2,3 -s=4,5,6 && yarn build:patches
+yarn build -i=1,2,3 -s=4,5,6 && yarn build:patches 1 h
 ```
 
 Validate `filters.json` and `filters_i18n.json` for platforms:

@@ -19,15 +19,25 @@ jobs:
         with:
           node-version: 18.x
 
-      - name: yarn install
+      - name: Install dependencies
         run: yarn install --network-concurrency 1
 
-      - name: node
+      - name: Lint code
+        # TODO: add a separate workflow for linting
+        run: yarn lint
+
+      - name: Build filters
+        run: TLS=insecure yarn build
+
+      - name: Build patches
+        # Time live of patches - '60 minutes'
+        run: yarn build:patches 60 m
+
+      - name: Validate platforms and locales
+        run: yarn validate
+
+      - name: Push to master
         run: |
-          # TODO: add a separate workflow for linting
-          yarn lint
-
-          TLS=insecure node index.js
-
-          node validate.js
-          node validate-locales.js
+          git config user.name 'Filters Builder'
+          git config user.email 'AdGuardFiltersBuilder@users.noreply.github.com'
+          yarn push
