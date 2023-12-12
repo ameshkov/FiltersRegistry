@@ -20,7 +20,7 @@
     "node": ">=18"
   },
   "dependencies": {
-    "adguard-filters-compiler": "git+https://github.com/AdguardTeam/FiltersCompiler.git#v1.1.115",
+    "adguard-filters-compiler": "git+https://github.com/AdguardTeam/FiltersCompiler.git#v1.1.119",
     "@adguard/diff-builder": "git+https://github.com/AdguardTeam/DiffBuilder.git#test-dist"
   },
   "devDependencies": {
