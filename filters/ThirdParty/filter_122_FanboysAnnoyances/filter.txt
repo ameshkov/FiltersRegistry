@@ -1,8 +1,8 @@
 !
-! Checksum: Yi6YwK7CcPvd1EJb/BmaAQ
-! OriginalVersion: 202312121620
+! Checksum: 5ba+H1YxSFZX1fZJeXZm1A
+! OriginalVersion: 202312122020
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-12-12 16:20 UTC
+! Last modified: 2023-12-12 20:20 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -56836,6 +56836,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||superrichthailand.com/cookie-policy/cookie-policy.js
 @@||superrichthailand.com/privacy-policy/privacy-policy.js
 @@||sweetmarias.com/static/$script,~third-party
+@@||swisstph.ch/*/gdpr.min.js$~third-party
 @@||swnsdigital.com/*/webtoffee-gdpr-cookie-consent/$~third-party
 @@||tefl.com/lib/jquery.cookiebar.js
 @@||theautopian.com/content/plugins/complianz-gdpr/core/assets/js/cookieconsent.min.js
