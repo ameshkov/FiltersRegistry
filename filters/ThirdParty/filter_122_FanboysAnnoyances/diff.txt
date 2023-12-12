@@ -2982,14 +2982,6 @@ faq.whatsapp.com,blog.whatsapp.com,www.whatsapp.com##+js(rc, hasCookieBanner, bo
 seurakuntavaalit.fi##body:style(overflow: auto !important)
 ! Rule "kangasalansanomat.fi###td-outer-wrap:style(filter: none !important; user-select: auto !important;)" converted to: "kangasalansanomat.fi#$##td-outer-wrap { filter: none !important; user-select: auto !important; }"
 kangasalansanomat.fi###td-outer-wrap:style(filter: none !important; user-select: auto !important;)
-! Rule "vr.fi##body:style(overflow: auto !important)" converted to: "vr.fi#$#body { overflow: auto !important }"
-vr.fi##body:style(overflow: auto !important)
-! Rule "vr.fi##div[data-testid="modal"]:not(:has(div[data-testid="cookie-consent-modal"])):style(display: block !important)" converted to: "vr.fi#$?#div[data-testid="modal"]:not(:has(div[data-testid="cookie-consent-modal"])) { display: block !important }"
-vr.fi##div[data-testid="modal"]:not(:has(div[data-testid="cookie-consent-modal"])):style(display: block !important)
-! Rule "vr.fi##+js(aeld, wheel, preventDefault)" converted to: "vr.fi#%#//scriptlet('ubo-aeld.js', 'wheel', 'preventDefault')"
-vr.fi##+js(aeld, wheel, preventDefault)
-! Rule "vr.fi##+js(aeld, touchmove, preventDefault)" converted to: "vr.fi#%#//scriptlet('ubo-aeld.js', 'touchmove', 'preventDefault')"
-vr.fi##+js(aeld, touchmove, preventDefault)
 ! Rule "akaanseutu.fi,alueviesti.fi,kiuruvesilehti.fi,lempaala.ideapark.fi,lvs.fi,olutposti.fi,orivedensanomat.fi,pirmediat.fi,radiosun.fi,shl.fi,urjalansanomat.fi,ylojarvenuutiset.fi##+js(aeld, scroll, innerHeight)" converted to: "akaanseutu.fi,alueviesti.fi,kiuruvesilehti.fi,lempaala.ideapark.fi,lvs.fi,olutposti.fi,orivedensanomat.fi,pirmediat.fi,radiosun.fi,shl.fi,urjalansanomat.fi,ylojarvenuutiset.fi#%#//scriptlet('ubo-aeld.js', 'scroll', 'innerHeight')"
 akaanseutu.fi,alueviesti.fi,kiuruvesilehti.fi,lempaala.ideapark.fi,lvs.fi,olutposti.fi,orivedensanomat.fi,pirmediat.fi,radiosun.fi,shl.fi,urjalansanomat.fi,ylojarvenuutiset.fi##+js(aeld, scroll, innerHeight)
 ! Rule "anna.fi##+js(set, tcfAllowUseCookies, true)" converted to: "anna.fi#%#//scriptlet('ubo-set.js', 'tcfAllowUseCookies', 'true')"
@@ -6390,14 +6382,6 @@ faq.whatsapp.com,blog.whatsapp.com,www.whatsapp.com##+js(rc, hasCookieBanner, bo
 seurakuntavaalit.fi##body:style(overflow: auto !important)
 ! Rule "kangasalansanomat.fi###td-outer-wrap:style(filter: none !important; user-select: auto !important;)" converted to: "kangasalansanomat.fi#$##td-outer-wrap { filter: none !important; user-select: auto !important; }"
 kangasalansanomat.fi###td-outer-wrap:style(filter: none !important; user-select: auto !important;)
-! Rule "vr.fi##body:style(overflow: auto !important)" converted to: "vr.fi#$#body { overflow: auto !important }"
-vr.fi##body:style(overflow: auto !important)
-! Rule "vr.fi##div[data-testid="modal"]:not(:has(div[data-testid="cookie-consent-modal"])):style(display: block !important)" converted to: "vr.fi#$?#div[data-testid="modal"]:not(:has(div[data-testid="cookie-consent-modal"])) { display: block !important }"
-vr.fi##div[data-testid="modal"]:not(:has(div[data-testid="cookie-consent-modal"])):style(display: block !important)
-! Rule "vr.fi##+js(aeld, wheel, preventDefault)" converted to: "vr.fi#%#//scriptlet('ubo-aeld.js', 'wheel', 'preventDefault')"
-vr.fi##+js(aeld, wheel, preventDefault)
-! Rule "vr.fi##+js(aeld, touchmove, preventDefault)" converted to: "vr.fi#%#//scriptlet('ubo-aeld.js', 'touchmove', 'preventDefault')"
-vr.fi##+js(aeld, touchmove, preventDefault)
 ! Rule "akaanseutu.fi,alueviesti.fi,kiuruvesilehti.fi,lempaala.ideapark.fi,lvs.fi,olutposti.fi,orivedensanomat.fi,pirmediat.fi,radiosun.fi,shl.fi,urjalansanomat.fi,ylojarvenuutiset.fi##+js(aeld, scroll, innerHeight)" converted to: "akaanseutu.fi,alueviesti.fi,kiuruvesilehti.fi,lempaala.ideapark.fi,lvs.fi,olutposti.fi,orivedensanomat.fi,pirmediat.fi,radiosun.fi,shl.fi,urjalansanomat.fi,ylojarvenuutiset.fi#%#//scriptlet('ubo-aeld.js', 'scroll', 'innerHeight')"
 akaanseutu.fi,alueviesti.fi,kiuruvesilehti.fi,lempaala.ideapark.fi,lvs.fi,olutposti.fi,orivedensanomat.fi,pirmediat.fi,radiosun.fi,shl.fi,urjalansanomat.fi,ylojarvenuutiset.fi##+js(aeld, scroll, innerHeight)
 ! Rule "anna.fi##+js(set, tcfAllowUseCookies, true)" converted to: "anna.fi#%#//scriptlet('ubo-set.js', 'tcfAllowUseCookies', 'true')"
