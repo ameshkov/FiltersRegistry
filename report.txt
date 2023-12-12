@@ -1,5 +1,5 @@
 
-FiltersCompiler report 12/12/2023 5:00:15 AM:
+FiltersCompiler report 12/12/2023 9:00:17 AM:
 
 Filter ID: 101
 Filter name: EasyList
@@ -130,7 +130,7 @@ URL: https://raw.githubusercontent.com/KonoromiHimaries/PolishSubFilters/master/
 ---------------------------
 Filter ID: 118
 Filter name: EasyPrivacy
-Compiled rules: 33602
+Compiled rules: 33601
 Excluded rules: 12
 URL: https://easylist.to/easylist/easyprivacy.txt
 All rules are valid.
@@ -157,14 +157,16 @@ All rules are valid.
 ---------------------------
 Filter ID: 122
 Filter name: Fanboy's Annoyances
-Compiled rules: 57044
-Excluded rules: 6808
+Compiled rules: 57050
+Excluded rules: 6824
 URL: https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 INVALID RULES:
+Error: Invalid selector: '+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)' -- '+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)' is not a valid selector in rule: zippia.com##+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)
 Error: Invalid selector: '+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)' -- '+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)' is not a valid selector in rule: deepl.com##+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)
 Error: Invalid selector: '+js(set-local-storage-item, onboardingData, $remove$)' -- '+js(set-local-storage-item, onboardingData, $remove$)' is not a valid selector in rule: deepl.com##+js(set-local-storage-item, onboardingData, $remove$)
 Error: Invalid selector: '+js(set-cooke, cookie-accepted, yes)' -- '+js(set-cooke, cookie-accepted, yes)' is not a valid selector in rule: fizjobaza.pl##+js(set-cooke, cookie-accepted, yes)
 Error: Invalid selector: '+js(trusted-set-local-storage-item, consentCookie, true)' -- '+js(trusted-set-local-storage-item, consentCookie, true)' is not a valid selector in rule: goodram.com##+js(trusted-set-local-storage-item, consentCookie, true)
+Error: Invalid selector: '+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)' -- '+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)' is not a valid selector in rule: zippia.com##+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)
 Error: Invalid selector: '+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)' -- '+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)' is not a valid selector in rule: deepl.com##+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)
 Error: Invalid selector: '+js(set-local-storage-item, onboardingData, $remove$)' -- '+js(set-local-storage-item, onboardingData, $remove$)' is not a valid selector in rule: deepl.com##+js(set-local-storage-item, onboardingData, $remove$)
 Error: Invalid selector: '+js(set-cooke, cookie-accepted, yes)' -- '+js(set-cooke, cookie-accepted, yes)' is not a valid selector in rule: fizjobaza.pl##+js(set-cooke, cookie-accepted, yes)
@@ -449,7 +451,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 232
 Filter name: KAD - Anti-Scam
-Compiled rules: 48885
+Compiled rules: 48917
 Excluded rules: 236
 URL: https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt
 INVALID RULES:
@@ -614,7 +616,7 @@ URL: https://alleblock.pl/alleblock/alleblock.txt
 ---------------------------
 Filter ID: 246
 Filter name: EasyList Polish
-Compiled rules: 2552
+Compiled rules: 2566
 Excluded rules: 2
 URL: https://easylist-downloads.adblockplus.org/easylistpolish.txt
 All rules are valid.
@@ -22326,7 +22328,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 11
 Filter name: AdGuard Mobile Ads filter
-Compiled rules: 7763
+Compiled rules: 7764
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/11.txt
 All rules are valid.
@@ -22345,14 +22347,14 @@ All rules are valid.
 ---------------------------
 Filter ID: 14
 Filter name: AdGuard Annoyances filter
-Compiled rules: 52384
+Compiled rules: 52386
 Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/14.txt
 All rules are valid.
 ---------------------------
 Filter ID: 15
 Filter name: AdGuard DNS filter
-Compiled rules: 58358
+Compiled rules: 58506
 Excluded rules: 308
 URL: https://filters.adtidy.org/extension/chromium/filters/15.txt
 All rules are valid.
@@ -22395,7 +22397,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 20
 Filter name: AdGuard Mobile App Banners filter
-Compiled rules: 3536
+Compiled rules: 3538
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/20.txt
 All rules are valid.
@@ -22431,7 +22433,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 2
 Filter name: AdGuard Base filter
-Compiled rules: 134632
+Compiled rules: 134642
 Excluded rules: 58
 URL: https://filters.adtidy.org/extension/chromium/filters/2.txt
 INVALID RULES:

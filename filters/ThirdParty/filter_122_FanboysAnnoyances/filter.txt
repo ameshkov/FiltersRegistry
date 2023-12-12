@@ -1,8 +1,8 @@
 !
-! Checksum: rvtPNHYWGbO9qgLrqrqO9g
-! OriginalVersion: 202312120400
+! Checksum: VAdiKfWEYOBR4d8QEt+j1A
+! OriginalVersion: 202312120800
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-12-12 04:00 UTC
+! Last modified: 2023-12-12 08:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -36646,6 +36646,9 @@ huckberry.com##.fade
 bestrecipes.com.au#%#//scriptlet('ubo-cookie-remover.js', 'br_mc')
 ! xda-developers.com (forced login)
 xda-developers.com#%#//scriptlet('ubo-cookie-remover.js', 'articlesRead')
+! zippia.com (forced login) https://github.com/uBlockOrigin/uAssets/issues/21354
+zippia.com#%#//scriptlet('ubo-nosiif.js', '/onGatedSignupPopupTrigger|zippia-popup/')
+zippia.com#%#//scriptlet('ubo-cookie-remover.js', '_zippia-popup-s_t')
 ! opensecrets.org
 opensecrets.org##.is-visible.js-init.Modal
 opensecrets.org#%#//scriptlet('ubo-rc.js', 'js-no-scroll', 'html', 'stay')
@@ -47550,6 +47553,9 @@ huckberry.com##.fade
 bestrecipes.com.au#%#//scriptlet('ubo-cookie-remover.js', 'br_mc')
 ! xda-developers.com (forced login)
 xda-developers.com#%#//scriptlet('ubo-cookie-remover.js', 'articlesRead')
+! zippia.com (forced login) https://github.com/uBlockOrigin/uAssets/issues/21354
+zippia.com#%#//scriptlet('ubo-nosiif.js', '/onGatedSignupPopupTrigger|zippia-popup/')
+zippia.com#%#//scriptlet('ubo-cookie-remover.js', '_zippia-popup-s_t')
 ! opensecrets.org
 opensecrets.org##.is-visible.js-init.Modal
 opensecrets.org#%#//scriptlet('ubo-rc.js', 'js-no-scroll', 'html', 'stay')
@@ -48637,10 +48643,10 @@ bauhaus.no,bauhaus.se,parex.gr,lotto.it,paulandshark.com,taf.ba,dare2tri.com,t3m
 !! .basicLightbox
 authentic-plaza.com,kikka-activechair.com,bolerojunior.gr,szappan.hu,sanel.lv,zivara.ro,thegreenegg.ch,allegrigirarrosti.com,deco-in.ro,beboo.ro,sinopiarestauro.it,casabottega.net,shandhigson.co.uk,roscomponents.com,laboutiquemajorpigalle.com,armeriavarona.com,design-floral.ro,climahosteleria.es,svaposhop.fr,kalkito.gr,tuttopasticceria.it,markoshop.si,aminoprohealthcare.com##.basicLightbox
 authentic-plaza.com,kikka-activechair.com,bolerojunior.gr,szappan.hu,sanel.lv,zivara.ro,thegreenegg.ch,allegrigirarrosti.com,deco-in.ro,beboo.ro,sinopiarestauro.it,casabottega.net,shandhigson.co.uk,roscomponents.com,laboutiquemajorpigalle.com,armeriavarona.com,design-floral.ro,climahosteleria.es,svaposhop.fr,kalkito.gr,tuttopasticceria.it,markoshop.si,aminoprohealthcare.com#$#body,html { height: auto !important; overflow: auto !important }
-!! #cboxOverlay
-shop.doka.com###colorbox
-shop.doka.com###cboxOverlay
-shop.doka.com#$#body,html { height: auto !important; overflow: auto !important }
+! doka.com
+doka.com#%#//scriptlet('ubo-set-cookie.js', 'hide_cookieoverlay_v2', '1', '', 'reload', '1')
+doka.com#%#//scriptlet('ubo-set-cookie.js', 'socialmedia-cookies_allowed_v2', '0')
+doka.com#%#//scriptlet('ubo-set-cookie.js', 'performance-cookies_allowed_v2', '0')
 !! .cc-grower
 berocca.com.au,bepanthen.com.au,claratyne.com.au##.cc-grower
 berocca.com.au,bepanthen.com.au,claratyne.com.au#$#body,html { height: auto !important; overflow: auto !important }
