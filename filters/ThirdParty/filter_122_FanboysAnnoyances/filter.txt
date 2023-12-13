@@ -1,8 +1,8 @@
 !
-! Checksum: SeO+x++7hnD1vqUR5mXezQ
-! OriginalVersion: 202312130840
+! Checksum: qhH624ORMy68dwARlhQq7w
+! OriginalVersion: 202312131200
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-12-13 08:40 UTC
+! Last modified: 2023-12-13 12:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -37156,6 +37156,7 @@ trip.com##.tcp-h5-install-banner
 trip.com##.tcp-h5-install-popup
 techgenyz.com##.td-fix-index.tds-button
 telegram.org##.tg_try_desktop
+hs.fi##.toast__background--app-marketing
 twitter.com##.toast.client_prompt
 fatmap.com##.top-0.sticky
 zaim.net##.top-fix
@@ -41892,6 +41893,7 @@ polizei.bayern.de#%#//scriptlet('ubo-set-cookie.js', 'baypol_banner', 'true')
 ourworldofpixels.com#%#//scriptlet('ubo-set-cookie.js', 'nagAccepted', 'true')
 polizei.bayern.de#%#//scriptlet('ubo-set-cookie.js', 'baypol_functional', 'true')
 jku.at#%#//scriptlet('ubo-set-cookie.js', 'CookieConsent', 'OK')
+matkahuolto.fi#%#//scriptlet('ubo-set-cookie.js', 'CookieConsentV2', 'YES')
 espacocasa.com,altraeta.it,centrooceano.it,allstoresdigital.com,cultarm3d.de,soulbounce.com,fluidtopics.com,uvetgbt.com,malcorentacar.com,emondo.de,maspero.it,kelkay.com,underground-england.com,vert.eco,turcolegal.com,magnet4blogging.net,moovly.com,automationafrica.co.za,jornaldoalgarve.pt,keravanenergia.fi,kuopas.fi,frag-machiavelli.de,healthera.co.uk,mobeleader.com,powerup-gaming.com,developer-blog.net,medical.edu.mt,deh.mt,bluebell-railway.com,ribescasals.com,javea.com,chinaimportal.com,inds.co.uk,raoul-follereau.org,serramenti-milano.it,cosasdemujer.com,luz-blanca.info,cosasdeviajes.com,safehaven.io,havocpoint.it,motofocus.pl,nomanssky.com,drei-franken-info.de,clausnehring.com,alttab.net,kinderleicht.berlin,kiakkoradio.fi,cosasdelcaribe.es,de-sjove-jokes.dk,serverprofis.de,biographyonline.net,iziconfort.com,sportinnederland.com,natureatblog.com,wtsenergy.com,cosasdesalud.es,internetpasoapaso.com,zurzeit.at,contaspoupanca.pt#%#//scriptlet('ubo-set-cookie.js', 'viewed_cookie_policy', 'yes', '', 'reload', '1')
 backmarket.de,backmarket.co.uk,backmarket.es,backmarket.de,backmarket.be,backmarket.at,backmarket.fr,backmarket.gr,backmarket.fi,backmarket.ie,backmarket.it,backmarket.nl,backmarket.pt,backmarket.se,backmarket.sk,backmarket.com#%#//scriptlet('ubo-set-cookie.js', 'BM_Advertising', 'false', '', 'reload', '1')
 backmarket.de,backmarket.co.uk,backmarket.es,backmarket.de,backmarket.be,backmarket.at,backmarket.fr,backmarket.gr,backmarket.fi,backmarket.ie,backmarket.it,backmarket.nl,backmarket.pt,backmarket.se,backmarket.sk,backmarket.com#%#//scriptlet('ubo-set-cookie.js', 'BM_User_Experience', 'true')
@@ -44898,7 +44900,6 @@ bigissue.com##.ReactModal__Overlay
 abc7.com,abc7ny.com##.Shfq
 futurework.org.au##.SiteFooter_signup
 opensecrets.org##.StayConnected
-axios.com##.StoryPageCTA_story-page-cta__SOt_x
 outsystems.com##.Subscribe
 riverbender.com##.SubscribeBox
 nordvpn.com##.SubscribeSection
@@ -46154,6 +46155,7 @@ nypost.com,pagesix.com##.zephr-component
 bbc.com##.zephr-overlay
 minds.com##M-MODAL
 therealdeal.com##[class*="Newsletter"]
+axios.com##[class*="StoryPageCTA_story-page-cta_"]
 animalchannel.co,homehacks.co,parentingisnteasy.co,relieved.co,seeitlive.co,spotlightstories.co,sweetandsavory.co##[class="md:mt-10"]
 androidauthority.com##[class] > [class] > form[class]
 nowthisnews.com,thrillist.com##[class^="EmailAcquisitonstyles"]
@@ -46732,6 +46734,9 @@ statista.com#$#body,html { overflow: auto !important; position: initial !importa
 ! ##.email-subscription-modal
 logicool.co.jp##.email-subscription-modal
 logicool.co.jp#$#body[style="overflow: hidden;"] { overflow: auto !important; }
+! https://launer.com/c/women
+launer.com##.modal:has([style^='background-image: url("/assets/newsletter-'])
+launer.com#$#html { overflow: auto !important }
 ! fanboy_newsletter_international_hide.txt
 ! German
 onlinehaendler-news.de###article-subscribe
@@ -48368,6 +48373,7 @@ polizei.bayern.de#%#//scriptlet('ubo-set-cookie.js', 'baypol_banner', 'true')
 ourworldofpixels.com#%#//scriptlet('ubo-set-cookie.js', 'nagAccepted', 'true')
 polizei.bayern.de#%#//scriptlet('ubo-set-cookie.js', 'baypol_functional', 'true')
 jku.at#%#//scriptlet('ubo-set-cookie.js', 'CookieConsent', 'OK')
+matkahuolto.fi#%#//scriptlet('ubo-set-cookie.js', 'CookieConsentV2', 'YES')
 espacocasa.com,altraeta.it,centrooceano.it,allstoresdigital.com,cultarm3d.de,soulbounce.com,fluidtopics.com,uvetgbt.com,malcorentacar.com,emondo.de,maspero.it,kelkay.com,underground-england.com,vert.eco,turcolegal.com,magnet4blogging.net,moovly.com,automationafrica.co.za,jornaldoalgarve.pt,keravanenergia.fi,kuopas.fi,frag-machiavelli.de,healthera.co.uk,mobeleader.com,powerup-gaming.com,developer-blog.net,medical.edu.mt,deh.mt,bluebell-railway.com,ribescasals.com,javea.com,chinaimportal.com,inds.co.uk,raoul-follereau.org,serramenti-milano.it,cosasdemujer.com,luz-blanca.info,cosasdeviajes.com,safehaven.io,havocpoint.it,motofocus.pl,nomanssky.com,drei-franken-info.de,clausnehring.com,alttab.net,kinderleicht.berlin,kiakkoradio.fi,cosasdelcaribe.es,de-sjove-jokes.dk,serverprofis.de,biographyonline.net,iziconfort.com,sportinnederland.com,natureatblog.com,wtsenergy.com,cosasdesalud.es,internetpasoapaso.com,zurzeit.at,contaspoupanca.pt#%#//scriptlet('ubo-set-cookie.js', 'viewed_cookie_policy', 'yes', '', 'reload', '1')
 backmarket.de,backmarket.co.uk,backmarket.es,backmarket.de,backmarket.be,backmarket.at,backmarket.fr,backmarket.gr,backmarket.fi,backmarket.ie,backmarket.it,backmarket.nl,backmarket.pt,backmarket.se,backmarket.sk,backmarket.com#%#//scriptlet('ubo-set-cookie.js', 'BM_Advertising', 'false', '', 'reload', '1')
 backmarket.de,backmarket.co.uk,backmarket.es,backmarket.de,backmarket.be,backmarket.at,backmarket.fr,backmarket.gr,backmarket.fi,backmarket.ie,backmarket.it,backmarket.nl,backmarket.pt,backmarket.se,backmarket.sk,backmarket.com#%#//scriptlet('ubo-set-cookie.js', 'BM_User_Experience', 'true')
@@ -51402,6 +51408,9 @@ statista.com#$#body,html { overflow: auto !important; position: initial !importa
 ! ##.email-subscription-modal
 logicool.co.jp##.email-subscription-modal
 logicool.co.jp#$#body[style="overflow: hidden;"] { overflow: auto !important; }
+! https://launer.com/c/women
+launer.com##.modal:has([style^='background-image: url("/assets/newsletter-'])
+launer.com#$#html { overflow: auto !important }
 ! fanboy_newsletter_shopping_specific_uBO.txt
 ! .modal/.modal-backdrop
 frontrunners.ca,fruugo.co.uk,lull.com,otterbox.com,pulseuniform.com,saksfifthavenue.com,shop.pbs.org,szucstermekek.com,zumub.com##.modal
@@ -54177,8 +54186,6 @@ hk.fi##.cookie-notice-lightbox
 huntteri.fi##.cookie_modal_overlay
 ladulle.fi##.cs-overlay
 valostore.fi##.css-13jewua
-matkahuolto.fi##.css-16f2iy6
-matkahuolto.fi##.css-jlvvqa
 ifolor.fi##.dialogBanner--align-bottom
 aatos.app##.eiabyj
 sporthammer.fi##.first-page-of-accept-cookies

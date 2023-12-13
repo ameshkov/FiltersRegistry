@@ -23116,6 +23116,7 @@ sanalkurs.net###toast-container > .toast-error[aria-live="assertive"]
 !
 ! SECTION: Popups - Regular rules
 !
+cnet.com#%#//scriptlet('remove-class', 'c-avLazyStickyVideo-sticky', '.c-avLazyStickyVideo-container')
 m.inven.co.kr###mobileHeadline ~ .party-banner
 kartable.fr#$#.modal--push-more-content { display: none !important; }
 kartable.fr#$#body { overflow: auto !important; }
@@ -43402,8 +43403,6 @@ facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion#%#!f
 !
 ! 44.ua - notification about browser extension
 44.ua##.exp-line
-! download.cnet.com - annoying useless videoplayer
-download.cnet.com#$?#.c-avStickyVideo { remove: true; }
 ! ipress.ua - annoying animated banner
 ipress.ua##.swiper-container
 ! afisha.ru - annoying animated banner, redirect to broadcast page
@@ -48265,8 +48264,6 @@ plog.com.br#%#//scriptlet('adjust-setInterval', 'countdown', '*', '0.001')
 blog.carstopia.net,blog.carstopia.net,blog.coinsvalue.net,blog.cookinguide.net,blog.freeoseocheck.com,blog.makeupguide.net#%#//scriptlet('set-constant', 'document.hasFocus', 'trueFunc')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/156283
 theparking.eu#%#//scriptlet('remove-class', 'viously-sticked-top-right', '.viously-ui-container')
-! https://github.com/AdguardTeam/AdguardFilters/issues/156385
-cnet.com#%#//scriptlet('remove-class', 'c-avLazyStickyVideo-sticky', '.c-avLazyStickyVideo-container')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/156256
 moegirl.org.cn#%#//scriptlet('remove-class', 'skin-moeskin', 'body')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/155761
@@ -50446,6 +50443,8 @@ blog.livedoor.jp##div[id^="shitarss_title_"]
 !
 ! NOTE: Blogroll specific rules
 !
+||nullpoantenna.com^$domain=samuraisoccer.doorblog.jp
+hitoikigame.com#?#.p3_outline .plugin-freearea:has(td[style="display: none !important;"])
 crx7601.com#?#.article-body-inner .twitter-tweet ~ b:has(+ .ninja-recommend-block)
 yokohama-sports.com##.antenna-midashi
 yokohama-sports.com##.text-rss-list
