@@ -1,8 +1,8 @@
 !
-! Checksum: nzoaGKTx0avJTF6U2MwOtg
-! OriginalVersion: 202312130451
+! Checksum: XmwfC2yoVgPtolv67G0pdQ
+! OriginalVersion: 202312130850
 ! Title: EasyList
-! Last modified: 13 Dec 2023 04:51 UTC
+! Last modified: 13 Dec 2023 08:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -59543,6 +59543,7 @@ fintech.tv##.ads-img
 kiz10.com##.ads-medium
 bangkokpost.com##.ads-related
 gameshub.com,screenhub.com.au##.ads-slot
+lowfuelmotorsport.com##.ads-stats
 wallpapers.com##.ads-unit-fts
 ndtv.com##.ads-wrp
 auto.hindustantimes.com##.adsHeight300x600
