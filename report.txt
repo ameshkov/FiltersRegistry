@@ -1,9 +1,9 @@
 
-FiltersCompiler report 12/13/2023 1:00:38 PM:
+FiltersCompiler report 12/13/2023 5:00:16 PM:
 
 Filter ID: 101
 Filter name: EasyList
-Compiled rules: 65469
+Compiled rules: 65532
 Excluded rules: 48
 URL: https://easylist-downloads.adblockplus.org/easylist.txt
 INVALID RULES:
@@ -12,7 +12,7 @@ Error: "Unknown modifier: webrtc" in the rule: "$webrtc,domain=ack.net|allthetes
 ---------------------------
 Filter ID: 102
 Filter name: ABPindo
-Compiled rules: 9146
+Compiled rules: 9148
 Excluded rules: 30
 URL: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
 INVALID RULES:
@@ -157,7 +157,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 122
 Filter name: Fanboy's Annoyances
-Compiled rules: 57045
+Compiled rules: 57047
 Excluded rules: 6818
 URL: https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 INVALID RULES:
@@ -449,7 +449,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 232
 Filter name: KAD - Anti-Scam
-Compiled rules: 49328
+Compiled rules: 49410
 Excluded rules: 236
 URL: https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt
 INVALID RULES:
@@ -614,7 +614,7 @@ URL: https://alleblock.pl/alleblock/alleblock.txt
 ---------------------------
 Filter ID: 246
 Filter name: EasyList Polish
-Compiled rules: 2570
+Compiled rules: 2557
 Excluded rules: 2
 URL: https://easylist-downloads.adblockplus.org/easylistpolish.txt
 All rules are valid.
@@ -22324,7 +22324,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 11
 Filter name: AdGuard Mobile Ads filter
-Compiled rules: 7767
+Compiled rules: 7769
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/11.txt
 All rules are valid.
@@ -22336,14 +22336,14 @@ URL: https://filters.adtidy.org/extension/chromium/filters/12.txt
 ---------------------------
 Filter ID: 13
 Filter name: AdGuard Turkish filter
-Compiled rules: 6607
+Compiled rules: 6609
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/13.txt
 All rules are valid.
 ---------------------------
 Filter ID: 14
 Filter name: AdGuard Annoyances filter
-Compiled rules: 52402
+Compiled rules: 52426
 Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/14.txt
 All rules are valid.
@@ -22365,42 +22365,42 @@ Error: "Unknown modifier: webrtc" in the rule: "$webrtc,domain=11anim.com|1337x.
 ---------------------------
 Filter ID: 17
 Filter name: AdGuard URL Tracking filter
-Compiled rules: 2013
+Compiled rules: 2015
 Excluded rules: 0
 URL: https://filters.adtidy.org/windows/filters/17.txt
 All rules are valid.
 ---------------------------
 Filter ID: 18
 Filter name: AdGuard Cookie Notices filter
-Compiled rules: 18676
+Compiled rules: 18684
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/18.txt
 All rules are valid.
 ---------------------------
 Filter ID: 19
 Filter name: AdGuard Popups filter
-Compiled rules: 18811
+Compiled rules: 18819
 Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/19.txt
 All rules are valid.
 ---------------------------
 Filter ID: 1
 Filter name: AdGuard Russian filter
-Compiled rules: 24549
+Compiled rules: 24550
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/1.txt
 All rules are valid.
 ---------------------------
 Filter ID: 20
 Filter name: AdGuard Mobile App Banners filter
-Compiled rules: 3540
+Compiled rules: 3543
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/20.txt
 All rules are valid.
 ---------------------------
 Filter ID: 21
 Filter name: AdGuard Other Annoyances filter
-Compiled rules: 9451
+Compiled rules: 9456
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/21.txt
 All rules are valid.
@@ -22429,7 +22429,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 2
 Filter name: AdGuard Base filter
-Compiled rules: 134736
+Compiled rules: 134811
 Excluded rules: 58
 URL: https://filters.adtidy.org/extension/chromium/filters/2.txt
 INVALID RULES:
@@ -22438,7 +22438,7 @@ Error: "Unknown modifier: webrtc" in the rule: "$webrtc,domain=ack.net|allthetes
 ---------------------------
 Filter ID: 3
 Filter name: AdGuard Tracking Protection filter
-Compiled rules: 83264
+Compiled rules: 83267
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/3.txt
 All rules are valid.
@@ -22459,7 +22459,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 6
 Filter name: AdGuard German filter
-Compiled rules: 11874
+Compiled rules: 11876
 Excluded rules: 18
 URL: https://filters.adtidy.org/extension/chromium/filters/6.txt
 All rules are valid.
@@ -22480,7 +22480,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 9
 Filter name: AdGuard Spanish/Portuguese filter
-Compiled rules: 6327
+Compiled rules: 6328
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/9.txt
 All rules are valid.

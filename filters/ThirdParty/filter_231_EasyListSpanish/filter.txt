@@ -1,8 +1,8 @@
 !
-! Checksum: HKGIdGnkU4sLrj45UcL/Tw
-! OriginalVersion: 202312131250
+! Checksum: xCeSDZjRWDT/fNPtfN6AzA
+! OriginalVersion: 202312131651
 ! Title: EasyList Spanish
-! Last modified: 13 Dec 2023 12:50 UTC
+! Last modified: 13 Dec 2023 16:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
