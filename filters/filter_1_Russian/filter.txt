@@ -1476,6 +1476,8 @@ ucoz.ru/informer/
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||appcodedark.com^
+||appcodepnik^
 ||flyroll.ru^
 ||adstreamer.ru^$third-party
 ||videohead.tech^
@@ -9675,6 +9677,7 @@ gastronom.ru,eg.ru,newsmaker.md,delo-vcusa.ru,tolknews.ru,gorodche.ru,smartpress
 !
 !
 !
+||appcode*.com/substr/gerunel.js
 finance.ua##div[class$="-commercial-section"]
 tutkino.tv##.rel-news-block
 dev.ua##.partners
@@ -9885,6 +9888,11 @@ bits.media,devyatka.ru,gazeta-n1.ru,gorod48.ru,hi-fi.ru,innov.ru,k1news.ru,ktost
 !
 !
 !
+ngs.ru#?#.gridContainer > div[class]:not([id]):has(> [data-cms-place])
+kulturologia.ru#?##right > div.bordered:has(> center > div[id^="yandex_rtb"])s
+amic.ru#?#section > div[style^="max-height:"]:has(> div[class^="adfinity_"])
+logist.today##.horizontal-banner
+logist.today##div[class|="article-sidebar__ad"]
 smart-lab.ru#?#.sidebar_right > div.bbr__big:has(> div[id^="adfox_"])
 kp.ru##.afisha-r__block
 ||static.gazeta.ru/nm2021/js/others_scripts_v1.js
