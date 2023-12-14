@@ -1,9 +1,9 @@
 
-FiltersCompiler report 12/14/2023 1:00:16 AM:
+FiltersCompiler report 12/14/2023 5:00:15 AM:
 
 Filter ID: 101
 Filter name: EasyList
-Compiled rules: 65532
+Compiled rules: 65537
 Excluded rules: 48
 URL: https://easylist-downloads.adblockplus.org/easylist.txt
 INVALID RULES:
@@ -130,7 +130,7 @@ URL: https://raw.githubusercontent.com/KonoromiHimaries/PolishSubFilters/master/
 ---------------------------
 Filter ID: 118
 Filter name: EasyPrivacy
-Compiled rules: 33580
+Compiled rules: 33593
 Excluded rules: 12
 URL: https://easylist.to/easylist/easyprivacy.txt
 All rules are valid.
@@ -142,7 +142,7 @@ URL: https://adblock.gardar.net/is.abp.txt
 ---------------------------
 Filter ID: 120
 Filter name: AdBlockID
-Compiled rules: 5846
+Compiled rules: 5853
 Excluded rules: 1306
 URL: https://raw.githubusercontent.com/realodix/AdBlockID/main/dist/adblockid.adfl.txt
 INVALID RULES:
@@ -157,8 +157,8 @@ All rules are valid.
 ---------------------------
 Filter ID: 122
 Filter name: Fanboy's Annoyances
-Compiled rules: 57057
-Excluded rules: 6822
+Compiled rules: 57064
+Excluded rules: 6830
 URL: https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 INVALID RULES:
 Error: Invalid selector: '+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)' -- '+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)' is not a valid selector in rule: zippia.com##+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)
@@ -328,7 +328,7 @@ URL: https://easylist-downloads.adblockplus.org/bitblock.txt
 ---------------------------
 Filter ID: 214
 Filter name: ABPVN List
-Compiled rules: 3115
+Compiled rules: 3111
 Excluded rules: 30
 URL: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn_adguard.txt
 All rules are valid.
@@ -553,8 +553,8 @@ URL: https://paulgb.github.io/BarbBlock/blacklists/adblock-plus.txt
 ---------------------------
 Filter ID: 241
 Filter name: EasyList Cookie List
-Compiled rules: 28858
-Excluded rules: 2918
+Compiled rules: 28863
+Excluded rules: 2922
 URL: https://www.fanboy.co.nz/fanboy-cookiemonster.txt
 INVALID RULES:
 Error: Invalid selector: '+js(set-cooke, cookie-accepted, yes)' -- '+js(set-cooke, cookie-accepted, yes)' is not a valid selector in rule: fizjobaza.pl##+js(set-cooke, cookie-accepted, yes)
@@ -22432,7 +22432,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 2
 Filter name: AdGuard Base filter
-Compiled rules: 134829
+Compiled rules: 134834
 Excluded rules: 58
 URL: https://filters.adtidy.org/extension/chromium/filters/2.txt
 INVALID RULES:
