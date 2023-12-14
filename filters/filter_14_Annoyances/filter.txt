@@ -19154,6 +19154,7 @@ reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion#@#.Sid
 ! reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion#@#.promotedlink
 !#safari_cb_affinity
 !
+||skisofa.com^$third-party
 ||functionalfeather.com^$third-party
 ||whisperingsummit.com^$third-party
 ||crystalboulevard.com^$third-party
@@ -47112,7 +47113,6 @@ eneba.com##.xmbBPq
 humblebundle.com###site-xpromo-banner
 infoworld.com#?#.sector > ul > li:not([class]):has(> div.item-eyebrow > span.sponsored)
 sp.nicovideo.jp###jsBlockedPremiumMiddleBannerContainer
-nicovideo.jp##.IchibaContainer.Card
 forhims.com#$#div[class*="promo-bannerstyle"] { display: none !important; }
 forhims.com#$#nav[role="navigation"] { top: 0 !important; }
 themeisle.com###text-7
