@@ -1,8 +1,8 @@
 !#if (adguard_ext_android_cb)
 ! version for AdGuard Content Blocker only
-! OriginalVersion: 20231213143744
+! OriginalVersion: 20231214114225
 ! Title: ABPVN List
-! Last modified: 13 Dec 2023 14:37:44 UTC+7
+! Last modified: 14 Dec 2023 11:42:25 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter
@@ -154,13 +154,8 @@
 ||images1.violympic.vn/violympic/images/upload/banner$image,domain=violympic.vn
 ||images2-focus-opensocial.googleusercontent.com^*.gif$image,domain=phimdinhcao.net|phimdinhcao.com|phimlongtieng.net|anivn.club
 ||images2.imgbox.com^*.gif$image,domain=ocumoe.com
-||img.dothi.net^*.gif
 ||img.dtruyen.com/login-ads-desktop.gif$domain=dtruyen.com
-||img.ketqua9.net^*.gif
-||img.upanh.tv^*.gif$domain=xemhay24h.com
-||img.upanh.tv^*.gif$image,domain=phimtuoitho.tv
-||img.vietcetera.com^*banner$image
-||img1.oto.com.vn/2021/02/23/mER5FXHc/1140-140-px-1-a753.jpg
+||img.upanh.tv^*.gif$image,domain=phimtuoitho.tv|xemhay24h.com
 ||img_bongdalu.thscore.fun^*.gif
 ||imgyn.imageshh.com^*.gif$image,domain=mphim14.com|hhchina.tv
 ||inet.vn/images/banner
@@ -808,6 +803,9 @@ lmssplus.com##.textlinkBox_notwrap__scC4g.textlinkBox_wrapper__1C2P9
 lmssplus.com##.textlinkBox_wrapper
 lmssplus.com##p[style="color: rgb(174, 174, 174); margin-top: 10px; margin-bottom: 20px;"]
 loigiaihay.com###countdown
+loigiaihay.com##.bottom_cnt_ad
+loigiaihay.com##.tp_ads_incontent
+loigiaihay.com##div.ad_separator
 luatvietnam.vn##.advHolder
 lucloi.vn##.ads_shortcode
 luotphimtv1.com,luotphim2.net,luotphim1.net,luotphimtv.vip,cdnwp.icu,webphim2.com###myModal
@@ -1399,8 +1397,8 @@ $third-party,script,domain=sexdiaryx.us
 ||i9zk5f8szj4x8saj5wcks8acja5sk1dz8stjs2g8isdcn6ejxn8zsr5xjs5h.com^
 ||img.av3x.net/upload/av3x.net/banners/$domain=phimsexhay669.co
 ||img.congdongmassage.com/banner/$image
-||img.nguonc.com/public/images/Film/bet/$image
-||img.nguonc.com^*.gif
+||img.nguonc.com/public/images/Film/bet/$image,domain=xxx.yeusex.cc
+||img.nguonc.com^*.gif$domain=sexviet1.vip
 ||javhay.media/theme/custom.int.js
 ||javtopxx.com/public/images/banner/$image
 ||kgfjrb711.com^
@@ -1525,9 +1523,9 @@ vn.phym18.org##div#bnads
 !
 !#if (!adguard_ext_android_cb)
 ! version for all other AdGuard products
-! OriginalVersion: 20231213143744
+! OriginalVersion: 20231214114225
 ! Title: ABPVN List
-! Last modified: 13 Dec 2023 14:37:44 UTC+7
+! Last modified: 14 Dec 2023 11:42:25 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter
@@ -1679,13 +1677,8 @@ vn.phym18.org##div#bnads
 ||images1.violympic.vn/violympic/images/upload/banner$image,domain=violympic.vn
 ||images2-focus-opensocial.googleusercontent.com^*.gif$image,domain=phimdinhcao.net|phimdinhcao.com|phimlongtieng.net|anivn.club
 ||images2.imgbox.com^*.gif$image,domain=ocumoe.com
-||img.dothi.net^*.gif
 ||img.dtruyen.com/login-ads-desktop.gif$domain=dtruyen.com
-||img.ketqua9.net^*.gif
-||img.upanh.tv^*.gif$domain=xemhay24h.com
-||img.upanh.tv^*.gif$image,domain=phimtuoitho.tv
-||img.vietcetera.com^*banner$image
-||img1.oto.com.vn/2021/02/23/mER5FXHc/1140-140-px-1-a753.jpg
+||img.upanh.tv^*.gif$image,domain=phimtuoitho.tv|xemhay24h.com
 ||img_bongdalu.thscore.fun^*.gif
 ||imgyn.imageshh.com^*.gif$image,domain=mphim14.com|hhchina.tv
 ||inet.vn/images/banner
@@ -2331,6 +2324,9 @@ lmssplus.com##.textlinkBox_notwrap__scC4g.textlinkBox_wrapper__1C2P9
 lmssplus.com##.textlinkBox_wrapper
 lmssplus.com##p[style="color: rgb(174, 174, 174); margin-top: 10px; margin-bottom: 20px;"]
 loigiaihay.com###countdown
+loigiaihay.com##.bottom_cnt_ad
+loigiaihay.com##.tp_ads_incontent
+loigiaihay.com##div.ad_separator
 luatvietnam.vn##.advHolder
 lucloi.vn##.ads_shortcode
 luotphimtv1.com,luotphim2.net,luotphim1.net,luotphimtv.vip,cdnwp.icu,webphim2.com###myModal
@@ -2913,8 +2909,8 @@ $third-party,script,domain=sexdiaryx.us
 ||i9zk5f8szj4x8saj5wcks8acja5sk1dz8stjs2g8isdcn6ejxn8zsr5xjs5h.com^
 ||img.av3x.net/upload/av3x.net/banners/$domain=phimsexhay669.co
 ||img.congdongmassage.com/banner/$image
-||img.nguonc.com/public/images/Film/bet/$image
-||img.nguonc.com^*.gif
+||img.nguonc.com/public/images/Film/bet/$image,domain=xxx.yeusex.cc
+||img.nguonc.com^*.gif$domain=sexviet1.vip
 ||javhay.media/theme/custom.int.js
 ||javtopxx.com/public/images/banner/$image
 ||kgfjrb711.com^
