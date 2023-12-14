@@ -1704,6 +1704,8 @@ $removeparam=algo,doc
 $removeparam=imp_id,doc
 ! Rule "$removeparam=referer,doc,domain=bodykind.com|clink2.com|dlink2.com|nitter.net" converted to: "$removeparam=referer,document,domain=bodykind.com|clink2.com|dlink2.com|nitter.net"
 $removeparam=referer,doc,domain=bodykind.com|clink2.com|dlink2.com|nitter.net
+! Rule "$doc,removeparam=t,domain=rakuten.com|steamcdn-a.akamaihd.net|duckduckgo.com|npr.org|elprecio.es|adressa.no|tiktok.com|lookmovie211.xyz" converted to: "$document,removeparam=t,domain=rakuten.com|steamcdn-a.akamaihd.net|duckduckgo.com|npr.org|elprecio.es|adressa.no|tiktok.com|lookmovie211.xyz"
+$doc,removeparam=t,domain=rakuten.com|steamcdn-a.akamaihd.net|duckduckgo.com|npr.org|elprecio.es|adressa.no|tiktok.com|lookmovie211.xyz
 ! Rule "$removeparam=visit_id,doc,domain=bilibili.com|google.*" converted to: "$removeparam=visit_id,document,domain=bilibili.com|google.*"
 $removeparam=visit_id,doc,domain=bilibili.com|google.*
 ! Rule "$doc,removeparam=feature,domain=reddit.app.link" converted to: "$document,removeparam=feature,domain=reddit.app.link"
