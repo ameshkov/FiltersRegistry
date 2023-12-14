@@ -1,5 +1,5 @@
 
-FiltersCompiler report 12/13/2023 9:00:17 PM:
+FiltersCompiler report 12/14/2023 1:00:16 AM:
 
 Filter ID: 101
 Filter name: EasyList
@@ -27,7 +27,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 104
 Filter name: EasyList China
-Compiled rules: 18742
+Compiled rules: 18750
 Excluded rules: 52
 URL: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 INVALID RULES:
@@ -130,7 +130,7 @@ URL: https://raw.githubusercontent.com/KonoromiHimaries/PolishSubFilters/master/
 ---------------------------
 Filter ID: 118
 Filter name: EasyPrivacy
-Compiled rules: 33599
+Compiled rules: 33580
 Excluded rules: 12
 URL: https://easylist.to/easylist/easyprivacy.txt
 All rules are valid.
@@ -157,8 +157,8 @@ All rules are valid.
 ---------------------------
 Filter ID: 122
 Filter name: Fanboy's Annoyances
-Compiled rules: 57047
-Excluded rules: 6818
+Compiled rules: 57057
+Excluded rules: 6822
 URL: https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 INVALID RULES:
 Error: Invalid selector: '+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)' -- '+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)' is not a valid selector in rule: zippia.com##+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)
@@ -238,8 +238,8 @@ All rules are valid.
 ---------------------------
 Filter ID: 208
 Filter name: Online Malicious URL Blocklist
-Compiled rules: 2222
-Excluded rules: 10
+Compiled rules: 2245
+Excluded rules: 8
 URL: https://urlhaus-filter.pages.dev/urlhaus-filter-ag-online.txt
 All rules are valid.
 ---------------------------
@@ -553,8 +553,8 @@ URL: https://paulgb.github.io/BarbBlock/blacklists/adblock-plus.txt
 ---------------------------
 Filter ID: 241
 Filter name: EasyList Cookie List
-Compiled rules: 28852
-Excluded rules: 2916
+Compiled rules: 28858
+Excluded rules: 2918
 URL: https://www.fanboy.co.nz/fanboy-cookiemonster.txt
 INVALID RULES:
 Error: Invalid selector: '+js(set-cooke, cookie-accepted, yes)' -- '+js(set-cooke, cookie-accepted, yes)' is not a valid selector in rule: fizjobaza.pl##+js(set-cooke, cookie-accepted, yes)
@@ -22346,14 +22346,14 @@ All rules are valid.
 ---------------------------
 Filter ID: 14
 Filter name: AdGuard Annoyances filter
-Compiled rules: 52431
+Compiled rules: 52434
 Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/14.txt
 All rules are valid.
 ---------------------------
 Filter ID: 15
 Filter name: AdGuard DNS filter
-Compiled rules: 58610
+Compiled rules: 58638
 Excluded rules: 308
 URL: https://filters.adtidy.org/extension/chromium/filters/15.txt
 All rules are valid.
@@ -22375,7 +22375,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 18
 Filter name: AdGuard Cookie Notices filter
-Compiled rules: 18686
+Compiled rules: 18689
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/18.txt
 All rules are valid.
@@ -22410,7 +22410,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 224
 Filter name: AdGuard Chinese filter
-Compiled rules: 22067
+Compiled rules: 22075
 Excluded rules: 50
 URL: https://filters.adtidy.org/extension/chromium/filters/224.txt
 INVALID RULES:
@@ -22462,14 +22462,14 @@ All rules are valid.
 ---------------------------
 Filter ID: 6
 Filter name: AdGuard German filter
-Compiled rules: 11876
+Compiled rules: 11880
 Excluded rules: 18
 URL: https://filters.adtidy.org/extension/chromium/filters/6.txt
 All rules are valid.
 ---------------------------
 Filter ID: 7
 Filter name: AdGuard Japanese filter
-Compiled rules: 10594
+Compiled rules: 10595
 Excluded rules: 8
 URL: https://filters.adtidy.org/extension/chromium/filters/7.txt
 All rules are valid.
