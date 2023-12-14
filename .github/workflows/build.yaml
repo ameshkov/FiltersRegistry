@@ -1,4 +1,4 @@
-name: Build Filters Registry
+name: Test build filters and patches
 
 on:
   # For manual run builds
@@ -24,16 +24,18 @@ jobs:
       - name: Install dependencies
         run: yarn install --network-concurrency 1
 
+      # TODO: add a separate workflow for linting
       - name: Lint code
-        # TODO: add a separate workflow for linting
         run: yarn lint
 
       - name: Build filters
         run: TLS=insecure yarn build
 
       - name: Build patches
-        # Time live of patches - '60 minutes'
-        run: yarn build:patches 60 m
+        # Does not matter how long patches are
+        # valid because these patches (as well as filter)
+        # would not be merged to master.
+        run: yarn build:patches --time=3600 --resolution=s
 
       - name: Validate platforms and locales
         run: yarn validate
