@@ -1,7 +1,7 @@
 !
 ! Title: List-KR for AdGuard
 ! Description: List-KR for AdGuard. Maintained by the adblock community and AdGuard.
-! OriginalVersion: 2023.1215.1
+! OriginalVersion: 2023.1215.3
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! Support: https://github.com/List-KR/List-KR/issues/223
@@ -1256,6 +1256,7 @@ funbe276.com,funbe277.com,funbe278.com,funbe279.com,funbe280.com,funbe281.com,fu
 !
 ! DOMAIN-REFRESHER: START
 !
+||wwwimageup.live-009.com/other/wx_app_admin/
 /^https:\/\/opss[0-9]+\.com\/img\/[A-z]+\.gif(\?v=[0-9]+)?$/
 /thumb/kh/bn/*$domain=1004past.com
 /^https:\/\/jiok[0-9]+\.net\/img\//
@@ -1475,6 +1476,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.fmkorea.com##div[id^="fmad_"] + div[style^="height:"][class]
 m.fmkorea.com##body > header[class] ~ div[class] > div[style*=";margin:"] div[style^="height:"]
 m.fmkorea.com##body > header[class] ~ div[class][style^="height:"]
 etoland.co.kr##article[class^="etoad-"]
