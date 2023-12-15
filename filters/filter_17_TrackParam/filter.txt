@@ -182,6 +182,7 @@ $removeparam=utm_pubreferrer
 $removeparam=utm_reader
 $removeparam=utm_referrer
 $removeparam=utm_serial
+$removeparam=utm_servlet
 $removeparam=utm_session
 $removeparam=utm_siteid
 $removeparam=utm_social
@@ -290,6 +291,8 @@ $removeparam=fb_source
 ! Bad: ||example.org^$xmlhttprequest,redirect=noopvast-3.0 (for instance, should be in specific.txt)
 !
 !
+! https://olegmakarenko.ru/?from=sds
+||olegmakarenko.ru^$removeparam=from
 ! https://github.com/AdguardTeam/AdguardFilters/issues/168475
 ||dragonquest.jp^$removeparam=_bdld
 ! https://raretech.site/about?from=envader-/assets/banner/banner-5.jpg

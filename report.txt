@@ -1,5 +1,5 @@
 
-FiltersCompiler report 12/15/2023 3:38:38 PM:
+FiltersCompiler report 12/15/2023 1:00:20 PM:
 
 Filter ID: 101
 Filter name: EasyList
@@ -408,7 +408,7 @@ URL: https://www.fanboy.co.nz/fanboy-swedish.txt
 ---------------------------
 Filter ID: 225
 Filter name: Fanboy's Anti-Facebook List
-Compiled rules: 101
+Compiled rules: 100
 Excluded rules: 0
 URL: https://www.fanboy.co.nz/fanboy-antifacebook.txt
 All rules are valid.
@@ -420,7 +420,7 @@ URL: https://www.fanboy.co.nz/fanboy-vietnam.txt
 ---------------------------
 Filter ID: 227
 Filter name: List-KR
-Compiled rules: 3624
+Compiled rules: 3627
 Excluded rules: 24
 URL: https://raw.githubusercontent.com/List-KR/List-KR/master/filter-AdGuard.txt
 All rules are valid.
@@ -22329,7 +22329,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 11
 Filter name: AdGuard Mobile Ads filter
-Compiled rules: 7781
+Compiled rules: 7783
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/11.txt
 All rules are valid.
