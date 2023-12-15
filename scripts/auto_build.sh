@@ -18,10 +18,10 @@ while [[ $# -gt 0 ]]; do
     case "$1" in
         --mode)
             shift
-            if [[ "$1" == "all" || "$1" == "ours" ]]; then
+            if [[ "$1" == "all" || "$1" == "adguard" ]]; then
                 MODE="$1"
             else
-                echo "Invalid mode. Use 'all' or 'ours' as the mode."
+                echo "Invalid mode. Use 'all' or 'adguard' as the mode."
                 exit 1
             fi
             shift
@@ -42,7 +42,7 @@ if [[ "$MODE" == "all" ]]; then
     yarn build
     # Set the time live of patches to '4 hours'
     yarn build:patches --time=4 --resolution=h
-elif [[ "$MODE" == "ours" ]]; then
+elif [[ "$MODE" == "adguard" ]]; then
     # Build specific AdGuard filters based on the filter IDs
     yarn build --include=$ADGUARD_FILTERS
     # Set the time live of patches to '60 minutes'
