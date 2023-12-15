@@ -3296,6 +3296,10 @@ www.kinopoisk.ru##div[class^="trailer-promo"]
 ! END: Yandex
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/168313
+pngtree.com##a[data-huejs="enterprise_hours_left"]
+pngtree.com##a[data-huejs="couponfixed-nologin-click"]
+pngtree.com##.stylusid-anniversary
 ! https://github.com/AdguardTeam/AdguardFilters/issues/167675
 iqiyi.com#?#body > .header__ele:has(> .header__toast:contains(VIP))
 ! freundin.de - banner ad at top to buy their magazine for a reduced price
@@ -4983,6 +4987,7 @@ theguardian.com##.contributions__adblock
 !
 ! SECTION: Self-promo - Regular rules
 !
+blog.skillfactory.ru###banner-course-id
 hexlet.io##.x-promo-bg-gradient
 support.microsoft.com##.ucsPromotionContainer
 hexlet.io##.sticky-top
@@ -6524,7 +6529,7 @@ hackers.co.kr##.closing_banner_container
 hackers.co.kr##.floor_layer_pop
 twitch.tv##.side-info-container
 ||img1.infobank.by/images/imagesindb/banner-perevody-150419-3.png.aspx
-imobie.com##.sprtadv
+gemoo.com,imobie.com##.sprtadv
 ||zviazda.by/banners/padpiska202025.jpg
 dermaclub.com.br##.promotion-banner
 pornhub.com,pornhub.org,pornhub.net##.premiumPromoBannerWrapper

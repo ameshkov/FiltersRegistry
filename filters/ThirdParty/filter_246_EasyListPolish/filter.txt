@@ -1,8 +1,8 @@
 !
-! Checksum: W4v4NcdrgecLkvztVVCcTg
-! OriginalVersion: 202312141651
+! Checksum: yPujS8C6HvzJ+GN6NE8jZA
+! OriginalVersion: 202312150850
 ! Title: EasyList Polish
-! Last modified: 14 Dec 2023 16:51 UTC
+! Last modified: 15 Dec 2023 08:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -545,6 +545,7 @@ se.pl,urzadzamy.pl###article_zpr_shopping
 tv-pelplin.pl###aside .custom a[onclick]
 tuhiszpania.pl###b_searchboxInc
 gazeta.pl###banC1
+gazeta.pl###banC2
 gazeta.pl###banC99
 przeglad-sejnenski.pl###baner
 dziennik.walbrzych.pl###baner-glowny
@@ -1335,7 +1336,6 @@ kresy.pl##.gbcfxawvaHsi
 weranda.pl##.gl_slot_text
 24gliwice.pl##.gliwi-a1-gora-portalu
 24gliwice.pl##.gliwi-a6-nad-leadem-artykulow
-24gliwice.pl##.gliwi-a9-pod-menu-strona-glowna
 24gliwice.pl##.gliwi-b1-prawy-blok-gora
 gorzow24.pl##.gml
 dspodcast.pl##.gogreen
@@ -2448,6 +2448,7 @@ beskid-niski.pl##img[src="/bannery/siwekja.gif"]
 koscianiak.pl##img[src="/pl/img/pasek_baner_siecportali_kicket.jpg"]
 beskid-niski.pl##img[src="http://d.nocowanie.pl/gfx/bannery/nocowanie.jpg"]
 3dwpraktyce.pl##img[src="https://3dwpraktyce.pl/wp-content/uploads/2019/10/drukarka_prev_01_007_LQ.jpg"]
+7dni.pila.pl##img[src="https://7dni.pila.pl/wp-content/uploads/2023/11/Zdrowych-i-Wesolych-Swiat-Bozego-Narodzenia-1.jpg"]
 skawina24.com##img[src="https://projektestart.cfolks.pl/skawina24/wp-content/uploads/2023/08/KBS-Skawina-250x250-1.jpeg"]
 tygodnik-krapkowicki.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/05/25/amaks-net-ver2-646f2c47debbe.jpg"]
 gostynin24.pl##img[src="https://sc.4media.com/data/aqwzxtvn/2023/07/20/Garstka-64b929d421ce2.jpg"]
