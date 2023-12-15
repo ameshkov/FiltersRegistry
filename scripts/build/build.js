@@ -62,10 +62,10 @@ const buildFilters = async () => {
     let initialRun = false;
     if (!fs.existsSync(platformsPath)) {
         initialRun = true;
+    } else {
+        // Make copy for future patches generation
+        await fs.promises.cp(platformsPath, copyPlatformsPath, { recursive: true });
     }
-
-    // Make copy for future patches generation
-    await fs.promises.cp(platformsPath, copyPlatformsPath, { recursive: true });
 
     await compiler.compile(
         filtersDir,
