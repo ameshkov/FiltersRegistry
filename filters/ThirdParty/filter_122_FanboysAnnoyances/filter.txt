@@ -1,8 +1,8 @@
 !
-! Checksum: zlcVBwQD8PTU+bcMk5fDVg
-! OriginalVersion: 202312142015
+! Checksum: kZxeZoadnAgPTHHCRKChGQ
+! OriginalVersion: 202312150000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-12-14 20:15 UTC
+! Last modified: 2023-12-15 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -39571,7 +39571,7 @@ telstra.com.sg##.globalOptIn
 wisehosting.com##.glow-banner
 android.com,registry.google,safety.google##.glue-cookie-notification-bar
 stealthex.io##.gmEwWa
-realmroyale.com##.go3004242404
+supabase.com##.go2072408551
 goout.net##.goout-cookie-overlay
 caymangoodtaste.com,cookiebot.com##.granify-widget-container
 inov-8.com##.grey-bg
@@ -41512,10 +41512,16 @@ finewoodworking.com#%#//scriptlet('ubo-set-cookie.js', 'taunton_user_consent_sub
 finewoodworking.com#%#//scriptlet('ubo-set-cookie.js', 'taunton_user_consent_advertising', 'false')
 finewoodworking.com#%#//scriptlet('ubo-set-cookie.js', 'taunton_user_consent_analytics', 'false')
 physikinstrumente.de,karlknauer.de,schoeck.com,resonate.coop,northgatevehiclehire.ie,badhall.at#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow')
+mullgs.se#%#//scriptlet('ubo-set-cookie.js', 'cc-accepted', '2')
 securityconference.org#%#//scriptlet('ubo-set-cookie.js', 'MSC_Cookiebanner', 'false')
 account.samsung.com#%#//scriptlet('ubo-set-cookie.js', 'sa_enable', 'off')
 crushwineco.com#%#//scriptlet('ubo-set-cookie.js', 'acceptcookietermCookieBanner', 'true')
 levi.pt#%#//scriptlet('ubo-set-cookie.js', 'cookie_status', '1', '', 'reload', '1')
+rockpoint.cz,rockpoint.sk#%#//scriptlet('ubo-set-cookie.js', 'cookie-bar', '0')
+ubisoft.com#%#//scriptlet('ubo-set-cookie.js', 'UBI_PRIVACY_POLICY_VIEWED', 'true')
+ubisoft.com#%#//scriptlet('ubo-set-cookie.js', 'UBI_PRIVACY_ADS_OPTOUT', 'true')
+ubisoft.com#%#//scriptlet('ubo-set-cookie.js', 'UBI_PRIVACY_POLICY_ACCEPTED', 'false')
+ubisoft.com#%#//scriptlet('ubo-set-cookie.js', 'UBI_PRIVACY_VIDEO_OPTOUT', 'false')
 splityourticket.co.uk#%#//scriptlet('ubo-set-cookie.js', 'cookieNotification.shown', '1')
 eramba.org#%#//scriptlet('ubo-set-cookie.js', 'localConsent', 'false')
 kupbilecik.com,kupbilecik.de,kupbilecik.pl#%#//scriptlet('ubo-set-cookie.js', 'allow-cookie', '1')
@@ -44741,6 +44747,7 @@ lapresse.ca###newsletters-subscription-box-root
 thenextweb.com###newslettersignup
 silicon.co.uk,silicon.de,silicon.es,silicon.fr,silicon.pt###nl-overlay
 arkansasonline.com###nlForm
+medicinenet.com###nlModule
 newsmax.com###nmsbma__container
 healthing.ca###notification
 energylivenews.com###notification-bars
@@ -47998,10 +48005,16 @@ finewoodworking.com#%#//scriptlet('ubo-set-cookie.js', 'taunton_user_consent_sub
 finewoodworking.com#%#//scriptlet('ubo-set-cookie.js', 'taunton_user_consent_advertising', 'false')
 finewoodworking.com#%#//scriptlet('ubo-set-cookie.js', 'taunton_user_consent_analytics', 'false')
 physikinstrumente.de,karlknauer.de,schoeck.com,resonate.coop,northgatevehiclehire.ie,badhall.at#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow')
+mullgs.se#%#//scriptlet('ubo-set-cookie.js', 'cc-accepted', '2')
 securityconference.org#%#//scriptlet('ubo-set-cookie.js', 'MSC_Cookiebanner', 'false')
 account.samsung.com#%#//scriptlet('ubo-set-cookie.js', 'sa_enable', 'off')
 crushwineco.com#%#//scriptlet('ubo-set-cookie.js', 'acceptcookietermCookieBanner', 'true')
 levi.pt#%#//scriptlet('ubo-set-cookie.js', 'cookie_status', '1', '', 'reload', '1')
+rockpoint.cz,rockpoint.sk#%#//scriptlet('ubo-set-cookie.js', 'cookie-bar', '0')
+ubisoft.com#%#//scriptlet('ubo-set-cookie.js', 'UBI_PRIVACY_POLICY_VIEWED', 'true')
+ubisoft.com#%#//scriptlet('ubo-set-cookie.js', 'UBI_PRIVACY_ADS_OPTOUT', 'true')
+ubisoft.com#%#//scriptlet('ubo-set-cookie.js', 'UBI_PRIVACY_POLICY_ACCEPTED', 'false')
+ubisoft.com#%#//scriptlet('ubo-set-cookie.js', 'UBI_PRIVACY_VIDEO_OPTOUT', 'false')
 splityourticket.co.uk#%#//scriptlet('ubo-set-cookie.js', 'cookieNotification.shown', '1')
 eramba.org#%#//scriptlet('ubo-set-cookie.js', 'localConsent', 'false')
 kupbilecik.com,kupbilecik.de,kupbilecik.pl#%#//scriptlet('ubo-set-cookie.js', 'allow-cookie', '1')
@@ -55592,6 +55605,7 @@ jornaldevieira.com##.notifino
 planamigo.org##.notify
 volarensopelana.com##.oxy-modal-backdrop
 theledstore.es##.pgc
+revista.seg-social.es##.portlet-cookies-layout-set
 extension.uned.es##.qCookieAnimacionEntrada
 fotocasa.es##.re-SharedCmp
 monchoscatering.com##.reveal-modal
@@ -55604,6 +55618,7 @@ clinicaplanas.com##.supercookies
 miravia.es##.svelte-1u5q59a
 contarcaracteres.com##.top-header
 fr9.es##.topBar
+sede-tu.seg-social.gob.es##.tuss-cookies
 musicalmarti.com##.ui-dialog-buttons
 anisearch.es##.urgent-msg
 crezes.es,pdatos.com,tasacion-costas.es##.vm--container
