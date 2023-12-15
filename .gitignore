@@ -3,5 +3,6 @@
 .vscode
 .eslintcache
 node_modules
+temp
 log.txt
 report_*_*.txt
