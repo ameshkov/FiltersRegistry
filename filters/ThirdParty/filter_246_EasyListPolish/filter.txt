@@ -1,8 +1,8 @@
 !
-! Checksum: Ow4LPlicqdHCPZNMlyMwSg
-! OriginalVersion: 202312161651
+! Checksum: 4uNgglIUIHPQoslsu0SKxw
+! OriginalVersion: 202312162051
 ! Title: EasyList Polish
-! Last modified: 16 Dec 2023 16:51 UTC
+! Last modified: 16 Dec 2023 20:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -856,7 +856,7 @@ pszczyna.tv###topBaner
 press.pl###topBanner
 dziennikteatralny.pl###topBigBanner
 sadeczanin.info###topContainer
-acermaniak.pl,activemaniak.pl###topMenu
+acermaniak.pl,activemaniak.pl,agdmaniak.pl###topMenu
 rubber.pl###topNas
 superportal24.pl###top_above_menu
 ostrowmaz.com###top_advertisement

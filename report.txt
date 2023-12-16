@@ -1,5 +1,5 @@
 
-FiltersCompiler report 12/16/2023 5:00:16 PM:
+FiltersCompiler report 12/16/2023 9:00:19 PM:
 
 Filter ID: 101
 Filter name: EasyList
@@ -450,7 +450,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 232
 Filter name: KAD - Anti-Scam
-Compiled rules: 49955
+Compiled rules: 49968
 Excluded rules: 236
 URL: https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt
 INVALID RULES:
@@ -507,7 +507,7 @@ Error: "Invalid cosmetic rule, wrong brackets" in the rule: "science.hotnews.ro#
 ---------------------------
 Filter ID: 237
 Filter name: Polish Annoyances Filters
-Compiled rules: 13293
+Compiled rules: 13294
 Excluded rules: 2032
 URL: https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PPB.txt
 INVALID RULES:
@@ -630,18 +630,17 @@ Error: Invalid selector: '#detail.articleBody p:nth-last-child(-n+3) a[href*="ne
 ---------------------------
 Filter ID: 249
 Filter name: Dandelion Sprout's Nordic Filters
-Compiled rules: 2925
+Compiled rules: 2939
 Excluded rules: 58
 URL: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuard.txt
 All rules are valid.
 ---------------------------
 Filter ID: 250
 Filter name: Dandelion Sprout's Annoyances List
-Compiled rules: 32599
-Excluded rules: 45870
+Compiled rules: 32634
+Excluded rules: 45990
 URL: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList
 INVALID RULES:
-Error: Invalid selector: 'a[oncontextmenu][href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"):upward(2)' -- Unbalanced brackets for extended pseudo-class: 'not' in rule: www.google.*##a[oncontextmenu][href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"):upward(2)
 Error: "Unknown modifier: ~inline-font" in the rule: "||oldgames.4all.cc^$all,~inline-font"
 Error: "Unknown modifier: ~inline-font" in the rule: "||useragentswitch.com^$all,~inline-font"
 Error: "Unknown modifier: ~inline-font" in the rule: "||dev-nano.com^$all,~inline-font"
@@ -22351,7 +22350,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 15
 Filter name: AdGuard DNS filter
-Compiled rules: 58766
+Compiled rules: 58784
 Excluded rules: 308
 URL: https://filters.adtidy.org/extension/chromium/filters/15.txt
 All rules are valid.
