@@ -120,8 +120,8 @@ iqiyi.com##+js(set, Object.prototype.parseXML, noopFunc)
 iqiyi.com##+js(set, Object.prototype.blackscreenDuration, 1)
 ! Rule "iqiyi.com##+js(set, QiyiPlayerProphetData.a.data, {})" converted to: "iqiyi.com#%#//scriptlet('ubo-set.js', 'QiyiPlayerProphetData.a.data', '{}')"
 iqiyi.com##+js(set, QiyiPlayerProphetData.a.data, {})
-! Rule "qq.com##+js(json-prune,ad material.video.url)" converted to: "qq.com#%#//scriptlet('ubo-json-prune.js', 'ad material.video.url')"
-qq.com##+js(json-prune,ad material.video.url)
+! Rule "qq.com##+js(json-prune, ads ad material.video)" converted to: "qq.com#%#//scriptlet('ubo-json-prune.js', 'ads ad material.video')"
+qq.com##+js(json-prune, ads ad material.video)
 ! Rule "new.qq.com##+js(set, SSPAd.prototype.loadAd, noopFunc)" converted to: "new.qq.com#%#//scriptlet('ubo-set.js', 'SSPAd.prototype.loadAd', 'noopFunc')"
 new.qq.com##+js(set, SSPAd.prototype.loadAd, noopFunc)
 ! Rule "le.com##+js(set, isAdLoaded, true)" converted to: "le.com#%#//scriptlet('ubo-set.js', 'isAdLoaded', 'true')"

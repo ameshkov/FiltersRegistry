@@ -1344,6 +1344,8 @@ glose.com##+js(set-local-storage-item, hasAcceptedCookies, true)
 yellow.systems##+js(set-local-storage-item, isCookiesNotificationHidden, true)
 ! Rule "renebieder.com##+js(set-local-storage-item, agreed-cookies, true)" converted to: "renebieder.com#%#//scriptlet('ubo-set-local-storage-item.js', 'agreed-cookies', 'true')"
 renebieder.com##+js(set-local-storage-item, agreed-cookies, true)
+! Rule "goodram.com##+js(set-local-storage-item, consentCookie, true)" converted to: "goodram.com#%#//scriptlet('ubo-set-local-storage-item.js', 'consentCookie', 'true')"
+goodram.com##+js(set-local-storage-item, consentCookie, true)
 ! Rule "starwalk.space##+js(set-local-storage-item, SWCOOKIESACC, 1)" converted to: "starwalk.space#%#//scriptlet('ubo-set-local-storage-item.js', 'SWCOOKIESACC', '1')"
 starwalk.space##+js(set-local-storage-item, SWCOOKIESACC, 1)
 ! Rule "codedead.com##+js(set-local-storage-item, hasAcceptedCookieNotice, true)" converted to: "codedead.com#%#//scriptlet('ubo-set-local-storage-item.js', 'hasAcceptedCookieNotice', 'true')"
@@ -4770,6 +4772,8 @@ glose.com##+js(set-local-storage-item, hasAcceptedCookies, true)
 yellow.systems##+js(set-local-storage-item, isCookiesNotificationHidden, true)
 ! Rule "renebieder.com##+js(set-local-storage-item, agreed-cookies, true)" converted to: "renebieder.com#%#//scriptlet('ubo-set-local-storage-item.js', 'agreed-cookies', 'true')"
 renebieder.com##+js(set-local-storage-item, agreed-cookies, true)
+! Rule "goodram.com##+js(set-local-storage-item, consentCookie, true)" converted to: "goodram.com#%#//scriptlet('ubo-set-local-storage-item.js', 'consentCookie', 'true')"
+goodram.com##+js(set-local-storage-item, consentCookie, true)
 ! Rule "starwalk.space##+js(set-local-storage-item, SWCOOKIESACC, 1)" converted to: "starwalk.space#%#//scriptlet('ubo-set-local-storage-item.js', 'SWCOOKIESACC', '1')"
 starwalk.space##+js(set-local-storage-item, SWCOOKIESACC, 1)
 ! Rule "codedead.com##+js(set-local-storage-item, hasAcceptedCookieNotice, true)" converted to: "codedead.com#%#//scriptlet('ubo-set-local-storage-item.js', 'hasAcceptedCookieNotice', 'true')"
@@ -6848,8 +6852,6 @@ deepl.com##+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)
 deepl.com##+js(set-local-storage-item, onboardingData, $remove$)
 ! Error: Invalid selector: '+js(set-cooke, cookie-accepted, yes)' -- '+js(set-cooke, cookie-accepted, yes)' is not a valid selector in rule:
 fizjobaza.pl##+js(set-cooke, cookie-accepted, yes)
-! Error: Invalid selector: '+js(trusted-set-local-storage-item, consentCookie, true)' -- '+js(trusted-set-local-storage-item, consentCookie, true)' is not a valid selector in rule:
-goodram.com##+js(trusted-set-local-storage-item, consentCookie, true)
 ! Error: Invalid selector: '+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)' -- '+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)' is not a valid selector in rule:
 zippia.com##+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)
 ! Error: Invalid selector: '+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)' -- '+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)' is not a valid selector in rule:
@@ -6858,5 +6860,3 @@ deepl.com##+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)
 deepl.com##+js(set-local-storage-item, onboardingData, $remove$)
 ! Error: Invalid selector: '+js(set-cooke, cookie-accepted, yes)' -- '+js(set-cooke, cookie-accepted, yes)' is not a valid selector in rule:
 fizjobaza.pl##+js(set-cooke, cookie-accepted, yes)
-! Error: Invalid selector: '+js(trusted-set-local-storage-item, consentCookie, true)' -- '+js(trusted-set-local-storage-item, consentCookie, true)' is not a valid selector in rule:
-goodram.com##+js(trusted-set-local-storage-item, consentCookie, true)

@@ -1,8 +1,8 @@
 !
-! Checksum: 1Bc62CYjg0ZOeKk9E0lnQw
-! OriginalVersion: 202312160100
+! Checksum: kq6EJ53BtEb5c5uK2DzoAQ
+! OriginalVersion: 202312160440
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-12-16 01:00 UTC
+! Last modified: 2023-12-16 04:40 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -41943,6 +41943,7 @@ changelly.com#%#//scriptlet('ubo-set-local-storage-item.js', 'SET_COOKIES_APPROV
 glose.com#%#//scriptlet('ubo-set-local-storage-item.js', 'hasAcceptedCookies', 'true')
 yellow.systems#%#//scriptlet('ubo-set-local-storage-item.js', 'isCookiesNotificationHidden', 'true')
 renebieder.com#%#//scriptlet('ubo-set-local-storage-item.js', 'agreed-cookies', 'true')
+goodram.com#%#//scriptlet('ubo-set-local-storage-item.js', 'consentCookie', 'true')
 starwalk.space#%#//scriptlet('ubo-set-local-storage-item.js', 'SWCOOKIESACC', '1')
 codedead.com#%#//scriptlet('ubo-set-local-storage-item.js', 'hasAcceptedCookieNotice', 'true')
 studiofabiobiesel.com#%#//scriptlet('ubo-set-local-storage-item.js', 'fb-cookies-accepted', 'false')
@@ -48438,6 +48439,7 @@ changelly.com#%#//scriptlet('ubo-set-local-storage-item.js', 'SET_COOKIES_APPROV
 glose.com#%#//scriptlet('ubo-set-local-storage-item.js', 'hasAcceptedCookies', 'true')
 yellow.systems#%#//scriptlet('ubo-set-local-storage-item.js', 'isCookiesNotificationHidden', 'true')
 renebieder.com#%#//scriptlet('ubo-set-local-storage-item.js', 'agreed-cookies', 'true')
+goodram.com#%#//scriptlet('ubo-set-local-storage-item.js', 'consentCookie', 'true')
 starwalk.space#%#//scriptlet('ubo-set-local-storage-item.js', 'SWCOOKIESACC', '1')
 codedead.com#%#//scriptlet('ubo-set-local-storage-item.js', 'hasAcceptedCookieNotice', 'true')
 studiofabiobiesel.com#%#//scriptlet('ubo-set-local-storage-item.js', 'fb-cookies-accepted', 'false')
