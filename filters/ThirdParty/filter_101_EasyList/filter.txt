@@ -1,8 +1,8 @@
 !
-! Checksum: puTQcAkLV/T5tyjUTgfpoQ
-! OriginalVersion: 202312152051
+! Checksum: r50Yon2mrs0Pegq1VroKhg
+! OriginalVersion: 202312160051
 ! Title: EasyList
-! Last modified: 15 Dec 2023 20:51 UTC
+! Last modified: 16 Dec 2023 00:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -61170,6 +61170,7 @@ color-hex.com##.margin10
 fandom.com##.marketplace
 imgur.com,pushsquare.com,songlyrics.com##.masthead
 eetimes.eu,korinthostv.gr,powerelectronicsnews.com##.masthead-banner
+augustman.com##.masthead-container
 cloudwards.net##.max-medium
 mayoclinic.org##.mayoad
 racgp.org.au##.mb-1.small

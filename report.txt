@@ -1,9 +1,9 @@
 
-FiltersCompiler report 12/15/2023 9:00:22 PM:
+FiltersCompiler report 12/16/2023 1:00:17 AM:
 
 Filter ID: 101
 Filter name: EasyList
-Compiled rules: 65593
+Compiled rules: 65594
 Excluded rules: 48
 URL: https://easylist-downloads.adblockplus.org/easylist.txt
 INVALID RULES:
@@ -27,7 +27,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 104
 Filter name: EasyList China
-Compiled rules: 18783
+Compiled rules: 18793
 Excluded rules: 52
 URL: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 INVALID RULES:
@@ -72,7 +72,7 @@ Error: Invalid selector: '^script:has-text((window)}catch)' -- Error: unable to 
 ---------------------------
 Filter ID: 109
 Filter name: EasyList Italy
-Compiled rules: 5315
+Compiled rules: 5297
 Excluded rules: 0
 URL: https://easylist-downloads.adblockplus.org/easylistitaly.txt
 All rules are valid.
@@ -100,7 +100,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 113
 Filter name: Liste FR
-Compiled rules: 22278
+Compiled rules: 22317
 Excluded rules: 70
 URL: https://easylist-downloads.adblockplus.org/liste_fr.txt
 INVALID RULES:
@@ -158,8 +158,8 @@ All rules are valid.
 ---------------------------
 Filter ID: 122
 Filter name: Fanboy's Annoyances
-Compiled rules: 57090
-Excluded rules: 6858
+Compiled rules: 57026
+Excluded rules: 6862
 URL: https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 INVALID RULES:
 Error: Invalid selector: '+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)' -- '+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)' is not a valid selector in rule: zippia.com##+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)
@@ -420,15 +420,15 @@ URL: https://www.fanboy.co.nz/fanboy-vietnam.txt
 ---------------------------
 Filter ID: 227
 Filter name: List-KR
-Compiled rules: 3627
+Compiled rules: 3626
 Excluded rules: 24
 URL: https://raw.githubusercontent.com/List-KR/List-KR/master/filter-AdGuard.txt
 All rules are valid.
 ---------------------------
 Filter ID: 228
 Filter name: xinggsf
-Compiled rules: 1366
-Excluded rules: 162
+Compiled rules: 1359
+Excluded rules: 158
 URL: https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 All rules are valid.
 ---------------------------
@@ -554,7 +554,7 @@ URL: https://paulgb.github.io/BarbBlock/blacklists/adblock-plus.txt
 ---------------------------
 Filter ID: 241
 Filter name: EasyList Cookie List
-Compiled rules: 28876
+Compiled rules: 28809
 Excluded rules: 2938
 URL: https://www.fanboy.co.nz/fanboy-cookiemonster.txt
 INVALID RULES:
@@ -22355,14 +22355,14 @@ All rules are valid.
 ---------------------------
 Filter ID: 15
 Filter name: AdGuard DNS filter
-Compiled rules: 58741
+Compiled rules: 58753
 Excluded rules: 308
 URL: https://filters.adtidy.org/extension/chromium/filters/15.txt
 All rules are valid.
 ---------------------------
 Filter ID: 16
 Filter name: AdGuard French filter
-Compiled rules: 24914
+Compiled rules: 24953
 Excluded rules: 70
 URL: https://filters.adtidy.org/extension/chromium/filters/16.txt
 INVALID RULES:
@@ -22391,7 +22391,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 1
 Filter name: AdGuard Russian filter
-Compiled rules: 24568
+Compiled rules: 24570
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/1.txt
 All rules are valid.
@@ -22412,7 +22412,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 224
 Filter name: AdGuard Chinese filter
-Compiled rules: 22113
+Compiled rules: 22123
 Excluded rules: 50
 URL: https://filters.adtidy.org/extension/chromium/filters/224.txt
 INVALID RULES:
@@ -22434,7 +22434,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 2
 Filter name: AdGuard Base filter
-Compiled rules: 134563
+Compiled rules: 134566
 Excluded rules: 58
 URL: https://filters.adtidy.org/extension/chromium/filters/2.txt
 INVALID RULES:
