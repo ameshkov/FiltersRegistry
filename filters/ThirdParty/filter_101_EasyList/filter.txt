@@ -1,8 +1,8 @@
 !
-! Checksum: 5Q/dOqPHZKNBRzG19TpOKw
-! OriginalVersion: 202312171251
+! Checksum: 3r08Fkx4WSvZmiCkNlnWGg
+! OriginalVersion: 202312171651
 ! Title: EasyList
-! Last modified: 17 Dec 2023 12:51 UTC
+! Last modified: 17 Dec 2023 16:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31637,6 +31637,7 @@ browsershots.org#@#.advert_area
 ||iakjiamqg.com^
 ||iam9p3eri3as5lc6hllege.com^
 ||iamadssystems.com^
+||ianjgmpat.com^
 ||ianjumb.com^
 ||iasbetaffiliates.com^
 ||iasrv.com^
@@ -32517,6 +32518,7 @@ browsershots.org#@#.advert_area
 ||ivanvillager.com^
 ||ivedmanyyea.org^
 ||ivhbtikwpr.com^
+||iviugcxgemuk.com^
 ||ivjkdyrjjgxhch.com^
 ||ivorcs.com^
 ||ivoriedkolis.digital^
@@ -38855,6 +38857,7 @@ browsershots.org#@#.advert_area
 ||pitypericu.com^
 ||pitysuffix.com^
 ||piupiucreed.life^
+||piuyt.com^
 ||pivotrunner.com^
 ||piwixesu.pro^
 ||pixazza.com^
