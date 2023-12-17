@@ -1,8 +1,8 @@
 !
-! Checksum: CepLu1P+lo5bT7hIptnTEQ
-! OriginalVersion: 202312170820
+! Checksum: NxPFZIaKm1QItTiqVfG9TA
+! OriginalVersion: 202312171200
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-12-17 08:20 UTC
+! Last modified: 2023-12-17 12:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -41457,6 +41457,7 @@ greenbuildingadvisor.com,finewoodworking.com#%#//scriptlet('ubo-set-cookie.js', 
 greenbuildingadvisor.com,finewoodworking.com#%#//scriptlet('ubo-set-cookie.js', 'taunton_user_consent_analytics', 'false')
 physikinstrumente.de,karlknauer.de,schoeck.com,resonate.coop,northgatevehiclehire.ie,badhall.at#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow')
 mullgs.se#%#//scriptlet('ubo-set-cookie.js', 'cc-accepted', '2')
+feature.fm#%#//scriptlet('ubo-set-cookie.js', 'featureConsent', 'false', '', 'reload', '1')
 vilgain.com#%#//scriptlet('ubo-set-cookie.js', 'consent', '0', '', 'reload', '1')
 tradingview.com#%#//scriptlet('ubo-set-cookie.js', 'cookiePrivacyPreferenceBannerProduction', 'accepted')
 kh.hu#%#//scriptlet('ubo-set-cookie.js', 'kh_cookie_level4', 'false')
@@ -47965,6 +47966,7 @@ greenbuildingadvisor.com,finewoodworking.com#%#//scriptlet('ubo-set-cookie.js', 
 greenbuildingadvisor.com,finewoodworking.com#%#//scriptlet('ubo-set-cookie.js', 'taunton_user_consent_analytics', 'false')
 physikinstrumente.de,karlknauer.de,schoeck.com,resonate.coop,northgatevehiclehire.ie,badhall.at#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow')
 mullgs.se#%#//scriptlet('ubo-set-cookie.js', 'cc-accepted', '2')
+feature.fm#%#//scriptlet('ubo-set-cookie.js', 'featureConsent', 'false', '', 'reload', '1')
 vilgain.com#%#//scriptlet('ubo-set-cookie.js', 'consent', '0', '', 'reload', '1')
 tradingview.com#%#//scriptlet('ubo-set-cookie.js', 'cookiePrivacyPreferenceBannerProduction', 'accepted')
 kh.hu#%#//scriptlet('ubo-set-cookie.js', 'kh_cookie_level4', 'false')
