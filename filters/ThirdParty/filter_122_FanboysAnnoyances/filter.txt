@@ -1,8 +1,8 @@
 !
-! Checksum: cN99APORHqLFxH4TPI+jUw
-! OriginalVersion: 202312162000
+! Checksum: my38VJJZbn3pwu25oWMXHg
+! OriginalVersion: 202312170040
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-12-16 20:00 UTC
+! Last modified: 2023-12-17 00:40 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -34293,7 +34293,6 @@ dashboard.razorpay.com#@##credential_picker_container
 ||repost.us^$third-party
 ||research.net^$third-party
 ||reviewability.com^$third-party
-||riddle.com/embed/$subdocument,third-party
 ||rightmessage.com^$third-party
 ||rokt.com^$third-party
 ||royapp.com^$third-party
@@ -44669,7 +44668,7 @@ christiantoday.com,fodors.com,nocamels.com,talotekniikka-lehti.fi,theface.com###
 knowablemagazine.org###newsletter-promo-item
 eenewseurope.com###newsletter-register
 semafor.com###newsletter-sign-up
-awapress.com,nakedsecurity.sophos.com,ridefox.com###newsletter-signup
+awapress.com,gbnews.com,nakedsecurity.sophos.com,ridefox.com###newsletter-signup
 designtaxi.com###newsletter-subscribe-div
 essence.com###newsletter-subscribe-modal
 law.justia.com###newsletter-subscription-aside-widget
