@@ -1,8 +1,8 @@
 !
-! Checksum: n0bqHhknwOB2U0hNoBMSOg
-! OriginalVersion: 202312181651
+! Checksum: +ydRIY/+Z6FYIRfE6dJzXg
+! OriginalVersion: 202312182051
 ! Title: EasyList Polish
-! Last modified: 18 Dec 2023 16:51 UTC
+! Last modified: 18 Dec 2023 20:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1946,7 +1946,7 @@ raportkolejowy.pl##[id^="cmac_adchangerwidget-"]
 telewizja.lukow.pl##[id^="frontpage-area_g_"]
 24gliwice.pl##[id^="gliwi-grid-"]
 swiatkoni.pl##[id^="klikacz"]
-budoskop.pl##[id^="mediaContent"]
+agropolska.pl,budoskop.pl##[id^="mediaContent"]
 gloskoninski.pl##[id^="media_image-"]
 jasnet.pl##[id^="metaslider-id-"]
 supernowosci24.pl##[id^="r-"]

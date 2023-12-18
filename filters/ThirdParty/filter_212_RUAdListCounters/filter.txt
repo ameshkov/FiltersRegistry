@@ -1,8 +1,8 @@
 !
-! Checksum: VuXNG95l5KeumSFDGfB4bQ
-! OriginalVersion: 202312181651
+! Checksum: BulpMtw+A1xJYaFGrCBrgg
+! OriginalVersion: 202312182051
 ! Title: RU AdList: Counters
-! Last modified: 18 Dec 2023 16:51 UTC
+! Last modified: 18 Dec 2023 20:51 UTC
 ! Expires: 1 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1064,7 +1064,7 @@ _pagespeed_beacon?
 ||mail.ru/share_count?
 ||ok.mail.ru^
 ||radar.imgsmail.ru^
-||rs.mail.ru^$image,domain=~account.mail.ru|~my.mail.ru
+||rs.mail.ru^$domain=~account.mail.ru|~o2.mail.ru
 !
 ! Rambler
 ||rambler.ru/*/js/counters.$domain=~mail.rambler.ru
