@@ -208,8 +208,6 @@ Please learn more about translating our products: https://adguard.com/kb/miscell
 
 More information about the `@include` directive and its options can be found here: https://github.com/AdguardTeam/FiltersCompiler/#include-directive.
 
-Here is the improved version with corrected English:
-
 ## How to Build Filters and Patches
 
 1. **Install Dependencies**
@@ -298,7 +296,7 @@ Here is the improved version with corrected English:
 1. **Run the Build Process**
 
     ```bash
-    yarn auto-build --mode=ours
+    yarn auto-build --mode=adguard
     ```
 
 ### Building All Filters and Updating Filters and Patches in the Repository
