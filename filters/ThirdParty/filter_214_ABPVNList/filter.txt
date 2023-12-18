@@ -1,8 +1,8 @@
 !#if (adguard_ext_android_cb)
 ! version for AdGuard Content Blocker only
-! OriginalVersion: 20231218155608
+! OriginalVersion: 20231218193957
 ! Title: ABPVN List
-! Last modified: 18 Dec 2023 15:56:08 UTC+7
+! Last modified: 18 Dec 2023 19:39:57 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter
@@ -67,6 +67,7 @@
 ||70303d714.vws.vegacdn.vn/cakhiastatic/$image
 ||9767ebd63c.vws.vegacdn.vn/template/images-nc/$domain=mannhan.net|mn.mediastation.live
 ||ads*.autodaily.vn
+||ads.starzd.com^$image,domain=chillhay.io
 ||akamaized.net/audio/$media,redirect=noopmp3-0.1s,domain=open.spotify.com
 ||anh.moe/src/video/ads.js$script
 ||anime47.com^*.gif
@@ -504,7 +505,7 @@
 90phut9.live###app-web + .container[style="margin-bottom: 30px"]
 90phut9.live##.item.item-betnow
 90phut9.live##.sv-link.btn-bet-top
-90phut9.live,xoilac14.org##.fade.show
+90phut9.live,xoilac14.org,cakhia.de,mitomt.tv,vebo4.org,vebotv.net##.fade.show
 90phuts.tv###menu-main-menu>.menu-bongdainfo.menu-item.nav-item.tt-bdif
 90phuts.tv###menu-main-menu>.menu-nha-cai-uy-tin.menu-item.nav-item.style-2>.nav-link
 90phuts.tv##.c-int.d-lg-none.d-block
@@ -579,7 +580,6 @@ cakhia.de##.container.mt-1.d-none.d-lg-block
 cakhia.de##.menu-item-object-custom
 cakhia.de##a.rlw-extra-i.py-3.flex-grow-1
 cakhia.de,mitomt.tv,90phut9.live##.modal-backdrop.show
-cakhia.de,mitomt.tv,vebo4.org,vebotv.net##.show.fade.modal
 cakhia.de,xoilac87.tv,mitomt.tv,90phuts.tv,vebot.live##.marquee-container
 cakhia20.com,cakhia25.live,cakhia22.live,caheo7.tv##.container-banner
 cakhia20.com,cakhia25.live,cakhia22.live,caheo7.tv##.modal-ads
@@ -1400,6 +1400,7 @@ $third-party,script,domain=sexdiaryx.us
 ||quoracdn.net^$image,domain=vlxx.xxx|vlxyz.tv|sieudamtv.com
 ||rphang.online^*.gif
 ||sayhentai.fun/assets/js/ads.js
+||sex.lenlut.net/themes/js/main.js$script
 ||sexdiaryx.us$csp=script-src 'self' 'unsafe-eval'
 ||sexviet1.vip^*.gif$image
 ||sieukhung.name^*.gif$image
@@ -1508,9 +1509,9 @@ web15.sexphim1.com##.code-block-4
 !
 !#if (!adguard_ext_android_cb)
 ! version for all other AdGuard products
-! OriginalVersion: 20231218155608
+! OriginalVersion: 20231218193957
 ! Title: ABPVN List
-! Last modified: 18 Dec 2023 15:56:08 UTC+7
+! Last modified: 18 Dec 2023 19:39:57 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter
@@ -1575,6 +1576,7 @@ web15.sexphim1.com##.code-block-4
 ||70303d714.vws.vegacdn.vn/cakhiastatic/$image
 ||9767ebd63c.vws.vegacdn.vn/template/images-nc/$domain=mannhan.net|mn.mediastation.live
 ||ads*.autodaily.vn
+||ads.starzd.com^$image,domain=chillhay.io
 ||akamaized.net/audio/$media,redirect=noopmp3-0.1s,domain=open.spotify.com
 ||anh.moe/src/video/ads.js$script
 ||anime47.com^*.gif
@@ -2010,7 +2012,7 @@ web15.sexphim1.com##.code-block-4
 90phut9.live###app-web + .container[style="margin-bottom: 30px"]
 90phut9.live##.item.item-betnow
 90phut9.live##.sv-link.btn-bet-top
-90phut9.live,xoilac14.org##.fade.show
+90phut9.live,xoilac14.org,cakhia.de,mitomt.tv,vebo4.org,vebotv.net##.fade.show
 90phuts.tv###menu-main-menu>.menu-bongdainfo.menu-item.nav-item.tt-bdif
 90phuts.tv###menu-main-menu>.menu-nha-cai-uy-tin.menu-item.nav-item.style-2>.nav-link
 90phuts.tv##.c-int.d-lg-none.d-block
@@ -2085,7 +2087,6 @@ cakhia.de##.container.mt-1.d-none.d-lg-block
 cakhia.de##.menu-item-object-custom
 cakhia.de##a.rlw-extra-i.py-3.flex-grow-1
 cakhia.de,mitomt.tv,90phut9.live##.modal-backdrop.show
-cakhia.de,mitomt.tv,vebo4.org,vebotv.net##.show.fade.modal
 cakhia.de,xoilac87.tv,mitomt.tv,90phuts.tv,vebot.live##.marquee-container
 cakhia20.com,cakhia25.live,cakhia22.live,caheo7.tv##.container-banner
 cakhia20.com,cakhia25.live,cakhia22.live,caheo7.tv##.modal-ads
@@ -2896,6 +2897,7 @@ $third-party,script,domain=sexdiaryx.us
 ||quoracdn.net^$image,domain=vlxx.xxx|vlxyz.tv|sieudamtv.com
 ||rphang.online^*.gif
 ||sayhentai.fun/assets/js/ads.js
+||sex.lenlut.net/themes/js/main.js$script
 ||sexdiaryx.us$csp=script-src 'self' 'unsafe-eval'
 ||sexviet1.vip^*.gif$image
 ||sieukhung.name^*.gif$image

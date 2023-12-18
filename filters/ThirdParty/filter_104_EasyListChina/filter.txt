@@ -2645,6 +2645,9 @@ newduba.cn###jq_youxi
 ||alwaysc.com^
 ||vpqrydt.xyz^
 ||opszt.com^
+||xvpqrydt.xyz^
+||tvpqrydt.xyz^
+||kreisis.top^
 ||zzyy19.top^
 ||zzyy20.top^
 !
@@ -10722,9 +10725,11 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.com/images/a_d_
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
+||douyin.com/api/user/getPcBanner?
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+segmentfault.com###hotArticles:nth-child(3)
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
