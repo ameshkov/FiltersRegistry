@@ -1,8 +1,8 @@
 !
-! Checksum: jGD3N7N9ZdHHs1990FVOTg
-! OriginalVersion: 202312181251
+! Checksum: n0bqHhknwOB2U0hNoBMSOg
+! OriginalVersion: 202312181651
 ! Title: EasyList Polish
-! Last modified: 18 Dec 2023 12:51 UTC
+! Last modified: 18 Dec 2023 16:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1979,7 +1979,6 @@ truckeronroad.com##a[aria-label*="banner"]
 domyseniora.pl,przedszkola.edu.pl##a[class^="js-banery-"]
 tvwalbrzych.pl##a[class^="single_ad_"]
 podoslonami.pl##a[data-label="Reklama"]
-staleo.pl,zrobotyzowany.pl##a[data-type^="Reklama"]
 kokos.pl##a[href*="&creation_type=BANNER"] > img
 nanarty.info##a[href*="&utm%20medium=Banner&"]
 napisy24.pl,okazjepodroznika.pl,plonskwsieci.pl##a[href*="&utm_medium=banner&"]

@@ -1,7 +1,7 @@
 !
-! Checksum: /iPsLLG9EOblq1u/sE1YIg
+! Checksum: OY0QpHvX+9sv3CQyUlWFAQ
 ! Title: Easylist Cookie List
-! Updated: 2023-12-18 13:00 UTC
+! Updated: 2023-12-18 17:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
