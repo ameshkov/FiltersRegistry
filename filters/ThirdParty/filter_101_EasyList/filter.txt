@@ -1,8 +1,8 @@
 !
-! Checksum: g6iYBf3cZ/cHdUAQtNL9AA
-! OriginalVersion: 202312191251
+! Checksum: ts0/KJTaR06SSLaSt5cKRA
+! OriginalVersion: 202312191651
 ! Title: EasyList
-! Last modified: 19 Dec 2023 12:51 UTC
+! Last modified: 19 Dec 2023 16:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -25477,6 +25477,7 @@ browsershots.org#@#.advert_area
 ||cristianonaldo.com^
 ||cristifibster.life^
 ||critariatele.pro^
+||criticaltriggerweather.com^
 ||criticismheartbroken.com^
 ||criticpraiser.com^
 ||crittercorupay.com^
@@ -33774,6 +33775,7 @@ browsershots.org#@#.advert_area
 ||lammasbananas.com^
 ||lampschintzy.com^
 ||lanaisgoll.com^
+||lanatesourock.uno^
 ||landelcut.com^
 ||landforgreatapp.com^
 ||landitmounttheworld.com^
@@ -40310,6 +40312,7 @@ browsershots.org#@#.advert_area
 ||qodyldusxloinpn.com^
 ||qofowyki.xyz^
 ||qogilljcxwvrhj.com^
+||qokesjxpbds.com^
 ||qomate.xyz^
 ||qomuchorindownlo.xyz^
 ||qooanabj.com^
@@ -40344,6 +40347,7 @@ browsershots.org#@#.advert_area
 ||qr-captcha.com^
 ||qrawitobfm.com^
 ||qrclevrfjw.com^
+||qrdnpjxic.com^
 ||qreakingoutinteah.xyz^
 ||qrlsx.com^
 ||qroagwadndwy.com^

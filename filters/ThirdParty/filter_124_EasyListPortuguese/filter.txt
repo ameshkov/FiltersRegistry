@@ -1,8 +1,8 @@
 !
-! Checksum: mAQ1nXdE55kHoLA4yrJWMA
-! OriginalVersion: 202312191251
+! Checksum: Dm84kFE6oNRcs1SWtnbTFg
+! OriginalVersion: 202312191651
 ! Title: EasyList Portuguese
-! Last modified: 19 Dec 2023 12:51 UTC
+! Last modified: 19 Dec 2023 16:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -481,6 +481,7 @@ magazineluiza.com.br#@#iframe[name^="google_ads_iframe"]
 ||geralinks.com.br^*/ads/
 ||hojeemdia.com.br/scripts/clever_ads.js
 ||jornalrazao.com/storage/images/ads/
+||megacidade.com/images/anuncios/
 ||naointendo.com.br/banners/
 ||ojogo.pt/common/mrec_
 ||portaldoholanda.com.br^*/banners/
@@ -587,7 +588,7 @@ magazineluiza.com.br#@#iframe[name^="google_ads_iframe"]
 ||xat.com/content/web/*/apps/ad/ad.html^
 ||xl.pt/i/pub.gif
 ! *** easylistportuguese:easylistportuguese/easylistportuguese_specific_block_popup.txt ***
-$popup,third-party,domain=topplay.cf
+$popup,third-party,domain=suaurl.com|topplay.cf
 ||5abet222.com^$popup,domain=thepiratefilmeshd.blog
 !
 ! html/image popups
@@ -1027,6 +1028,7 @@ uai.com.br##.uai-ads
 mercadolivre.com.br##.ui-recommendations-list__container--pads
 mercadolivre.com.br##.ui-search-bottom-ads__container
 mercadolivre.com.br##.ui-search-sidebar-advertising__display
+uol.com.br##.uolpd-video-inarticle
 portalpopline.com.br,tvpop.com.br,uol.com.br##.up-floating
 vagas.com.br##.vagasp-banner-widget
 portalpopline.com.br##.vc_custom_1595969343564
@@ -1066,6 +1068,7 @@ pelando.com.br##div[aria-label="anúncio patrocinado"]
 radiojhero.com##div[class^="Ad_"]
 diariorp.com.br,marriedgames.com.br##div[class^="angwp_"]
 mktesportivo.com##div[class^="mktes-"]
+megacidade.com##div[class^="pos-ads-"]
 tudoradio.com##div[class^="pub-"]
 baixaki.com.br##div[class^="styles__AdsBlock-"]
 estadao.com.br##div[class^="styles__Container-sc-"]
