@@ -7,9 +7,10 @@
   resolved "https://registry.yarnpkg.com/@aashutoshrathi/word-wrap/-/word-wrap-1.2.6.tgz#bd9154aec9983f77b3a034ecaa015c2e4201f6cf"
   integrity sha512-1Yjs2SvM8TflER/OD3cOjhWWOZb58A2t7wpE2S9XfBYTiIl+XFhQG2bjy4Pu1I+EAlCNUzRDYDdFwFYUKvXcIA==
 
-"@adguard/diff-builder@git+https://github.com/AdguardTeam/DiffBuilder.git#test-dist":
-  version "0.0.2"
-  resolved "git+https://github.com/AdguardTeam/DiffBuilder.git#34e7ee056ae15978c1066435503f4ac7ac6653ac"
+"@adguard/diff-builder@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@adguard/diff-builder/-/diff-builder-1.0.0.tgz#26b716f650035a30f15f0b3ee56bc41e0ac61aeb"
+  integrity sha512-/CgC+AV+8h/b7IIFiclTMIufW+eNwgEBkKlpQVEYtJ3Pp9YqBeok836kGCyyydIyp50qTBywhRUCaZhHHGPNIw==
   dependencies:
     "@types/crypto-js" "^4.2.1"
     axios "^1.6.0"
