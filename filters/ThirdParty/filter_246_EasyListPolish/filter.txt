@@ -1,8 +1,8 @@
 !
-! Checksum: E0a/V+Wlze+suqgUdHwvjg
-! OriginalVersion: 202312191651
+! Checksum: atg/MBiaM+yETQnwJ+qHAA
+! OriginalVersion: 202312192050
 ! Title: EasyList Polish
-! Last modified: 19 Dec 2023 16:51 UTC
+! Last modified: 19 Dec 2023 20:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -937,7 +937,7 @@ portalspozywczy.pl##.abc
 mistrzowie.org##.abox-view-content
 24opole.pl##.acl_bd
 300polityka.pl,bazarek.net.pl,codziennypoznan.pl,debica.tv,dwadozera.pl,evertiq.pl,gazeo.pl,jarock.pl,lublin112.pl,nurkowapolska.pl,pcworld.pl,pieniny24.pl,polsatnews.pl,polsatsport.pl,radiofm-online.com,samequizy.pl,stomil.olsztyn.pl,teleman.pl,termomodernizacja.pl,wirtualnepniewy.pl##.ad
-24wroclaw.pl,bp24.pl,debica24.eu,goral.info.pl,kartuzy.info,ototorun.pl,powiatowa.info,tulegnica.pl,zyciesokolowa.pl##.ad--bill-top
+24jgora.pl,24wroclaw.pl,bp24.pl,debica24.eu,goral.info.pl,kartuzy.info,ototorun.pl,powiatowa.info,tulegnica.pl,zyciesokolowa.pl##.ad--bill-top
 kazimierzdolny.pl##.ad--main
 defence24.pl##.ad-banner
 pcworld.pl##.ad-bilbo2
@@ -996,7 +996,7 @@ terazgostynin.pl##.ads__top
 doba.pl##.ads_row
 pl.hospitalby.com##.adsense
 koty.pl,psy.pl##.adsenseAd
-bp24.pl,cgm.pl,debica24.eu,egarwolin.pl,ekspresjaroslawski.pl,goral.info.pl,historykon.pl,itvpiaseczno.pl,kartuzy.info,kurierpodlaski.pl,lowicz24.eu,mtv24.tv,nowawrzesnia.pl,pogonszczecin.pl,powiatowa.info,tp.com.pl,vegespot.pl,zlotowskie.pl##.adv
+24jgora.pl,bp24.pl,cgm.pl,debica24.eu,egarwolin.pl,ekspresjaroslawski.pl,goral.info.pl,historykon.pl,itvpiaseczno.pl,kartuzy.info,kurierpodlaski.pl,lowicz24.eu,mtv24.tv,nowawrzesnia.pl,pogonszczecin.pl,powiatowa.info,tp.com.pl,vegespot.pl,zlotowskie.pl##.adv
 nowezyciepabianic.pl##.adv--above-news
 24jgora.pl,24wroclaw.pl,zambrow.org##.adv--halfpage
 24wroclaw.pl,wterenie.pl##.adv--rectangle
@@ -1068,6 +1068,7 @@ telepolis.pl##.b_750
 echogorzowa.pl##.ba
 wiocha.pl##.babanner
 aptekagemini.pl,gemini.pl##.background-advertisement
+resetoff.pl##.background-cloud-reseton
 terazprudnik.pl##.backstretch > img.td-backstretch
 tech360.pl##.ban
 koty24.pl##.ban-71
@@ -1220,6 +1221,7 @@ lebork24.info##.code-block-15
 codziennikmlawski.pl,lebork24.info##.code-block-6
 pultusk.news##.col-lg-12
 pultusk.news##.col-lg-6
+elektroda.pl##.col-md-12 > div > a[href*="utm_medium=banner"]
 3dwpraktyce.pl##.col-md-offset-3
 wlodawa.net##.col-sm-4
 43bis.media.pl##.column-left-advertising a:not([href^="http://www.43bis.media.pl"])
@@ -1246,7 +1248,7 @@ mecze.com##.cool-stuff
 gol24.pl##.cs
 bielsko.biala.pl##.cukierek_container
 palegro.pl##.custom-commercial-banner-container
-bp24.pl,debica24.eu,goral.info.pl,kartuzy.info,powiatowa.info##.custom-html-box > .box__container > div
+24jgora.pl,bp24.pl,debica24.eu,goral.info.pl,kartuzy.info,powiatowa.info##.custom-html-box > .box__container > div
 bukmacherstwo.info,kliknijwzdrowie.pl,odkrywamyzakryte.com##.custom-html-widget
 probasket.pl##.custom-html-widget a > img
 tvswietokrzyska.pl##.custommarginbanner_topbottom
@@ -1744,7 +1746,7 @@ biznesregion.pl,super-nowa.pl,zywiecsupernowa.pl##.syl-baner-place
 skarzysko24.pl##.t3-sidebar .custom a
 tabletowo.pl##.tabad
 tabletowo.pl##.table-adlabel
-112malopolska.pl,112wadowice.pl,420polska.pl,biznestuba.pl,bogatyregion.pl,cannabisnews.pl,cyfrowaekonomia.pl,ddz24.eu,epainfo.pl,ezakopane.pl,futbolwtv.pl,gizycko.info,goniec.net,i-basket.pl,icelandnews.is,iknurow.pl,infobrzeszcze.pl,infogliwice.pl,interameryka.com,itvm.pl,izabrze.pl,jagodnik.pl,jaw.pl,jazdaprawna.pl,kaszuby24.pl,kurierwilenski.lt,leszczynskisport.pl,losice.info,lwowecki.info,miechowski.pl,miejscowa.pl,moja24.pl,naszosie.pl,netkonkret.pl,niebywalesuwalki.pl,noweinfo.pl,portalprzemyslowy.pl,portfelpolaka.pl,poscigi.pl,probasket.pl,progressforpoland.com,proskarzysko.pl,radiowrzesnia.pl,resellernews.pl,rzeszow-news.pl,sporteuro.pl,tenis.net.pl,terazprudnik.pl,theillest.pl,tradersarea.pl,trzemeszno24.info,tvpress.pl,twojezaglebie.pl,wdolnymslasku.com,wlkp24.info##.td-a-rec
+112malopolska.pl,112wadowice.pl,420polska.pl,biznestuba.pl,bogatyregion.pl,cannabisnews.pl,cyfrowaekonomia.pl,ddz24.eu,epainfo.pl,ezakopane.pl,futbolwtv.pl,gizycko.info,goniec.net,i-basket.pl,icelandnews.is,iknurow.pl,infobrzeszcze.pl,infogliwice.pl,interameryka.com,itvm.pl,izabrze.pl,jagodnik.pl,jaw.pl,jazdaprawna.pl,kaszuby24.pl,kurierwilenski.lt,leszczynskisport.pl,losice.info,lwowecki.info,miechowski.pl,miejscowa.pl,moja24.pl,naszosie.pl,netkonkret.pl,niebywalesuwalki.pl,noweinfo.pl,portalprzemyslowy.pl,portfelpolaka.pl,poscigi.pl,probasket.pl,progressforpoland.com,proskarzysko.pl,radiowrzesnia.pl,resellernews.pl,rzeszow-news.pl,sporteuro.pl,tenis.net.pl,terazprudnik.pl,theillest.pl,tradersarea.pl,trzemeszno24.info,tvpress.pl,twojezaglebie.pl,wdolnymslasku.com,wiesci.com.pl,wlkp24.info##.td-a-rec
 okraglemiasto.pl##.td-a-rec > .td-all-devices
 dzisiajwgliwicach.pl,gazetaregionalna.com##.td-a-rec a
 netkonkret.pl##.td-a-rec-id-custom-spot
@@ -1767,10 +1769,11 @@ wirtualnyregion.eu##.tdc-row .cycloneslider
 panoramakutna.pl##.tdi_28
 agronews.com.pl##.tdi_29
 agronews.com.pl##.tdi_31
+wiesci.com.pl##.tdi_57 > aside > h4 + a
 onetontour.pl##.test-drive-banner
 lifemanagerka.pl##.text-9
 skarzyski.eu##.text-center
-goral.info.pl,powiatowa.info##.text-center > div[id^="bills_in_rotation_"]
+24jgora.pl,goral.info.pl,powiatowa.info##.text-center > div[id^="bills_in_rotation_"]
 bociany.tv,katowice24.info,spece.it##.textwidget
 ikmag.pl##.thb_ad_header
 starosadeckie.info##.the-slider ~ div[style^="overflow: hidden"]
@@ -1936,6 +1939,7 @@ allegro.pl##[data-box-name="Container PPC Offers"]
 allegro.pl##[data-box-name^="Ads"]
 allegro.pl##[data-role="opbox-expandable-advertisement"]
 24gliwice.pl##[href^="https://www.24gliwice.pl/r/"]
+resetoff.pl##[id$="reklamy"]:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(b):not(strong)
 pultusk.news##[id*="metaslider_container_"]
 urania.edu.pl##[id*="reklama"]
 zyciebytomskie.pl##[id^="ad"]
@@ -2173,6 +2177,7 @@ hdtvpolska.com##a[href^="https://hdtvpolska.com/forum/adv-"]
 gazeta-mosina.pl##a[href^="https://jezyk-stacja-"]
 zakazanaprawda.pl##a[href^="https://ksiazki.pafere.org/"]
 uploaduj.com##a[href^="https://lead.network/"]
+elektroda.pl##a[href^="https://listwy-tvled.impelshop.com/"]
 angielskieespresso.pl##a[href^="https://m.lvbetpartners.pl/Redirect.aspx?mid=120"]
 angielskieespresso.pl##a[href^="https://m.lvbetpartners.pl/Redirect.aspx?mid=121"]
 tenis24.eu##a[href^="https://m.lvbetpartners.pl/Redirect.aspx?mid=37&"]
@@ -2191,6 +2196,7 @@ narodowcy.net##a[href^="https://polityka-narodowa.pl/"]
 forum.pasja-informatyki.pl##a[href^="https://quesflo.com/"]
 skijumping.pl##a[href^="https://real-logistics.pl"][target="_blank"]
 dogosfera.pl##a[href^="https://sklep.ekome.pl/"]
+elektroda.pl##a[href^="https://sklep.renex.pl/"]
 asystentbhp.pl##a[href^="https://sklep.tarbonus.pl/"] img
 parcfer.me##a[href^="https://sportbetfan.pl/"]
 plotkibiznesowe.pl##a[href^="https://stopcafe.pl"]
@@ -2208,6 +2214,7 @@ radiogol.pl##a[href^="https://www.autoczescionline24."]
 linktopoland.com,lipno-cli.pl,radiogol.pl,swidnica24.pl,swoszowice.org.pl##a[href^="https://www.autodoc."]
 plonskwsieci.pl##a[href^="https://www.bnpparibas.pl/"]
 plonskwsieci.pl##a[href^="https://www.bsplonsk.pl/"]
+elektroda.pl##a[href^="https://www.ccontrols.pl/"]
 waszaturystyka.pl##a[href^="https://www.corendonairlines.com/"]
 twojaslupca.pl##a[href^="https://www.czesciauto24."]
 tkn24.pl##a[href^="https://www.dworzbozenna.pl"]
@@ -2230,6 +2237,7 @@ lpg-forum.pl##a[href^="https://www.payback."]
 fight24.pl,kulturystyka.pl##a[href^="https://www.sfd."]
 podhale-sport.pl##a[href^="https://www.sport-corner."]
 warzywapolowe.pl##a[href^="https://www.syngenta.pl/"]
+elektroda.pl##a[href^="https://www.testo.com/"]
 automobilista.com.pl,kanonierzy.com,swidnik.pl,widzewtomy.net##a[href^="https://www.ucando."]
 starosadeckie.info##a[href^="https://www.wsb-nlu.edu."]
 kto-dzwonil.com##a[href^="https://www.xio."]
@@ -2285,6 +2293,7 @@ tkn24.pl##center > a[target="_blank"] > img
 porady.mobi##center a
 centrumxp.pl#?#.sidebar-news-grid:-abp-has(> h2:-abp-contains(REKLAMA))
 poczta.wp.pl##dd-holder
+elektroda.pl##div > .footerbb > a > picture
 medycyna24.pl##div > .insert--top-offer
 radioem.pl##div > a[name="Reklama"] + div + ul
 lsw24.pl##div > a[title="reklama"]
