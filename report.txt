@@ -1,9 +1,9 @@
 
-FiltersCompiler report 12/15/2023 1:00:20 PM:
+FiltersCompiler report 12/19/2023 1:00:15 PM:
 
 Filter ID: 101
 Filter name: EasyList
-Compiled rules: 65573
+Compiled rules: 65777
 Excluded rules: 48
 URL: https://easylist-downloads.adblockplus.org/easylist.txt
 INVALID RULES:
@@ -27,7 +27,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 104
 Filter name: EasyList China
-Compiled rules: 18781
+Compiled rules: 18849
 Excluded rules: 52
 URL: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 INVALID RULES:
@@ -55,15 +55,15 @@ All rules are valid.
 ---------------------------
 Filter ID: 107
 Filter name: EasyList Germany
-Compiled rules: 5421
+Compiled rules: 5429
 Excluded rules: 18
 URL: https://easylist.to/easylistgermany/easylistgermany.txt
 All rules are valid.
 ---------------------------
 Filter ID: 108
 Filter name: EasyList Hebrew
-Compiled rules: 1526
-Excluded rules: 112
+Compiled rules: 1550
+Excluded rules: 128
 URL: https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt
 INVALID RULES:
 Error: "Unknown modifier: webrtc" in the rule: "*$webrtc,domain=13news.co.il|13tv.co.il|calcalist.co.il|globes.co.il|mako.co.il|walla.co.il|yad2.co.il|ynet.co.il"
@@ -72,7 +72,7 @@ Error: Invalid selector: '^script:has-text((window)}catch)' -- Error: unable to 
 ---------------------------
 Filter ID: 109
 Filter name: EasyList Italy
-Compiled rules: 5315
+Compiled rules: 5255
 Excluded rules: 0
 URL: https://easylist-downloads.adblockplus.org/easylistitaly.txt
 All rules are valid.
@@ -100,7 +100,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 113
 Filter name: Liste FR
-Compiled rules: 22278
+Compiled rules: 22317
 Excluded rules: 70
 URL: https://easylist-downloads.adblockplus.org/liste_fr.txt
 INVALID RULES:
@@ -130,11 +130,10 @@ URL: https://raw.githubusercontent.com/KonoromiHimaries/PolishSubFilters/master/
 ---------------------------
 Filter ID: 118
 Filter name: EasyPrivacy
-Compiled rules: 33584
-Excluded rules: 14
+Compiled rules: 33592
+Excluded rules: 12
 URL: https://easylist.to/easylist/easyprivacy.txt
-INVALID RULES:
-Error: "Unknown modifier: file/analytics.js" in the rule: "/vwFiles/analytics/$file/analytics.js"
+All rules are valid.
 ---------------------------
 Filter ID: 119
 Filter name: Icelandic ABP List
@@ -143,8 +142,8 @@ URL: https://adblock.gardar.net/is.abp.txt
 ---------------------------
 Filter ID: 120
 Filter name: AdBlockID
-Compiled rules: 5777
-Excluded rules: 1158
+Compiled rules: 5778
+Excluded rules: 1160
 URL: https://raw.githubusercontent.com/realodix/AdBlockID/main/dist/adblockid.adfl.txt
 INVALID RULES:
 Error: "Unknown pseudo-class ':remove-class' in selector: 'html:remove-class(cdk-global-scrollblock)'" in the rule: "duniagames.co.id##html:remove-class(cdk-global-scrollblock)"
@@ -158,24 +157,20 @@ All rules are valid.
 ---------------------------
 Filter ID: 122
 Filter name: Fanboy's Annoyances
-Compiled rules: 57090
-Excluded rules: 6858
+Compiled rules: 57086
+Excluded rules: 6910
 URL: https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 INVALID RULES:
 Error: Invalid selector: '+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)' -- '+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)' is not a valid selector in rule: zippia.com##+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)
 Error: Invalid selector: '+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)' -- '+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)' is not a valid selector in rule: deepl.com##+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)
 Error: Invalid selector: '+js(set-local-storage-item, onboardingData, $remove$)' -- '+js(set-local-storage-item, onboardingData, $remove$)' is not a valid selector in rule: deepl.com##+js(set-local-storage-item, onboardingData, $remove$)
-Error: Invalid selector: '+js(set-cooke, cookie-accepted, yes)' -- '+js(set-cooke, cookie-accepted, yes)' is not a valid selector in rule: fizjobaza.pl##+js(set-cooke, cookie-accepted, yes)
-Error: Invalid selector: '+js(trusted-set-local-storage-item, consentCookie, true)' -- '+js(trusted-set-local-storage-item, consentCookie, true)' is not a valid selector in rule: goodram.com##+js(trusted-set-local-storage-item, consentCookie, true)
 Error: Invalid selector: '+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)' -- '+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)' is not a valid selector in rule: zippia.com##+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)
 Error: Invalid selector: '+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)' -- '+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)' is not a valid selector in rule: deepl.com##+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)
 Error: Invalid selector: '+js(set-local-storage-item, onboardingData, $remove$)' -- '+js(set-local-storage-item, onboardingData, $remove$)' is not a valid selector in rule: deepl.com##+js(set-local-storage-item, onboardingData, $remove$)
-Error: Invalid selector: '+js(set-cooke, cookie-accepted, yes)' -- '+js(set-cooke, cookie-accepted, yes)' is not a valid selector in rule: fizjobaza.pl##+js(set-cooke, cookie-accepted, yes)
-Error: Invalid selector: '+js(trusted-set-local-storage-item, consentCookie, true)' -- '+js(trusted-set-local-storage-item, consentCookie, true)' is not a valid selector in rule: goodram.com##+js(trusted-set-local-storage-item, consentCookie, true)
 ---------------------------
 Filter ID: 123
 Filter name: Fanboy's Social Blocking List
-Compiled rules: 14525
+Compiled rules: 14532
 Excluded rules: 0
 URL: https://easylist-downloads.adblockplus.org/fanboy-social.txt
 All rules are valid.
@@ -206,14 +201,14 @@ All rules are valid.
 ---------------------------
 Filter ID: 203
 Filter name: Hungarian filter
-Compiled rules: 1948
+Compiled rules: 1951
 Excluded rules: 0
 URL: https://raw.githubusercontent.com/hufilter/hufilter/master/hufilter-adguard.txt
 All rules are valid.
 ---------------------------
 Filter ID: 204
 Filter name: Peter Lowe's Blocklist
-Compiled rules: 3803
+Compiled rules: 3804
 Excluded rules: 0
 URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext
 All rules are valid.
@@ -232,15 +227,15 @@ All rules are valid.
 ---------------------------
 Filter ID: 207
 Filter name: Adblock Warning Removal List
-Compiled rules: 857
+Compiled rules: 858
 Excluded rules: 0
 URL: https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 All rules are valid.
 ---------------------------
 Filter ID: 208
 Filter name: Online Malicious URL Blocklist
-Compiled rules: 2398
-Excluded rules: 8
+Compiled rules: 2330
+Excluded rules: 6
 URL: https://urlhaus-filter.pages.dev/urlhaus-filter-ag-online.txt
 All rules are valid.
 ---------------------------
@@ -329,7 +324,7 @@ URL: https://easylist-downloads.adblockplus.org/bitblock.txt
 ---------------------------
 Filter ID: 214
 Filter name: ABPVN List
-Compiled rules: 3075
+Compiled rules: 3067
 Excluded rules: 30
 URL: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn_adguard.txt
 All rules are valid.
@@ -343,7 +338,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 216
 Filter name: Official Polish filters for AdBlock, uBlock Origin & AdGuard
-Compiled rules: 6450
+Compiled rules: 6476
 Excluded rules: 594
 URL: https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt
 INVALID RULES:
@@ -356,14 +351,15 @@ Error: Invalid selector: ':xpath('//*[@align="center"]/*[@id][contains(text(),"R
 ---------------------------
 Filter ID: 217
 Filter name: Polish GDPR-Cookies Filters
-Compiled rules: 5175
-Excluded rules: 964
+Compiled rules: 5208
+Excluded rules: 976
 URL: https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/cookies_filters/adblock_cookies.txt
 INVALID RULES:
 Error: Invalid selector: '+js(trusted-set-cookie, AtomStore[COOKIES_ACCEPTED], 1, 1year, , reload, 1)' -- '+js(trusted-set-cookie, AtomStore[COOKIES_ACCEPTED], 1, 1year, , reload, 1)' is not a valid selector in rule: dlalakierni.pl#@#+js(trusted-set-cookie, AtomStore[COOKIES_ACCEPTED], 1, 1year, , reload, 1)
 Error: Invalid selector: '+js(trusted-set-cookie, AtomStore[FUNCTIONAL_COOKIES_ACCEPTED], 1, 1year)' -- '+js(trusted-set-cookie, AtomStore[FUNCTIONAL_COOKIES_ACCEPTED], 1, 1year)' is not a valid selector in rule: dlalakierni.pl#@#+js(trusted-set-cookie, AtomStore[FUNCTIONAL_COOKIES_ACCEPTED], 1, 1year)
 Error: Invalid selector: '+js(trusted-set-cookie, AtomStore[MARKETING_COOKIES_ACCEPTED], 0, 1year)' -- '+js(trusted-set-cookie, AtomStore[MARKETING_COOKIES_ACCEPTED], 0, 1year)' is not a valid selector in rule: dlalakierni.pl#@#+js(trusted-set-cookie, AtomStore[MARKETING_COOKIES_ACCEPTED], 0, 1year)
 Error: "Unknown pseudo-class ':remove-class' in selector: '.cli-barmodal-open:remove-class(cli-barmodal-open)'" in the rule: "katowice.leclerc.pl##.cli-barmodal-open:remove-class(cli-barmodal-open)"
+Error: Invalid selector: '+js(set-cookie-reload, __gm_tcfconsent_v2, 1)' -- '+js(set-cookie-reload, __gm_tcfconsent_v2, 1)' is not a valid selector in rule: parkiet.com,rp.pl##+js(set-cookie-reload, __gm_tcfconsent_v2, 1)
 Error: "Unknown pseudo-class ':remove-class' in selector: '.active-overlay-blur:remove-class(active-overlay-blur)'" in the rule: "stilord.pl##.active-overlay-blur:remove-class(active-overlay-blur)"
 Error: "Unknown pseudo-class ':remove-attr' in selector: '#agree-terms ~ div label input[disabled]:remove-attr(disabled)'" in the rule: "zoom.us###agree-terms ~ div label input[disabled]:remove-attr(disabled)"
 Error: "Unknown pseudo-class ':watch-attr' in selector: '#agree-terms ~ div label[class]:watch-attr(class):remove-class(/disabled/)'" in the rule: "zoom.us###agree-terms ~ div label[class]:watch-attr(class):remove-class(/disabled/)"
@@ -384,14 +380,14 @@ URL: http://sub.adtchrome.com/adt-chinalist-easylist.txt
 ---------------------------
 Filter ID: 220
 Filter name: CJX's Annoyances List
-Compiled rules: 1826
+Compiled rules: 1829
 Excluded rules: 2
 URL: https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 All rules are valid.
 ---------------------------
 Filter ID: 221
 Filter name: Polish Social Filters
-Compiled rules: 10154
+Compiled rules: 10223
 Excluded rules: 320
 URL: https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/adblock_social_filters/adblock_social_list.txt
 All rules are valid.
@@ -420,15 +416,15 @@ URL: https://www.fanboy.co.nz/fanboy-vietnam.txt
 ---------------------------
 Filter ID: 227
 Filter name: List-KR
-Compiled rules: 3627
-Excluded rules: 24
+Compiled rules: 3638
+Excluded rules: 22
 URL: https://raw.githubusercontent.com/List-KR/List-KR/master/filter-AdGuard.txt
 All rules are valid.
 ---------------------------
 Filter ID: 228
 Filter name: xinggsf
-Compiled rules: 1366
-Excluded rules: 162
+Compiled rules: 1361
+Excluded rules: 156
 URL: https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 All rules are valid.
 ---------------------------
@@ -453,7 +449,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 232
 Filter name: KAD - Anti-Scam
-Compiled rules: 49855
+Compiled rules: 50599
 Excluded rules: 236
 URL: https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt
 INVALID RULES:
@@ -461,8 +457,8 @@ Error: "Rule has spaces, seems to be an host rule" in the rule: "||tereska .pl^$
 ---------------------------
 Filter ID: 233
 Filter name: Adblock List for Finland
-Compiled rules: 1554
-Excluded rules: 124
+Compiled rules: 1571
+Excluded rules: 128
 URL: https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/gh-pages/Finland_adb.txt
 INVALID RULES:
 Error: "Unknown pseudo-class ':/playback2' in selector: '+js(json-prune-fetch-response, bumpers, , propsToMatch, url:/playback2.a2d.tv\/play/)'" in the rule: "mtv.fi,mtvuutiset.fi##+js(json-prune-fetch-response, bumpers, , propsToMatch, url:/playback2.a2d.tv\/play/)"
@@ -502,7 +498,7 @@ Error: "Unknown modifier: from=vazeh.com" in the rule: "*$third-party,script,fro
 ---------------------------
 Filter ID: 236
 Filter name: road-block light
-Compiled rules: 1369
+Compiled rules: 1370
 Excluded rules: 96
 URL: https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters-light.txt
 INVALID RULES:
@@ -510,8 +506,8 @@ Error: "Invalid cosmetic rule, wrong brackets" in the rule: "science.hotnews.ro#
 ---------------------------
 Filter ID: 237
 Filter name: Polish Annoyances Filters
-Compiled rules: 13289
-Excluded rules: 2032
+Compiled rules: 13337
+Excluded rules: 2046
 URL: https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PPB.txt
 INVALID RULES:
 Error: "The rule is too wide, add domain restriction or make the pattern more specific" in the rule: "$domain=~0.0.0.0|~127.0.0.1|~[::1]|~[::]|~local|~localhost|~stooq.com|~stooq.pl,permissions=autoplay=()"
@@ -528,6 +524,7 @@ Error: Invalid selector: '+js(trusted-set-cookie, AtomStore[COOKIES_ACCEPTED], 1
 Error: Invalid selector: '+js(trusted-set-cookie, AtomStore[FUNCTIONAL_COOKIES_ACCEPTED], 1, 1year)' -- '+js(trusted-set-cookie, AtomStore[FUNCTIONAL_COOKIES_ACCEPTED], 1, 1year)' is not a valid selector in rule: dlalakierni.pl#@#+js(trusted-set-cookie, AtomStore[FUNCTIONAL_COOKIES_ACCEPTED], 1, 1year)
 Error: Invalid selector: '+js(trusted-set-cookie, AtomStore[MARKETING_COOKIES_ACCEPTED], 0, 1year)' -- '+js(trusted-set-cookie, AtomStore[MARKETING_COOKIES_ACCEPTED], 0, 1year)' is not a valid selector in rule: dlalakierni.pl#@#+js(trusted-set-cookie, AtomStore[MARKETING_COOKIES_ACCEPTED], 0, 1year)
 Error: "Unknown pseudo-class ':remove-class' in selector: '.cli-barmodal-open:remove-class(cli-barmodal-open)'" in the rule: "katowice.leclerc.pl##.cli-barmodal-open:remove-class(cli-barmodal-open)"
+Error: Invalid selector: '+js(set-cookie-reload, __gm_tcfconsent_v2, 1)' -- '+js(set-cookie-reload, __gm_tcfconsent_v2, 1)' is not a valid selector in rule: parkiet.com,rp.pl##+js(set-cookie-reload, __gm_tcfconsent_v2, 1)
 Error: "Unknown pseudo-class ':remove-class' in selector: '.active-overlay-blur:remove-class(active-overlay-blur)'" in the rule: "stilord.pl##.active-overlay-blur:remove-class(active-overlay-blur)"
 Error: "Unknown pseudo-class ':remove-attr' in selector: '#agree-terms ~ div label input[disabled]:remove-attr(disabled)'" in the rule: "zoom.us###agree-terms ~ div label input[disabled]:remove-attr(disabled)"
 Error: "Unknown pseudo-class ':watch-attr' in selector: '#agree-terms ~ div label[class]:watch-attr(class):remove-class(/disabled/)'" in the rule: "zoom.us###agree-terms ~ div label[class]:watch-attr(class):remove-class(/disabled/)"
@@ -554,12 +551,10 @@ URL: https://paulgb.github.io/BarbBlock/blacklists/adblock-plus.txt
 ---------------------------
 Filter ID: 241
 Filter name: EasyList Cookie List
-Compiled rules: 28874
-Excluded rules: 2936
+Compiled rules: 28851
+Excluded rules: 2962
 URL: https://www.fanboy.co.nz/fanboy-cookiemonster.txt
-INVALID RULES:
-Error: Invalid selector: '+js(set-cooke, cookie-accepted, yes)' -- '+js(set-cooke, cookie-accepted, yes)' is not a valid selector in rule: fizjobaza.pl##+js(set-cooke, cookie-accepted, yes)
-Error: Invalid selector: '+js(trusted-set-local-storage-item, consentCookie, true)' -- '+js(trusted-set-local-storage-item, consentCookie, true)' is not a valid selector in rule: goodram.com##+js(trusted-set-local-storage-item, consentCookie, true)
+All rules are valid.
 ---------------------------
 Filter ID: 242
 Filter name: NoCoin Filter List
@@ -570,7 +565,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 243
 Filter name: Frellwit's Swedish Filter
-Compiled rules: 3034
+Compiled rules: 3035
 Excluded rules: 480
 URL: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Filter.txt
 INVALID RULES:
@@ -606,7 +601,7 @@ Error: "Unknown pseudo-class ':remove-attr' in selector: 'a[href][ping]:remove-a
 ---------------------------
 Filter ID: 244
 Filter name: YousList
-Compiled rules: 7439
+Compiled rules: 7441
 Excluded rules: 0
 URL: https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
 All rules are valid.
@@ -619,10 +614,9 @@ URL: https://alleblock.pl/alleblock/alleblock.txt
 Filter ID: 246
 Filter name: EasyList Polish
 Compiled rules: 2555
-Excluded rules: 4
+Excluded rules: 2
 URL: https://easylist-downloads.adblockplus.org/easylistpolish.txt
-INVALID RULES:
-Error: Invalid selector: '.[class="s_calosc s_calosc_iko_4"] + div' -- Error: unable to select by '.[class="s_calosc s_calosc_iko_4"] + div' — '.[class="s_calosc s_calosc_iko_4"] + div' is not a valid selector in rule: avrupadaokuma.eu,bachelor.undergraduatestudy.eu,distancelearningstudy.eu,dlamaturzysty.info,dlaucznia.info,doctoralstudy.eu,dualstudies.eu,edubaza.pl,estudarnaeuropa.eu,estudiareneuropa.eu,etudiereneurope.eu,gramatyka-angielska.info,kierunki-studiow.info,kursy-zawodowe.kwalifikacjezawodowe.info,kursyjezykowe.biz,kursyonline.info,kursysemestralne.pl,master.postgraduatestudy.eu,mba-studies.eu,ochschulen.studiumineuropa.eu,organizacjestudenckie.pl,pracaikariera.pl,rektorzy.pl,studenckamarka.pl,studenckamoda.pl,studentka.pl,studentnews.eu,studentnews.pl,studiadoktoranckie.info,studiainzynierskie.info,studialicencjackie.info,studiamagisterskie.info,studiamba.info,studianiestacjonarne.info,studiaonline.info,studiastacjonarne.info,studiaweuropie.eu,studies-in-english.pl,studies-in-europe.eu,studies-in-poland.pl,studiumveurope.eu,szkolyjezykowe.info,tanulmanyokeuropaban.eu,universita.studiareineuropa.eu,wameryce.info,weuropie.info##.[class="s_calosc s_calosc_iko_4"] + div
+All rules are valid.
 ---------------------------
 Filter ID: 247
 Filter name: Polish Anti-Annoying Special Supplement
@@ -634,18 +628,17 @@ Error: Invalid selector: '#detail.articleBody p:nth-last-child(-n+3) a[href*="ne
 ---------------------------
 Filter ID: 249
 Filter name: Dandelion Sprout's Nordic Filters
-Compiled rules: 2925
+Compiled rules: 2939
 Excluded rules: 58
 URL: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuard.txt
 All rules are valid.
 ---------------------------
 Filter ID: 250
 Filter name: Dandelion Sprout's Annoyances List
-Compiled rules: 32599
-Excluded rules: 45870
+Compiled rules: 32636
+Excluded rules: 45994
 URL: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList
 INVALID RULES:
-Error: Invalid selector: 'a[oncontextmenu][href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"):upward(2)' -- Unbalanced brackets for extended pseudo-class: 'not' in rule: www.google.*##a[oncontextmenu][href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"):upward(2)
 Error: "Unknown modifier: ~inline-font" in the rule: "||oldgames.4all.cc^$all,~inline-font"
 Error: "Unknown modifier: ~inline-font" in the rule: "||useragentswitch.com^$all,~inline-font"
 Error: "Unknown modifier: ~inline-font" in the rule: "||dev-nano.com^$all,~inline-font"
@@ -22291,8 +22284,8 @@ Error: "$removeparam rules are not compatible with some other modifiers" in the 
 ---------------------------
 Filter ID: 251
 Filter name: Legitimate URL Shortener
-Compiled rules: 3759
-Excluded rules: 534
+Compiled rules: 3761
+Excluded rules: 538
 URL: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
 INVALID RULES:
 Error: "$removeparam rules are not compatible with some other modifiers" in the rule: "@@/subscribe?$document,removeparam=user_email_address"
@@ -22306,7 +22299,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 253
 Filter name: IndianList
-Compiled rules: 8929
+Compiled rules: 8932
 Excluded rules: 0
 URL: https://easylist-downloads.adblockplus.org/indianlist.txt
 All rules are valid.
@@ -22329,7 +22322,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 11
 Filter name: AdGuard Mobile Ads filter
-Compiled rules: 7783
+Compiled rules: 7787
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/11.txt
 All rules are valid.
@@ -22341,28 +22334,28 @@ URL: https://filters.adtidy.org/extension/chromium/filters/12.txt
 ---------------------------
 Filter ID: 13
 Filter name: AdGuard Turkish filter
-Compiled rules: 6615
+Compiled rules: 6613
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/13.txt
 All rules are valid.
 ---------------------------
 Filter ID: 14
 Filter name: AdGuard Annoyances filter
-Compiled rules: 52407
+Compiled rules: 52401
 Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/14.txt
 All rules are valid.
 ---------------------------
 Filter ID: 15
 Filter name: AdGuard DNS filter
-Compiled rules: 58714
+Compiled rules: 58973
 Excluded rules: 308
 URL: https://filters.adtidy.org/extension/chromium/filters/15.txt
 All rules are valid.
 ---------------------------
 Filter ID: 16
 Filter name: AdGuard French filter
-Compiled rules: 24914
+Compiled rules: 24953
 Excluded rules: 70
 URL: https://filters.adtidy.org/extension/chromium/filters/16.txt
 INVALID RULES:
@@ -22370,49 +22363,49 @@ Error: "Unknown modifier: webrtc" in the rule: "$webrtc,domain=11anim.com|1337x.
 ---------------------------
 Filter ID: 17
 Filter name: AdGuard URL Tracking filter
-Compiled rules: 2017
+Compiled rules: 2024
 Excluded rules: 0
 URL: https://filters.adtidy.org/windows/filters/17.txt
 All rules are valid.
 ---------------------------
 Filter ID: 18
 Filter name: AdGuard Cookie Notices filter
-Compiled rules: 18636
+Compiled rules: 18608
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/18.txt
 All rules are valid.
 ---------------------------
 Filter ID: 19
 Filter name: AdGuard Popups filter
-Compiled rules: 18829
+Compiled rules: 18850
 Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/19.txt
 All rules are valid.
 ---------------------------
 Filter ID: 1
 Filter name: AdGuard Russian filter
-Compiled rules: 24563
+Compiled rules: 24580
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/1.txt
 All rules are valid.
 ---------------------------
 Filter ID: 20
 Filter name: AdGuard Mobile App Banners filter
-Compiled rules: 3546
+Compiled rules: 3551
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/20.txt
 All rules are valid.
 ---------------------------
 Filter ID: 21
 Filter name: AdGuard Other Annoyances filter
-Compiled rules: 9463
+Compiled rules: 9458
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/21.txt
 All rules are valid.
 ---------------------------
 Filter ID: 224
 Filter name: AdGuard Chinese filter
-Compiled rules: 22111
+Compiled rules: 22180
 Excluded rules: 50
 URL: https://filters.adtidy.org/extension/chromium/filters/224.txt
 INVALID RULES:
@@ -22420,21 +22413,21 @@ Error: Invalid selector: '.j_l_post[data-field*="\"user_name\":\"\\u4e3f\\u5929\
 ---------------------------
 Filter ID: 22
 Filter name: AdGuard Widgets filter
-Compiled rules: 2216
+Compiled rules: 2217
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/22.txt
 All rules are valid.
 ---------------------------
 Filter ID: 23
 Filter name: AdGuard Ukrainian filter
-Compiled rules: 8007
+Compiled rules: 8014
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/23.txt
 All rules are valid.
 ---------------------------
 Filter ID: 2
 Filter name: AdGuard Base filter
-Compiled rules: 134512
+Compiled rules: 134808
 Excluded rules: 58
 URL: https://filters.adtidy.org/extension/chromium/filters/2.txt
 INVALID RULES:
@@ -22443,14 +22436,14 @@ Error: "Unknown modifier: webrtc" in the rule: "$webrtc,domain=ack.net|allthetes
 ---------------------------
 Filter ID: 3
 Filter name: AdGuard Tracking Protection filter
-Compiled rules: 83275
+Compiled rules: 84524
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/3.txt
 All rules are valid.
 ---------------------------
 Filter ID: 4
 Filter name: AdGuard Social Media filter
-Compiled rules: 14688
+Compiled rules: 14693
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/4.txt
 All rules are valid.
@@ -22464,15 +22457,15 @@ All rules are valid.
 ---------------------------
 Filter ID: 6
 Filter name: AdGuard German filter
-Compiled rules: 11884
+Compiled rules: 11896
 Excluded rules: 18
 URL: https://filters.adtidy.org/extension/chromium/filters/6.txt
 All rules are valid.
 ---------------------------
 Filter ID: 7
 Filter name: AdGuard Japanese filter
-Compiled rules: 10596
-Excluded rules: 8
+Compiled rules: 10589
+Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/7.txt
 All rules are valid.
 ---------------------------
@@ -22485,7 +22478,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 9
 Filter name: AdGuard Spanish/Portuguese filter
-Compiled rules: 6243
+Compiled rules: 6245
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/9.txt
 All rules are valid.

@@ -424,6 +424,20 @@ linkedin.com#?#body:style(overflow: auto !important;)
 /\.(xyz|pics)/[a-zA-Z0-9]{130,}/$doc,script,subdocument,image
 ! Rule "/\.(cloudfront\.net|xyz|pics)/[a-zA-Z0-9]{20,}/[a-zA-Z0-9]{25,}\+[a-zA-Z0-9+]{90,}$/$doc,script,subdocument,image" converted to: "/\.(cloudfront\.net|xyz|pics)/[a-zA-Z0-9]{20,}/[a-zA-Z0-9]{25,}\+[a-zA-Z0-9+]{90,}$/$document,script,subdocument,image"
 /\.(cloudfront\.net|xyz|pics)/[a-zA-Z0-9]{20,}/[a-zA-Z0-9]{25,}\+[a-zA-Z0-9+]{90,}$/$doc,script,subdocument,image
+! Rule "://142.91.159.$doc" converted to: "://142.91.159.$document"
+://142.91.159.$doc
+! Rule "://23.109.150.$doc" converted to: "://23.109.150.$document"
+://23.109.150.$doc
+! Rule "://23.109.248.$doc" converted to: "://23.109.248.$document"
+://23.109.248.$doc
+! Rule "://173.233.137.$doc" converted to: "://173.233.137.$document"
+://173.233.137.$doc
+! Rule "://173.233.139.$doc" converted to: "://173.233.139.$document"
+://173.233.139.$doc
+! Rule "://192.243.59.$doc" converted to: "://192.243.59.$document"
+://192.243.59.$doc
+! Rule "://192.243.61.$doc" converted to: "://192.243.61.$document"
+://192.243.61.$doc
 ! Rule "||deviuser.com^$doc" converted to: "||deviuser.com^$document"
 ||deviuser.com^$doc
 ! Rule "/scan-update-and-protect-your-browser.html$doc" converted to: "/scan-update-and-protect-your-browser.html$document"
@@ -754,6 +768,12 @@ linkedin.com#?#body:style(overflow: auto !important;)
 ||96.47.230.69^$doc
 ! Rule "||96.47.230.70^$doc" converted to: "||96.47.230.70^$document"
 ||96.47.230.70^$doc
+! Rule "://46.161.27.$doc" converted to: "://46.161.27.$document"
+://46.161.27.$doc
+! Rule "://78.128.112.$doc" converted to: "://78.128.112.$document"
+://78.128.112.$doc
+! Rule "://179.60.146.$doc" converted to: "://179.60.146.$document"
+://179.60.146.$doc
 ! Rule "||com/landers/iphone*_spin$doc" converted to: "||com/landers/iphone*_spin$document"
 ||com/landers/iphone*_spin$doc
 ! Rule "||31.220.27.134^$doc" converted to: "||31.220.27.134^$document"
@@ -762,10 +782,22 @@ linkedin.com#?#body:style(overflow: auto !important;)
 ://adbrbk.$doc
 ! Rule "/mcafee-safe-browsing/?*=*&*=*&*=*&*=*&*=*&*=$doc,popup" converted to: "/mcafee-safe-browsing/?*=*&*=*&*=*&*=*&*=*&*=$document,popup"
 /mcafee-safe-browsing/?*=*&*=*&*=*&*=*&*=*&*=$doc,popup
+! Rule "://178.253.14.$doc" converted to: "://178.253.14.$document"
+://178.253.14.$doc
+! Rule "://178.253.15.$doc" converted to: "://178.253.15.$document"
+://178.253.15.$doc
+! Rule "://178.253.46.$doc" converted to: "://178.253.46.$document"
+://178.253.46.$doc
+! Rule "://178.253.47.$doc" converted to: "://178.253.47.$document"
+://178.253.47.$doc
+! Rule "://178.253.54.$doc" converted to: "://178.253.54.$document"
+://178.253.54.$doc
 ! Rule "||158.247.212.220^$doc" converted to: "||158.247.212.220^$document"
 ||158.247.212.220^$doc
 ! Rule "||165.227.168.212^$doc" converted to: "||165.227.168.212^$document"
 ||165.227.168.212^$doc
+! Rule "://162.241.115.$doc" converted to: "://162.241.115.$document"
+://162.241.115.$doc
 ! Rule "||139.45.197.236^$doc" converted to: "||139.45.197.236^$document"
 ||139.45.197.236^$doc
 ! Rule "||shopfirststop.com^$doc,popup" converted to: "||shopfirststop.com^$document,popup"
@@ -882,10 +914,30 @@ linkedin.com#?#body:style(overflow: auto !important;)
 ||52.25.6.134^$doc
 ! Rule "||100.20.13.49^$doc" converted to: "||100.20.13.49^$document"
 ||100.20.13.49^$doc
+! Rule "://104.160.10.$doc" converted to: "://104.160.10.$document"
+://104.160.10.$doc
+! Rule "://165.231.154.$doc" converted to: "://165.231.154.$document"
+://165.231.154.$doc
 ! Rule "*norgesalg.com^$doc,popup" converted to: "*norgesalg.com^$document,popup"
 *norgesalg.com^$doc,popup
 ! Rule "*salgnorge.com^$doc,popup" converted to: "*salgnorge.com^$document,popup"
 *salgnorge.com^$doc,popup
+! Rule "://165.231.10.$doc" converted to: "://165.231.10.$document"
+://165.231.10.$doc
+! Rule "://165.231.152.$doc" converted to: "://165.231.152.$document"
+://165.231.152.$doc
+! Rule "://196.196.52.$doc" converted to: "://196.196.52.$document"
+://196.196.52.$doc
+! Rule "://196.196.155.$doc" converted to: "://196.196.155.$document"
+://196.196.155.$doc
+! Rule "://196.240.121.$doc" converted to: "://196.240.121.$document"
+://196.240.121.$doc
+! Rule "://196.242.179.$doc" converted to: "://196.242.179.$document"
+://196.242.179.$doc
+! Rule "://196.245.52.$doc" converted to: "://196.245.52.$document"
+://196.245.52.$doc
+! Rule "://196.245.56.$doc" converted to: "://196.245.56.$document"
+://196.245.56.$doc
 ! Rule "://rufus.download.$doc,popup" converted to: "://rufus.download.$document,popup"
 ://rufus.download.$doc,popup
 ! Rule "://virtualbox.download.$doc,popup" converted to: "://virtualbox.download.$document,popup"
@@ -906,6 +958,8 @@ linkedin.com#?#body:style(overflow: auto !important;)
 ||54.219.218.169^$doc
 ! Rule "||elimef.link^$doc" converted to: "||elimef.link^$document"
 ||elimef.link^$doc
+! Rule "://139.45.197.$doc" converted to: "://139.45.197.$document"
+://139.45.197.$doc
 ! Rule "://landings.*_slots/?partner=$doc" converted to: "://landings.*_slots/?partner=$document"
 ://landings.*_slots/?partner=$doc
 ! Rule "||redirect.newprogrammatic.click^$doc" converted to: "||redirect.newprogrammatic.click^$document"
@@ -920,14 +974,50 @@ linkedin.com#?#body:style(overflow: auto !important;)
 ||sitey.me^$doc
 ! Rule "&trafficsource=Kadam&$doc" converted to: "&trafficsource=Kadam&$document"
 &trafficsource=Kadam&$doc
+! Rule "://5.61.60.$doc" converted to: "://5.61.60.$document"
+://5.61.60.$doc
 ! Rule "/&[a-z]{1,2}=[a-zA-Z0-9]{0,}%[a-zA-Z0-9%]{1000,}$/$doc" converted to: "/&[a-z]{1,2}=[a-zA-Z0-9]{0,}%[a-zA-Z0-9%]{1000,}$/$document"
 /&[a-z]{1,2}=[a-zA-Z0-9]{0,}%[a-zA-Z0-9%]{1000,}$/$doc
+! Rule "://103.224.182.$doc" converted to: "://103.224.182.$document"
+://103.224.182.$doc
 ! Rule "||go.redirected*/click?^$doc,popup" converted to: "||go.redirected*/click?^$document,popup"
 ||go.redirected*/click?^$doc,popup
+! Rule "://||192.243.58.$doc" converted to: "://||192.243.58.$document"
+://||192.243.58.$doc
 ! Rule "||livejasmin.com/*&origin=$doc" converted to: "||livejasmin.com/*&origin=$document"
 ||livejasmin.com/*&origin=$doc
 ! Rule "||reschedule-delivery.ups.com.$doc" converted to: "||reschedule-delivery.ups.com.$document"
 ||reschedule-delivery.ups.com.$doc
+! Rule "||betzykrisesenter.no^$doc" converted to: "||betzykrisesenter.no^$document"
+||betzykrisesenter.no^$doc
+! Rule "||citra2010oslo.no^$doc" converted to: "||citra2010oslo.no^$document"
+||citra2010oslo.no^$doc
+! Rule "||digiter.no^$doc" converted to: "||digiter.no^$document"
+||digiter.no^$doc
+! Rule "||easydisplay.no^$doc" converted to: "||easydisplay.no^$document"
+||easydisplay.no^$doc
+! Rule "||kjaerra.no^$doc" converted to: "||kjaerra.no^$document"
+||kjaerra.no^$doc
+! Rule "||kontrast1.no^$doc" converted to: "||kontrast1.no^$document"
+||kontrast1.no^$doc
+! Rule "||norskmatkultur.no^$doc" converted to: "||norskmatkultur.no^$document"
+||norskmatkultur.no^$doc
+! Rule "||norskoffroadteknikk.no^$doc" converted to: "||norskoffroadteknikk.no^$document"
+||norskoffroadteknikk.no^$doc
+! Rule "||nyematoghelse.no^$doc" converted to: "||nyematoghelse.no^$document"
+||nyematoghelse.no^$doc
+! Rule "||securmarksykkel.no^$doc" converted to: "||securmarksykkel.no^$document"
+||securmarksykkel.no^$doc
+! Rule "||thecoolgirl.no^$doc" converted to: "||thecoolgirl.no^$document"
+||thecoolgirl.no^$doc
+! Rule "||topshineauto.no^$doc" converted to: "||topshineauto.no^$document"
+||topshineauto.no^$doc
+! Rule "||vossblues.no^$doc" converted to: "||vossblues.no^$document"
+||vossblues.no^$doc
+! Rule "||yttersiden.no^$doc" converted to: "||yttersiden.no^$document"
+||yttersiden.no^$doc
+! Rule "://162.214.80.$doc" converted to: "://162.214.80.$document"
+://162.214.80.$doc
 ! Rule "://hullcitytigers.com^$doc" converted to: "://hullcitytigers.com^$document"
 ://hullcitytigers.com^$doc
 ! Rule "/pgxhtogrzm-$doc" converted to: "/pgxhtogrzm-$document"
@@ -962,6 +1052,32 @@ linkedin.com#?#body:style(overflow: auto !important;)
 ||redirectme.net^$doc
 ! Rule "||anthargo.com^$doc" converted to: "||anthargo.com^$document"
 ||anthargo.com^$doc
+! Rule "://194.226.139.$doc" converted to: "://194.226.139.$document"
+://194.226.139.$doc
+! Rule "://5.8.67.$doc" converted to: "://5.8.67.$document"
+://5.8.67.$doc
+! Rule "://5.101.45.$doc" converted to: "://5.101.45.$document"
+://5.101.45.$doc
+! Rule "://5.188.178.$doc" converted to: "://5.188.178.$document"
+://5.188.178.$doc
+! Rule "://5.188.200.$doc" converted to: "://5.188.200.$document"
+://5.188.200.$doc
+! Rule "://5.188.203.$doc" converted to: "://5.188.203.$document"
+://5.188.203.$doc
+! Rule "://5.189.217.$doc" converted to: "://5.189.217.$document"
+://5.189.217.$doc
+! Rule "://5.189.252.$doc" converted to: "://5.189.252.$document"
+://5.189.252.$doc
+! Rule "://46.148.113.$doc" converted to: "://46.148.113.$document"
+://46.148.113.$doc
+! Rule "://46.148.114.$doc" converted to: "://46.148.114.$document"
+://46.148.114.$doc
+! Rule "://46.161.31.$doc" converted to: "://46.161.31.$document"
+://46.161.31.$doc
+! Rule "://91.243.41.$doc" converted to: "://91.243.41.$document"
+://91.243.41.$doc
+! Rule "://91.243.42.$doc" converted to: "://91.243.42.$document"
+://91.243.42.$doc
 ! Rule "||192.243.61.225^$doc" converted to: "||192.243.61.225^$document"
 ||192.243.61.225^$doc
 ! Rule "||2spendless.$doc" converted to: "||2spendless.$document"
@@ -1120,6 +1236,12 @@ linkedin.com#?#body:style(overflow: auto !important;)
 ||173.255.194.134^$doc
 ! Rule "||198.58.118.167^$doc" converted to: "||198.58.118.167^$document"
 ||198.58.118.167^$doc
+! Rule "://172.255.6.$doc" converted to: "://172.255.6.$document"
+://172.255.6.$doc
+! Rule "://188.42.84.$doc" converted to: "://188.42.84.$document"
+://188.42.84.$doc
+! Rule "://203.195.121.$doc" converted to: "://203.195.121.$document"
+://203.195.121.$doc
 ! Rule "-norgesalg.com^$doc" converted to: "-norgesalg.com^$document"
 -norgesalg.com^$doc
 ! Rule "*danmarks.com^$doc" converted to: "*danmarks.com^$document"
@@ -1592,14 +1714,16 @@ $doc,removeparam=traceId
 $doc,removeparam=uid_bam
 ! Rule "$doc,removeparam=sspUserID" converted to: "$document,removeparam=sspUserID"
 $doc,removeparam=sspUserID
+! Rule "$doc,removeparam=cid,domain=8days.sg|abcnews.go.com|adguard.com|adshares.net|ae.com|anntaylor.com|apple.com|bitdefender.*|blair.com|channelnewsasia.com|childrensplace.com|dcard.tw|elmundo.es|emirates.com|factoryoutletstore.com|fifa.com|flipkart.com|gamestop.com|giphy.com|glasses.com|haband.com|intuit.com|jared.com|jcpenney.com|kay.com|kohls.com|lenovo.com|loft.com|marca.com|microsoft.com|nbcnews.com|nike.com|nyandcompany.com|overstock.com|persol.com|proshop.*|radissonhotelsamericas.com|ray-ban.com|rei.com|rightmove.co.uk|samsung.com|stadium.*|staples.com|telenor.no|todayonline.com|tokopedia.com|tommy.com|toms.com|totalbeauty.com|tractorsupply.com|underarmour.com|vineyardvines.com|voxi.co.uk|wine.com|wsj.com|xg4ken.com|zales.com" converted to: "$document,removeparam=cid,domain=8days.sg|abcnews.go.com|adguard.com|adshares.net|ae.com|anntaylor.com|apple.com|bitdefender.*|blair.com|channelnewsasia.com|childrensplace.com|dcard.tw|elmundo.es|emirates.com|factoryoutletstore.com|fifa.com|flipkart.com|gamestop.com|giphy.com|glasses.com|haband.com|intuit.com|jared.com|jcpenney.com|kay.com|kohls.com|lenovo.com|loft.com|marca.com|microsoft.com|nbcnews.com|nike.com|nyandcompany.com|overstock.com|persol.com|proshop.*|radissonhotelsamericas.com|ray-ban.com|rei.com|rightmove.co.uk|samsung.com|stadium.*|staples.com|telenor.no|todayonline.com|tokopedia.com|tommy.com|toms.com|totalbeauty.com|tractorsupply.com|underarmour.com|vineyardvines.com|voxi.co.uk|wine.com|wsj.com|xg4ken.com|zales.com"
+$doc,removeparam=cid,domain=8days.sg|abcnews.go.com|adguard.com|adshares.net|ae.com|anntaylor.com|apple.com|bitdefender.*|blair.com|channelnewsasia.com|childrensplace.com|dcard.tw|elmundo.es|emirates.com|factoryoutletstore.com|fifa.com|flipkart.com|gamestop.com|giphy.com|glasses.com|haband.com|intuit.com|jared.com|jcpenney.com|kay.com|kohls.com|lenovo.com|loft.com|marca.com|microsoft.com|nbcnews.com|nike.com|nyandcompany.com|overstock.com|persol.com|proshop.*|radissonhotelsamericas.com|ray-ban.com|rei.com|rightmove.co.uk|samsung.com|stadium.*|staples.com|telenor.no|todayonline.com|tokopedia.com|tommy.com|toms.com|totalbeauty.com|tractorsupply.com|underarmour.com|vineyardvines.com|voxi.co.uk|wine.com|wsj.com|xg4ken.com|zales.com
 ! Rule "$removeparam=ref,doc,domain=abebooks.com|accounts.binance.com|adobe.com|akuankka.fi|albiononline.com|altcustoms.com|amazon.*|app.blockfi.com|arvopaperi.fi|audible.*|baidu.com|bestbuy.com|bing.com|bitlox.com|bitwarden.com|blinkforhome.com|blogit.fi|bookdepository.com|brave.com|browserstack.com|business.twitter.com|buzzfeed.com|buzzfeednews.com|bybit.com|catch.com.au|cmjornal.pt|codehs.com|comixology.*|coop.no|daily.dev|deal.no|dell.com|depot.dev|digidip.net|domains.ch|droix.net|eset.com|etsy.com|ettoday.net|emsisoft.com|expo.io|facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|fairphone.com|fig.io|foreca.*|gallery.so|geeksforgeeks.org|github.io|goodreads.com|greenhouse.io|hintaopas.fi|hintaseuranta.fi|hs.fi|idenati.com|ikea.com|iltapulu.fi|imdb.com|is.fi|jasonsavard.com|kauppalehti.fi|kesaduuni.org|kickstarter.com|ku.fi|lex.page|mastermind.ac|mediuutiset.fi|megapornfreehd.com|merrell.com|mikrobitti.fi|motouutiset.fi|nebula.tv|oikotie.fi|omataloyhtio.fi|proton.me|protonvpn.com|puutarha.net|rakentaja.fi|record.pt|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|remppatori.fi|sahkovertailu.fi|sanoma.fi|scandinavianphoto.fi|schibsted.fi|semrush.com|shein.com|shodan.io|shopping.google.*|sketch.com|spiegel.de|sportskeeda.com|storyhouseegmont.fi|suomi24.fi|talouselama.fi|target.com|tekniikkatalous.fi|telsu.fi|thedailybeast.com|theregister.com|tivi.fi|tokenmetrics.com|twitch.tv|udemy.com|uusisuomi.fi|umami.is|vultr.com|webhallen.no|woot.com|wormhole.app|yle.fi|zappos.com|zulily.com|emag.ro|account.microsoft.com" converted to: "$removeparam=ref,document,domain=abebooks.com|accounts.binance.com|adobe.com|akuankka.fi|albiononline.com|altcustoms.com|amazon.*|app.blockfi.com|arvopaperi.fi|audible.*|baidu.com|bestbuy.com|bing.com|bitlox.com|bitwarden.com|blinkforhome.com|blogit.fi|bookdepository.com|brave.com|browserstack.com|business.twitter.com|buzzfeed.com|buzzfeednews.com|bybit.com|catch.com.au|cmjornal.pt|codehs.com|comixology.*|coop.no|daily.dev|deal.no|dell.com|depot.dev|digidip.net|domains.ch|droix.net|eset.com|etsy.com|ettoday.net|emsisoft.com|expo.io|facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|fairphone.com|fig.io|foreca.*|gallery.so|geeksforgeeks.org|github.io|goodreads.com|greenhouse.io|hintaopas.fi|hintaseuranta.fi|hs.fi|idenati.com|ikea.com|iltapulu.fi|imdb.com|is.fi|jasonsavard.com|kauppalehti.fi|kesaduuni.org|kickstarter.com|ku.fi|lex.page|mastermind.ac|mediuutiset.fi|megapornfreehd.com|merrell.com|mikrobitti.fi|motouutiset.fi|nebula.tv|oikotie.fi|omataloyhtio.fi|proton.me|protonvpn.com|puutarha.net|rakentaja.fi|record.pt|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|remppatori.fi|sahkovertailu.fi|sanoma.fi|scandinavianphoto.fi|schibsted.fi|semrush.com|shein.com|shodan.io|shopping.google.*|sketch.com|spiegel.de|sportskeeda.com|storyhouseegmont.fi|suomi24.fi|talouselama.fi|target.com|tekniikkatalous.fi|telsu.fi|thedailybeast.com|theregister.com|tivi.fi|tokenmetrics.com|twitch.tv|udemy.com|uusisuomi.fi|umami.is|vultr.com|webhallen.no|woot.com|wormhole.app|yle.fi|zappos.com|zulily.com|emag.ro|account.microsoft.com"
 $removeparam=ref,doc,domain=abebooks.com|accounts.binance.com|adobe.com|akuankka.fi|albiononline.com|altcustoms.com|amazon.*|app.blockfi.com|arvopaperi.fi|audible.*|baidu.com|bestbuy.com|bing.com|bitlox.com|bitwarden.com|blinkforhome.com|blogit.fi|bookdepository.com|brave.com|browserstack.com|business.twitter.com|buzzfeed.com|buzzfeednews.com|bybit.com|catch.com.au|cmjornal.pt|codehs.com|comixology.*|coop.no|daily.dev|deal.no|dell.com|depot.dev|digidip.net|domains.ch|droix.net|eset.com|etsy.com|ettoday.net|emsisoft.com|expo.io|facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|fairphone.com|fig.io|foreca.*|gallery.so|geeksforgeeks.org|github.io|goodreads.com|greenhouse.io|hintaopas.fi|hintaseuranta.fi|hs.fi|idenati.com|ikea.com|iltapulu.fi|imdb.com|is.fi|jasonsavard.com|kauppalehti.fi|kesaduuni.org|kickstarter.com|ku.fi|lex.page|mastermind.ac|mediuutiset.fi|megapornfreehd.com|merrell.com|mikrobitti.fi|motouutiset.fi|nebula.tv|oikotie.fi|omataloyhtio.fi|proton.me|protonvpn.com|puutarha.net|rakentaja.fi|record.pt|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|remppatori.fi|sahkovertailu.fi|sanoma.fi|scandinavianphoto.fi|schibsted.fi|semrush.com|shein.com|shodan.io|shopping.google.*|sketch.com|spiegel.de|sportskeeda.com|storyhouseegmont.fi|suomi24.fi|talouselama.fi|target.com|tekniikkatalous.fi|telsu.fi|thedailybeast.com|theregister.com|tivi.fi|tokenmetrics.com|twitch.tv|udemy.com|uusisuomi.fi|umami.is|vultr.com|webhallen.no|woot.com|wormhole.app|yle.fi|zappos.com|zulily.com|emag.ro|account.microsoft.com
 ! Rule "$removeparam=src,doc,domain=3cx.com|adafruit.com|ashford.com|bluejeans.com|bose.*|brave.com|buyzero.de|cytron.io|digikey.*|elastix.org|engadget.com|getpocket.com|hallmark.com|hinta.fi|investors.com|kennethcole.com|kipling-usa.com|kubii.*|melopero.com|mozilla.org|msn.com|neeva.com|newbalance.com|nexo.io|officestationery.co.uk|okdo.com|raspipc.es|reichelt.*|tandfonline.com|thepihut.com|thunderbird.net|tiendatec.es|tokopedia.com|twitter.com|udemy.com|viking-direct.co.uk|webmd.com|welectron.com|wondershare.*|wuzhuiso.com|x.com|yahoo.com|tumblr.com" converted to: "$removeparam=src,document,domain=3cx.com|adafruit.com|ashford.com|bluejeans.com|bose.*|brave.com|buyzero.de|cytron.io|digikey.*|elastix.org|engadget.com|getpocket.com|hallmark.com|hinta.fi|investors.com|kennethcole.com|kipling-usa.com|kubii.*|melopero.com|mozilla.org|msn.com|neeva.com|newbalance.com|nexo.io|officestationery.co.uk|okdo.com|raspipc.es|reichelt.*|tandfonline.com|thepihut.com|thunderbird.net|tiendatec.es|tokopedia.com|twitter.com|udemy.com|viking-direct.co.uk|webmd.com|welectron.com|wondershare.*|wuzhuiso.com|x.com|yahoo.com|tumblr.com"
 $removeparam=src,doc,domain=3cx.com|adafruit.com|ashford.com|bluejeans.com|bose.*|brave.com|buyzero.de|cytron.io|digikey.*|elastix.org|engadget.com|getpocket.com|hallmark.com|hinta.fi|investors.com|kennethcole.com|kipling-usa.com|kubii.*|melopero.com|mozilla.org|msn.com|neeva.com|newbalance.com|nexo.io|officestationery.co.uk|okdo.com|raspipc.es|reichelt.*|tandfonline.com|thepihut.com|thunderbird.net|tiendatec.es|tokopedia.com|twitter.com|udemy.com|viking-direct.co.uk|webmd.com|welectron.com|wondershare.*|wuzhuiso.com|x.com|yahoo.com|tumblr.com
 ! Rule "$doc,removeparam=source,denyallow=googlevideo.com,domain=1sol.io|ashford.com|asos.com|att.com|awd-it.*|bankofamerica.com|barenecessities.com|bedbathandbeyond.com|betterprogramming.pub|blavity.com|blog.getadblock.com|blogs.oracle.com|bluemountain.com|boscovs.com|boxboat.com|britishcornershop.co.uk|brownells.*|burkesoutlet.com|bybit.com|choicehotels.com|chollometro.com|coinpanel.com|contabo.com|cmswire.com|cyberghostvpn.com|despegar.*|directv.com|discord.*|docs.google.com|docsend.com|drinkhint.com|educba.com|edx.org|eonline.com|escentual.com|eventbrite.*|fiverr.com|fool.com|forms.gle|gethotspotshield.com|gleam.io|goodcrypto.app|googleusercontent.com|greenhouse.io|greenvoice.fr|about.gitlab.com|hammacher.com|hanes.com|hbomax.com|hobbyhall.fi|hotspotshield.com|hottopic.com|housing.com|hp.com|instagram.com|itnext.io|jacquielawson.com|jobs.deepl.com|just-eat.co.uk|kasta.io|ladbible.com|learn.microsoft.com|medium.com|microsoftedgewelcome.microsoft.com|monster.fi|nautica.com|netflix.com|nortonsafe.search.ask.com|ngx.me|onehanesplace.com|outnorth.fi|paypal.com|petsupplies.com|phonesoap.com|propublica.org|quizlet.com|remppatori.fi|riteaid.com|runnode.com|search.brave.com|seekingalpha.com|sonos.com|spiceworks.com|squarespace.com|studio.co.uk|subscribe.gq.com|t.me|theathletic.com|thedailybeast.com|tiktok.com|tokopedia.com|tommybahama.com|torrid.com|tous.com|tradingview.com|trendmicro.com|tumblr.com|twitter.com|user.qzone.qq.com|vimeo.com|webhint.io|wilsonsleather.com|wired.com|xd.wayin.com|x.com|ylighting.com|youtube.com|yubo.live" converted to: "$document,removeparam=source,denyallow=googlevideo.com,domain=1sol.io|ashford.com|asos.com|att.com|awd-it.*|bankofamerica.com|barenecessities.com|bedbathandbeyond.com|betterprogramming.pub|blavity.com|blog.getadblock.com|blogs.oracle.com|bluemountain.com|boscovs.com|boxboat.com|britishcornershop.co.uk|brownells.*|burkesoutlet.com|bybit.com|choicehotels.com|chollometro.com|coinpanel.com|contabo.com|cmswire.com|cyberghostvpn.com|despegar.*|directv.com|discord.*|docs.google.com|docsend.com|drinkhint.com|educba.com|edx.org|eonline.com|escentual.com|eventbrite.*|fiverr.com|fool.com|forms.gle|gethotspotshield.com|gleam.io|goodcrypto.app|googleusercontent.com|greenhouse.io|greenvoice.fr|about.gitlab.com|hammacher.com|hanes.com|hbomax.com|hobbyhall.fi|hotspotshield.com|hottopic.com|housing.com|hp.com|instagram.com|itnext.io|jacquielawson.com|jobs.deepl.com|just-eat.co.uk|kasta.io|ladbible.com|learn.microsoft.com|medium.com|microsoftedgewelcome.microsoft.com|monster.fi|nautica.com|netflix.com|nortonsafe.search.ask.com|ngx.me|onehanesplace.com|outnorth.fi|paypal.com|petsupplies.com|phonesoap.com|propublica.org|quizlet.com|remppatori.fi|riteaid.com|runnode.com|search.brave.com|seekingalpha.com|sonos.com|spiceworks.com|squarespace.com|studio.co.uk|subscribe.gq.com|t.me|theathletic.com|thedailybeast.com|tiktok.com|tokopedia.com|tommybahama.com|torrid.com|tous.com|tradingview.com|trendmicro.com|tumblr.com|twitter.com|user.qzone.qq.com|vimeo.com|webhint.io|wilsonsleather.com|wired.com|xd.wayin.com|x.com|ylighting.com|youtube.com|yubo.live"
 $doc,removeparam=source,denyallow=googlevideo.com,domain=1sol.io|ashford.com|asos.com|att.com|awd-it.*|bankofamerica.com|barenecessities.com|bedbathandbeyond.com|betterprogramming.pub|blavity.com|blog.getadblock.com|blogs.oracle.com|bluemountain.com|boscovs.com|boxboat.com|britishcornershop.co.uk|brownells.*|burkesoutlet.com|bybit.com|choicehotels.com|chollometro.com|coinpanel.com|contabo.com|cmswire.com|cyberghostvpn.com|despegar.*|directv.com|discord.*|docs.google.com|docsend.com|drinkhint.com|educba.com|edx.org|eonline.com|escentual.com|eventbrite.*|fiverr.com|fool.com|forms.gle|gethotspotshield.com|gleam.io|goodcrypto.app|googleusercontent.com|greenhouse.io|greenvoice.fr|about.gitlab.com|hammacher.com|hanes.com|hbomax.com|hobbyhall.fi|hotspotshield.com|hottopic.com|housing.com|hp.com|instagram.com|itnext.io|jacquielawson.com|jobs.deepl.com|just-eat.co.uk|kasta.io|ladbible.com|learn.microsoft.com|medium.com|microsoftedgewelcome.microsoft.com|monster.fi|nautica.com|netflix.com|nortonsafe.search.ask.com|ngx.me|onehanesplace.com|outnorth.fi|paypal.com|petsupplies.com|phonesoap.com|propublica.org|quizlet.com|remppatori.fi|riteaid.com|runnode.com|search.brave.com|seekingalpha.com|sonos.com|spiceworks.com|squarespace.com|studio.co.uk|subscribe.gq.com|t.me|theathletic.com|thedailybeast.com|tiktok.com|tokopedia.com|tommybahama.com|torrid.com|tous.com|tradingview.com|trendmicro.com|tumblr.com|twitter.com|user.qzone.qq.com|vimeo.com|webhint.io|wilsonsleather.com|wired.com|xd.wayin.com|x.com|ylighting.com|youtube.com|yubo.live
-! Rule "$removeparam=from,doc,domain=apkpure.com|bandcamp.com|browserling.com|ettoday.net|luisaviaroma.com|sogou.com|store.hbr.org|app.snyk.io|onlinepngtools.com|indiatimes.com|jetbrains.com|nextdns.io" converted to: "$removeparam=from,document,domain=apkpure.com|bandcamp.com|browserling.com|ettoday.net|luisaviaroma.com|sogou.com|store.hbr.org|app.snyk.io|onlinepngtools.com|indiatimes.com|jetbrains.com|nextdns.io"
-$removeparam=from,doc,domain=apkpure.com|bandcamp.com|browserling.com|ettoday.net|luisaviaroma.com|sogou.com|store.hbr.org|app.snyk.io|onlinepngtools.com|indiatimes.com|jetbrains.com|nextdns.io
+! Rule "$removeparam=from,doc,domain=apkpure.com|bandcamp.com|browserling.com|ettoday.net|luisaviaroma.com|sogou.com|store.hbr.org|app.snyk.io|onlinepngtools.com|indiatimes.com|jetbrains.com|nextdns.io|tvtropes.org" converted to: "$removeparam=from,document,domain=apkpure.com|bandcamp.com|browserling.com|ettoday.net|luisaviaroma.com|sogou.com|store.hbr.org|app.snyk.io|onlinepngtools.com|indiatimes.com|jetbrains.com|nextdns.io|tvtropes.org"
+$removeparam=from,doc,domain=apkpure.com|bandcamp.com|browserling.com|ettoday.net|luisaviaroma.com|sogou.com|store.hbr.org|app.snyk.io|onlinepngtools.com|indiatimes.com|jetbrains.com|nextdns.io|tvtropes.org
 ! Rule "||amazon.*/dp/$removeparam=tag,doc" converted to: "||amazon.*/dp/$removeparam=tag,document"
 ||amazon.*/dp/$removeparam=tag,doc
 ! Rule "||amazon.*/stores/$removeparam=tag,doc" converted to: "||amazon.*/stores/$removeparam=tag,document"
@@ -1684,8 +1808,8 @@ wenku.baidu.com##+js(set,history.replaceState,noopFunc)
 $removeparam=c,doc,domain=announcements.bybit.com|appsflyer.com|farfetch.com|glami.cz|hepsiburada.com|norton.com|onelink.me|shopee.*|tiktok.com
 ! Rule "$doc,removeparam=channel,domain=1sol.io|amazon.*|bybit.com|coinpanel.com|docs.google.com|docsend.com|eventbrite.*|forms.gle|gleam.io|goodcrypto.app|instagram.com|kasta.io|ngx.me|privateinternetaccess.com|reddit.app.link|rei.com|runnode.com|squarespace.com|t.me|twitter.com|xd.wayin.com|x.com|youtube.com" converted to: "$document,removeparam=channel,domain=1sol.io|amazon.*|bybit.com|coinpanel.com|docs.google.com|docsend.com|eventbrite.*|forms.gle|gleam.io|goodcrypto.app|instagram.com|kasta.io|ngx.me|privateinternetaccess.com|reddit.app.link|rei.com|runnode.com|squarespace.com|t.me|twitter.com|xd.wayin.com|x.com|youtube.com"
 $doc,removeparam=channel,domain=1sol.io|amazon.*|bybit.com|coinpanel.com|docs.google.com|docsend.com|eventbrite.*|forms.gle|gleam.io|goodcrypto.app|instagram.com|kasta.io|ngx.me|privateinternetaccess.com|reddit.app.link|rei.com|runnode.com|squarespace.com|t.me|twitter.com|xd.wayin.com|x.com|youtube.com
-! Rule "$removeparam=pid,doc,domain=123inkjets.com|appsflyer.com|bergfreunde.*|bybit.com|dobrytextil.cz|farfetch.com|glami.cz|hepsiburada.com|neeva.com|onelink.me|play.google.com|samsclub.com|shopee.*|th.bing.com|tiktok.com" converted to: "$removeparam=pid,document,domain=123inkjets.com|appsflyer.com|bergfreunde.*|bybit.com|dobrytextil.cz|farfetch.com|glami.cz|hepsiburada.com|neeva.com|onelink.me|play.google.com|samsclub.com|shopee.*|th.bing.com|tiktok.com"
-$removeparam=pid,doc,domain=123inkjets.com|appsflyer.com|bergfreunde.*|bybit.com|dobrytextil.cz|farfetch.com|glami.cz|hepsiburada.com|neeva.com|onelink.me|play.google.com|samsclub.com|shopee.*|th.bing.com|tiktok.com
+! Rule "$removeparam=pid,doc,domain=123inkjets.com|appsflyer.com|bergfreunde.*|bybit.com|dobrytextil.cz|farfetch.com|fifa.com|glami.cz|hepsiburada.com|neeva.com|onelink.me|play.google.com|samsclub.com|shopee.*|th.bing.com|tiktok.com" converted to: "$removeparam=pid,document,domain=123inkjets.com|appsflyer.com|bergfreunde.*|bybit.com|dobrytextil.cz|farfetch.com|fifa.com|glami.cz|hepsiburada.com|neeva.com|onelink.me|play.google.com|samsclub.com|shopee.*|th.bing.com|tiktok.com"
+$removeparam=pid,doc,domain=123inkjets.com|appsflyer.com|bergfreunde.*|bybit.com|dobrytextil.cz|farfetch.com|fifa.com|glami.cz|hepsiburada.com|neeva.com|onelink.me|play.google.com|samsclub.com|shopee.*|th.bing.com|tiktok.com
 ! Rule "$doc,removeparam=sh,domain=forbes.com|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion" converted to: "$document,removeparam=sh,domain=forbes.com|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion"
 $doc,removeparam=sh,domain=forbes.com|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
 ! Rule "$doc,removeparam=/^siteid=/i,domain=agentprovocateur.com|amerimark.com|anntaylor.com|asos.com|awd-it.*|barenecessities.com|barrons.com|beautyencounter.com|buckle.com|burpee.com|chacos.com|coursera.org|dxl.com|dyson.com|ebay.*|famousfootwear.com|finishline.com|freetaxusa.com|gap.com|gapcanada.ca|gucci.com|hanes.com|hotwire.com|hulu.com|hunterboots.com|jcrew.com|josbank.com|kobo.com|lanebryant.com|laroche-posay.us|loft.com|magazines.com|marketwatch.com|maurices.com|merrell.com|newbalance.com|nordstrom.com|officedepot.com|onehanesplace.com|online4baby.com|radissonhotelsamericas.com|ralphlauren.com|saksfifthavenue.com|saksoff5th.com|samash.com|samsclub.com|saucony.com|sharperimage.com|skinceuticals.com|thingsremembered.com|thrifty.*|timeformecatalog.com|verabradley.com|vivaterra.com|wine.com|yoox.com" converted to: "$document,removeparam=/^siteid=/i,domain=agentprovocateur.com|amerimark.com|anntaylor.com|asos.com|awd-it.*|barenecessities.com|barrons.com|beautyencounter.com|buckle.com|burpee.com|chacos.com|coursera.org|dxl.com|dyson.com|ebay.*|famousfootwear.com|finishline.com|freetaxusa.com|gap.com|gapcanada.ca|gucci.com|hanes.com|hotwire.com|hulu.com|hunterboots.com|jcrew.com|josbank.com|kobo.com|lanebryant.com|laroche-posay.us|loft.com|magazines.com|marketwatch.com|maurices.com|merrell.com|newbalance.com|nordstrom.com|officedepot.com|onehanesplace.com|online4baby.com|radissonhotelsamericas.com|ralphlauren.com|saksfifthavenue.com|saksoff5th.com|samash.com|samsclub.com|saucony.com|sharperimage.com|skinceuticals.com|thingsremembered.com|thrifty.*|timeformecatalog.com|verabradley.com|vivaterra.com|wine.com|yoox.com"
@@ -1958,6 +2082,8 @@ $doc,removeparam=gci
 $doc,removeparam=af_reengagement_window
 ! Rule "||instagram.com^$doc,removeparam=short_redirect" converted to: "||instagram.com^$document,removeparam=short_redirect"
 ||instagram.com^$doc,removeparam=short_redirect
+! Rule "||fifa.com^$doc,removeparam=entryPoint" converted to: "||fifa.com^$document,removeparam=entryPoint"
+||fifa.com^$doc,removeparam=entryPoint
 ! Rule "actionewz.com,animemojo.com,comicbookmovie.com,fearhq.com,gamefragger.com,mtvuutiset.fi,sffgazette.com,theringreport.com,toonado.com##+js(set, GSvars.addressTracking, false)" converted to: "actionewz.com,animemojo.com,comicbookmovie.com,fearhq.com,gamefragger.com,mtvuutiset.fi,sffgazette.com,theringreport.com,toonado.com#%#//scriptlet('ubo-set.js', 'GSvars.addressTracking', 'false')"
 actionewz.com,animemojo.com,comicbookmovie.com,fearhq.com,gamefragger.com,mtvuutiset.fi,sffgazette.com,theringreport.com,toonado.com##+js(set, GSvars.addressTracking, false)
 ! Rule "buffalonews.com##+js(set, lee_trkLinkSrc, noopFunc)" converted to: "buffalonews.com#%#//scriptlet('ubo-set.js', 'lee_trkLinkSrc', 'noopFunc')"
@@ -2582,8 +2708,6 @@ positivr.fr##.viously-sticked:style(position: absolute !important; top: 0 !impor
 youtube.com##ytd-miniplayer[has-playlist-data] #movie_player video:remove()
 ! vimeo.com#%#AG_setConstant('vimeo.clip_page_config.continuous_play_enabled', 'false'); is excluded by "#%#" in exclusions-high.txt
 vimeo.com#%#AG_setConstant('vimeo.clip_page_config.continuous_play_enabled', 'false');
-! Error: Invalid selector: 'a[oncontextmenu][href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"):upward(2)' -- Unbalanced brackets for extended pseudo-class: 'not' in rule:
-www.google.*##a[oncontextmenu][href*=".cf/"]:not([href*="google.cf"], [href*="rths.cf"], [href*="acap.cf"], [href*="shorter.cf"):upward(2)
 ! Error: "Unknown modifier: ~inline-font" in the rule: "||oldgames.4all.cc^$all,~inline-font"
 ||oldgames.4all.cc^$all,~inline-font
 ! Error: "Unknown modifier: ~inline-font" in the rule: "||useragentswitch.com^$all,~inline-font"

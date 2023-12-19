@@ -192,9 +192,9 @@ acorn@^8.1.0, acorn@^8.8.2, acorn@^8.9.0:
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.11.2.tgz#ca0d78b51895be5390a5903c5b3bdcdaf78ae40b"
   integrity sha512-nc0Axzp/0FILLEVsm4fNwLCwMttvhEI263QtVPQcbpfZZ3ts0hLsZGOpE6czNlid7CJ9MlyH8reXkpsf3YUY4w==
 
-"adguard-filters-compiler@git+https://github.com/AdguardTeam/FiltersCompiler.git#v1.1.119":
-  version "1.1.119"
-  resolved "git+https://github.com/AdguardTeam/FiltersCompiler.git#a1e1911f74fa06c1da5a1a72329c1b9a2366ee7d"
+"adguard-filters-compiler@git+https://github.com/AdguardTeam/FiltersCompiler.git#v1.1.121":
+  version "1.1.121"
+  resolved "git+https://github.com/AdguardTeam/FiltersCompiler.git#e0be3a2464ef0be291dddbb168d3caab70ef5bb4"
   dependencies:
     "@adguard/extended-css" "^2.0.56"
     "@adguard/filters-downloader" "^1.1.23"

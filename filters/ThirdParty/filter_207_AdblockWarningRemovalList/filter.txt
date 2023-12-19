@@ -1,8 +1,8 @@
 !
-! Checksum: fOw7yPN+Uwah2Ti1EKy1TA
-! OriginalVersion: 202312151251
+! Checksum: 1tiR1T009rv/BjYAlfveow
+! OriginalVersion: 202312191251
 ! Title: Adblock Warning Removal List
-! Last modified: 15 Dec 2023 12:51 UTC
+! Last modified: 19 Dec 2023 12:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/antiadblockfilters
 ! Licence: https://easylist.to/pages/licence.html
@@ -646,10 +646,11 @@ aratta-ukraine.com,drawnstories.ru,gisclub.tv,kinda.media,teremok.org.ua,webos-f
 asn.in.ua,beadeath.dclans.ru###mdl_ctnr
 photolessons.org###modal-adbmon-div
 ostroh.info###modal.modal-bg
-filmix.biz,filmix.life,filmix.tech,filmix.zone###oframeplayer > #player_control_play-icon ~ pjsdiv[style^="position: absolute; left:"][style*="pointer-events: none; display: block; visibility:"]
+filmix.biz,filmix.date,filmix.life,filmix.tech,filmix.zone###oframeplayer > #player_control_play-icon ~ pjsdiv[style^="position: absolute; left:"][style*="pointer-events: none; display: block; visibility:"]
 mover.uz###oframeplayer > [class][style^="display: block"]
 md4u.ru###pagecontent > div[style*="background-color"]
 alensat.org,forummikrotik.ru###phpbb-ads-ab
+forum.flprog.ru###phpbb_announcement
 3dsmaxvideo.ru,archicadvideo.ru,autocadvideo.ru,coreldrawvideo.ru,excelvideo.ru,kompasvideo.ru,photoshopvideo.ru,solidworksvideo.ru,wordvideo.ru###prozrachnyi2,#video_window2
 sostav.ru###rek_blocker
 math-prosto.ru###requestShutOfBlocker
@@ -731,7 +732,7 @@ pythonworld.ru##.pythonworld-contributor
 veseloeradio.ru##.racy_sidebar
 fanfics.me##.red.nodata
 webofcomics.ru##.reklandvipinfo
-filmix.biz,filmix.life,filmix.tech,filmix.zone##.remove-sda-wrap
+filmix.biz,filmix.date,filmix.life,filmix.tech,filmix.zone##.remove-sda-wrap
 sport-express.ru##.se-adv-notice
 101.ru##.showMessageAdBlock
 uakino.club##.side-content-adblock

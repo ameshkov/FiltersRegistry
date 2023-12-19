@@ -103,6 +103,8 @@ instagram.com##._aagw:empty
 !
 ! End: Instagram.com
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/168654
+m.censor.net##.block-social-link
 ! https://github.com/AdguardTeam/AdguardFilters/issues/168168
 forum.outerspace.com.br##.focus-guest
 ! https://github.com/AdguardTeam/AdguardFilters/issues/168449
@@ -2873,6 +2875,7 @@ yasir252.com#%#AG_onLoad(function(){setTimeout(function(){var a=document.querySe
 !
 !
 !
+sport5.by###news > div[style="margin-bottom: 50px; margin-top: -40px;"]
 istories.media##div[class^="SocialMediaBanner"]
 abc-mart.net###___ratingbadge_0
 store.epicgames.com#?#div[class^="css-"] > div[class^="css-"]:has(> div[class^="css-"] > h2 > span:contains(Follow Us))
@@ -4987,6 +4990,9 @@ theguardian.com##.contributions__adblock
 !
 ! SECTION: Self-promo - Regular rules
 !
+duckduckgo.com##.header__search-wrap + div.header--aside > div.header--aside__item
+dzen.ru##div[id$="-link_bro"]
+dotnet.microsoft.com##.alert-promo
 gab.com#?#main div[tabindex="-1"] + div:not([class]):has(> div[class^="_"] > div[class^="_"] > div[class^="_"] > a[target="_blank"][href="https://grow.gab.com"])
 gab.com#?#main div[tabindex="-1"] + div:not([class]):has(> div[class^="_"] > div[class^="_"] > a[href="/businesses"])
 nytimes.com##div[data-testid="onsite-messaging-unit-dock"]
@@ -5463,7 +5469,7 @@ marmiton.org#?#div[data-ad-sticky-reference] > div[class^="RCP__sc-"] > div[clas
 rockpapershotgun.com##.merch_component
 blog.skillfactory.ru##.footer__banner
 blog.skillfactory.ru##.link-to-course
-blog.skillfactory.ru##.wp-block-vadim-banner-strip
+blog.skillfactory.ru##div[class^="wp-block-vadim-banner-"]
 g2a.com##.com-container__sidebar
 ||frontend.vh.yandex.ru/player/$domain=techinsider.ru|novochag.ru
 thevoicemag.ru,novochag.ru,techinsider.ru###detail-video-recommendation
@@ -7844,7 +7850,7 @@ mazen-ve.com#%#//scriptlet("adjust-setInterval", "mdtimer", "", "0.02")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/113960
 streamcheck.link,tinyurl.so,tinyurl.is#%#//scriptlet("adjust-setInterval", "skip-btn", "*", "0.02")
 streamcheck.link,tinyurl.so,tinyurl.is#%#//scriptlet('remove-class', 'disabled', 'a[id^="newskip-"].disabled')
-streamcheck.link,tinyurl.so,tinyurl.is#%#AG_onLoad(function(){var a=document.querySelector("a[id^='newskip-'][href^='http']");a&&a.click()});
+streamcheck.link,tinyurl.so,tinyurl.is#%#//scriptlet('trusted-click-element', 'a[id^="newskip-"][href^="http"]')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/114874
 usanewstoday.club,earnme.club#%#//scriptlet("adjust-setInterval", "tp-", "*", "0.02")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/114665
@@ -7959,9 +7965,6 @@ djxmaza.in,examtadka.com,proviralhost.com,urbharat.xyz#%#//scriptlet("adjust-set
 4shared.com#%#//scriptlet("adjust-setTimeout", "goVideoJS", "*", "0.02")
 ! https://github.com/uBlockOrigin/uAssets/issues/3130#issuecomment-1012696170
 shortit.pw#%#//scriptlet('set-constant', 'valid', '1')
-! https://github.com/AdguardTeam/AdguardFilters/issues/104397
-dl.indexmovies.xyz#%#//scriptlet("adjust-setInterval", "countdown", "", "0.02")
-dl.indexmovies.xyz#%#AG_onLoad(function(){var a=document.querySelector('#skip > a[href^="http"]');a&&a.click()});
 ! 123lnk.xyz timer
 123lnk.xyz#%#//scriptlet("adjust-setTimeout", "countDown", "", "0.02")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/105979
@@ -8012,7 +8015,7 @@ udemycourses.me#%#//scriptlet("adjust-setInterval", "counter--", "", "0.02")
 tutcourse.com#%#//scriptlet("adjust-setInterval", "sec--", "", "0.02")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/100856
 techymedies.com#%#//scriptlet("adjust-setTimeout", "/gotoo|pop-button|stickyadin/", "*", "0.02")
-techymedies.com#%#AG_onLoad(function(){setTimeout(function(){var a=document.querySelector('#form a.bt-success[href*="?gentoken="]');a&&a.click()},300)});
+techymedies.com#%#//scriptlet('trusted-click-element', '#form a.bt-success[href*="?gentoken="]', '', '300')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/99872
 luckydice.net,coinsearns.com#%#//scriptlet("adjust-setInterval", "sec--", "", "0.02")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/99869
@@ -8036,7 +8039,7 @@ girls-like.me#%#//scriptlet("adjust-setInterval", "count--", "", "0.02")
 segurosdevida.site#%#//scriptlet("adjust-setInterval", "wpsafe-", "*", "0.02")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/98373
 getthot.com#%#//scriptlet("adjust-setTimeout", "$('.skip-btn').", "*", "0.02")
-getthot.com#%#AG_onLoad(function(){setTimeout(function(){var a=document.querySelector('a[href^="http"].skip-btn');a&&a.click()},1E3)});
+getthot.com#%#//scriptlet('trusted-click-element', 'a[href^="http"].skip-btn', '', '1000')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/99094
 short-link.one#%#AG_onLoad(function(){if("function"===typeof decode_link&&"string"===typeof link_out)try{var c=RegExp("^https?"),d=RegExp("^magnet:"),b=decode_link(atob(link_out));c.test(b)&&location.assign(decode_link(atob(link_out)));if(d.test(b)){var a=document.querySelector("input#contador");a?(a.setAttribute("id","download"),a.removeAttribute("disabled"),a.addEventListener("click",function(){location.assign(decode_link(atob(link_out)))},!1)):location.assign(decode_link(atob(link_out)))}}catch(e){console.log("Failed to decode link")}});
 ! https://github.com/AdguardTeam/AdguardFilters/issues/98371
@@ -8113,7 +8116,7 @@ rethmic.com#%#//scriptlet("adjust-setInterval", "sp-count-down", "", "0.02")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/93547
 taregna.com#%#//scriptlet("adjust-setInterval", "wpsafe-", "", "0.02")
 taregna.com#%#//scriptlet("adjust-setInterval", "wpsafe-", "2000", "0.02")
-taregna.com#%#AG_onLoad(function(){var a=document.querySelector("#wpsafe-link > a[onclick*='window.open'][onclick*='safelink_redirect='][onclick*='_self']");a&&a.click()});
+taregna.com#%#//scriptlet('trusted-click-element', '#wpsafe-link > a[onclick*="window.open"][onclick*="safelink_redirect="][onclick*="_self"]')
 ! mcpedl.com - skip timer
 mcpedl.com#%#//scriptlet("adjust-setInterval", "countdown", "", "0.02")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/93895
@@ -8269,10 +8272,6 @@ oeko-planet.com#%#//scriptlet('remove-class', 'async-hide', 'html')
 yoshare.net#%#//scriptlet("adjust-setInterval", "counter", "2000", "0.02")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/78915
 thaitrieuvi.live#%#//scriptlet("adjust-setInterval", "counter", "", "0.02")
-! https://github.com/AdguardTeam/AdguardFilters/issues/78796
-techoow.com#%#//scriptlet("adjust-setTimeout", "link", "1100", "0.02")
-techoow.com#%#//scriptlet("adjust-setInterval", "#counter", "", "0.02")
-techoow.com#%#AG_onLoad(function(){var a=document.querySelector("center > a.btn-success"),b=document.querySelector("a#count00");a&&a.click();b&&b.click();if("string"===typeof xlinkd&&xlinkd.startsWith("http")){try{new URL(xlinkd);var c=!0}catch(d){c=!1}if(c)try{window.location=xlinkd}catch(d){}}});
 ! https://github.com/AdguardTeam/AdguardFilters/issues/78571
 sama-share.com#%#//scriptlet("adjust-setTimeout", "tick", "1000", "0.02")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/87661
@@ -8410,8 +8409,6 @@ respuestadetarea.com#%#//scriptlet("adjust-setTimeout", "timers", "", "0.02")
 edurespuestas.com#%#//scriptlet("adjust-setTimeout", "timers", "4000", "0.02")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/70432
 asistente-de-estudio.com#%#//scriptlet("adjust-setTimeout", "timers", "", "0.02")
-! https://github.com/AdguardTeam/AdguardFilters/issues/70993
-mondaq.com#%#AG_onLoad(function() { setTimeout(function() { var el = document.querySelector('a#cd-close-form-ref'); if(el) { el.click(); } }, 30001); });
 ! https://github.com/AdguardTeam/AdguardFilters/issues/70455
 mik4mob.com,7misr4day.com#%#//scriptlet("adjust-setInterval", "sec--", "", "0.02")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/70363
@@ -8421,7 +8418,7 @@ safelink.rezkozpatch.xyz#%#!function(){if(-1<window.location.href.indexOf(".html
 ! https://github.com/AdguardTeam/AdguardFilters/issues/70464
 hikarinoakari.com#%#//scriptlet("adjust-setInterval", "count", "", "0.02")
 ! fcc.lc - skip timers
-short.fc-lc.com#%#AG_onLoad(function() { setTimeout(function() { var el = document.querySelector('#submitbtn'); if(el) { el.click(); } }, 300); });
+short.fc-lc.com#%#//scriptlet('trusted-click-element', '#submitbtn', '', '300')
 ! fclcc.com,articlix.com,fcc.lc#%#AG_onLoad(function() { setTimeout(function() { var el = document.querySelector("#invisibleCaptchaShortlink"); if(el) { el.classList.remove("disabled"); el.removeAttribute("disabled"); el.click(); } }, 300); });
 bclikeqt.com,markipli.com,fclcc.com,articlix.com,fcc.lc#%#AG_onLoad(function(){setTimeout(function(){var a=document.querySelector("#surl"),c=function(){var d=jQuery.ajax({url:domain,method:"POST",dataType:"json",data:jQuery("#form12").serialize()});setTimeout(function(){try{var b=d.responseText;b=JSON.parse(b);if(b.url&&b.url.startsWith("http"))a.href=b.url,a.text="Get Link",a.classList.add("btn-success"),a.click();else throw Error();}catch(e){console.log("Failed, try again..."),c()}},1E3)};a&&(a.classList.remove("disabled"),c())},500)});
 ! https://github.com/AdguardTeam/AdguardFilters/issues/59717
@@ -8798,7 +8795,7 @@ lg-firmwares.com,sfirmware.com#%#//scriptlet("adjust-setInterval", "#download-po
 earnbits.xyz#%#//scriptlet("adjust-setInterval", "sec--", "", "0.02")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/50624
 boomx5.com#%#//scriptlet("adjust-setInterval", "#proceed", "", "0.02")
-boomx5.com#%#AG_onLoad(function() { setTimeout(function() { var el = document.querySelector('form button#proceed'); if(el) el.click(); }, 1000); });
+boomx5.com#%#//scriptlet('trusted-click-element', 'form button#proceed', '', '1000')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/50492
 adfoc.us#%#AG_onLoad(function(){var a=document.querySelector("#showSkip > a[href].skip");if(a)try{window.location=a.href}catch(b){}});
 ! https://github.com/AdguardTeam/AdguardFilters/issues/50560
@@ -8806,12 +8803,11 @@ go.giga74.com#%#AG_onLoad(function(){var a=document.querySelector('center > a[hr
 ! https://github.com/AdguardTeam/AdguardFilters/issues/50328
 ! Based on Universal Bypass
 midiavip.com#%#AG_onLoad(function(){if(document.querySelector(".unlock-step-link.getlink[disabled]")){var a=document.querySelectorAll("form#formID");document.querySelectorAll("input[name='urlopen']").forEach(function(a){a.value=location.origin+"/url2.php"});for(var b=0;b<a.length;b++)fetch("/url2.php",{method:"POST",headers:{"Content-Type":"application/x-www-form-urlencoded"},body:(new URLSearchParams(new FormData(a[b]))).toString()}).then(function(){fetch(location.href).then(function(a){return a.text()}).then(function(a){try{location= /&u=([^']+)/.exec(a)[1]}catch(d){}})})}if(a=document.querySelector('.unlock-step-link.getlink[onclick*="&u=http"]')){a=a.getAttribute("onclick");try{location=/&u=([^']+)/.exec(a)[1]}catch(c){}}});
-midvip.xyz#%#AG_onLoad(function(){ var el = document.querySelector('.page-content1 button#makingdifferenttimer[onclick*="PathSet()"]'); if(el) el.click(); });
 ! https://github.com/AdguardTeam/AdguardFilters/issues/81702
 imgqec.online,imgwbfh.online,imgyer.store,imgxuh.cfd,imgngc.sbs,imgezx.sbs,imgxza.store,imgwqr.online#%#//scriptlet('prevent-setInterval', 'scrollTo')
 imgqec.online,imgwbfh.online,imgyer.store,imgxuh.cfd,imgngc.sbs,imgezx.sbs,imgxza.store,imgwqr.online#%#//scriptlet('set-constant', 'scrollTo', 'noopFunc')
 imgqec.online,imgwbfh.online,imgyer.store,imgxuh.cfd,imgngc.sbs,imgezx.sbs,imgxza.store,imgwqr.online,imagehaha.com,imgpukrr.site,imagent.buzz,imagepuitr.buzz,imgblaze.net,imgkorle.buzz,imgkaka.xyz,pixsera.net,imgfrost.net,imgair.net#%#//scriptlet("adjust-setInterval", ".timer", "", "0.02")
-imgqec.online,imgwbfh.online,imgyer.store,imgxuh.cfd,imgngc.sbs,imgezx.sbs,imgxza.store,imgwqr.online,imagehaha.com,imgpukrr.site,imagent.buzz,imagepuitr.buzz,imgblaze.net,imgkorle.buzz,imgkaka.xyz,pixsera.net,imgfrost.net,imgair.net#%#AG_onLoad(function(){setTimeout(function(){var a=document.querySelector("a[href].url-link");a&&(a.click(),setTimeout(function(){a.click()},50))},500)});
+imgqec.online,imgwbfh.online,imgyer.store,imgxuh.cfd,imgngc.sbs,imgezx.sbs,imgxza.store,imgwqr.online,imagehaha.com,imgpukrr.site,imagent.buzz,imagepuitr.buzz,imgblaze.net,imgkorle.buzz,imgkaka.xyz,pixsera.net,imgfrost.net,imgair.net#%#//scriptlet('trusted-click-element', 'a[href].url-link')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/50428
 1v.to#%#AG_onLoad(function(){var a=document.querySelector("#oculto > a[href]");if(a)try{window.location=a.href}catch(b){}});
 ! https://github.com/AdguardTeam/AdguardFilters/issues/50491
@@ -8857,7 +8853,7 @@ mastercoria.com#%#//scriptlet("adjust-setInterval", "countdown", "", "0.02")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/47574
 kstarmp3.com#%#AG_onLoad(function(){document.querySelectorAll('.entry-content a[href^="https://ouo.press/"][href*="%2Fhttp"]').forEach(function(a){var b="http"+decodeURIComponent(a.getAttribute("href")).split("/http")[1];a.setAttribute("href",b)});document.querySelectorAll('.entry-content a[href^="https://ouo.press/"]:not([href*="%2Fhttp"])').forEach(function(a){var b=decodeURIComponent(a.getAttribute("href")).split("?s=");a.setAttribute("href",b[1])})});
 ! https://github.com/AdguardTeam/AdguardFilters/issues/47357
-1ink.cc#%#AG_onLoad(function() { var el = document.querySelector('#countingbtn'); if(el) el.click(); });
+1ink.cc#%#//scriptlet('trusted-click-element', '#countingbtn')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/47028#issuecomment-571357678
 dailymail.co.uk###chromelessPlayer
 dailymail.co.uk#%#//scriptlet("abort-on-property-read", "Object.prototype.videoAdvertisingMode")
@@ -8912,9 +8908,7 @@ elsfile.org#%#(function(){var c=window.setInterval;window.setInterval=function(f
 ! https://github.com/AdguardTeam/AdguardFilters/issues/41759
 faucetcrypto.com,faucet.gold#%#(function(){var c=window.setInterval;window.setInterval=function(f,g){return g===1e3&&/removeAttr\('disabled'\)/.test(f.toString())&&(g*=0.01),c.apply(this,arguments)}.bind(window)})();
 ! https://github.com/AdguardTeam/AdguardFilters/issues/41751
-trucnet.net#%#AG_onLoad(function() { var el=document.querySelector('a[href].btn.redirect'); if(el) el.click(); });
-! https://github.com/AdguardTeam/AdguardFilters/issues/41708
-mtbcut.net#%#AG_onLoad(function() { var el = document.querySelector('a[href].wp-block-button__link'); if(window.location.href.indexOf("/?p=") != -1 && el) { el.click(); } });
+trucnet.net#%#//scriptlet('trusted-click-element', 'a[href].btn.redirect')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/41369
 mod-hola.blogspot.com,tech2ind.in,paoencurtador.blogspot.com,gyanitheme.com,yotrickslog.tech,meclipstudy.in,proappapk.com,buscador.buscalinks.xyz,recursosinformaticos.org,minecraftalpha.net,viralmods.net,m.appsmodz.com#%#AG_onLoad(function(){setTimeout(function(){if("undefined"!==typeof aesCrypto&&"function"===typeof aesCrypto.decrypt&&-1<window.location.href.indexOf("#?o="))try{window.location=aesCrypto.decrypt(window.location.href.split("#?o=")[1].replace(/^\s+/,"").replace(/\s+$/,""),"root".replace(/^\s+/,"").replace(/\s+$/,""))}catch(a){}},300)});
 link.baixedetudo.net.br#%#AG_onLoad(function(){setTimeout(function(){if("undefined"!==typeof aesCrypto&&"function"===typeof aesCrypto.decrypt&&-1<window.location.href.indexOf("html#?o="))try{window.location=aesCrypto.decrypt(window.location.href.split("html#?o=")[1].replace(/^\s+/,"").replace(/\s+$/,""),"root".replace(/^\s+/,"").replace(/\s+$/,""))}catch(a){}},300)});
@@ -9007,10 +9001,10 @@ azaku-anime.com#%#AG_onLoad(function() { document.body.innerHTML = document.body
 ! chip.de#%#AG_onLoad(function() { document.body.innerHTML = document.body.innerHTML.replace(/data-autoplay="true"/g, 'data-autoplay="false"'); });
 cnet.com#%#if (typeof localStorage != 'undefined' && localStorage.setItem) { localStorage.setItem('cnetSettings', '{"autoplayEnabled":"off"}'); }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/12814
-bluemediastorage.online,dl.pcgamestorrents.org,bluemediafile.*,bluemediafiles.*#%#//scriptlet('trusted-click-element', 'form[action="get-url.php"] > input#url[value] + input[id][type="image"][src]')
-bluemediastorage.online,dl.pcgamestorrents.org,bluemediafile.*,bluemediafiles.*#%#(function(){var a="http"+(new URL(window.location.href)).searchParams.get("xurl");try{new URL(a);var b=!0}catch(c){b=!1}if(b)try{window.location=a}catch(c){}})();
-bluemediastorage.online,dl.pcgamestorrents.org,bluemediafile.*,bluemediafiles.*,get-url.com#%#//scriptlet("adjust-setInterval", "i--", "", "0.02")
-bluemediastorage.online,dl.pcgamestorrents.org,bluemediafile.*,bluemediafiles.*,get-url.com#%#//scriptlet('set-constant', 'Time_Start', '0')
+bluemedialink.online,bluemediastorage.online,dl.pcgamestorrents.org,bluemediafile.*,bluemediafiles.*#%#//scriptlet('trusted-click-element', 'form[action="get-url.php"] > input#url[value] + input[id][type="image"][src]')
+bluemedialink.online,bluemediastorage.online,dl.pcgamestorrents.org,bluemediafile.*,bluemediafiles.*#%#(function(){var a="http"+(new URL(window.location.href)).searchParams.get("xurl");try{new URL(a);var b=!0}catch(c){b=!1}if(b)try{window.location=a}catch(c){}})();
+bluemedialink.online,bluemediastorage.online,dl.pcgamestorrents.org,bluemediafile.*,bluemediafiles.*,get-url.com#%#//scriptlet("adjust-setInterval", "i--", "", "0.02")
+bluemedialink.online,bluemediastorage.online,dl.pcgamestorrents.org,bluemediafile.*,bluemediafiles.*,get-url.com#%#//scriptlet('set-constant', 'Time_Start', '0')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/11164
 s24.themeslide.com#%#AG_onLoad(function() { setTimeout(function() { $('.downloadbtn').attr('disabled', false); $('#countdown').css('visibility', 'hidden'); }, 500); });
 ! https://github.com/AdguardTeam/AdguardFilters/issues/10857
@@ -9024,7 +9018,7 @@ edeka.de#%#AG_onLoad(function() { setTimeout(function() {document.getElementsByT
 ! https://github.com/AdguardTeam/AdguardFilters/issues/8367
 peliculasmegahdd.net#%#AG_onLoad(function() { count = 0; });
 ! dailypost.co.uk - stop autoplay
-dailypost.co.uk#%#AG_onLoad(function() { setTimeout(function() { var e = document.querySelector('span.autoplay-cancel'); if (e) e.click(); }, 3300); });
+dailypost.co.uk#%#//scriptlet('trusted-click-element', 'span.autoplay-cancel', '', '3300')
 ! rutracker.org - allow pages preview in NewsFox RSS reader in FireFox
 rutracker.org#%#window.self = window.top;
 ! https://github.com/AdguardTeam/AdguardFilters/issues/4440
@@ -9046,9 +9040,9 @@ dizipal1.cloud,dizipal2.cloud,dizipal3.cloud,dizipal4.cloud,dizipal5.cloud,dizip
 ||fastly.jsdelivr.net/npm/disable-devtool@latest/disable-devtool.min.js$domain=dizipal1.cloud|dizipal2.cloud|dizipal3.cloud|dizipal4.cloud|dizipal5.cloud|dizipal6.cloud|dizipal7.cloud|dizipal8.cloud|dizipal9.cloud|dizipal10.cloud|dizipal11.cloud|dizipal12.cloud|dizipal13.cloud|dizipal14.cloud|dizipal15.cloud|dizipal16.cloud|dizipal17.cloud|dizipal18.cloud|dizipal19.cloud|dizipal20.cloud|dizipal21.cloud|dizipal22.cloud|dizipal23.cloud|dizipal24.cloud|dizipal25.cloud|dizipal26.cloud|dizipal27.cloud|dizipal28.cloud|dizipal29.cloud|dizipal30.cloud|dizipal31.cloud|dizipal32.cloud|dizipal33.cloud|dizipal34.cloud|dizipal35.cloud|dizipal36.cloud|dizipal37.cloud|dizipal38.cloud|dizipal39.cloud|dizipal40.cloud|dizipal41.cloud|dizipal42.cloud|dizipal43.cloud|dizipal44.cloud|dizipal45.cloud|dizipal46.cloud|dizipal47.cloud|dizipal48.cloud|dizipal49.cloud|dizipal50.cloud|dizipal51.cloud|dizipal52.cloud|dizipal53.cloud|dizipal54.cloud|dizipal55.cloud|dizipal56.cloud|dizipal57.cloud|dizipal58.cloud|dizipal59.cloud|dizipal60.cloud|dizipal61.cloud|dizipal62.cloud|dizipal63.cloud|dizipal64.cloud|dizipal65.cloud|dizipal66.cloud|dizipal67.cloud|dizipal68.cloud|dizipal69.cloud|dizipal70.cloud|dizipal71.cloud|dizipal72.cloud|dizipal73.cloud|dizipal74.cloud|dizipal75.cloud|dizipal76.cloud|dizipal77.cloud|dizipal78.cloud|dizipal79.cloud|dizipal80.cloud|dizipal81.cloud|dizipal82.cloud|dizipal83.cloud|dizipal84.cloud|dizipal85.cloud|dizipal86.cloud|dizipal87.cloud|dizipal88.cloud|dizipal89.cloud|dizipal90.cloud|dizipal91.cloud|dizipal92.cloud|dizipal93.cloud|dizipal94.cloud|dizipal95.cloud|dizipal96.cloud|dizipal97.cloud|dizipal98.cloud|dizipal99.cloud|dizipal100.cloud|dizipal101.cloud|dizipal102.cloud|dizipal103.cloud|dizipal104.cloud|dizipal105.cloud|dizipal106.cloud|dizipal107.cloud|dizipal108.cloud|dizipal109.cloud|dizipal110.cloud|dizipal111.cloud|dizipal112.cloud|dizipal113.cloud|dizipal114.cloud|dizipal115.cloud|dizipal116.cloud|dizipal117.cloud|dizipal118.cloud|dizipal119.cloud|dizipal120.cloud|dizipal121.cloud|dizipal122.cloud|dizipal123.cloud|dizipal124.cloud|dizipal125.cloud|dizipal126.cloud|dizipal127.cloud|dizipal128.cloud|dizipal129.cloud|dizipal130.cloud|dizipal131.cloud|dizipal132.cloud|dizipal133.cloud|dizipal134.cloud|dizipal135.cloud|dizipal136.cloud|dizipal137.cloud|dizipal138.cloud|dizipal139.cloud|dizipal140.cloud|dizipal141.cloud|dizipal142.cloud|dizipal143.cloud|dizipal144.cloud|dizipal145.cloud|dizipal146.cloud|dizipal147.cloud|dizipal148.cloud|dizipal149.cloud|dizipal150.cloud|dizipal151.cloud|dizipal152.cloud|dizipal153.cloud|dizipal154.cloud|dizipal155.cloud|dizipal156.cloud|dizipal157.cloud|dizipal158.cloud|dizipal159.cloud|dizipal160.cloud|dizipal161.cloud|dizipal162.cloud|dizipal163.cloud|dizipal164.cloud|dizipal165.cloud|dizipal166.cloud|dizipal167.cloud|dizipal168.cloud|dizipal169.cloud|dizipal170.cloud|dizipal171.cloud|dizipal172.cloud|dizipal173.cloud|dizipal174.cloud|dizipal175.cloud|dizipal176.cloud|dizipal177.cloud|dizipal178.cloud|dizipal179.cloud|dizipal180.cloud|dizipal181.cloud|dizipal182.cloud|dizipal183.cloud|dizipal184.cloud|dizipal185.cloud|dizipal186.cloud|dizipal187.cloud|dizipal188.cloud|dizipal189.cloud|dizipal190.cloud|dizipal191.cloud|dizipal192.cloud|dizipal193.cloud|dizipal194.cloud|dizipal195.cloud|dizipal196.cloud|dizipal197.cloud|dizipal198.cloud|dizipal199.cloud|dizipal200.cloud
 ! https://github.com/AdguardTeam/AdguardFilters/issues/129560
 ! dizipal*.com - frequently changed domains
-dizipal580.com,dizipal581.com,dizipal582.com,dizipal583.com,dizipal584.com,dizipal585.com,dizipal586.com,dizipal587.com,dizipal588.com,dizipal589.com,dizipal590.com,dizipal591.com,dizipal592.com,dizipal593.com,dizipal594.com,dizipal595.com,dizipal596.com,dizipal597.com,dizipal598.com,dizipal599.com,dizipal600.com,dizipal607.com,dizipal608.com,dizipal609.com,dizipal610.com,dizipal611.com,dizipal612.com,dizipal613.com,dizipal614.com,dizipal615.com,dizipal616.com,dizipal617.com,dizipal618.com,dizipal619.com,dizipal620.com,dizipal621.com,dizipal622.com,dizipal623.com,dizipal624.com,dizipal625.com,dizipal626.com,dizipal627.com,dizipal628.com,dizipal629.com,dizipal630.com,dizipal631.com,dizipal632.com,dizipal633.com,dizipal634.com,dizipal635.com,dizipal636.com,dizipal637.com,dizipal638.com,dizipal639.com,dizipal640.com,dizipal641.com,dizipal642.com,dizipal643.com,dizipal644.com,dizipal645.com,dizipal646.com,dizipal647.com,dizipal648.com,dizipal649.com,dizipal650.com,dizipal651.com,dizipal652.com,dizipal653.com,dizipal654.com,dizipal655.com,dizipal656.com,dizipal657.com,dizipal658.com,dizipal659.com,dizipal660.com,dizipal661.com,dizipal662.com,dizipal663.com,dizipal664.com,dizipal665.com,dizipal666.com,dizipal667.com,dizipal668.com,dizipal669.com,dizipal670.com,dizipal671.com,dizipal672.com,dizipal673.com,dizipal674.com,dizipal675.com,dizipal676.com,dizipal677.com,dizipal678.com,dizipal679.com,dizipal680.com,dizipal681.com,dizipal682.com,dizipal683.com,dizipal684.com,dizipal685.com,dizipal686.com,dizipal687.com,dizipal688.com,dizipal689.com,dizipal690.com,dizipal691.com,dizipal692.com,dizipal693.com,dizipal694.com,dizipal695.com,dizipal696.com,dizipal697.com,dizipal698.com,dizipal699.com,dizipal700.com##pjsdiv[style="position: absolute; left: 306.5px; top: 17px; opacity: 1; font-size: 14px; line-height: 1em;"]
-dizipal580.com,dizipal581.com,dizipal582.com,dizipal583.com,dizipal584.com,dizipal585.com,dizipal586.com,dizipal587.com,dizipal588.com,dizipal589.com,dizipal590.com,dizipal591.com,dizipal592.com,dizipal593.com,dizipal594.com,dizipal595.com,dizipal596.com,dizipal597.com,dizipal598.com,dizipal599.com,dizipal600.com,dizipal607.com,dizipal608.com,dizipal609.com,dizipal610.com,dizipal611.com,dizipal612.com,dizipal613.com,dizipal614.com,dizipal615.com,dizipal616.com,dizipal617.com,dizipal618.com,dizipal619.com,dizipal620.com,dizipal621.com,dizipal622.com,dizipal623.com,dizipal624.com,dizipal625.com,dizipal626.com,dizipal627.com,dizipal628.com,dizipal629.com,dizipal630.com,dizipal631.com,dizipal632.com,dizipal633.com,dizipal634.com,dizipal635.com,dizipal636.com,dizipal637.com,dizipal638.com,dizipal639.com,dizipal640.com,dizipal641.com,dizipal642.com,dizipal643.com,dizipal644.com,dizipal645.com,dizipal646.com,dizipal647.com,dizipal648.com,dizipal649.com,dizipal650.com,dizipal651.com,dizipal652.com,dizipal653.com,dizipal654.com,dizipal655.com,dizipal656.com,dizipal657.com,dizipal658.com,dizipal659.com,dizipal660.com,dizipal661.com,dizipal662.com,dizipal663.com,dizipal664.com,dizipal665.com,dizipal666.com,dizipal667.com,dizipal668.com,dizipal669.com,dizipal670.com,dizipal671.com,dizipal672.com,dizipal673.com,dizipal674.com,dizipal675.com,dizipal676.com,dizipal677.com,dizipal678.com,dizipal679.com,dizipal680.com,dizipal681.com,dizipal682.com,dizipal683.com,dizipal684.com,dizipal685.com,dizipal686.com,dizipal687.com,dizipal688.com,dizipal689.com,dizipal690.com,dizipal691.com,dizipal692.com,dizipal693.com,dizipal694.com,dizipal695.com,dizipal696.com,dizipal697.com,dizipal698.com,dizipal699.com,dizipal700.com#%#//scriptlet("prevent-addEventListener", "contextmenu", "preventDefault")
-||fastly.jsdelivr.net/npm/disable-devtool@latest/disable-devtool.min.js$domain=dizipal580.com|dizipal581.com|dizipal582.com|dizipal583.com|dizipal584.com|dizipal585.com|dizipal586.com|dizipal587.com|dizipal588.com|dizipal589.com|dizipal590.com|dizipal591.com|dizipal592.com|dizipal593.com|dizipal594.com|dizipal595.com|dizipal596.com|dizipal597.com|dizipal598.com|dizipal599.com|dizipal600.com|dizipal607.com|dizipal608.com|dizipal609.com|dizipal610.com|dizipal611.com|dizipal612.com|dizipal613.com|dizipal614.com|dizipal615.com|dizipal616.com|dizipal617.com|dizipal618.com|dizipal619.com|dizipal620.com|dizipal621.com|dizipal622.com|dizipal623.com|dizipal624.com|dizipal625.com|dizipal626.com|dizipal627.com|dizipal628.com|dizipal629.com|dizipal630.com|dizipal631.com|dizipal632.com|dizipal633.com|dizipal634.com|dizipal635.com|dizipal636.com|dizipal637.com|dizipal638.com|dizipal639.com|dizipal640.com|dizipal641.com|dizipal642.com|dizipal643.com|dizipal644.com|dizipal645.com|dizipal646.com|dizipal647.com|dizipal648.com|dizipal649.com|dizipal650.com|dizipal651.com|dizipal652.com|dizipal653.com|dizipal654.com|dizipal655.com|dizipal656.com|dizipal657.com|dizipal658.com|dizipal659.com|dizipal660.com|dizipal661.com|dizipal662.com|dizipal663.com|dizipal664.com|dizipal665.com|dizipal666.com|dizipal667.com|dizipal668.com|dizipal669.com|dizipal670.com|dizipal671.com|dizipal672.com|dizipal673.com|dizipal674.com|dizipal675.com|dizipal676.com|dizipal677.com|dizipal678.com|dizipal679.com|dizipal680.com|dizipal681.com|dizipal682.com|dizipal683.com|dizipal684.com|dizipal685.com|dizipal686.com|dizipal687.com|dizipal688.com|dizipal689.com|dizipal690.com|dizipal691.com|dizipal692.com|dizipal693.com|dizipal694.com|dizipal695.com|dizipal696.com|dizipal697.com|dizipal698.com|dizipal699.com|dizipal700.com
+dizipal700.com,dizipal701.com,dizipal702.com,dizipal703.com,dizipal704.com,dizipal705.com,dizipal706.com,dizipal707.com,dizipal708.com,dizipal709.com,dizipal710.com,dizipal711.com,dizipal712.com,dizipal713.com,dizipal714.com,dizipal715.com,dizipal716.com,dizipal717.com,dizipal718.com,dizipal719.com,dizipal720.com,dizipal721.com,dizipal722.com,dizipal723.com,dizipal724.com,dizipal725.com,dizipal726.com,dizipal727.com,dizipal728.com,dizipal729.com,dizipal730.com,dizipal731.com,dizipal732.com,dizipal733.com,dizipal734.com,dizipal735.com,dizipal736.com,dizipal737.com,dizipal738.com,dizipal739.com,dizipal740.com,dizipal741.com,dizipal742.com,dizipal743.com,dizipal744.com,dizipal745.com,dizipal746.com,dizipal747.com,dizipal748.com,dizipal749.com,dizipal750.com,dizipal751.com,dizipal752.com,dizipal753.com,dizipal754.com,dizipal755.com,dizipal756.com,dizipal757.com,dizipal758.com,dizipal759.com,dizipal760.com,dizipal761.com,dizipal762.com,dizipal763.com,dizipal764.com,dizipal765.com,dizipal766.com,dizipal767.com,dizipal768.com,dizipal769.com##pjsdiv[style="position: absolute; left: 306.5px; top: 17px; opacity: 1; font-size: 14px; line-height: 1em;"]
+dizipal700.com,dizipal701.com,dizipal702.com,dizipal703.com,dizipal704.com,dizipal705.com,dizipal706.com,dizipal707.com,dizipal708.com,dizipal709.com,dizipal710.com,dizipal711.com,dizipal712.com,dizipal713.com,dizipal714.com,dizipal715.com,dizipal716.com,dizipal717.com,dizipal718.com,dizipal719.com,dizipal720.com,dizipal721.com,dizipal722.com,dizipal723.com,dizipal724.com,dizipal725.com,dizipal726.com,dizipal727.com,dizipal728.com,dizipal729.com,dizipal730.com,dizipal731.com,dizipal732.com,dizipal733.com,dizipal734.com,dizipal735.com,dizipal736.com,dizipal737.com,dizipal738.com,dizipal739.com,dizipal740.com,dizipal741.com,dizipal742.com,dizipal743.com,dizipal744.com,dizipal745.com,dizipal746.com,dizipal747.com,dizipal748.com,dizipal749.com,dizipal750.com,dizipal751.com,dizipal752.com,dizipal753.com,dizipal754.com,dizipal755.com,dizipal756.com,dizipal757.com,dizipal758.com,dizipal759.com,dizipal760.com,dizipal761.com,dizipal762.com,dizipal763.com,dizipal764.com,dizipal765.com,dizipal766.com,dizipal767.com,dizipal768.com,dizipal769.com#%#//scriptlet("prevent-addEventListener", "contextmenu", "preventDefault")
+||fastly.jsdelivr.net/npm/disable-devtool@latest/disable-devtool.min.js$domain=dizipal700.com|dizipal701.com|dizipal702.com|dizipal703.com|dizipal704.com|dizipal705.com|dizipal706.com|dizipal707.com|dizipal708.com|dizipal709.com|dizipal710.com|dizipal711.com|dizipal712.com|dizipal713.com|dizipal714.com|dizipal715.com|dizipal716.com|dizipal717.com|dizipal718.com|dizipal719.com|dizipal720.com|dizipal721.com|dizipal722.com|dizipal723.com|dizipal724.com|dizipal725.com|dizipal726.com|dizipal727.com|dizipal728.com|dizipal729.com|dizipal730.com|dizipal731.com|dizipal732.com|dizipal733.com|dizipal734.com|dizipal735.com|dizipal736.com|dizipal737.com|dizipal738.com|dizipal739.com|dizipal740.com|dizipal741.com|dizipal742.com|dizipal743.com|dizipal744.com|dizipal745.com|dizipal746.com|dizipal747.com|dizipal748.com|dizipal749.com|dizipal750.com|dizipal751.com|dizipal752.com|dizipal753.com|dizipal754.com|dizipal755.com|dizipal756.com|dizipal757.com|dizipal758.com|dizipal759.com|dizipal760.com|dizipal761.com|dizipal762.com|dizipal763.com|dizipal764.com|dizipal765.com|dizipal766.com|dizipal767.com|dizipal768.com|dizipal769.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/159151
 ! dizipub*.com - frequently changed domains
 dizipub1.com,dizipub2.com,dizipub3.com,dizipub4.com,dizipub5.com,dizipub6.com,dizipub7.com,dizipub8.com,dizipub9.com,dizipub10.com#%#//scriptlet('abort-on-property-read', 'DisableDevtool')
@@ -9215,7 +9209,7 @@ quotev.com#$#body #res_area ::selection { background-color: #3297FD!important; }
 ! #%#//scriptlet('abort-current-inline-script', 'document.oncontextmenu')
 daotranslate.com,habuteru.com,ufchgu.ru,mangahentai.me,themodellingnews.com,senpaiediciones.com,descopera.ro,amantecod.it,truelovejapan.com,volt-index.ru,universaladbdriver.com,firmwarefile.com,bg-gledai.co,victorytale.com,clujust.ro,mysports.to,mi-faq.ru,mathbang.net,seriesgratis.biz,mangacrab.com,metalnaveia66.com,bollywoodhindi.in,legionscans.com,footy.to,kdramasurdu.net,osomatsusan.hatenablog.com,flinsetyadi.com,bingotingo.com,carfixer.co.kr,urbanbrush.net,now.rememberapp.co.kr,untitle.org,tecnoprogramas.com,animeactua.com,creativestudio.kr,onna.kr,info-beihilfe.de,audiobookcup.com,funfunhan.com,blofinder.com,bookpost.kr,ex-nihil0.com,donghun.kr,zoommastory.com,deutschaj.com,kokone.co.kr,stevenh.net,ideas0419.com,raycat.net,hosii.info,blahblah.pe.kr,geniusjw.com,blog.esherloon.com,centrair.kr,softwarebits.net,tunovelaligera.com,krtopic.com,healthfeed.co.kr,my-expert.ru,bimiacg.net,solidfile.net,promocode99.in,downloadtutorials.net,nawalakarsa.id,tecnomusic-evolution.com,jpopsingles.eu,wartaterkini.news,pcprogramasymas.net,tistory.com,ghostspectre.the-ninja.jp,slothjuns.net,eduardo-monica.com,apkspurefile.com,foxaholic.com,koreanaddict.net,omgkpop.top,gamegame.kr,eoreuni.com,jstranslations1.com,animeuniverse.it,baltasar5010purohentai.com,aihristdreamtranslations.com,tipslab.info,indcit.com,semi168.net,semi168.club,audio-sound-premium.com,filmboxoffice.web.id,kakpishem.ru,teepr.com,texte.work,sysnettechsolutions.com,reinodekovel.com,elektrikmen.com,world4.eu,activationkeys.co,secondlifetranslations.com,samuraiscan.com,globaledu.jp,lazytranslations.com#%#//scriptlet('abort-current-inline-script', 'document.oncontextmenu')
 ! #%#//scriptlet('prevent-addEventListener', 'contextmenu')
-paulkitchendark.com,stevenimaginelittle.com,ds2play.com,doods.pro,dooood.com,dood.yt,dood.re,dood.wf,dood.la,dood.pm,dood.so,dood.to,dood.watch,dood.ws,guiasaude.info,gaz.com.br,relevantmagazine.com,camcaps.*,fakazaduo.com,gimy.app,ruyashoujo.com,nhk.or.jp,mangabtt.com,careet.net,contents.premium.naver.com,r114.com,app.kartra.com,box-manga.com,lover91.net,leouve.com.br,comico.jp,tappytoon.com,toonnbook.nate.com,tapas.io,kakaowebtoon.com,lapandilladelarejilla.es,lezhinus.com,lezhin.com,grafolio.naver.com,webtoon.kakao.com,page.kakao.com#%#//scriptlet('prevent-addEventListener', 'contextmenu')
+edwardarriveoften.com,paulkitchendark.com,stevenimaginelittle.com,ds2play.com,doods.pro,dooood.com,dood.yt,dood.re,dood.wf,dood.la,dood.pm,dood.so,dood.to,dood.watch,dood.ws,guiasaude.info,gaz.com.br,relevantmagazine.com,camcaps.*,fakazaduo.com,gimy.app,ruyashoujo.com,nhk.or.jp,mangabtt.com,careet.net,contents.premium.naver.com,r114.com,app.kartra.com,box-manga.com,lover91.net,leouve.com.br,comico.jp,tappytoon.com,toonnbook.nate.com,tapas.io,kakaowebtoon.com,lapandilladelarejilla.es,lezhinus.com,lezhin.com,grafolio.naver.com,webtoon.kakao.com,page.kakao.com#%#//scriptlet('prevent-addEventListener', 'contextmenu')
 ! #%#//scriptlet('set-constant', 'document.oncontextmenu', 'null')
 filmzone.com,interface31.ru,ktv.jp,releasewitch.com,news.ntv.co.jp,novatoscans.top,7days2die.info,flying-lines.com,fssp.gov.ru,ilife97.com,rdsong.com,lubedk.com,itempage3.auction.co.kr,cdramalove.com,10000recipe.com,nike.com,a2zapk.com,fully-fundedscholarships.com,shoneekapoor.com,cda-hd.cc,studysolve.online,animeindia.in,bufftoon.plaync.com,studyguideindia.com,codedosa.com,newslibrary.naver.com,insight.co.kr,gamefinity.id,cafe.naver.com#%#//scriptlet('set-constant', 'document.oncontextmenu', 'null')
 ! #%#//scriptlet('set-constant', 'document.onselectstart', 'null')
@@ -9410,8 +9404,8 @@ kentdeha.com.tr#%#AG_onLoad(function() { document.ondragstart = document.onselec
 waktusehat.xyz,viralogic.xyz#%#//scriptlet("abort-on-property-read", "mousedwn")
 voxc.org,panditfiles.pro,animesrbija.com#%#AG_onLoad(function() { document.oncontextmenu = function() { return true; }; });
 papahd.live#%#AG_onLoad(function() { document.onkeydown = document.body.oncontextmenu = document.oncontextmenu = function() { return true; }; });
-ouo.io#%#AG_onLoad(function() { setTimeout(function() { var form = document.querySelector("#form-captcha > #captcha > button"); if(form) { form.click(); } ; }, 300); });
-ouo.io#%#AG_onLoad(function() { setTimeout(function() { var el = document.querySelector('#form-go > #btn-main'); if(el) { el.click(); } }, 300); });
+ouo.io#%#//scriptlet('trusted-click-element', '#form-captcha > #captcha > button', '', '300')
+ouo.io#%#//scriptlet('trusted-click-element', '#form-go > #btn-main', '', '300')
 chiaseapk.com#%#AG_onLoad(function() { document.oncontextmenu = document.onselectstart = function() { return true; }; });
 manytoon.com#%#AG_onLoad(function() { document.ondragstart = document.onselectstart = document.oncontextmenu = document.onmousedown = null; });
 portalwrc.pl#%#//scriptlet("abort-current-inline-script", "addEvent", "document.body.oncopy")

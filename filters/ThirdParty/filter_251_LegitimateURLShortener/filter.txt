@@ -1,6 +1,6 @@
 !
 ! Title: ➗ Actually Legitimate URL Shortener Tool
-! OriginalVersion: 14December2023v4
+! OriginalVersion: 19December2023v1
 ! Expires: 1 day
 ! Description: In a world dominated by bitLy, adfLy, and several thousand other malware cover-up tools, this list reduces the length of URLs in a much more legitimate and transparent manner. Essentially, it automatically removes unnecessary $/& values from the URLs, making them easier to copy from the URL bar and pasting elsewhere as links. Enjoy.
 ! Homepage: https://github.com/DandelionSprout/adfilt/discussions/163
@@ -1392,7 +1392,7 @@ $removeparam=dlsi
 ! ——— Specific remove rules ——— !
 !! ——— Can never be made generic ———
 ! (e.g. due to sparebank1.no, RARbg.to, Disney+ newsletter unsubscriptions)
-$removeparam=cid,domain=8days.sg|abcnews.go.com|adguard.com|adshares.net|ae.com|anntaylor.com|apple.com|bitdefender.*|blair.com|channelnewsasia.com|childrensplace.com|dcard.tw|elmundo.es|emirates.com|factoryoutletstore.com|flipkart.com|gamestop.com|giphy.com|glasses.com|haband.com|intuit.com|jared.com|jcpenney.com|kay.com|kohls.com|lenovo.com|loft.com|marca.com|microsoft.com|nbcnews.com|nike.com|nyandcompany.com|overstock.com|persol.com|proshop.*|radissonhotelsamericas.com|ray-ban.com|rei.com|rightmove.co.uk|samsung.com|stadium.*|staples.com|telenor.no|todayonline.com|tokopedia.com|tommy.com|toms.com|totalbeauty.com|tractorsupply.com|underarmour.com|vineyardvines.com|voxi.co.uk|wine.com|wsj.com|xg4ken.com|zales.com
+$document,removeparam=cid,domain=8days.sg|abcnews.go.com|adguard.com|adshares.net|ae.com|anntaylor.com|apple.com|bitdefender.*|blair.com|channelnewsasia.com|childrensplace.com|dcard.tw|elmundo.es|emirates.com|factoryoutletstore.com|fifa.com|flipkart.com|gamestop.com|giphy.com|glasses.com|haband.com|intuit.com|jared.com|jcpenney.com|kay.com|kohls.com|lenovo.com|loft.com|marca.com|microsoft.com|nbcnews.com|nike.com|nyandcompany.com|overstock.com|persol.com|proshop.*|radissonhotelsamericas.com|ray-ban.com|rei.com|rightmove.co.uk|samsung.com|stadium.*|staples.com|telenor.no|todayonline.com|tokopedia.com|tommy.com|toms.com|totalbeauty.com|tractorsupply.com|underarmour.com|vineyardvines.com|voxi.co.uk|wine.com|wsj.com|xg4ken.com|zales.com
 ! https://deal.no/apple-thunderbolt-to-gigabit-ethernet/cat-p/c/p4935744&ref=prisjakt (15/11/2020)
 ! https://www.amazon.com/s?k=disney+fairies&ref=nb_sb_noss_2 (27/11/2020)
 ! (https://github.com/DandelionSprout/adfilt/discussions/163#discussioncomment-488495)
@@ -1415,7 +1415,7 @@ $removeparam=mod,domain=barrons.com|dowjones.com|fnlondon.com|mansionglobal.com|
 ! (Exceptions: mail.qq.com, high.fi, phpBB forums, flipkart.com various other sites)
 $removeparam=sid,domain=anrdoezrs.net|dpbolvw.net|gopjn.com|jdoqocy.com|kqzyfj.com|pepperjamnetwork.com|tkqlhce.com|gamereactor.*
 ! No particular example (Zoom can't be added; see https://github.com/DandelionSprout/adfilt/issues/665)
-$removeparam=from,document,domain=apkpure.com|bandcamp.com|browserling.com|ettoday.net|luisaviaroma.com|sogou.com|store.hbr.org|app.snyk.io|onlinepngtools.com|indiatimes.com|jetbrains.com|nextdns.io
+$removeparam=from,document,domain=apkpure.com|bandcamp.com|browserling.com|ettoday.net|luisaviaroma.com|sogou.com|store.hbr.org|app.snyk.io|onlinepngtools.com|indiatimes.com|jetbrains.com|nextdns.io|tvtropes.org
 ! https://github.com/DandelionSprout/adfilt/discussions/163#discussioncomment-1559915 and https://github.com/DandelionSprout/adfilt/discussions/163#discussioncomment-1559864 (eBay can't be added; see https://github.com/DandelionSprout/adfilt/pull/514)
 $removeparam=keyword,domain=bindright.com|lendgo.com
 ! https://github.com/DandelionSprout/adfilt/discussions/163#discussioncomment-1707764
@@ -2214,7 +2214,7 @@ $removeparam=promo,domain=thegay.com|hammacher.com|upornia.com|hclips.com
 $removeparam=sref,domain=bloomberg.com|go.skimresources.com|go.skimlinks.com|go.redirectingat.com
 $removeparam=argsite,domain=metaffiliation.com
 $removeparam=ctc,domain=avantlink.com
-$removeparam=pid,document,domain=123inkjets.com|appsflyer.com|bergfreunde.*|bybit.com|dobrytextil.cz|farfetch.com|glami.cz|hepsiburada.com|neeva.com|onelink.me|play.google.com|samsclub.com|shopee.*|th.bing.com|tiktok.com
+$removeparam=pid,document,domain=123inkjets.com|appsflyer.com|bergfreunde.*|bybit.com|dobrytextil.cz|farfetch.com|fifa.com|glami.cz|hepsiburada.com|neeva.com|onelink.me|play.google.com|samsclub.com|shopee.*|th.bing.com|tiktok.com
 $removeparam=subid,domain=admitad.com|mintmobile.com|secretlab.*|webmasterplan.com
 $removeparam=tracking,domain=affiliatefuture.com|facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|gtomega.*|malwarebytes.com|messenger.com
 $removeparam=ws,domain=ds1.nl
@@ -3691,6 +3691,8 @@ $document,removeparam=af_reengagement_window
 ! https://github.com/DandelionSprout/adfilt/discussions/932#discussioncomment-7858516
 ! CloudFlared: https://tria.ge/231214-3fs9kahbcj/behavioral1
 ||cmp.inmobi.com/tcfv2/cmp2.js$removeparam=referer
+! from Yuki: https://www.plus.fifa.com/en/player/2942bbcc-f9c0-4264-8118-331977fdd9bf?gl=jp&catalogId=0f18f301-1e44-4d7a-ab00-8a4505e3ad60&entryPoint=Slider
+||fifa.com^$document,removeparam=entryPoint
 !#if !env_mobile
 ! ——— Entries mostly dedicated to maximising image sizes (thus poorly suited for phones) ———
 ! https://sproutsluckycorner.files.wordpress.com/2019/12/ring-fit-adventure-smoothies-1.png?w=600 (Shows the actual raw image instead of a promotion page; 25/11/2020)
