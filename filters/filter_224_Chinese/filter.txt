@@ -6044,6 +6044,7 @@ newduba.cn###jq_youxi
 ||yfsstec96.xyz^
 ||tupwiwm.com^
 ||tafuzcxr.xyz^
+||mafuzcxr.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -14119,6 +14120,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 szxx.com.cn###A0
+423down.com##.entry > P[align="center"]:first-child
 maoken.com##.adbox
 maoken.com###siderAd01
 json.cn##.modal-backdrop
