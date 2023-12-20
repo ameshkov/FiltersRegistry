@@ -1,6 +1,6 @@
 /**
- * This script cleans and restores filters by adding the last 'Diff-Path' value
- * from the old filter to the corresponding new filter files.
+ * This script cleans and restores filters by adding the last 'Diff-Path' and
+ * 'Checksum' values from the old filter to the corresponding new filter files.
  *
  * @file
  */
@@ -15,6 +15,7 @@ const {
 } = require('./constants');
 
 const DIFF_PATH_TAG_NAME = '! Diff-Path: ';
+const CHECKSUM_TAG_NAME = '! Checksum: ';
 
 /**
  * Cleans and restores filters by adding the last 'Diff-Path' value from the old filter.
@@ -41,18 +42,20 @@ const cleanFilters = async () => {
         const oldFilterLines = oldFilterContent.split(/(?<=\r?\n)/);
         const newFilterLines = newFilterContent.split(/(?<=\r?\n)/);
 
-        // Find the index of the 'Diff-Path' line in the old filter
+        // Find the index of the '! Diff-Path: ' line in the old filter
         const previousDiffPathLineIndex = oldFilterLines
             .findIndex((str) => str.startsWith(DIFF_PATH_TAG_NAME));
 
-        // If the 'Diff-Path' line doesn't exist in the old filter, skip this filter.
+        // If the 'Diff-Path' line doesn't exist in the old filter,
+        // skip this filter (in other words, create patch for this filter).
         if (previousDiffPathLineIndex === -1) {
             // eslint-disable-next-line no-console
             console.log(`${newFilter} skipped`);
             return;
         }
 
-        // If the new filter already contains the previous 'Diff-Path' line, skip this filter.
+        // If the new filter already contains the previous 'Diff-Path' line,
+        // skip this filter (in other words, create patch for this filter).
         if (newFilterLines.includes(oldFilterLines[previousDiffPathLineIndex])) {
             // eslint-disable-next-line no-console
             console.log(`${newFilter} skipped`);
@@ -65,6 +68,19 @@ const cleanFilters = async () => {
             0,
             oldFilterLines[previousDiffPathLineIndex]
         );
+
+        // Find the index of the '! Checksum: ' line in the old filter
+        const previousChecksumLineIndex = oldFilterLines
+            .findIndex((str) => str.startsWith(CHECKSUM_TAG_NAME));
+
+        if (previousChecksumLineIndex !== -1) {
+            // Insert the previous 'Checksum' line into the new filter
+            newFilterLines.splice(
+                previousChecksumLineIndex,
+                0,
+                oldFilterLines[previousChecksumLineIndex]
+            );
+        }
 
         // Write the updated new filter content back to the file
         await fs.promises.writeFile(

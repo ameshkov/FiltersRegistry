@@ -1,8 +1,8 @@
 !
-! Checksum: 7WNYaC5exMePI2rieBw6jw
-! OriginalVersion: 202312200851
+! Checksum: lNG3A6ySkoQOuaJIKCCd/g
+! OriginalVersion: 202312250850
 ! Title: EasyList Spanish
-! Last modified: 20 Dec 2023 08:51 UTC
+! Last modified: 25 Dec 2023 08:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2054,7 +2054,6 @@ redgol.cl,wildtangent.com##.ad-container
 marca.com##.ad-item-bt-cont
 juegosdecanciones.net##.ad-latest
 arbolabc.com##.ad-leaderboard-row
-okdiario.com##.ad-slot-ph
 elpatagonico.com##.ad02-obj
 costacadizcomunicacion.es,smnoticias.com,smnoticias.info##.ad2
 smnoticias.com,smnoticias.info##.ad3
