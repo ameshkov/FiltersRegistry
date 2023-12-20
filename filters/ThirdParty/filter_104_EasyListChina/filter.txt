@@ -2677,6 +2677,8 @@ newduba.cn###jq_youxi
 ||xafuzcxr.xyz^
 ||v44e.com^
 ||yfsstec96.xyz^
+||tupwiwm.com^
+||tafuzcxr.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 !
@@ -16082,7 +16084,7 @@ mongoing.com#?#.widget_custom_html:-abp-has(> .custom-html-widget > a[href^="htt
 mrmad.com.tw#?#div[id^="mrmad-"]:-abp-has(>.adsbygoogle)
 muchong.com#?#.forum_Post_index:-abp-has(nobr:-abp-contains(18))
 mydowndown.com#?#.bs-component:-abp-has(>a[href*="97jez.com"])
-mydrivers.com#?#li:-abp-has(>.titl+.t:-abp-contains(广告))
+mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(广告))
 nicotv.biz,nicotv.club,nicotv.me##nav + .ff-bg > .slide
 news.baidu.com#?#.index-list-item:-abp-has(.tip-time:-abp-contains(广告))
 news.sohu.com,www.sohu.com#?#.list16 > ul > li:-abp-contains(广告)
@@ -16509,6 +16511,7 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||99ybcc.com^$generichide
 @@||9zvip.net/wp-content/plugins/detect-adblock/js/ads.js
 @@||9zvip.net^$elemhide
+@@||wavse.com^$generichide
 @@||a.alimama.cn/tkapi$domain=ieeee.com
 @@||abchina.com^*ad
 @@||aboluowang.com^$generichide
