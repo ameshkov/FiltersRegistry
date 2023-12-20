@@ -1,8 +1,8 @@
 !
-! Checksum: LJ5YglcO/eurENLtNLer3g
-! OriginalVersion: 202312200451
+! Checksum: MTQw5YG48Wq+oYZ87+Llug
+! OriginalVersion: 202312200851
 ! Title: EasyList Polish
-! Last modified: 20 Dec 2023 04:51 UTC
+! Last modified: 20 Dec 2023 08:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -44,7 +44,7 @@
 ! *** easylistpolish:easylistpolish/easylistpolish_whitelist_general_hide.txt ***
 mbank.pl#@#.adv-container
 app.freshmail.com#@#.advertisement-content
-mandarinodesign.eu,wirtualnyregion.pl#@#.reklama
+mandarinodesign.eu#@#.reklama
 !---------------------------Third-party advertisers---------------------------!
 ! *** easylistpolish:easylistpolish/easylistpolish_adservers.txt ***
 ||ad-work.pl^$third-party
@@ -241,7 +241,6 @@ _reklamy^$domain=wiadomoscisasiedzkie.pl
 supernowosci24.pl##[id^="r-"]
 ||24opole.pl/dimg^
 ||3.fwcdn.pl^*^welcomeMain.$script,domain=filmweb.com
-||3kropki.pl/i/varia/*_3kropki_screening_pop.jpg
 ||4media.com^$domain=lokalna24.pl
 ||ad.polskiprzemysl.com.pl^
 ||ad.prv.pl^
@@ -303,7 +302,6 @@ supernowosci24.pl##[id^="r-"]
 ||esanok.pl/dodatki^
 ||esensja.pl^*^madbooks_
 ||esensja.pl^*^skapiec-
-||estadios24.pl/img/*.webp
 ||estrzelce.pl^*^*maral.
 ||eswinoujscie.pl^*-noclegi-baza-
 ||eswinoujscie.pl^*^layered-popups^
@@ -1248,7 +1246,7 @@ mecze.com##.cool-stuff
 gol24.pl##.cs
 bielsko.biala.pl##.cukierek_container
 palegro.pl##.custom-commercial-banner-container
-24jgora.pl,bp24.pl,debica24.eu,goral.info.pl,kartuzy.info,powiatowa.info##.custom-html-box > .box__container > div
+24jgora.pl,bp24.pl,debica24.eu,goral.info.pl,kartuzy.info,powiatowa.info,zambrow.org##.custom-html-box > .box__container > div
 bukmacherstwo.info,kliknijwzdrowie.pl,odkrywamyzakryte.com##.custom-html-widget
 probasket.pl##.custom-html-widget a > img
 tvswietokrzyska.pl##.custommarginbanner_topbottom
@@ -1661,7 +1659,6 @@ mojanorwegia.pl##.row.single > a[target="_blank"]
 liderbudowlany.pl##.rozwijany
 wirtualnygarwolin.pl##.rstboxes
 epiotrkow.pl##.rtop
-studentnews.pl##.s_dodatkowa font[size="5"]
 zyciemyszkowa.pl##.sad
 erawa.pl,lwowecki.info,zebrra.tv##.sam-container
 nizanskie.info,sompolno24.pl,tarnowska.pl,wkikole.pl##.santa-main-wrapper
@@ -2334,7 +2331,6 @@ dzwignice.info##div[class^="adSliderIn"]
 astrona.pl##div[class^="adsense"]
 b2-biznes.pl##div[class^="ai-rotate ai-"]
 divers24.pl##div[class^="angwp-"]
-baltic.info.pl,ogrodinfo.pl##div[class^="angwp_"]
 elblag.net##div[class^="baner"]
 portaltenisowy.info##div[class^="banner"]
 lajfy.com##div[class^="banner-over-"]
@@ -2512,6 +2508,13 @@ bolec.info##small + a
 wp.pl##span[id^="dynacrems-adv"]
 vampirediaries.pl##td[onclick^="window.location"]
 wp.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
+naszpruszcz.pl##[class*="banner--"]
+magazynregionalny.pl##[class*="banner--"]
+bilgoraj.com.pl##[class*="banner--"]
+pulstygodnia.pl##[class*="banner--"]
+wdrawskupomorskim.pl##[class*="banner--"]
+tygodnikketrzynski.pl##[class*="banner--"]
+wirtualnyregion.eu##.main-slider
 ! *** easylistpolish:easylistpolish_adult/adult_specific_hide.txt ***
 sexrura.pl###bottom-right-container
 filmyporno.net###dvr-3x2
