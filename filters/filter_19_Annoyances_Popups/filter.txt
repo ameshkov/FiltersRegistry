@@ -1774,7 +1774,7 @@ marieclaire.fr#$#body { overflow: auto !important; }
 vsthemes.org#%#//scriptlet('prevent-element-src-loading', 'script', 'pagead2.googlesyndication.com')
 chat.g4f.ai,chat.chatbot.sex##.adsbox
 vnexpress.net##.wrap-hd-adblock
-wooseotools.com##div[style^="position: fixed; width: 100vw;"][style$="z-index: 999999;"]
+woowebtools.com,wooseotools.com##div[style^="position: fixed; width: 100vw;"][style$="z-index: 999999;"]
 smods.ru###ab-warning
 onlineshopping.flysas.com###AdBlockModal
 casper.tw##.container > div.row > div.rounded-top + div.d-lg-block
@@ -12513,6 +12513,10 @@ newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,nordbayern.de,theloca
 !
 ! SECTION: Subscriptions - Regular rules
 !
+theintercept.com##.newsletter-embed
+theintercept.com###newsletter-article-bottom
+theintercept.com##a[data-analytics-id="end-of-article-newsletter-form"]
+montrealgazette.com##aside.promotional
 opentools.ai###newsletter-popup-overlay
 marquiz.ru#?#.w-layout-grid > div[id]:has(> a.go-to-telegram)
 onliner.by#?#.news-text > p[style]:has(> strong > a[href="https://t.me/newsonliner_bot"])
@@ -18519,7 +18523,7 @@ anwalt.de##.stickyNewsletterBar
 grafixfather.com##.su-button-center > a:not([href*="anonymz.com"])
 seonews.ru##.sub-mailing-bg
 ndtv.com##.sub_newsletter
-mos-holidays.ru,igate.com.ua,harpersbazaar.com.ua,incrussia.ru##.subs
+techspot.com,mos-holidays.ru,igate.com.ua,harpersbazaar.com.ua,incrussia.ru##.subs
 gastronom.ru,marketplace.magazineluiza.com.br,supersadovnik.ru,tripoli.land,rockstargame.su##.subs-form
 buyon.ru##.subscribe-b
 rabota.ru##.subscribe-block__inner
