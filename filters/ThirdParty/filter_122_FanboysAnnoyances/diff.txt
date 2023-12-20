@@ -3450,8 +3450,8 @@ vrbo.com##+js(rc, has-uitk-sheet, body, stay)
 similarweb.com##+js(rc, app-banner-parent, body, stay)
 ! Rule "similarweb.com##.app-header:style(top:0 !important)" converted to: "similarweb.com#$#.app-header { top:0 !important }"
 similarweb.com##.app-header:style(top:0 !important)
-! Rule "eksisozluk1923.com##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "eksisozluk1923.com#$#body,html { overflow: auto !important; position: initial !important; }"
-eksisozluk1923.com##body,html:style(overflow: auto !important; position: initial !important;)
+! Rule "eksisozluk1999.com##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "eksisozluk1999.com#$#body,html { overflow: auto !important; position: initial !important; }"
+eksisozluk1999.com##body,html:style(overflow: auto !important; position: initial !important;)
 ! Rule "mydramalist.com##+js(rc, smartbanner-active, body)" converted to: "mydramalist.com#%#//scriptlet('ubo-rc.js', 'smartbanner-active', 'body')"
 mydramalist.com##+js(rc, smartbanner-active, body)
 ! Rule "smocca.jp##+js(set, history.state, undefined)" converted to: "smocca.jp#%#//scriptlet('ubo-set.js', 'history.state', 'undefined')"
