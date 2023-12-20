@@ -103,6 +103,8 @@ instagram.com##._aagw:empty
 !
 ! End: Instagram.com
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/168666
+techwar.gr###better-social-counter-2
 ! https://github.com/AdguardTeam/AdguardFilters/issues/168654
 m.censor.net##.block-social-link
 ! https://github.com/AdguardTeam/AdguardFilters/issues/168168
@@ -4990,6 +4992,7 @@ theguardian.com##.contributions__adblock
 !
 ! SECTION: Self-promo - Regular rules
 !
+animexin.vip##.announ
 duckduckgo.com##.header__search-wrap + div.header--aside > div.header--aside__item
 dzen.ru##div[id$="-link_bro"]
 dotnet.microsoft.com##.alert-promo
