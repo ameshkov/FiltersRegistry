@@ -301,7 +301,7 @@ More information about the `@include` directive and its options can be found her
 1. **Run the Build Process**
 
     ```bash
-    yarn auto-build --mode=adguard
+    yarn auto-build --mode adguard
     ```
 
 ### Building All Filters and Updating Filters and Patches in the Repository
@@ -315,7 +315,7 @@ More information about the `@include` directive and its options can be found her
 1. **Run the Build Process**
 
     ```bash
-    yarn auto-build --mode=all
+    yarn auto-build --mode all
     ```
 
 ### Working with Locales
