@@ -1,7 +1,7 @@
 !
-! OriginalVersion: 202312201408
+! OriginalVersion: 202312202040
 ! Title: Fanboy's Social Blocking List
-! Last modified: 20 Dec 2023 14:08 UTC
+! Last modified: 20 Dec 2023 20:40 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 !

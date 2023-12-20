@@ -1014,6 +1014,16 @@ rule34.paheal.net##+js(set-cookie, ui-tnc-agreed, true)
 katapult-shop.de,evocsports.com,shop.almawin.de,esm-computer.de,calmwaters.de,mellerud.de,akustik-projekt.at,vansprint.de,0815.at,0815.eu,ojskate.com,der-schweighofer.de,tz-bedarf.de,zeinpharma.de,weicon.com,dagvandewebshop.be,thiele-tee.de,carbox.de,riapsport.de,trendpet.de,eheizung24.de,seemueller.com,vivande.de,heidegrill.com,gladiator-fightwear.com,h-andreas.com,pp-parts.com,natuerlich-holzschuhe.de,massivart.de,malermeister-shop.de,imping-confiserie.de,lenox-trading.at,cklenk.de,catolet.de,drinkitnow.de,patisserie-m.de,storm-proof.com,balance-fahrradladen.de,magicpos.shop,zeinpharma.com,sps-handel.net,novagenics.com,butterfly-circus.de,holzhof24.de,w6-wertarbeit.de,fleurop.de,leki.com,extremeaudio.de##+js(set-cookie, cookie-preference, 1)
 ! Rule "firmen.wko.at##+js(set-cookie, consent, true)" converted to: "firmen.wko.at#%#//scriptlet('ubo-set-cookie.js', 'consent', 'true')"
 firmen.wko.at##+js(set-cookie, consent, true)
+! Rule "byggern.no##+js(set-cookie, cookies_accepted, yes)" converted to: "byggern.no#%#//scriptlet('ubo-set-cookie.js', 'cookies_accepted', 'yes')"
+byggern.no##+js(set-cookie, cookies_accepted, yes)
+! Rule "hot.si##+js(set-cookie, permission_marketing_cookies, 0)" converted to: "hot.si#%#//scriptlet('ubo-set-cookie.js', 'permission_marketing_cookies', '0')"
+hot.si##+js(set-cookie, permission_marketing_cookies, 0)
+! Rule "hot.si##+js(set-cookie, permission_statistic_cookies, 0)" converted to: "hot.si#%#//scriptlet('ubo-set-cookie.js', 'permission_statistic_cookies', '0')"
+hot.si##+js(set-cookie, permission_statistic_cookies, 0)
+! Rule "hot.si##+js(set-cookie, permission_funktional_cookies, 1)" converted to: "hot.si#%#//scriptlet('ubo-set-cookie.js', 'permission_funktional_cookies', '1')"
+hot.si##+js(set-cookie, permission_funktional_cookies, 1)
+! Rule "hot.si##+js(set-cookie, cookieconsent, 1)" converted to: "hot.si#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent', '1')"
+hot.si##+js(set-cookie, cookieconsent, 1)
 ! Rule "pccomponentes.fr,pccomponentes.com,pccomponentes.pt##+js(set-cookie, accept_cookie, 1)" converted to: "pccomponentes.fr,pccomponentes.com,pccomponentes.pt#%#//scriptlet('ubo-set-cookie.js', 'accept_cookie', '1')"
 pccomponentes.fr,pccomponentes.com,pccomponentes.pt##+js(set-cookie, accept_cookie, 1)
 ! Rule "oead.at,innovationsstiftung-bildung.at,etwinning.at,arqa-vet.at,zentrumfuercitizenscience.at,vorstudienlehrgang.at,erasmusplus.at##+js(set-cookie, cookieconsent_status_new, 3)" converted to: "oead.at,innovationsstiftung-bildung.at,etwinning.at,arqa-vet.at,zentrumfuercitizenscience.at,vorstudienlehrgang.at,erasmusplus.at#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status_new', '3')"
@@ -4478,6 +4488,8 @@ rule34.paheal.net##+js(set-cookie, ui-tnc-agreed, true)
 katapult-shop.de,evocsports.com,shop.almawin.de,esm-computer.de,calmwaters.de,mellerud.de,akustik-projekt.at,vansprint.de,0815.at,0815.eu,ojskate.com,der-schweighofer.de,tz-bedarf.de,zeinpharma.de,weicon.com,dagvandewebshop.be,thiele-tee.de,carbox.de,riapsport.de,trendpet.de,eheizung24.de,seemueller.com,vivande.de,heidegrill.com,gladiator-fightwear.com,h-andreas.com,pp-parts.com,natuerlich-holzschuhe.de,massivart.de,malermeister-shop.de,imping-confiserie.de,lenox-trading.at,cklenk.de,catolet.de,drinkitnow.de,patisserie-m.de,storm-proof.com,balance-fahrradladen.de,magicpos.shop,zeinpharma.com,sps-handel.net,novagenics.com,butterfly-circus.de,holzhof24.de,w6-wertarbeit.de,fleurop.de,leki.com,extremeaudio.de##+js(set-cookie, cookie-preference, 1)
 ! Rule "firmen.wko.at##+js(set-cookie, consent, true)" converted to: "firmen.wko.at#%#//scriptlet('ubo-set-cookie.js', 'consent', 'true')"
 firmen.wko.at##+js(set-cookie, consent, true)
+! Rule "byggern.no##+js(set-cookie, cookies_accepted, yes)" converted to: "byggern.no#%#//scriptlet('ubo-set-cookie.js', 'cookies_accepted', 'yes')"
+byggern.no##+js(set-cookie, cookies_accepted, yes)
 ! Rule "pccomponentes.fr,pccomponentes.com,pccomponentes.pt##+js(set-cookie, accept_cookie, 1)" converted to: "pccomponentes.fr,pccomponentes.com,pccomponentes.pt#%#//scriptlet('ubo-set-cookie.js', 'accept_cookie', '1')"
 pccomponentes.fr,pccomponentes.com,pccomponentes.pt##+js(set-cookie, accept_cookie, 1)
 ! Rule "oead.at,innovationsstiftung-bildung.at,etwinning.at,arqa-vet.at,zentrumfuercitizenscience.at,vorstudienlehrgang.at,erasmusplus.at##+js(set-cookie, cookieconsent_status_new, 3)" converted to: "oead.at,innovationsstiftung-bildung.at,etwinning.at,arqa-vet.at,zentrumfuercitizenscience.at,vorstudienlehrgang.at,erasmusplus.at#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status_new', '3')"

@@ -1,7 +1,7 @@
 !
-! Checksum: FiT8aF64ZD/3ES7R0kIjUg
+! Checksum: ty+/YqIOy7IWcoj3BXFabg
 ! Title: Easylist Cookie List
-! Updated: 2023-12-20 17:00 UTC
+! Updated: 2023-12-20 21:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22310,6 +22310,11 @@ youcom.com.br#%#//scriptlet('ubo-set-cookie.js', 'termos-aceitos', 'ok')
 rule34.paheal.net#%#//scriptlet('ubo-set-cookie.js', 'ui-tnc-agreed', 'true')
 katapult-shop.de,evocsports.com,shop.almawin.de,esm-computer.de,calmwaters.de,mellerud.de,akustik-projekt.at,vansprint.de,0815.at,0815.eu,ojskate.com,der-schweighofer.de,tz-bedarf.de,zeinpharma.de,weicon.com,dagvandewebshop.be,thiele-tee.de,carbox.de,riapsport.de,trendpet.de,eheizung24.de,seemueller.com,vivande.de,heidegrill.com,gladiator-fightwear.com,h-andreas.com,pp-parts.com,natuerlich-holzschuhe.de,massivart.de,malermeister-shop.de,imping-confiserie.de,lenox-trading.at,cklenk.de,catolet.de,drinkitnow.de,patisserie-m.de,storm-proof.com,balance-fahrradladen.de,magicpos.shop,zeinpharma.com,sps-handel.net,novagenics.com,butterfly-circus.de,holzhof24.de,w6-wertarbeit.de,fleurop.de,leki.com,extremeaudio.de#%#//scriptlet('ubo-set-cookie.js', 'cookie-preference', '1')
 firmen.wko.at#%#//scriptlet('ubo-set-cookie.js', 'consent', 'true')
+byggern.no#%#//scriptlet('ubo-set-cookie.js', 'cookies_accepted', 'yes')
+hot.si#%#//scriptlet('ubo-set-cookie.js', 'permission_marketing_cookies', '0')
+hot.si#%#//scriptlet('ubo-set-cookie.js', 'permission_statistic_cookies', '0')
+hot.si#%#//scriptlet('ubo-set-cookie.js', 'permission_funktional_cookies', '1')
+hot.si#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent', '1')
 pccomponentes.fr,pccomponentes.com,pccomponentes.pt#%#//scriptlet('ubo-set-cookie.js', 'accept_cookie', '1')
 oead.at,innovationsstiftung-bildung.at,etwinning.at,arqa-vet.at,zentrumfuercitizenscience.at,vorstudienlehrgang.at,erasmusplus.at#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status_new', '3')
 jeger.pl#%#//scriptlet('ubo-set-cookie.js', '_acceptCookies', '1', '', 'reload', '1')
@@ -26901,6 +26906,7 @@ motopedia.otomoto.pl##.SRaBM
 reportaz.polskieradio.pl##.TermsOfUseModal_modalWrapper__3bWPX
 talixo.pl##.TrackingInfoBox
 przemyslprzyszlosci.gov.pl##._consent
+remedium.md##._cookie_cookies-panel__LMI9a
 genetico.pl##.abcd
 mpastucha.pl##.ad-modal
 alcalia.pl##.alcalia-cookies

@@ -1,8 +1,8 @@
 !
-! Checksum: ABEsTXnIEk1vpTtnov41ng
-! OriginalVersion: 202312201651
+! Checksum: frn5rvtwmEVg358fa59WFw
+! OriginalVersion: 202312202051
 ! Title: RU AdList: Counters
-! Last modified: 20 Dec 2023 16:51 UTC
+! Last modified: 20 Dec 2023 20:51 UTC
 ! Expires: 1 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1324,8 +1324,6 @@ yandex.*#?#.touch-feed > div > .feed-item[id^="zen-row-"]:-abp-has([class^="zen-
 ! реклама в QMS и мобильной версии сайта
 4pda.*##.menu-main-mobile > [style="display:none;"]
 ! редирект
-! стили в брендированных материалах
-||4pda.*/s/*.css?_=1666636587$redirect=nooptext,stylesheet
 !
 ! Экспериментальные правила для маркеров
 $document,removeparam=clid,domain=dzen.ru|ya.ru|yandex.*
