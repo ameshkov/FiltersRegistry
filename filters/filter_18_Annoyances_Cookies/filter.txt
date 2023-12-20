@@ -1896,7 +1896,6 @@
 /cookie_notifier/*
 /cookie_policy.
 /cookie_policy_
-/cookie_solution/*
 /cookie_ws.
 /cookie_ws/*
 /cookieacceptance.
@@ -2022,7 +2021,6 @@
 /impresacookiepolicy/*
 /InfoCookies.
 /ipc_show_cookie_banner.js
-/iubenda_cs.
 /jbcookies.
 /jjp_eucookie_
 /jqueryCookieGuard.
@@ -15180,7 +15178,6 @@ eatingwell.com#@##onetrust-consent-sdk
 apfelband.de#@##cookie-banner
 ! https://github.com/AdguardTeam/AdguardFilters/issues/160768
 3bmeteo.com#@##iubenda-cs-banner
-@@||3bmeteo.com/iubcmp/cookie_solution/iubenda_cs/*/core-it.js$domain=3bmeteo.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/160663
 @@||cdn.privacy-mgmt.com^$domain=notice.sp-prod.net
 ! https://github.com/AdguardTeam/AdguardFilters/issues/160786

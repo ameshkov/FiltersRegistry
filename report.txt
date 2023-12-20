@@ -1,9 +1,9 @@
 
-FiltersCompiler report 12/20/2023 1:01:01 PM:
+FiltersCompiler report 12/20/2023 5:00:16 PM:
 
 Filter ID: 101
 Filter name: EasyList
-Compiled rules: 65967
+Compiled rules: 65981
 Excluded rules: 48
 URL: https://easylist-downloads.adblockplus.org/easylist.txt
 INVALID RULES:
@@ -72,7 +72,7 @@ Error: Invalid selector: '^script:has-text((window)}catch)' -- Error: unable to 
 ---------------------------
 Filter ID: 109
 Filter name: EasyList Italy
-Compiled rules: 5210
+Compiled rules: 5213
 Excluded rules: 0
 URL: https://easylist-downloads.adblockplus.org/easylistitaly.txt
 All rules are valid.
@@ -157,8 +157,8 @@ All rules are valid.
 ---------------------------
 Filter ID: 122
 Filter name: Fanboy's Annoyances
-Compiled rules: 57096
-Excluded rules: 6926
+Compiled rules: 57098
+Excluded rules: 6930
 URL: https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 INVALID RULES:
 Error: Invalid selector: '+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)' -- '+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)' is not a valid selector in rule: zippia.com##+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)
@@ -256,8 +256,8 @@ URL: https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adbl
 ---------------------------
 Filter ID: 212
 Filter name: RU AdList: Counters
-Compiled rules: 1490
-Excluded rules: 238
+Compiled rules: 1493
+Excluded rules: 240
 URL: https://easylist-downloads.adblockplus.org/cntblock.txt
 INVALID RULES:
 Error: Invalid selector: '+js(abort-on-stack-trace, document.querySelectorAll, inlineScript)' -- '+js(abort-on-stack-trace, document.querySelectorAll, inlineScript)' is not a valid selector in rule: game4you.top,games-pc.top,innal.top,naylo.top,rustorka.com,rustorka.net,rustorka.top,rustorkacom.lib#?#+js(abort-on-stack-trace, document.querySelectorAll, inlineScript)
@@ -451,7 +451,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 232
 Filter name: KAD - Anti-Scam
-Compiled rules: 50127
+Compiled rules: 50197
 Excluded rules: 236
 URL: https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt
 INVALID RULES:
@@ -615,7 +615,7 @@ URL: https://alleblock.pl/alleblock/alleblock.txt
 ---------------------------
 Filter ID: 246
 Filter name: EasyList Polish
-Compiled rules: 2560
+Compiled rules: 2552
 Excluded rules: 2
 URL: https://easylist-downloads.adblockplus.org/easylistpolish.txt
 All rules are valid.
@@ -637,7 +637,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 250
 Filter name: Dandelion Sprout's Annoyances List
-Compiled rules: 32637
+Compiled rules: 32640
 Excluded rules: 45992
 URL: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList
 INVALID RULES:
@@ -22300,7 +22300,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 253
 Filter name: IndianList
-Compiled rules: 8932
+Compiled rules: 8929
 Excluded rules: 0
 URL: https://easylist-downloads.adblockplus.org/indianlist.txt
 All rules are valid.
@@ -22342,7 +22342,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 14
 Filter name: AdGuard Annoyances filter
-Compiled rules: 52431
+Compiled rules: 52438
 Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/14.txt
 All rules are valid.
@@ -22364,21 +22364,21 @@ Error: "Unknown modifier: webrtc" in the rule: "$webrtc,domain=11anim.com|1337x.
 ---------------------------
 Filter ID: 17
 Filter name: AdGuard URL Tracking filter
-Compiled rules: 2026
+Compiled rules: 2029
 Excluded rules: 0
 URL: https://filters.adtidy.org/windows/filters/17.txt
 All rules are valid.
 ---------------------------
 Filter ID: 18
 Filter name: AdGuard Cookie Notices filter
-Compiled rules: 18619
+Compiled rules: 18616
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/18.txt
 All rules are valid.
 ---------------------------
 Filter ID: 19
 Filter name: AdGuard Popups filter
-Compiled rules: 18864
+Compiled rules: 18868
 Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/19.txt
 All rules are valid.
@@ -22392,7 +22392,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 20
 Filter name: AdGuard Mobile App Banners filter
-Compiled rules: 3551
+Compiled rules: 3553
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/20.txt
 All rules are valid.
@@ -22414,7 +22414,7 @@ Error: Invalid selector: '.j_l_post[data-field*="\"user_name\":\"\\u4e3f\\u5929\
 ---------------------------
 Filter ID: 22
 Filter name: AdGuard Widgets filter
-Compiled rules: 2217
+Compiled rules: 2221
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/22.txt
 All rules are valid.
@@ -22428,7 +22428,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 2
 Filter name: AdGuard Base filter
-Compiled rules: 135020
+Compiled rules: 135040
 Excluded rules: 58
 URL: https://filters.adtidy.org/extension/chromium/filters/2.txt
 INVALID RULES:
@@ -22437,7 +22437,7 @@ Error: "Unknown modifier: webrtc" in the rule: "$webrtc,domain=ack.net|allthetes
 ---------------------------
 Filter ID: 3
 Filter name: AdGuard Tracking Protection filter
-Compiled rules: 84527
+Compiled rules: 84530
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/3.txt
 All rules are valid.
@@ -22465,7 +22465,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 7
 Filter name: AdGuard Japanese filter
-Compiled rules: 10590
+Compiled rules: 10591
 Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/7.txt
 All rules are valid.

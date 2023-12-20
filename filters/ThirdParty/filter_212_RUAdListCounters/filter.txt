@@ -1,8 +1,8 @@
 !
-! Checksum: WeqUHSdxB7ETuqJLaQQYEA
-! OriginalVersion: 202312201251
+! Checksum: ABEsTXnIEk1vpTtnov41ng
+! OriginalVersion: 202312201651
 ! Title: RU AdList: Counters
-! Last modified: 20 Dec 2023 12:51 UTC
+! Last modified: 20 Dec 2023 16:51 UTC
 ! Expires: 1 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1295,6 +1295,7 @@ yandex.*#?#.touch-feed > div > .feed-item[id^="zen-row-"]:-abp-has([class^="zen-
 4pda.*#?#html[style] > body .advanced-area .post[itemid] ~ .post:not([itemid]):-abp-has(> [class] a[href][target="_blank"])
 4pda.*#?#html[style] > body .advanced-area .post[itemid] ~ .post:not([itemid]):-abp-has(> [class]:empty)
 ! различные рекламные ссылки, в основном в брендированных материалах
+4pda.*##.infinix-nav
 4pda.*##html[style] > body .menu-main > li.menu-main-item > a[href][style*="important"]
 4pda.*##html[style] > body .second-menu
 4pda.*##html[style] > body .slick-dotted
@@ -1323,6 +1324,8 @@ yandex.*#?#.touch-feed > div > .feed-item[id^="zen-row-"]:-abp-has([class^="zen-
 ! реклама в QMS и мобильной версии сайта
 4pda.*##.menu-main-mobile > [style="display:none;"]
 ! редирект
+! стили в брендированных материалах
+||4pda.*/s/*.css?_=1666636587$redirect=nooptext,stylesheet
 !
 ! Экспериментальные правила для маркеров
 $document,removeparam=clid,domain=dzen.ru|ya.ru|yandex.*
