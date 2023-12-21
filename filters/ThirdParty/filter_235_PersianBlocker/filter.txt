@@ -1619,6 +1619,7 @@ lahzeakhar.com#%#//scriptlet('ubo-set.js', 'customnotify', 'noopFunc')
 ||lahzeakhar.com/ShowAds
 ! ||lahzeakhar.com/sw.js
 ! >> M <<
+mohandescenter.ir##div.col-12 div#ctl00_topModule1_pnlTop:has(> div.divleftmod > div.py-2 > strong:has-text(جت سئو))
 ! https://github.com/MasterKia/PersianBlocker/issues/211
 mediat.ir##div.widget-ad-image
 mediat.ir##div.ad-wrap
@@ -3030,7 +3031,8 @@ www.google.com#$#.g a[href*="zardfilm.in"]> h3::after { content: ' [دارای �
 www.google.com#$#.g a[href*="zflix.ir"]> h3::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
 www.google.com#$#.g a[href*="filmparsi.ir"]> h3::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
 www.google.com#$#.g a[href*="icinemaa.com"]> h3::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
-www.google.com#$#.g a[href*="filmr.ir"]> h3::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
+www.google.com#$#.g a[href*="coolaks.com"]> h3::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
+www.google.com#$#.g a[href*="24movie.net"]> h3::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
 !#else
 www.google.com#$#a[href*="filmr.ir"] div[role="link"]::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
 www.google.com#$#a[href*="doostihaa.com"] div[role="link"]::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
@@ -3140,6 +3142,7 @@ www.google.com#$#a[href*="zflix.ir"] div[role="link"]::after { content: ' [دا�
 www.google.com#$#a[href*="filmparsi.ir"] div[role="link"]::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
 www.google.com#$#a[href*="icinemaa.com"] div[role="link"]::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
 www.google.com#$#a[href*="coolaks.com"] div[role="link"]::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
+www.google.com#$#a[href*="24movie.net"] div[role="link"]::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
 !#endif
 duckduckgo.com#$#a[data-testid="result-title-a"][href*="filmr.ir"]::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
 duckduckgo.com#$#a[data-testid="result-title-a"][href*="doostihaa.com"]::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
@@ -3249,6 +3252,7 @@ duckduckgo.com#$#a[data-testid="result-title-a"][href*="zflix.ir"]::after { cont
 duckduckgo.com#$#a[data-testid="result-title-a"][href*="filmparsi.ir"]::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
 duckduckgo.com#$#a[data-testid="result-title-a"][href*="icinemaa.com"]::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
 duckduckgo.com#$#a[data-testid="result-title-a"][href*="coolaks.com"]::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
+duckduckgo.com#$#a[data-testid="result-title-a"][href*="24movie.net"]::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
 search.brave.com#$#div#results > div.snippet > a.result-header[href*="filmr.ir"] > span.snippet-title::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
 search.brave.com#$#div#results > div.snippet > a.result-header[href*="doostihaa.com"] > span.snippet-title::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
 search.brave.com#$#div#results > div.snippet > a.result-header[href*="uptvs.com"] > span.snippet-title::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
@@ -3357,6 +3361,7 @@ search.brave.com#$#div#results > div.snippet > a.result-header[href*="zflix.ir"]
 search.brave.com#$#div#results > div.snippet > a.result-header[href*="filmparsi.ir"] > span.snippet-title::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
 search.brave.com#$#div#results > div.snippet > a.result-header[href*="icinemaa.com"] > span.snippet-title::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
 search.brave.com#$#div#results > div.snippet > a.result-header[href*="coolaks.com"] > span.snippet-title::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
+search.brave.com#$#div#results > div.snippet > a.result-header[href*="24movie.net"] > span.snippet-title::after { content: ' [دارای حذفیات] ' !important; color: #E6000D !important; }
 ! اشتراکی
 !#if !env_mobile
 www.google.com#$#.g a[href*="mygolchindl.top"]> h3::after { content: ' [اشتراکی] ' !important; color: #64b502 !important; font-weight: bold !important; }

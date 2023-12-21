@@ -1,8 +1,8 @@
 !
-! Checksum: ylcIlvfiLqL7bEAVHv8MiA
-! OriginalVersion: 202312211215
+! Checksum: w1UexPjmnFqP20Up40wBSw
+! OriginalVersion: 202312211620
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-12-21 12:15 UTC
+! Last modified: 2023-12-21 16:20 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -47010,6 +47010,7 @@ moottori.fi#?#.item.sidebar.reader-comp.main-gray-bg:-abp-has(a[href="/tilaa-moo
 ! fanboy_newsletter_shopping_specific_hide.txt
 alldayshirts.com###GeneralSaleBanner
 edikted.com###SMSBump-Modal
+nfm.com###att_lightbox_email
 gpulive.com###automizely_marketing_popup_bars
 misterworker.com###block_footer_custom
 thegoodguys.com.au###catalogueDrawer
@@ -47107,6 +47108,7 @@ pagani.co.nz##.curtain
 123ink.ca,primecables.ca##.customer-gift
 underground-england.com##.dialog-lightbox-widget
 fruitarian.store,naturalsound.ca,shellsoul.com,sigav.com##.dialog-type-lightbox
+doitbest.com##.dib-footer-signupemail
 gourmetfoodstore.com##.divInterstitialBGCover
 thegoodguys.com.au##.drawerTitleTextWrapper
 dickssportinggoods.com##.dsg-react-footer-cwu-sign-up
@@ -51659,7 +51661,7 @@ partsinmotion.co.uk###fancybox-overlay
 partsinmotion.co.uk#$#body,html { overflow: auto !important; position: initial !important; }
 ! biglots.com
 ardene.com,biglots.com,toysrus.ca##.modal
-ardene.com,biglots.com,toysrus.ca#$#body { overflow: auto !important; position: initial !important; }
+ardene.com,biglots.com,toysrus.ca#$#body,html { overflow: auto !important; position: initial !important; }
 ! fredmeyer.com
 fredmeyer.com##.kds-Modal-overlay
 fredmeyer.com#$#body { overflow: auto !important; position: initial !important; }

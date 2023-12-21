@@ -1,8 +1,8 @@
 !
-! Checksum: 4XTqZ0EifMDUx9xuOn5Mig
-! OriginalVersion: 202312211251
+! Checksum: 6Bj6bCMlskvlnkxQJPbEIg
+! OriginalVersion: 202312211650
 ! Title: EasyList
-! Last modified: 21 Dec 2023 12:51 UTC
+! Last modified: 21 Dec 2023 16:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20073,6 +20073,7 @@ browsershots.org#@#.advert_area
 ||adjustedminglecamouflage.com^
 ||adjustmentmonarch.com^
 ||adjustmentstraightenstartle.com^
+||adjuve.info^
 ||adjux.com^
 ||adkaora.space^
 ||adkernel.com^
@@ -21786,6 +21787,7 @@ browsershots.org#@#.advert_area
 ||atedlittleme.xyz^
 ||atelegendinflected.com^
 ||atemda.com^
+||atemoyaderider.com^
 ||atentherel.org^
 ||aterhouse.info^
 ||aterhouseoyop.info^
@@ -21857,6 +21859,7 @@ browsershots.org#@#.advert_area
 ||atticshepherd.com^
 ||attitudeflycinema.com^
 ||attlesuling.com^
+||attractive-drawing.com^
 ||attractivebuilt.com^
 ||attractivehobby.com^
 ||attractiveother.pro^
@@ -23608,6 +23611,7 @@ browsershots.org#@#.advert_area
 ||btvhdscr.com^
 ||btwasinlovewit.xyz^
 ||btwwiwmhfhh.com^
+||btxdbuaxn.com^
 ||btxxxnav.com^
 ||bu3le2lp4t45e6i.com^
 ||bubbly-condition.pro^
@@ -23669,6 +23673,7 @@ browsershots.org#@#.advert_area
 ||bulyiel.com^
 ||bumblecash.com^
 ||bummerybutene.life^
+||bummingasses.com^
 ||bummockrewarm.com^
 ||bumpyfruitless.com^
 ||bumpyremittancecarnivorous.com^
@@ -24692,6 +24697,7 @@ browsershots.org#@#.advert_area
 ||clefsgast.top^
 ||clefskenelm.com^
 ||cleftinform.com^
+||clemencyexceptionpolar.com^
 ||clementmeddling.com^
 ||clementsing.com^
 ||cleopatratasty.com^
@@ -25446,6 +25452,7 @@ browsershots.org#@#.advert_area
 ||cqwajn.com^
 ||cqxtivmquu.com^
 ||cr-brands.net^
+||cr08.biz^
 ||crabdefend.com^
 ||cracktraumatic.com^
 ||craftsmancaptivity.com^
@@ -26945,6 +26952,7 @@ browsershots.org#@#.advert_area
 ||dqvnpbs.com^
 ||dqywkdxtcy.xyz^
 ||dr0.biz^
+||dr22.biz^
 ||dr6.biz^
 ||dr7.biz^
 ||drabimprovement.com^
@@ -27530,6 +27538,7 @@ browsershots.org#@#.advert_area
 ||eessoost.net^
 ||eetchaid.net^
 ||eethilsi.com^
+||eetsegeb.net^
 ||eetsooso.net^
 ||eetyed.com^
 ||eevaitou.xyz^
@@ -28126,6 +28135,7 @@ browsershots.org#@#.advert_area
 ||etiamangola.com^
 ||etingplansfo.buzz^
 ||etjxkvdorypmppp.com^
+||etnacsqssv.com^
 ||etobepartoukfare.info^
 ||etougais.net^
 ||etphoneme.com^
@@ -29346,6 +29356,7 @@ browsershots.org#@#.advert_area
 ||fpbvfwjwrayphgs.com^
 ||fpdbccngiujp.com^
 ||fpgedsewst.com^
+||fpiljsxrchc.com^
 ||fpnpmcdn.net^
 ||fpukxcinlf.com^
 ||fpybtxqfywreqhb.xyz^
@@ -29405,6 +29416,7 @@ browsershots.org#@#.advert_area
 ||freezeanything.com^
 ||freezerlarking.top^
 ||freezerpiledoperational.com^
+||freezescrackly.com^
 ||freezeskaikara.com^
 ||freezinghogreproach.com^
 ||fregtrsatnt.com^
@@ -30024,6 +30036,7 @@ browsershots.org#@#.advert_area
 ||girl7y.com^
 ||girlbuffalo.com^
 ||girliewinding.com^
+||girlsglowdate.life^
 ||gishejuy.com^
 ||gistblemishparking.com^
 ||gitoku.com^
@@ -32902,6 +32915,7 @@ browsershots.org#@#.advert_area
 ||jfbrkbgvxwib.com^
 ||jfedgbskofck.com^
 ||jfjlfah.com^
+||jfmpafthtwuo.com^
 ||jfoaxwbatlic.com^
 ||jfthhbvpryrvbs.com^
 ||jgdipcsviur.com^
@@ -36748,6 +36762,7 @@ browsershots.org#@#.advert_area
 ||nmcdn.us^
 ||nmcpmjreuswnzs.com^
 ||nmcsqihltjdnheq.com^
+||nmkli.com^
 ||nmqwdmtwjleb.com^
 ||nmthpcanvokjbkh.xyz^
 ||nmxqtuyyojgm.com^
@@ -37318,6 +37333,7 @@ browsershots.org#@#.advert_area
 ||ofcamerupta.com^
 ||ofchildr.buzz^
 ||ofclaydolr.com^
+||ofcvrpxsx.com^
 ||ofdittor.com^
 ||ofdxfsho.com^
 ||ofedupub.com^
@@ -37471,6 +37487,7 @@ browsershots.org#@#.advert_area
 ||olep.xyz^
 ||olgknseruf.com^
 ||olibes.com^
+||olineman.pro^
 ||olivedinflats.space^
 ||olivednitrils.com^
 ||olivefail.com^
@@ -38434,6 +38451,7 @@ browsershots.org#@#.advert_area
 ||patariatoolman.com^
 ||patarinmangers.top^
 ||patchedcyamoid.com^
+||patencydaimiel.com^
 ||patenssabzi.com^
 ||patgsrv.com^
 ||pathloaded.com^
@@ -39270,6 +39288,7 @@ browsershots.org#@#.advert_area
 ||pointroll.com^
 ||pointyenrapturetheological.com^
 ||poiseacacialaw.com^
+||poisebullan.com^
 ||poiseplato.com^
 ||poisism.com^
 ||poisonencouragement.com^
@@ -41087,6 +41106,7 @@ browsershots.org#@#.advert_area
 ||registercanoeinvaded.com^
 ||registercherryheadquarter.com^
 ||regizm.com^
+||reglazetentie.com^
 ||reglowsupbar.com^
 ||regmacimbia.com^
 ||regnumyelp.digital^
@@ -43224,6 +43244,7 @@ browsershots.org#@#.advert_area
 ||smartadserver.com^
 ||smartapplifly.com^
 ||smartappsfly.com^
+||smartdating.top^
 ||smartlnk.com^
 ||smarttds.org^
 ||smarttopchain.nl^
@@ -43816,6 +43837,7 @@ browsershots.org#@#.advert_area
 ||starvybryan.com^
 ||stascdnuuar.com^
 ||stat-rock.com^
+||statalvortex.com^
 ||statcamp.net^
 ||statefertilitycount.com^
 ||stateinformatics.com^
@@ -43837,6 +43859,7 @@ browsershots.org#@#.advert_area
 ||staturereactioncollect.com^
 ||staubsefoo.com^
 ||staubsuthil.com^
+||staukponier.com^
 ||staumobu.com^
 ||staunchfastened.com^
 ||staunchgenetwitch.com^
@@ -45278,6 +45301,7 @@ browsershots.org#@#.advert_area
 ||tnudztz.com^
 ||toabaise.net^
 ||toabuck.xyz^
+||toaduroo.xyz^
 ||toaglaun.xyz^
 ||toaioi.lol^
 ||toaioi.xyz^
@@ -45892,6 +45916,7 @@ browsershots.org#@#.advert_area
 ||tumri.net^
 ||tumultmarten.com^
 ||tumultuserscheek.com^
+||tundrapinjane.com^
 ||tunedecided.com^
 ||tunerschold.com^
 ||tuneshave.com^
@@ -46862,6 +46887,7 @@ browsershots.org#@#.advert_area
 ||vcsesvwajeup.com^
 ||vcvacpaenqepvm.com^
 ||vcxzp.com^
+||vdbaa.com^
 ||vddf0.club^
 ||vdlvry.com^
 ||vdmiruryll.xyz^
@@ -48633,6 +48659,7 @@ browsershots.org#@#.advert_area
 ||xoalt.com^
 ||xobr219pa.com^
 ||xoemvfgjhpwea.com^
+||xohnodzbfjjqje.com^
 ||xoimmmhfha.com^
 ||xojepxhvvan.com^
 ||xoktditxsmr.xyz^
@@ -49474,6 +49501,7 @@ browsershots.org#@#.advert_area
 ||ad.style^$third-party
 ||ad20.net^$third-party
 ||ad2adnetwork.biz^$third-party
+||ad2bitcoin.com^$third-party
 ||ad2links.com^$third-party
 ||ad4989.co.kr^$third-party
 ||ad4game.com^$third-party
@@ -49847,6 +49875,7 @@ browsershots.org#@#.advert_area
 ||bannersnack.net^$third-party,domain=~bannersnack.dev
 ||bannertrack.net^$~script,third-party
 ||bannerweb.com^$third-party
+||bannieres-a-gogo.com^$third-party
 ||baronsoffers.com^$third-party
 ||bbelements.com^$third-party
 ||bbuni.com^$third-party
@@ -55552,7 +55581,9 @@ browsershots.org#@#.advert_area
 ||clicknplay.to/api/spots/
 ||cloud.setupad.com^
 ||cloudbet.com/ad/
+||cloudfront.net/*.min.css$script,third-party
 ||cloudfront.net/css/*.min.js$script,third-party
+||cloudfront.net/images/*-min.js$script,third-party
 ||cloudfront.net/js/script_tag/new/sca_affiliate_
 ||coinmama.com/assets/img/banners/
 ||commercial.daznservices.com^

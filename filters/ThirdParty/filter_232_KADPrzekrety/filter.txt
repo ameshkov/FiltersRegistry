@@ -3,8 +3,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 21 Dec 2023, 13:30 UTC+01:00
-! OriginalVersion: 2023.12.21.1
+! Last modified: Thu, 21 Dec 2023, 17:21 UTC+01:00
+! OriginalVersion: 2023.12.21.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3026,6 +3026,7 @@
 ||7ac06b6810e.chefs-kitchen.co.uk^$all
 ||7add1d9fab9.chefs-kitchen.co.uk^$all
 ||7af04237.coletivohojeapassarinho.com.br^$all
+||7aut-budda.info^$all
 ||7aut-budda.pl^$all
 ||7aut.live^$all
 ||7b3fa353e9cedd0.biuroall.pl^$all
@@ -5463,6 +5464,7 @@
 ||allegrolokalnie.com.ru^$all
 ||allegrolokalnie.dostawa24-7.pl^$all
 ||allegrolokalnie.e-24payu.pl^$all
+||allegrolokalnie.e-aukcje24h.pl^$all
 ||allegrolokalnie.e-transakcje.pl^$all
 ||allegrolokalnie.eaukcja24h.pl^$all
 ||allegrolokalnie.etransakcje-24.pl^$all
@@ -5600,6 +5602,9 @@
 ||allegrolokalnie.pl-specjalna-oferta345255.pl^$all
 ||allegrolokalnie.pl-specjalna-oferta345277.pl^$all
 ||allegrolokalnie.pl-specjalna-oferta345347.pl^$all
+||allegrolokalnie.pl-specjalna-oferta345360.pl^$all
+||allegrolokalnie.pl-specjalna-oferta345361.pl^$all
+||allegrolokalnie.pl-specjalna-oferta345362.pl^$all
 ||allegrolokalnie.pl-specjalna-oferta345922.pl^$all
 ||allegrolokalnie.pl-specjalna-oferta345986.pl^$all
 ||allegrolokalnie.pl-specjalna-oferta726255.pl^$all
@@ -5916,6 +5921,7 @@
 ||alzheimersdiseasepedia.com^$all
 ||alzheimerspedia.com^$all
 ||alzktralz.otcholdigroup.com^$all
+||alzubairicorp.com^$all
 ||am2ious2p.life^$all
 ||am2zing45x2z.xyz^$all
 ||am.mooketers.site^$all
@@ -6570,6 +6576,7 @@
 ||areadigital.miconta.com.mx^$all
 ||areaflix.com^$all
 ||areanetflix.com^$all
+||areascoutsnews.com^$all
 ||areasubscriber-net.translate.goog^$all
 ||arek313.civ.pl^$all
 ||aremnzsca.000webhostapp.com^$all
@@ -7272,6 +7279,7 @@
 ||auto-czapa.pl^$all
 ||auto-domain2-manaliner.pbclimbing.co.uk^$all
 ||auto-glaze.com^$all
+||auto-komorowski.pl^$all
 ||auto-kowalik24.pl^$all
 ||auto-moks.pl^$all
 ||auto-moksonline.pl^$all
@@ -7299,9 +7307,11 @@
 ||autogielda-karpinski.pl^$all
 ||autogielda-krukowski.pl^$all
 ||autogielda-maciejczak.pl^$all
+||autogielda-majorczyk.pl^$all
 ||autogielda-markowski.pl^$all
 ||autogielda-markowskionline.pl^$all
 ||autogielda-matczak.pl^$all
+||autogielda-skowyrski.pl^$all
 ||autogielda-slawski.pl^$all
 ||autogielda-stefaniuk.pl^$all
 ||autogielda-tomanski.pl^$all
@@ -7902,6 +7912,7 @@
 ||baity-jo.com^$all
 ||bajaimplantcenter.com^$all
 ||bajzos-zamowienie41.weitunha.cf^$all
+||bak.kolas.top^$all
 ||bakaroexpress.com^$all
 ||bakchiich.nl^$all
 ||bake3658.shop^$all
@@ -8224,6 +8235,7 @@
 ||bard-ai-gg.com^$all
 ||bard-chatbot.info^$all
 ||bardaimkt.store^$all
+||bardeverywhere.com^$all
 ||bardmkt.live^$all
 ||bareflaust.site^$all
 ||barefootv.sbs^$all
@@ -8665,6 +8677,7 @@
 ||benmaslo-uno.preview-domain.com^$all
 ||benmeline.com^$all
 ||benmoj.com^$all
+||bennebosmarket.com^$all
 ||bennettgunter.com^$all
 ||bennieboone.com^$all
 ||bennieren.com^$all
@@ -9586,6 +9599,7 @@
 ||bnfwct.com^$all
 ||bngparibas.com^$all
 ||bngparidas.com^$all
+||bngurublog.com^$all
 ||bnkinfra.com^$all
 ||bnlsicuro-operatore-servizio-supporto.cfolks.pl^$all
 ||bnmksl.jasewr.site^$all
@@ -9937,6 +9951,7 @@
 ||br-stone.online^$all
 ||br.infosyst.site^$all
 ||bra.polex.live^$all
+||braccialeabber.info^$all
 ||brachiopods.live^$all
 ||brachyceric.live^$all
 ||brackishnesses.live^$all
@@ -11501,6 +11516,7 @@
 ||charter.megu-acu.com^$all
 ||chartersolutionsnv.com^$all
 ||chartifiqass.com^$all
+||chartsfactory.com^$all
 ||chartyp.space^$all
 ||chasecapitalonline.com^$all
 ||chasesusccses.site^$all
@@ -12039,6 +12055,7 @@
 ||club919.com^$all
 ||clubbilloose.site^$all
 ||clubbingusher.com^$all
+||clubdevinosylicores.com^$all
 ||clubedalista.com^$all
 ||clubensalud.com^$all
 ||clubinvesgoog.cfd^$all
@@ -12113,6 +12130,7 @@
 ||coajuneteenth.com^$all
 ||coalindialimited.com^$all
 ||coastaldrainageexperts.com^$all
+||coastalpremiumfinancellc.com^$all
 ||coastalriversrealty.com^$all
 ||coastingpork.com^$all
 ||coastsideonline.org^$all
@@ -13900,6 +13918,7 @@
 ||de.kornek.com.pl^$all
 ||de.progofficial.top^$all
 ||dea-111.com^$all
+||dea.newlvlpro.top^$all
 ||dea.pro1program.site^$all
 ||deadaxbolv.space^$all
 ||deafv.cfd^$all
@@ -14266,6 +14285,7 @@
 ||detectorhold.com^$all
 ||detektywi-polska.waw.pl^$all
 ||determined.pl^$all
+||dethen.com^$all
 ||detonabilitysjoage.life^$all
 ||detonavged.hair^$all
 ||detoxic.net^$all
@@ -14683,6 +14703,7 @@
 ||dinos.sbs^$all
 ||dinosaurcountry.com^$all
 ||dinosaursn.com^$all
+||dinoscamp.com^$all
 ||dintvort-com.preview-domain.com^$all
 ||diodecart.com^$all
 ||diogosnow.com^$all
@@ -15897,6 +15918,7 @@
 ||eakent.com^$all
 ||eaknight.com^$all
 ||ealaclarke.com^$all
+||ealone.startone.top^$all
 ||eamke.siratco.com^$all
 ||eamonhyland.com^$all
 ||eamonmadlon.com^$all
@@ -17095,6 +17117,7 @@
 ||euro1vape.com^$all
 ||euro-paczka.cloud^$all
 ||euro.programtts.top^$all
+||euro.unixofficeequipment.com^$all
 ||euroausili.it^$all
 ||eurocallcenter.pl^$all
 ||euroconnectcommerce.com^$all
@@ -17106,6 +17129,7 @@
 ||europe-worldd.org^$all
 ||europeadvokat.online^$all
 ||europeanplatforms.com^$all
+||europeanreader.com^$all
 ||europeinfotoai.online^$all
 ||europeinfotoaiapp.online^$all
 ||europequipment.com^$all
@@ -17778,6 +17802,7 @@
 ||faktywieczorne.click^$all
 ||faktyzaginiecie24.$all
 ||faktyzyciowe.click^$all
+||faktzdarzenia.click^$all
 ||fakzuk.com^$all
 ||falaflu.com^$all
 ||falcidiyorki.com^$all
@@ -18555,6 +18580,7 @@
 ||financelead.online^$all
 ||financenews.life^$all
 ||financersblog.tumblr.com^$all
+||financesbooster.com^$all
 ||financestesl.top^$all
 ||financesucceed.webador.com^$all
 ||financetesl.club^$all
@@ -18735,6 +18761,7 @@
 ||firstindogout.com^$all
 ||firstpornlist.com^$all
 ||firulabets.com^$all
+||fis.valuez.top^$all
 ||fischer.pawlukojc.pl^$all
 ||fishdomegame.com^$all
 ||fishhing.shop^$all
@@ -18892,6 +18919,7 @@
 ||fluffypetmania.com^$all
 ||flug.org.pl^$all
 ||fluidcreations.com^$all
+||flujotv.com^$all
 ||flukec.sbs^$all
 ||flul-le.com^$all
 ||fluorosiliconemolder.com^$all
@@ -20241,6 +20269,7 @@
 ||giebtayior.com^$all
 ||giehh.morinsconstructionaz.com^$all
 ||gielda-mazowsze.pl^$all
+||gielda-samochod.pl^$all
 ||gielda-wwa.pl^$all
 ||gieldaenergii.online^$all
 ||gieldaenergii.site^$all
@@ -20296,6 +20325,7 @@
 ||ginventori.com^$all
 ||ginza-matsuba.com^$all
 ||gionatti.com^$all
+||giovannibertolinitest2.com^$all
 ||giovattomailer.com^$all
 ||gipolyoqai.live^$all
 ||giqinv.web.app^$all
@@ -20856,6 +20886,7 @@
 ||gorflangs.com^$all
 ||gorgeous-sherbet-768efd.netlify.app^$all
 ||gorgeouspaper.co.uk^$all
+||gorgonhq.shop^$all
 ||gorgorod-com.preview-domain.com^$all
 ||gorillafade.com^$all
 ||goroep-kla.cloud^$all
@@ -22222,6 +22253,7 @@
 ||hollymolly.site^$all
 ||hollywoodactressname.com^$all
 ||hollywoodblock40.com^$all
+||hollywoodcircle.com^$all
 ||holmes.galpoltrans.pl^$all
 ||holodniy21.za.com^$all
 ||hololyfe.com^$all
@@ -22595,6 +22627,7 @@
 ||hydrobiosis.life^$all
 ||hydrocarbonholdings.online^$all
 ||hydrolnfo.com^$all
+||hydrothas.com^$all
 ||hydrothoraxs.com^$all
 ||hydzpme.com^$all
 ||hyecrafts.com^$all
@@ -23353,6 +23386,7 @@
 ||info-sprawcy24.pl^$all
 ||info-sys.xyz^$all
 ||info-trck-packge.com^$all
+||info-unitedps.pl^$all
 ||info-up78965412s.com.pl^$all
 ||info-up78965412s.pl^$all
 ||info-upspoland.pl^$all
@@ -24188,6 +24222,7 @@
 ||inv-pos.web.app^$all
 ||inv-pro.web.app^$all
 ||inv-proc.web.app^$all
+||inv.cqcsh.com^$all
 ||inv.nlandings.com^$all
 ||invbulcompf.com^$all
 ||invec-t.web.app^$all
@@ -24687,6 +24722,7 @@
 ||izleseneindir.com^$all
 ||izleseneindir.world^$all
 ||izlogin-webmail.web.app^$all
+||izmirpastane.com^$all
 ||iznpost-pl.top^$all
 ||j0urneypro55.life^$all
 ||j2s.homes^$all
@@ -24960,6 +24996,7 @@
 ||jeweled-ablaze-leptoceratops.glitch.me^$all
 ||jewelindiajpr.com^$all
 ||jewishrockrecords.com^$all
+||jewishweddingmusicians.com^$all
 ||jey836.sbs^$all
 ||jey-72.sbs^$all
 ||jey-y2.cfd^$all
@@ -24992,6 +25029,7 @@
 ||jibaibasummcomp.com^$all
 ||jibdara.com^$all
 ||jiberpril.chatprogram.top^$all
+||jie.valuez.top^$all
 ||jiehumei.com^$all
 ||jieshiekia.com^$all
 ||jigsawbanana.com^$all
@@ -25722,6 +25760,7 @@
 ||kel-83h.cfd^$all
 ||kel.olled.xyz^$all
 ||keligots.live^$all
+||keliva.sbs^$all
 ||kellerobjektmobel.com^$all
 ||kelley.mazsina.warszawa.pl^$all
 ||kelleywebdesigns.com^$all
@@ -27766,6 +27805,7 @@
 ||live-map-location.cloud^$all
 ||live-newsss.com^$all
 ||live-przemowienie.eu^$all
+||live-start.bigcash.top^$all
 ||live-tech92.com^$all
 ||live-ups.com^$all
 ||liveabvbarnion.site^$all
@@ -28093,6 +28133,7 @@
 ||lopokiuwei.site^$all
 ||lopson.sanital.xyz^$all
 ||loptuik.com^$all
+||loptuk.club^$all
 ||lopyjaja.site^$all
 ||loracrass-com.preview-domain.com^$all
 ||lordgordon.it^$all
@@ -30403,6 +30444,7 @@
 ||montotomagoya.com^$all
 ||monwertic.site^$all
 ||monzex.top^$all
+||moochersoyler.life^$all
 ||moodico.com^$all
 ||mookuna.com^$all
 ||moon.theinterrupt.com^$all
@@ -31711,6 +31753,7 @@
 ||neuroyear.coddes.top^$all
 ||neurro.cloud^$all
 ||neurro.tes1aprodj.click^$all
+||neurt.sbs^$all
 ||neuterpartner.com^$all
 ||neutralsystemsolutiion.space^$all
 ||neutralsystemsolution.space^$all
@@ -32089,6 +32132,7 @@
 ||news-today.pro^$all
 ||news-todayz.com^$all
 ||news-tumoleq.site^$all
+||news-tvn.aesthetise.com^$all
 ||news-unotv.com^$all
 ||news-vecaril.store^$all
 ||news-vosskal.site^$all
@@ -32229,6 +32273,7 @@
 ||nexxusfusionup93.site^$all
 ||neyliwc.sbs^$all
 ||neytron.papiashvili.top^$all
+||neywem.sbs^$all
 ||neyx.cfd^$all
 ||neyx.sbs^$all
 ||neznaybrodu.online^$all
@@ -33311,6 +33356,7 @@
 ||ollx.1471246.xyz^$all
 ||ollx.1578451.xyz^$all
 ||ollx.2578451.xyz^$all
+||ollx.4578451.xyz^$all
 ||ollx.5578451.xyz^$all
 ||ollx.6578451.xyz^$all
 ||ollx.7024727.xyz^$all
@@ -35690,6 +35736,9 @@
 ||pl-specjalna-oferta345255.pl^$all
 ||pl-specjalna-oferta345277.pl^$all
 ||pl-specjalna-oferta345347.pl^$all
+||pl-specjalna-oferta345360.pl^$all
+||pl-specjalna-oferta345361.pl^$all
+||pl-specjalna-oferta345362.pl^$all
 ||pl-specjalna-oferta345922.pl^$all
 ||pl-specjalna-oferta345986.pl^$all
 ||pl-specjalna-oferta726255.pl^$all
@@ -37008,6 +37057,7 @@
 ||poranol-com.preview-domain.com^$all
 ||porbaniepowodzenie.click^$all
 ||porevil.space^$all
+||porjotizbicko.nataliahelena.pl^$all
 ||porl.weebly.com^$all
 ||porloscaminos.com^$all
 ||pornapplication.com^$all
@@ -39157,6 +39207,7 @@
 ||redpro.mllight.top^$all
 ||redpurpura.com^$all
 ||redrednews.store^$all
+||redsegura-al.com^$all
 ||redsimbiotica.com^$all
 ||redsocialsa.com^$all
 ||redupn.com^$all
@@ -40031,6 +40082,7 @@
 ||runvaluemyhome.com^$all
 ||runy.site^$all
 ||rupicoline.com^$all
+||rur.worldkolf.info^$all
 ||ruralecz.com^$all
 ||ruralse.elementor.cloud^$all
 ||rushcash.pl^$all
@@ -40270,6 +40322,7 @@
 ||samev.cfd^$all
 ||samho5571.com^$all
 ||samna24.com^$all
+||samochodziarze24.pl^$all
 ||samoilproff.site^$all
 ||sampaventures.com^$all
 ||sampledelic.com^$all
@@ -42517,6 +42570,7 @@
 ||steady-boba-c489da.netlify.app^$all
 ||steady-jelly-3e4cb0.netlify.app^$all
 ||steadyn.sbs^$all
+||steak.esti-host.com^$all
 ||steal-corp.com^$all
 ||steam-glft.com^$all
 ||steam-lance.sbs^$all
@@ -44251,6 +44305,7 @@
 ||thermolabilepointers.exactitudepaginate.com^$all
 ||thermolabilethermolabile.exactitudepaginate.com^$all
 ||thermoshape.info^$all
+||thermowhite-alt.online^$all
 ||theroychowdhurys.com^$all
 ||therpacte1.site^$all
 ||therraverle.site^$all
@@ -45449,6 +45504,7 @@
 ||tujestwildcard.cookingflys.com^$all
 ||tujestwildcard.craftrecreate.com^$all
 ||tujestwildcard.craftszip.com^$all
+||tujestwildcard.famebeautys.com^$all
 ||tujestwildcard.fashionadmire.com^$all
 ||tujestwildcard.foodquakes.com^$all
 ||tujestwildcard.gadgetheck.com^$all
@@ -46167,6 +46223,7 @@
 ||upstrack-sav.com^$all
 ||upstrack-se.com^$all
 ||upstrack-support.com^$all
+||upstracking-pl.com^$all
 ||upstracking-shipment.com^$all
 ||upstrackingpost.com^$all
 ||upstrategypgl.com^$all
@@ -47621,6 +47678,7 @@
 ||wazirx.sbs^$all
 ||waznasprawapl.eu^$all
 ||wazne-rozwiazanie.eu^$all
+||waznefakty.click^$all
 ||wazneinfo.pl^$all
 ||wazneraporty.live^$all
 ||wazneraporty.space^$all
@@ -49081,6 +49139,7 @@
 ||yeorling.live^$all
 ||yeq7.brylew9.cfd^$all
 ||yerandangered.xyz^$all
+||yerbavideo.net^$all
 ||yes2b2st20.xyz^$all
 ||yes.m0tivat3.life^$all
 ||yesflix.live^$all
