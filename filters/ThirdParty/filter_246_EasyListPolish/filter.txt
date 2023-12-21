@@ -1,8 +1,8 @@
 !
-! Checksum: FCK3oTwRrz0h5eYlL59p8A
-! OriginalVersion: 202312210451
+! Checksum: BJstqwD28DwoAG6MT2hthg
+! OriginalVersion: 202312210851
 ! Title: EasyList Polish
-! Last modified: 21 Dec 2023 04:51 UTC
+! Last modified: 21 Dec 2023 08:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1297,7 +1297,6 @@ epainfo.pl##.epain-widget.td_block_template_1
 radionadzieja.pl##.et_pb_image_wrap
 all-inclusive.com.pl##.et_pb_text_inner a
 notino.pl##.exponea-subscription-dialog.exponea-banner
-ittechblog.pl##.ext-link > img
 forum.interia.pl##.f3-sidebar--ad
 e-stargard.pl##.fb_widget
 przemysl24.pl##.fbaner
@@ -1343,7 +1342,7 @@ stadionowioprawcy.net##.google_box a
 log4.pl##.grafikaKlienta
 topagrar.pl,wiadomoscihandlowe.pl##.grid--ad
 money.pl##.grid-item-wpapiad
-24jgora.pl,bp24.pl,debica24.eu,goral.info.pl,itvpiaseczno.pl,kartuzy.info,lowicz24.eu,ototorun.pl,powiatowa.info,tp.com.pl,zlotowskie.pl,zyciesokolowa.pl##.grid__ad
+24jgora.pl,bp24.pl,debica24.eu,goral.info.pl,itvpiaseczno.pl,kartuzy.info,lowicz24.eu,ototorun.pl,powiatowa.info,tp.com.pl,zambrow.org,zlotowskie.pl,zyciesokolowa.pl##.grid__ad
 nowiny24.pl,nowosci.com.pl##.gry
 zwiedzamyparyz.pl##.gyg-widget
 odkryjpomorze.pl##.h-line
