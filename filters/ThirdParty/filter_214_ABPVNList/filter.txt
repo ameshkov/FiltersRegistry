@@ -1,8 +1,8 @@
 !#if (adguard_ext_android_cb)
 ! version for AdGuard Content Blocker only
-! OriginalVersion: 20231221144322
+! OriginalVersion: 20231221164413
 ! Title: ABPVN List
-! Last modified: 21 Dec 2023 14:43:22 UTC+7
+! Last modified: 21 Dec 2023 16:44:13 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter
@@ -174,7 +174,7 @@
 ||lmssplus.com/static_image/ads-provider/$image
 ||luotphimtv1.com/wp-content/uploads/$media
 ||maclife.io^*.gif
-||media.giphy.com/media/$image,domain=animevietsub.fan|phimgichill.net
+||media.giphy.com/media/$image,domain=animevietsub.fan
 ||media.nghean24h.vn$image
 ||mehoathinh3.com/xml/
 ||mephimtv.net/wp-banner$image
@@ -195,13 +195,7 @@
 ||ophimhd.vip/upload
 ||ophimmoi.com/storage/files/qc/$image,domain=phimmoizz.org
 ||p.thoctv.com^*.gif$image
-||phimchat2.com/public/*.mp4$domain=phimchat2.com,redirect=noopmp3-0.1s
-||phimchat2.com/public/images/banner/$image
-||phimchat2.com^*.gif
 ||phimcuon.com^*.gif$image
-||phimdinhcao.com^*.xml$~third-party
-||phimdinhcao.net^*.xml$~third-party
-||phimgichill.net/player/dk.jpg
 ||phimhay.in^*.gif
 ||phimhaymoi.com^*.gif$image
 ||phimhaythuyetminh.live$csp=script-src 'self' 'unsafe-inline'
@@ -251,7 +245,7 @@
 ||s.lazada.vn^$popup,domain=boophim.net
 ||s.tainhaccho.vn/images/afl
 ||s2.truyentot.com^*.gif$image,domain=hhtq.vip
-||s3.amazonaws.com^$domain=phimdinhcao.net|phimdinhcao.com|phimlongtieng.net
+||s3.amazonaws.com^$domain=phimlongtieng.net
 ||saytruyenmoi.com/storage/images/banner/$image
 ||scrap.ithongtin.com/api/aff$xmlhttprequest
 ||senpay.vn/widget/
@@ -541,7 +535,7 @@ blogtruyen.vn##.qc-inner
 blogtruyen.vn##div.qc_TC_Chap_Middle
 blogtruyen.vn##div[id^="qc_M_"]
 blogtruyen.vn##div[style*="position: fixed;"]
-boctem.com,fimfast.pro,phimdinhcao.net,phimlongtieng.net,phimdinhcao.com,vuaphimmoi.net,phimtn.com,motchillz.org,anivn.club,phimhoathinh3d.com,vkooll.net,hoathinhtq.tv,hhhtq.net,xemphimchill.xyz,247phim.cc,hh3d.tv###popup-giua-man-hinh
+boctem.com,fimfast.pro,phimlongtieng.net,phimdinhcao.com,vuaphimmoi.net,phimtn.com,motchillz.org,anivn.club,phimhoathinh3d.com,vkooll.net,hoathinhtq.tv,hhhtq.net,xemphimchill.xyz,247phim.cc,hh3d.tv###popup-giua-man-hinh
 bongda.com.vn##.top_page
 bongda12h365.com##.list-dat-cuoc
 bongda21h.co###backgroundPopupp
@@ -869,6 +863,11 @@ ophimhay.com###adsTopInPageBanner
 ophimhay.com###popup
 ophimhay.com##.adsContainer
 ophimhd.vip###ad-container
+ophimhdvn3.net##lixi88-ads-left
+ophimhdvn3.net##mb_catfish_1xbet
+ophimhdvn3.net##preload-11bet
+ophimhdvn3.net##sobet-ads-right
+ophimhdvn3.net,vietnamplus.vn,kienthuc.net.vn,saostar.vn,huphimtv.com,bongda24h.vn,vieclam123.net,cungthi.online,appvn.com,linkerpt.com,tinnhac.com,antt.vn,film365.in,mphimmoi1.xyz,xemphimvuis.com,xemphimviet1.net,ghienphim8.net,nhadautu.vn,soikeo365.net,nghenhinvietnam.vn##.ads
 phapluatplus.vn##div[style="text-align:center;margin-top:0px;margin-bottom:0px;"]
 phim18zz.com##.catfishLoader
 phim18zz.com,mphimmoi1.xyz##.pcCatfish
@@ -879,23 +878,17 @@ phimbocn.com###sticky
 phimcuon.com##.show.ads-sticky
 phimdacap.tv##[data-clm="ccccc2"]
 phimdacap.tv##[data-id="ap3poapup"]
+phimdinhcao.com,phimdinhcao.net##.i9bet
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com###mobile_content_bottom
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com##.BanerTop100
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com##.adv-300-right
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com,tenovi.net,truyentuan.com##.adpia_banner
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com,xemphimchill.xyz##.popUpBannerBox
-phimgichill.net###headwrap>.computer
-phimgichill.net###headwrap>.mobile
 phimgichill.net##.pc-catfix
 phimgichill.net,ophimhdvn3.net###pc-catfix
 phimgichill.net,ophimhdvn3.net##.lightbox-player-pc
 phimgichill.net,ophimhdvn3.net##div[id^="preload-"]
-phimgichill.net,ophimhdvn3.net##lixi88-ads-left
-phimgichill.net,ophimhdvn3.net##mb_catfish_1xbet
 phimgichill.net,ophimhdvn3.net##mobile-catfix
-phimgichill.net,ophimhdvn3.net##preload-11bet
-phimgichill.net,ophimhdvn3.net##sobet-ads-right
-phimgichill.net,ophimhdvn3.net,vietnamplus.vn,kienthuc.net.vn,saostar.vn,huphimtv.com,bongda24h.vn,vieclam123.net,cungthi.online,appvn.com,linkerpt.com,tinnhac.com,antt.vn,film365.in,mphimmoi1.xyz,xemphimvuis.com,xemphimviet1.net,ghienphim8.net,nhadautu.vn,soikeo365.net,nghenhinvietnam.vn##.ads
 phimhaymoi.com##.popmake
 phimhaytv.info,congthucvatly.com##.fixed
 phimlongtieng.com,phimlongtieng.net###mobile_content_top
@@ -977,7 +970,7 @@ sachmoi.net##[href^="https://gotrackecom.info"]
 saostar.vn###mobi-top
 saostar.vn###pc-top
 saostar.vn##.d-flex.justify-content-between>div>div.d-flex.justify-content-around.mt-4
-saytruyenmoi.com,phimbo88vn.net,phimchat2.com##.ads_popup
+saytruyenmoi.com,phimbo88vn.net##.ads_popup
 sharecode.vn###myCarousel
 sharecode.vn##.banner-boder-zoom
 sieutamphim.com###scriptDiv
@@ -1489,9 +1482,9 @@ web15.sexphim1.com##.code-block-4
 !
 !#if (!adguard_ext_android_cb)
 ! version for all other AdGuard products
-! OriginalVersion: 20231221144322
+! OriginalVersion: 20231221164413
 ! Title: ABPVN List
-! Last modified: 21 Dec 2023 14:43:22 UTC+7
+! Last modified: 21 Dec 2023 16:44:13 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter
@@ -1663,7 +1656,7 @@ web15.sexphim1.com##.code-block-4
 ||lmssplus.com/static_image/ads-provider/$image
 ||luotphimtv1.com/wp-content/uploads/$media
 ||maclife.io^*.gif
-||media.giphy.com/media/$image,domain=animevietsub.fan|phimgichill.net
+||media.giphy.com/media/$image,domain=animevietsub.fan
 ||media.nghean24h.vn$image
 ||mehoathinh3.com/xml/
 ||mephimtv.net/wp-banner$image
@@ -1684,13 +1677,7 @@ web15.sexphim1.com##.code-block-4
 ||ophimhd.vip/upload
 ||ophimmoi.com/storage/files/qc/$image,domain=phimmoizz.org
 ||p.thoctv.com^*.gif$image
-||phimchat2.com/public/*.mp4$domain=phimchat2.com,redirect=noopmp3-0.1s
-||phimchat2.com/public/images/banner/$image
-||phimchat2.com^*.gif
 ||phimcuon.com^*.gif$image
-||phimdinhcao.com^*.xml$~third-party
-||phimdinhcao.net^*.xml$~third-party
-||phimgichill.net/player/dk.jpg
 ||phimhay.in^*.gif
 ||phimhaymoi.com^*.gif$image
 ||phimhaythuyetminh.live$csp=script-src 'self' 'unsafe-inline'
@@ -1739,7 +1726,7 @@ web15.sexphim1.com##.code-block-4
 ||reatimes.vn/ads/$image
 ||s.tainhaccho.vn/images/afl
 ||s2.truyentot.com^*.gif$image,domain=hhtq.vip
-||s3.amazonaws.com^$domain=phimdinhcao.net|phimdinhcao.com|phimlongtieng.net
+||s3.amazonaws.com^$domain=phimlongtieng.net
 ||saytruyenmoi.com/storage/images/banner/$image
 ||scrap.ithongtin.com/api/aff$xmlhttprequest
 ||senpay.vn/widget/
@@ -2028,7 +2015,7 @@ blogtruyen.vn##.qc-inner
 blogtruyen.vn##div.qc_TC_Chap_Middle
 blogtruyen.vn##div[id^="qc_M_"]
 blogtruyen.vn##div[style*="position: fixed;"]
-boctem.com,fimfast.pro,phimdinhcao.net,phimlongtieng.net,phimdinhcao.com,vuaphimmoi.net,phimtn.com,motchillz.org,anivn.club,phimhoathinh3d.com,vkooll.net,hoathinhtq.tv,hhhtq.net,xemphimchill.xyz,247phim.cc,hh3d.tv###popup-giua-man-hinh
+boctem.com,fimfast.pro,phimlongtieng.net,phimdinhcao.com,vuaphimmoi.net,phimtn.com,motchillz.org,anivn.club,phimhoathinh3d.com,vkooll.net,hoathinhtq.tv,hhhtq.net,xemphimchill.xyz,247phim.cc,hh3d.tv###popup-giua-man-hinh
 bongda.com.vn##.top_page
 bongda12h365.com##.list-dat-cuoc
 bongda21h.co###backgroundPopupp
@@ -2356,6 +2343,11 @@ ophimhay.com###adsTopInPageBanner
 ophimhay.com###popup
 ophimhay.com##.adsContainer
 ophimhd.vip###ad-container
+ophimhdvn3.net##lixi88-ads-left
+ophimhdvn3.net##mb_catfish_1xbet
+ophimhdvn3.net##preload-11bet
+ophimhdvn3.net##sobet-ads-right
+ophimhdvn3.net,vietnamplus.vn,kienthuc.net.vn,saostar.vn,huphimtv.com,bongda24h.vn,vieclam123.net,cungthi.online,appvn.com,linkerpt.com,tinnhac.com,antt.vn,film365.in,mphimmoi1.xyz,xemphimvuis.com,xemphimviet1.net,ghienphim8.net,nhadautu.vn,soikeo365.net,nghenhinvietnam.vn##.ads
 phapluatplus.vn##div[style="text-align:center;margin-top:0px;margin-bottom:0px;"]
 phim18zz.com##.catfishLoader
 phim18zz.com,mphimmoi1.xyz##.pcCatfish
@@ -2366,23 +2358,17 @@ phimbocn.com###sticky
 phimcuon.com##.show.ads-sticky
 phimdacap.tv##[data-clm="ccccc2"]
 phimdacap.tv##[data-id="ap3poapup"]
+phimdinhcao.com,phimdinhcao.net##.i9bet
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com###mobile_content_bottom
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com##.BanerTop100
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com##.adv-300-right
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com,tenovi.net,truyentuan.com##.adpia_banner
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com,xemphimchill.xyz##.popUpBannerBox
-phimgichill.net###headwrap>.computer
-phimgichill.net###headwrap>.mobile
 phimgichill.net##.pc-catfix
 phimgichill.net,ophimhdvn3.net###pc-catfix
 phimgichill.net,ophimhdvn3.net##.lightbox-player-pc
 phimgichill.net,ophimhdvn3.net##div[id^="preload-"]
-phimgichill.net,ophimhdvn3.net##lixi88-ads-left
-phimgichill.net,ophimhdvn3.net##mb_catfish_1xbet
 phimgichill.net,ophimhdvn3.net##mobile-catfix
-phimgichill.net,ophimhdvn3.net##preload-11bet
-phimgichill.net,ophimhdvn3.net##sobet-ads-right
-phimgichill.net,ophimhdvn3.net,vietnamplus.vn,kienthuc.net.vn,saostar.vn,huphimtv.com,bongda24h.vn,vieclam123.net,cungthi.online,appvn.com,linkerpt.com,tinnhac.com,antt.vn,film365.in,mphimmoi1.xyz,xemphimvuis.com,xemphimviet1.net,ghienphim8.net,nhadautu.vn,soikeo365.net,nghenhinvietnam.vn##.ads
 phimhaymoi.com##.popmake
 phimhaytv.info,congthucvatly.com##.fixed
 phimlongtieng.com,phimlongtieng.net###mobile_content_top
@@ -2464,7 +2450,7 @@ sachmoi.net##[href^="https://gotrackecom.info"]
 saostar.vn###mobi-top
 saostar.vn###pc-top
 saostar.vn##.d-flex.justify-content-between>div>div.d-flex.justify-content-around.mt-4
-saytruyenmoi.com,phimbo88vn.net,phimchat2.com##.ads_popup
+saytruyenmoi.com,phimbo88vn.net##.ads_popup
 sharecode.vn###myCarousel
 sharecode.vn##.banner-boder-zoom
 sieutamphim.com###scriptDiv

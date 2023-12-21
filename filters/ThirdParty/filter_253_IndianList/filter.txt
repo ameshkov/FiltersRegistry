@@ -1,8 +1,8 @@
 !
-! Checksum: pjTKoK4MQG8jVsX9Cjim6Q
-! OriginalVersion: 202312210851
+! Checksum: aizflwS6PZ1zHy2bAdxIlA
+! OriginalVersion: 202312211251
 ! Title: IndianList
-! Last modified: 21 Dec 2023 08:51 UTC
+! Last modified: 21 Dec 2023 12:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -715,6 +715,7 @@ _advt.jpg|
 @@||bdjahan.com^*/2020/01/add.jpg
 @@||bknewstoday.com/assets/uploads/Adv/resized/1664606739_WhatsApp_Image_2022_09_24_at_2_29_20_PM.jpeg
 @@||crimecapital.in/static/ad/*/colombia_v11.js
+@@||dailyasiabani.com/admin/home_right_add/Untitled-2%20copyfdh%209s9+ghdfs.JPG
 @@||dailypurbodesh.com/wp-content/uploads/ads/purbodesh_e_paper.jpg
 @@||emsindia.com/images/logo/1.png
 @@||enewsmp.com/uploaded_files/banner_img/enewsmp.com5f181c1882f7434.jpeg
@@ -1647,6 +1648,7 @@ perfection-ias-upsc$domain=nextbihar.com
 ||dailyalokito-chapainawabganj.com/wp-content/uploads/2018/07/jamuna.jpg
 ||dailyamaderbarisal.com/wp-content/uploads/2020/10/buy-website-bangladesh.jpg
 ||dailyamaderbarisal.com/wp-content/uploads/2020/10/engineerbd.png
+||dailyasiabani.com/admin/home_right_add/
 ||dailybahadur.com/wp-content/uploads/2020/06/Dr.-PK-Raut.jpg
 ||dailybahadur.com/wp-content/uploads/2020/06/sky-600.jpg
 ||dailybahadur.com/wp-content/uploads/2021/08/7311457935750117497_n-300x154.png
@@ -5426,6 +5428,7 @@ bharatdarshannews.com,hindustanvision.com###popup_box
 rojgarlive.com###popup_indiv2
 jagprerna.com###post-7708
 kolhapurlive.in###postBody > div:nth-child(n+3) .separator img
+badaunexpress.com###posts-list-widget-5 ~ .widget_text
 bhalukanews.com###primary img[alt="ads"]
 purbashabd24.com###primary-sidebar
 samacharhouse.com###quads-ad17070
@@ -5487,7 +5490,6 @@ nagarikbahas.com###secondary .widget_sp_image
 keralaviews.com###secondary .widget_text img
 janadeshexpress.in###secondary .widget_text:not(#text-17):not(#text-38)
 digantabani.com###secondary .widget_text:not(#text-32)
-badaunexpress.com###secondary > aside:not(#recent-posts-3)
 techalonews.com###secondary aside.widget_custom_html
 dnspnews.in###secondary aside.widget_media_image
 bhartiyanews.in###secondary aside.widget_text
@@ -5888,7 +5890,7 @@ bharatdarshannews.com##.adbo
 anandabazar.com,banglaxp.com,beanibazarnews24.com,lohagaranews24.com,radiokanchan.com.np,thebharatnews.net##.adbox
 onlinedabali.com##.adbx img
 arthikawaj.com,pchelplinebd.com,pradeshajjtak.com,pragativahini.com,rajnitiprotidin.com##.adcontainer
-ajkercrimenews.com,ajkerdarpon.com,ajkernarsingdi.com,ajkertanore.com,alokitobarisal.com,alokitocoxsbazar.com,alokitodigantonews24.com,alokitoteknaf.com,alorjatra.com,amaderkuakata.com,aponnewsbd.com,aznewsbd24.com,bangla71news.com,banglanews24ny.com,banglarjamin24.com,banglarkagoj.net,banglarsakal.com,bibartonbd.com,bijoysamachar.com,borendronews.com,businesshour24.com,chatgaiyakhobor.com,coxsbazartimes.com,dailyajkershomoy.com,dailyjugantorsangbad.com,dailynagorikdabi.com,dailyshowadesherkhobor24.com,dailysports24.com,dainiknarsingdi.com,dainikshikkhokderkotha.com,dainikvatibangla.com,diptonews24.com,doctortv.net,eibela.net,engrsvoice.com,gnewsbd24.com,gorkhapatraonline.com,gtbnews24.com,hamroeconomy.com,haoranchalerkotha.com,healthpati.com,himalayannews.com,inhnews.in,jagocomilla.com,jagodesh24.com,jamunanewsbd.com,kathmandupati.com,khabarpunja.com,khoborpatrabd.com,lalsobujerkontho.com,nagoriknewsbd.com,narsingdipratidin.com,natunbazar24.com,natunshokal.com,news18.com,news4nation.com,newsatfirst.com,newsdnntv.com,nktelevision.com,npkhabar24.com,odekhabishwo.com,paharkantho.com,paribahanjagot.com,paryatanbazar.com,pirojpursomoy.com,pollysangbad.com,prabhatkiran.net,rangpursangbad.com,rbcnewsbd.com,satkhiraprobaho.net,satkhiratoday.com,savarsangbad.com,shahnamabd.com,shamolbangla24.com,sharebiz.net,shikkhapotrika.com,shilonbangla.com,somoyerkantha.com,somoyersangbad.com,sudinamonline.com,sunamganjersomoy.com,surjodoy.com,tazakhobor24.com,teknafnews24.com,telegraphnews24.com,thebarisal.com,uttorersomoy.com,vachakam.com,voiceworld24.com##.add
+ajkercrimenews.com,ajkerdarpon.com,ajkernarsingdi.com,ajkertanore.com,alokitobarisal.com,alokitocoxsbazar.com,alokitodigantonews24.com,alokitoteknaf.com,alorjatra.com,amaderkuakata.com,aponnewsbd.com,aznewsbd24.com,bangla71news.com,banglanews24ny.com,banglarjamin24.com,banglarkagoj.net,banglarsakal.com,bdfinancialnews24.com,bibartonbd.com,bijoysamachar.com,borendronews.com,businesshour24.com,chatgaiyakhobor.com,coxsbazartimes.com,dailyajkershomoy.com,dailyjugantorsangbad.com,dailynagorikdabi.com,dailyshowadesherkhobor24.com,dailysports24.com,dainiknarsingdi.com,dainikshikkhokderkotha.com,dainikvatibangla.com,diptonews24.com,doctortv.net,eibela.net,engrsvoice.com,gnewsbd24.com,gorkhapatraonline.com,gtbnews24.com,hamroeconomy.com,haoranchalerkotha.com,healthpati.com,himalayannews.com,inhnews.in,jagocomilla.com,jagodesh24.com,jamunanewsbd.com,kathmandupati.com,khabarpunja.com,khoborpatrabd.com,lalsobujerkontho.com,nagoriknewsbd.com,narsingdipratidin.com,natunbazar24.com,natunshokal.com,news18.com,news4nation.com,newsatfirst.com,newsdnntv.com,nktelevision.com,npkhabar24.com,odekhabishwo.com,paharkantho.com,paribahanjagot.com,paryatanbazar.com,pirojpursomoy.com,pollysangbad.com,prabhatkiran.net,rangpursangbad.com,rbcnewsbd.com,satkhiraprobaho.net,satkhiratoday.com,savarsangbad.com,shahnamabd.com,shamolbangla24.com,sharebiz.net,shikkhapotrika.com,shilonbangla.com,somoyerkantha.com,somoyersangbad.com,sudinamonline.com,sunamganjersomoy.com,surjodoy.com,tazakhobor24.com,teknafnews24.com,telegraphnews24.com,thebarisal.com,uttorersomoy.com,vachakam.com,voiceworld24.com##.add
 ajkercrimetimes.com,bholahatchitro.com,sunbanglanews.com##.add .widget_area > img
 alokitonarayanganj24.net##.add .widget_area img:not([src*="54342.jpg"])
 dailysangbadprotidin.com##.add .widget_area ~ .widget_area
@@ -6474,7 +6476,7 @@ alayadivembuweb.lk##.e3lan img
 gvtjob.com,ibn24x7news.com,parvasinewspaper.com,yarlosai.com##.e3lan-below_header
 deshersangbad.com,graminujala.com,ibn24x7news.com,laxminews24x7.com,p2pnews.co,patrikajagat.com,samarsaleel.com,shriramjankitimes.com##.e3lan-bottom
 deshersangbad.com,mithilacitynews.in##.e3lan-post
-chandpurtimes.com,communitynews24.com,deshersangbad.com,hindustanheadlines.in,indiaupdate.co.in,laxminews24x7.com,vision4news.com##.e3lan-top
+badaunexpress.com,chandpurtimes.com,communitynews24.com,deshersangbad.com,hindustanheadlines.in,indiaupdate.co.in,laxminews24x7.com,vision4news.com##.e3lan-top
 dharuvu.com##.e3lan300_250-widget
 dailysharebazar.com##.e3lan300_600-widget
 krishideepam.in##.eaa-ad
@@ -6618,7 +6620,7 @@ nepaljapan.com##.fixedbar
 daniksamachar.com##.flashwp-featured-posts-area
 daniksamachar.com##.flashwp-side-widget.widget_text
 aapkaparyas.in##.flex-c-s
-arohitodaynews.com,dainik4media.com##.flexslider
+arohitodaynews.com,badaunexpress.com,dainik4media.com##.flexslider
 sahilonline.net##.flexslider-eid
 donetbd.com##.floating_ad_single
 lanka4.com##.fluid-news
@@ -6764,7 +6766,6 @@ khabareducation.com##.hm-header-image
 brightpost.in##.hm-header-sidebar
 sangbadprotidin.com##.hm-sidebar > div[style]
 setoshikhar.com##.hmxbiekzq
-madhyamam.com##.hocal-ad-block
 chattogramnews.com##.home .elementor-widget-image
 humarabikaner.com##.home .site-wrap > div:not(.elementor)
 bangla-news24.com##.home-e3lan
@@ -6802,6 +6803,7 @@ tarunchhattisgarhkorba.com##.hustle-popup
 blackoutnews.in##.hustle-ui
 mediabharti.net##.icici
 thereport24.com##.idlc
+bengali.indianexpress.com##.ie-network-taboola
 60secondsnow.com##.iframe-ads-block
 ujyaaloonline.com##.iframe-container
 iftamil.com##.iftam-content
@@ -6886,6 +6888,7 @@ setvnews24.com##.leadnews .widget_area
 sharebazarnews.com##.lef-sidebar-ads
 thebengalitimes.com##.lefr-box
 lanka4.com##.left .aside-wrapper
+madhyamam.com##.left_level_2
 bankura24x7.com,haribhoomi.com,hmtvlive.com,swadeshnews.in,thejasnews.com,tv5news.in##.left_level_ad
 tnilive.com##.lefta
 lekalionline.com##.lekali_online_adv
@@ -7051,7 +7054,6 @@ maharashtratimes.com##.news-advertorial
 najiknews.com##.news-content-inner-ad
 arthasansar.com##.news-desc figure img
 gorkhapatraonline.com##.news-inline-add
-badaunexpress.com##.news-slider
 payyolionline.in##.news-text-content p img
 news13uttarakhand.com##.news1-before-content_6
 news13uttarakhand.com##.news1-before-content_9
@@ -7076,8 +7078,8 @@ nepalraftar.com##.no-bod > a
 narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 abnewslive.in,nepalimato.com,onlinejalandhar.com#@#.np-ads-wrapper
-abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 bidhannagartimes.com,currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in,topnewskerala.com##.np-header-ads-area
+abnewslive.in,onlinejalandhar.com#@#.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
 livehindustan.com##.ntwrk-wdgt
 swadeshbani.com##.nv-header-ads-area
@@ -7100,6 +7102,7 @@ telugu.mykhel.com##.os-ad-c
 newuthayan.com##.p-3.text-center
 bangladeshglobal.com##.p-b-35.container
 cinemavalai.com##.page.hentry
+bartamanpatrika.com##.pageAdBanner_300X255 div
 i-news24.com##.page_left div > iframe
 shirurtaluka.com##.pageadvt
 pahadprabhat.com##.pahad-widget
@@ -7436,6 +7439,7 @@ bsnknews.com,khabardekho.com,khabarwarrior.com,news14india.com##.sticky-sidebar 
 khabardarinews.com##.sticky-sidebar > section.widget_media_image
 punjabiakhbar.com##.sticky-sidebar section.widget_media_image
 andhrajyothy.com,channel24bd.tv##.stickyAds
+madhyamam.com##.story-ad1
 livehindustan.com##.story-listing:empty
 chandaulisamachar.com##.story-wrapper a.disabled
 aajtak.in##.stoybday-ad
@@ -8222,6 +8226,7 @@ ourmyliddy.com##a[href*="rv-weddinghall"]
 seithy.com##a[href*="splads"]
 starsangbad.com##a[href*="staraluminium"]
 pannagam.com##a[href*="stsstudio.com"]
+kalvikural.com##a[href*="successacademy.org.in"] img
 tnstudy.in##a[href*="surabooks.com"]
 eelamalar.com##a[href*="tamileelamsongs.blogspot.com"]
 tamildaily.com##a[href*="tamiltv.com"]
@@ -8274,6 +8279,7 @@ ammanealing.org#?#.wpb_wrapper:-abp-has(> div > .sc_item_title:-abp-contains(Adv
 andhrajyothy.com#?#div:-abp-has(> div[id*="-ad-"])
 angulonline.com#?#.elementor-widget-heading:-abp-has(> div > h2:-abp-contains(Sponsored))
 chakrapath.com##app-ad-control-header
+bartamanpatrika.com##app-ads[slotid="after6thNewsAdSlot"]
 newsnib.in##app-squaread
 newsnib.in##app-squaread2
 newsnib.in##app-squaread4

@@ -519,6 +519,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 !
 !
 !
+||ga.getresponse.com^
 ||t.fastcmp.com^
 ||prod-mhaa.mhtr.be^
 ||dmp.eland-tech.com^

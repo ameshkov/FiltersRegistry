@@ -230,6 +230,8 @@ greenbuildingadvisor.com,finewoodworking.com##+js(set-cookie, taunton_user_conse
 greenbuildingadvisor.com,finewoodworking.com##+js(set-cookie, taunton_user_consent_analytics, false)
 ! Rule "physikinstrumente.de,karlknauer.de,schoeck.com,resonate.coop,northgatevehiclehire.ie,badhall.at##+js(set-cookie, cookieconsent_status, allow)" converted to: "physikinstrumente.de,karlknauer.de,schoeck.com,resonate.coop,northgatevehiclehire.ie,badhall.at#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status', 'allow')"
 physikinstrumente.de,karlknauer.de,schoeck.com,resonate.coop,northgatevehiclehire.ie,badhall.at##+js(set-cookie, cookieconsent_status, allow)
+! Rule "rt.com##+js(set-cookie, rt-cb-approve, true)" converted to: "rt.com#%#//scriptlet('ubo-set-cookie.js', 'rt-cb-approve', 'true')"
+rt.com##+js(set-cookie, rt-cb-approve, true)
 ! Rule "mullgs.se##+js(set-cookie, cc-accepted, 2)" converted to: "mullgs.se#%#//scriptlet('ubo-set-cookie.js', 'cc-accepted', '2')"
 mullgs.se##+js(set-cookie, cc-accepted, 2)
 ! Rule "1a-sehen.de##+js(set-cookie, cc-item-google, false)" converted to: "1a-sehen.de#%#//scriptlet('ubo-set-cookie.js', 'cc-item-google', 'false')"

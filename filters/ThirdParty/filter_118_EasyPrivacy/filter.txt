@@ -1,7 +1,7 @@
 !
-! OriginalVersion: 202312210840
+! OriginalVersion: 202312211219
 ! Title: EasyPrivacy
-! Last modified: 21 Dec 2023 08:40 UTC
+! Last modified: 21 Dec 2023 12:19 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 !
@@ -6729,6 +6729,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||curvycry.com^
 ||cushiondrum.com^
 ||cushionpig.com^
+||cutcurrent.com^
 ||cutecalculator.com^
 ||cutechin.com^
 ||cutecushion.com^
