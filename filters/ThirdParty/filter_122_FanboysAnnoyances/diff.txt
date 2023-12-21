@@ -3120,6 +3120,8 @@ hollywoodunlocked.com##body,html:style(overflow: auto !important; position: init
 americastestkitchen.com##body,html:style(overflow: auto !important; position: initial !important;)
 ! Rule "artribune.com##+js(set-cookie, m6e-newsletter, 1)" converted to: "artribune.com#%#//scriptlet('ubo-set-cookie.js', 'm6e-newsletter', '1')"
 artribune.com##+js(set-cookie, m6e-newsletter, 1)
+! Rule "duluthtrading.com##+js(set-local-storage-item, emailLightBox, true)" converted to: "duluthtrading.com#%#//scriptlet('ubo-set-local-storage-item.js', 'emailLightBox', 'true')"
+duluthtrading.com##+js(set-local-storage-item, emailLightBox, true)
 ! Rule "thefp.com##body:style(overflow: scroll !important)" converted to: "thefp.com#$#body { overflow: scroll !important }"
 thefp.com##body:style(overflow: scroll !important)
 ! Rule "dailyvoice.com##body:style(overflow: auto !important; position: initial !important;)" converted to: "dailyvoice.com#$#body { overflow: auto !important; position: initial !important; }"
@@ -6598,6 +6600,8 @@ hollywoodunlocked.com##body,html:style(overflow: auto !important; position: init
 americastestkitchen.com##body,html:style(overflow: auto !important; position: initial !important;)
 ! Rule "artribune.com##+js(set-cookie, m6e-newsletter, 1)" converted to: "artribune.com#%#//scriptlet('ubo-set-cookie.js', 'm6e-newsletter', '1')"
 artribune.com##+js(set-cookie, m6e-newsletter, 1)
+! Rule "duluthtrading.com##+js(set-local-storage-item, emailLightBox, true)" converted to: "duluthtrading.com#%#//scriptlet('ubo-set-local-storage-item.js', 'emailLightBox', 'true')"
+duluthtrading.com##+js(set-local-storage-item, emailLightBox, true)
 ! Rule "thefp.com##body:style(overflow: scroll !important)" converted to: "thefp.com#$#body { overflow: scroll !important }"
 thefp.com##body:style(overflow: scroll !important)
 ! Rule "dailyvoice.com##body:style(overflow: auto !important; position: initial !important;)" converted to: "dailyvoice.com#$#body { overflow: auto !important; position: initial !important; }"
@@ -6864,10 +6868,20 @@ tradedepot.co.nz##body:style(overflow: auto !important; position: initial !impor
 harborfreight.com##body:style(overflow: auto !important; position: initial !important;)
 ! Rule "generalpants.com##body:style(overflow: auto !important; position: initial !important;)" converted to: "generalpants.com#$#body { overflow: auto !important; position: initial !important; }"
 generalpants.com##body:style(overflow: auto !important; position: initial !important;)
+! Rule "dsw.com##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "dsw.com#$#body,html { overflow: auto !important; position: initial !important; }"
+dsw.com##body,html:style(overflow: auto !important; position: initial !important;)
+! Rule "bedbathandbeyond.com##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "bedbathandbeyond.com#$#body,html { overflow: auto !important; position: initial !important; }"
+bedbathandbeyond.com##body,html:style(overflow: auto !important; position: initial !important;)
 ! Rule "networldsports.ca,summitracing.com##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "networldsports.ca,summitracing.com#$#body,html { overflow: auto !important; position: initial !important; }"
 networldsports.ca,summitracing.com##body,html:style(overflow: auto !important; position: initial !important;)
 ! Rule "racketsandrunners.ca##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "racketsandrunners.ca#$#body,html { overflow: auto !important; position: initial !important; }"
 racketsandrunners.ca##body,html:style(overflow: auto !important; position: initial !important;)
+! Rule "saucerco.com##+js(set-cookie, newsletter-newsletter-popup, true)" converted to: "saucerco.com#%#//scriptlet('ubo-set-cookie.js', 'newsletter-newsletter-popup', 'true')"
+saucerco.com##+js(set-cookie, newsletter-newsletter-popup, true)
+! Rule "backcountry.com##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "backcountry.com#$#body,html { overflow: auto !important; position: initial !important; }"
+backcountry.com##body,html:style(overflow: auto !important; position: initial !important;)
+! Rule "modesens.com##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "modesens.com#$#body,html { overflow: auto !important; position: initial !important; }"
+modesens.com##body,html:style(overflow: auto !important; position: initial !important;)
 ! Rule "allbirds.co.nz,allbirds.com,allbirds.com.au##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "allbirds.co.nz,allbirds.com,allbirds.com.au#$#body,html { overflow: auto !important; position: initial !important; }"
 allbirds.co.nz,allbirds.com,allbirds.com.au##body,html:style(overflow: auto !important; position: initial !important;)
 ! Rule "pbteen.com##body:style(overflow: auto !important; position: initial !important;)" converted to: "pbteen.com#$#body { overflow: auto !important; position: initial !important; }"
@@ -6902,6 +6916,12 @@ publiclands.com##body:style(overflow: auto !important; position: initial !import
 leevalley.com##body:style(overflow: auto !important; position: initial !important;)
 ! Rule "massivetoyblowout.ca##body:style(overflow: auto !important; position: initial !important;)" converted to: "massivetoyblowout.ca#$#body { overflow: auto !important; position: initial !important; }"
 massivetoyblowout.ca##body:style(overflow: auto !important; position: initial !important;)
+! Rule "sears.com##+js(set-session-storage-item, banner_session, true)" converted to: "sears.com#%#//scriptlet('ubo-set-session-storage-item.js', 'banner_session', 'true')"
+sears.com##+js(set-session-storage-item, banner_session, true)
+! Rule "sharperimage.com##+js(set-cookie, mystery_popup, true)" converted to: "sharperimage.com#%#//scriptlet('ubo-set-cookie.js', 'mystery_popup', 'true')"
+sharperimage.com##+js(set-cookie, mystery_popup, true)
+! Rule "sweetwater.com##+js(set-cookie, sws-gwpop, 1)" converted to: "sweetwater.com#%#//scriptlet('ubo-set-cookie.js', 'sws-gwpop', '1')"
+sweetwater.com##+js(set-cookie, sws-gwpop, 1)
 ! Rule "glasses.com##body,html:style(height: auto !important; overflow: auto !important)" converted to: "glasses.com#$#body,html { height: auto !important; overflow: auto !important }"
 glasses.com##body,html:style(height: auto !important; overflow: auto !important)
 ! Rule "olaproducts.co.nz##body,html:style(height: auto !important; overflow: auto !important)" converted to: "olaproducts.co.nz#$#body,html { height: auto !important; overflow: auto !important }"

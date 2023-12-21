@@ -1,8 +1,8 @@
 !
-! Checksum: nXYk2hHtA9LzqaileNiVyw
-! OriginalVersion: 202312210050
+! Checksum: 86gqg7RhtwC3eo0VpMy2PA
+! OriginalVersion: 202312210451
 ! Title: EasyList
-! Last modified: 21 Dec 2023 00:50 UTC
+! Last modified: 21 Dec 2023 04:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html

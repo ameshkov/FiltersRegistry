@@ -1,5 +1,5 @@
 
-FiltersCompiler report 12/21/2023 1:00:17 AM:
+FiltersCompiler report 12/21/2023 5:00:15 AM:
 
 Filter ID: 101
 Filter name: EasyList
@@ -27,7 +27,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 104
 Filter name: EasyList China
-Compiled rules: 18878
+Compiled rules: 18882
 Excluded rules: 52
 URL: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 INVALID RULES:
@@ -130,7 +130,7 @@ URL: https://raw.githubusercontent.com/KonoromiHimaries/PolishSubFilters/master/
 ---------------------------
 Filter ID: 118
 Filter name: EasyPrivacy
-Compiled rules: 33601
+Compiled rules: 33609
 Excluded rules: 12
 URL: https://easylist.to/easylist/easyprivacy.txt
 All rules are valid.
@@ -157,8 +157,8 @@ All rules are valid.
 ---------------------------
 Filter ID: 122
 Filter name: Fanboy's Annoyances
-Compiled rules: 57113
-Excluded rules: 6958
+Compiled rules: 57154
+Excluded rules: 6978
 URL: https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 INVALID RULES:
 Error: Invalid selector: '+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)' -- '+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)' is not a valid selector in rule: zippia.com##+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)
@@ -324,12 +324,10 @@ URL: https://easylist-downloads.adblockplus.org/bitblock.txt
 ---------------------------
 Filter ID: 214
 Filter name: ABPVN List
-Compiled rules: 3071
-Excluded rules: 34
+Compiled rules: 3055
+Excluded rules: 30
 URL: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn_adguard.txt
-INVALID RULES:
-Error: Invalid selector: '#.body_wrapper1' -- Error: unable to select by '#.body_wrapper1' — '#.body_wrapper1' is not a valid selector in rule: ngaytho.me###.body_wrapper1
-Error: Invalid selector: '#.body_wrapper1' -- Error: unable to select by '#.body_wrapper1' — '#.body_wrapper1' is not a valid selector in rule: ngaytho.me###.body_wrapper1
+All rules are valid.
 ---------------------------
 Filter ID: 215
 Filter name: Fanboy's Enhanced Tracking List
@@ -553,7 +551,7 @@ URL: https://paulgb.github.io/BarbBlock/blacklists/adblock-plus.txt
 ---------------------------
 Filter ID: 241
 Filter name: EasyList Cookie List
-Compiled rules: 28866
+Compiled rules: 28872
 Excluded rules: 2986
 URL: https://www.fanboy.co.nz/fanboy-cookiemonster.txt
 All rules are valid.
@@ -22406,7 +22404,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 224
 Filter name: AdGuard Chinese filter
-Compiled rules: 22210
+Compiled rules: 22214
 Excluded rules: 50
 URL: https://filters.adtidy.org/extension/chromium/filters/224.txt
 INVALID RULES:
