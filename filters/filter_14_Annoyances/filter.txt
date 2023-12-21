@@ -171,7 +171,7 @@
 ###termly-code-snippet-support
 ##.etiCookieBanner
 ###cmplz-cookiebanner-container
-##body #iubenda-cs-banner
+###iubenda-cs-banner
 ##.cookie-agreement-wrapper
 ###cookie_notification
 ##ark-cookiebar
@@ -14913,6 +14913,8 @@ adguard.info,adguard.com,adguard.app##.hello_from_adguard_annoyances_cookies
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/168923
+coolsoft.altervista.org#@##iubenda-cs-banner
 ! https://github.com/AdguardTeam/AdguardFilters/issues/168924
 lowbeats.de#@##BorlabsCookieBox
 lowbeats.de#@#.cookie-box:not(body):not(html)
@@ -29651,6 +29653,7 @@ kurashiru.com#$#html.dly-modal-active { overflow: auto !important; }
 ! SECTION: Popups - Mobile sites only
 !#if (adguard_app_android || adguard_app_ios || adguard_ext_android_cb || ext_ublock)
 !
+imobie.jp##.sideadv_wrapmo
 magokoro-bento.com#$#.popup_outer { display: none !important; }
 magokoro-bento.com#$#html.popup_hide { overflow: auto !important; }
 chromewebstore.google.com##div[aria-labelledby="promo-header"]
@@ -31066,6 +31069,7 @@ newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,nordbayern.de,theloca
 !
 ! SECTION: Subscriptions - Regular rules
 !
+newsweek.com##.newsletter-signup-horizontal
 theintercept.com###homepage-newsletter
 theintercept.com##.newsletter-embed
 theintercept.com###newsletter-article-bottom
@@ -37474,6 +37478,7 @@ turkishairlines.com,atmos-tokyo.com,radarbox.com,ciceksepeti.com,rabota.by,temp-
 ! https://github.com/AdguardTeam/AdguardFilters/issues/161301
 temu.com#?#div[role="main"] div[style] > div[style]:has(> div[style] div[js-selector="mobile-download-ui"])
 !
+blove.jp##.app-store-link
 radio.de###app
 crmeb.com##body > div#side
 crmeb.com##.floatWindow

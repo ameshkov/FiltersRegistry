@@ -171,7 +171,7 @@
 ###termly-code-snippet-support
 ##.etiCookieBanner
 ###cmplz-cookiebanner-container
-##body #iubenda-cs-banner
+###iubenda-cs-banner
 ##.cookie-agreement-wrapper
 ###cookie_notification
 ##ark-cookiebar
@@ -14913,6 +14913,8 @@ adguard.info,adguard.com,adguard.app##.hello_from_adguard_annoyances_cookies
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/168923
+coolsoft.altervista.org#@##iubenda-cs-banner
 ! https://github.com/AdguardTeam/AdguardFilters/issues/168924
 lowbeats.de#@##BorlabsCookieBox
 lowbeats.de#@#.cookie-box:not(body):not(html)
