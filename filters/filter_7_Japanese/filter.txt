@@ -1629,6 +1629,10 @@ kuruma-news.jp,magmix.jp,trafficnews.jp$$div[data-history="photo_extra"]
 /wp-content/themes/CashLINESystem/js/modal.$script
 !
 ! Malware/Phishing
+.click/mac/^$document
+.click/win/^$document
+.xyz/mac/^$document
+.xyz/win/^$document
 ://smbc-$document,domain=fit|shop
 .xyz/funccode.php|$document
 .cloud/_/*/WHkFeaR2U/*$document
