@@ -1,8 +1,8 @@
 !
-! Checksum: TzIZkMA5bN+E5nFvahNpOw
-! OriginalVersion: 202312211650
+! Checksum: 4mHx3CvgF6x3hgnwJIgpVQ
+! OriginalVersion: 202312212050
 ! Title: EasyList Polish
-! Last modified: 21 Dec 2023 16:50 UTC
+! Last modified: 21 Dec 2023 20:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -994,7 +994,7 @@ terazgostynin.pl##.ads__top
 doba.pl##.ads_row
 pl.hospitalby.com##.adsense
 koty.pl,psy.pl##.adsenseAd
-24jgora.pl,bp24.pl,cgm.pl,debica24.eu,egarwolin.pl,ekspresjaroslawski.pl,goral.info.pl,historykon.pl,itvpiaseczno.pl,kartuzy.info,kurierpodlaski.pl,lowicz24.eu,mtv24.tv,nowawrzesnia.pl,pogonszczecin.pl,powiatowa.info,tp.com.pl,vegespot.pl,zlotowskie.pl##.adv
+24jgora.pl,bp24.pl,cgm.pl,debica24.eu,egarwolin.pl,ekspresjaroslawski.pl,goral.info.pl,historykon.pl,itvpiaseczno.pl,kartuzy.info,kurierpodlaski.pl,lowicz24.eu,mtv24.tv,nowawrzesnia.pl,pogonszczecin.pl,powiatowa.info,tp.com.pl,vegespot.pl,zambrow.org,zlotowskie.pl##.adv
 nowezyciepabianic.pl##.adv--above-news
 24jgora.pl,24wroclaw.pl,zambrow.org##.adv--halfpage
 24wroclaw.pl,wterenie.pl##.adv--rectangle
