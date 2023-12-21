@@ -522,6 +522,8 @@ gov.lv##+js(set-cookie, allowCookies, 0)
 tise.com##+js(set-cookie, cookiePolicyAccepted, true)
 ! Rule "codecamps.com##+js(set-cookie, codecamps.cookiesConsent, true)" converted to: "codecamps.com#%#//scriptlet('ubo-set-cookie.js', 'codecamps.cookiesConsent', 'true')"
 codecamps.com##+js(set-cookie, codecamps.cookiesConsent, true)
+! Rule "avell.com.br##+js(set-cookie, cookiesConsent, true)" converted to: "avell.com.br#%#//scriptlet('ubo-set-cookie.js', 'cookiesConsent', 'true')"
+avell.com.br##+js(set-cookie, cookiesConsent, true)
 ! Rule "moneyfarm.com##+js(set-cookie, consent_updated, true)" converted to: "moneyfarm.com#%#//scriptlet('ubo-set-cookie.js', 'consent_updated', 'true')"
 moneyfarm.com##+js(set-cookie, consent_updated, true)
 ! Rule "bassolsenergia.com##+js(set-cookie, CookienatorConsent, false)" converted to: "bassolsenergia.com#%#//scriptlet('ubo-set-cookie.js', 'CookienatorConsent', 'false')"
@@ -1024,6 +1026,8 @@ hot.si##+js(set-cookie, permission_statistic_cookies, 0)
 hot.si##+js(set-cookie, permission_funktional_cookies, 1)
 ! Rule "hot.si##+js(set-cookie, cookieconsent, 1)" converted to: "hot.si#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent', '1')"
 hot.si##+js(set-cookie, cookieconsent, 1)
+! Rule "oxfordonlineenglish.com##+js(set-cookie, ooe_cookie_policy_accepted, no)" converted to: "oxfordonlineenglish.com#%#//scriptlet('ubo-set-cookie.js', 'ooe_cookie_policy_accepted', 'no')"
+oxfordonlineenglish.com##+js(set-cookie, ooe_cookie_policy_accepted, no)
 ! Rule "pccomponentes.fr,pccomponentes.com,pccomponentes.pt##+js(set-cookie, accept_cookie, 1)" converted to: "pccomponentes.fr,pccomponentes.com,pccomponentes.pt#%#//scriptlet('ubo-set-cookie.js', 'accept_cookie', '1')"
 pccomponentes.fr,pccomponentes.com,pccomponentes.pt##+js(set-cookie, accept_cookie, 1)
 ! Rule "oead.at,innovationsstiftung-bildung.at,etwinning.at,arqa-vet.at,zentrumfuercitizenscience.at,vorstudienlehrgang.at,erasmusplus.at##+js(set-cookie, cookieconsent_status_new, 3)" converted to: "oead.at,innovationsstiftung-bildung.at,etwinning.at,arqa-vet.at,zentrumfuercitizenscience.at,vorstudienlehrgang.at,erasmusplus.at#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status_new', '3')"
@@ -3996,6 +4000,8 @@ gov.lv##+js(set-cookie, allowCookies, 0)
 tise.com##+js(set-cookie, cookiePolicyAccepted, true)
 ! Rule "codecamps.com##+js(set-cookie, codecamps.cookiesConsent, true)" converted to: "codecamps.com#%#//scriptlet('ubo-set-cookie.js', 'codecamps.cookiesConsent', 'true')"
 codecamps.com##+js(set-cookie, codecamps.cookiesConsent, true)
+! Rule "avell.com.br##+js(set-cookie, cookiesConsent, true)" converted to: "avell.com.br#%#//scriptlet('ubo-set-cookie.js', 'cookiesConsent', 'true')"
+avell.com.br##+js(set-cookie, cookiesConsent, true)
 ! Rule "moneyfarm.com##+js(set-cookie, consent_updated, true)" converted to: "moneyfarm.com#%#//scriptlet('ubo-set-cookie.js', 'consent_updated', 'true')"
 moneyfarm.com##+js(set-cookie, consent_updated, true)
 ! Rule "bassolsenergia.com##+js(set-cookie, CookienatorConsent, false)" converted to: "bassolsenergia.com#%#//scriptlet('ubo-set-cookie.js', 'CookienatorConsent', 'false')"
@@ -4490,6 +4496,16 @@ katapult-shop.de,evocsports.com,shop.almawin.de,esm-computer.de,calmwaters.de,me
 firmen.wko.at##+js(set-cookie, consent, true)
 ! Rule "byggern.no##+js(set-cookie, cookies_accepted, yes)" converted to: "byggern.no#%#//scriptlet('ubo-set-cookie.js', 'cookies_accepted', 'yes')"
 byggern.no##+js(set-cookie, cookies_accepted, yes)
+! Rule "hot.si##+js(set-cookie, permission_marketing_cookies, 0)" converted to: "hot.si#%#//scriptlet('ubo-set-cookie.js', 'permission_marketing_cookies', '0')"
+hot.si##+js(set-cookie, permission_marketing_cookies, 0)
+! Rule "hot.si##+js(set-cookie, permission_statistic_cookies, 0)" converted to: "hot.si#%#//scriptlet('ubo-set-cookie.js', 'permission_statistic_cookies', '0')"
+hot.si##+js(set-cookie, permission_statistic_cookies, 0)
+! Rule "hot.si##+js(set-cookie, permission_funktional_cookies, 1)" converted to: "hot.si#%#//scriptlet('ubo-set-cookie.js', 'permission_funktional_cookies', '1')"
+hot.si##+js(set-cookie, permission_funktional_cookies, 1)
+! Rule "hot.si##+js(set-cookie, cookieconsent, 1)" converted to: "hot.si#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent', '1')"
+hot.si##+js(set-cookie, cookieconsent, 1)
+! Rule "oxfordonlineenglish.com##+js(set-cookie, ooe_cookie_policy_accepted, no)" converted to: "oxfordonlineenglish.com#%#//scriptlet('ubo-set-cookie.js', 'ooe_cookie_policy_accepted', 'no')"
+oxfordonlineenglish.com##+js(set-cookie, ooe_cookie_policy_accepted, no)
 ! Rule "pccomponentes.fr,pccomponentes.com,pccomponentes.pt##+js(set-cookie, accept_cookie, 1)" converted to: "pccomponentes.fr,pccomponentes.com,pccomponentes.pt#%#//scriptlet('ubo-set-cookie.js', 'accept_cookie', '1')"
 pccomponentes.fr,pccomponentes.com,pccomponentes.pt##+js(set-cookie, accept_cookie, 1)
 ! Rule "oead.at,innovationsstiftung-bildung.at,etwinning.at,arqa-vet.at,zentrumfuercitizenscience.at,vorstudienlehrgang.at,erasmusplus.at##+js(set-cookie, cookieconsent_status_new, 3)" converted to: "oead.at,innovationsstiftung-bildung.at,etwinning.at,arqa-vet.at,zentrumfuercitizenscience.at,vorstudienlehrgang.at,erasmusplus.at#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status_new', '3')"

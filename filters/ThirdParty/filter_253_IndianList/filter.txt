@@ -1,8 +1,8 @@
 !
-! Checksum: bwxluLQkcrEuN+I764h92w
-! OriginalVersion: 202312202051
+! Checksum: B+1MqDqH7LnTLpMKGnwkAw
+! OriginalVersion: 202312210051
 ! Title: IndianList
-! Last modified: 20 Dec 2023 20:51 UTC
+! Last modified: 21 Dec 2023 00:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html

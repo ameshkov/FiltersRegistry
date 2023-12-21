@@ -1,7 +1,7 @@
 !
-! Checksum: ty+/YqIOy7IWcoj3BXFabg
+! Checksum: m8rM3NHMA9SyVJ0WMjDgUQ
 ! Title: Easylist Cookie List
-! Updated: 2023-12-20 21:00 UTC
+! Updated: 2023-12-21 01:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22064,6 +22064,7 @@ streema.com#%#//scriptlet('ubo-set-cookie.js', 'cookie_warning', '1')
 gov.lv#%#//scriptlet('ubo-set-cookie.js', 'allowCookies', '0')
 tise.com#%#//scriptlet('ubo-set-cookie.js', 'cookiePolicyAccepted', 'true')
 codecamps.com#%#//scriptlet('ubo-set-cookie.js', 'codecamps.cookiesConsent', 'true')
+avell.com.br#%#//scriptlet('ubo-set-cookie.js', 'cookiesConsent', 'true')
 moneyfarm.com#%#//scriptlet('ubo-set-cookie.js', 'consent_updated', 'true')
 bassolsenergia.com#%#//scriptlet('ubo-set-cookie.js', 'CookienatorConsent', 'false')
 simpl.rent#%#//scriptlet('ubo-set-cookie.js', 'acsr', '1')
@@ -22315,6 +22316,7 @@ hot.si#%#//scriptlet('ubo-set-cookie.js', 'permission_marketing_cookies', '0')
 hot.si#%#//scriptlet('ubo-set-cookie.js', 'permission_statistic_cookies', '0')
 hot.si#%#//scriptlet('ubo-set-cookie.js', 'permission_funktional_cookies', '1')
 hot.si#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent', '1')
+oxfordonlineenglish.com#%#//scriptlet('ubo-set-cookie.js', 'ooe_cookie_policy_accepted', 'no')
 pccomponentes.fr,pccomponentes.com,pccomponentes.pt#%#//scriptlet('ubo-set-cookie.js', 'accept_cookie', '1')
 oead.at,innovationsstiftung-bildung.at,etwinning.at,arqa-vet.at,zentrumfuercitizenscience.at,vorstudienlehrgang.at,erasmusplus.at#%#//scriptlet('ubo-set-cookie.js', 'cookieconsent_status_new', '3')
 jeger.pl#%#//scriptlet('ubo-set-cookie.js', '_acceptCookies', '1', '', 'reload', '1')
@@ -26112,7 +26114,7 @@ energiewonen.nl###stOverlay
 energiewonen.nl###stOverlayB
 picnic-supermarkt.nl###switch2
 bingoal.be###tocmask
-schulinck.nl###udtDark
+antwoordop.nl,schulinck.nl###udtDark
 webshop.nl##.Gdpr-module__gdpr___oxQjD
 unionriver.nl##.H_MhpZ
 woonfonds.mijnleninginzicht.nl##.ModalCookie
