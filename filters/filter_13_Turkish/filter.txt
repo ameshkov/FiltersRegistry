@@ -2174,6 +2174,11 @@ $xmlhttprequest,third-party,denyallow=linkvertise.com|fastly.net|statically.io|s
 /service/advertchannels?$xmlhttprequest,redirect=nooptext,domain=mardinhaber.com.tr|gidahatti.com|bolugundem.com
 dirilispostasi.com,turkuazgazetesi.net,yenialanya.com,bugunkocaeli.com.tr,cagdaskocaeli.com.tr,mansetaydin.com,seskocaeli.com,kocaelibarisgazetesi.com,kocaelikoz.com,enkocaeli.com##.block-pano > div.us
 !
+||economynews24.com/show-promote.min.js
+yabancidizi.io#?#.poster > div:has(> div.bx-sidebar > div.flex > a[href^="https://kzn.pw/"])
+dizimom.de##.videoustuheader
+||ssl.p.jwpcdn.com/player/*/vast.js
+||dizimom.de/wp-content/themes/dizimom/js/vastt.js
 kocuce.com##body > center > a > img[style="max-width: 100%"]
 kocuce.com##.slickModal
 merlininkazani.com##.leader-board-row
@@ -2727,7 +2732,6 @@ afroditscans.com###footer > p > span[style]
 jetfilmizle.*##body > div[id] > [style^="position:fixed;inset:"][style*="z-index:"][style*="height:100%;width:100%"]
 play.dizigom*.*/640x360.
 birasyadizi.com,goodfilmizle.com,zitinger11.cfd,zitinger5.cfd##a[href^="https://cutt.ly/"]
-||v*.zopim.com^$domain=ltbjeans.com
 ||indirmedenfilmizle.vip/show-promote.js
 anizm.net##div[style^="text-align: center;"] > a[target="_blank"]:not([href="https://anizm.net/"])
 tgrthaber.com.tr##div[id^="dfp-sidebar-"]
