@@ -6078,6 +6078,7 @@ newduba.cn###jq_youxi
 ||liujiahao6.cn^
 ||xycxhgrp.xyz^
 ||tycxhgrp.xyz^
+||mycxhgrp.xyz^
 ||zzyy20.top^
 ##[style*="sotv.me"]
 ##a[href$="/1c626.com"]
