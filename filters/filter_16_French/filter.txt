@@ -135,6 +135,8 @@ capital.fr#@#.plainAd
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/169025
+cyclismactu.net#%#//scriptlet('prevent-addEventListener', 'load', 'isAdblock')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/168555
 rmcbfmplay.com#%#//scriptlet('prevent-fetch', '/www3\.doubleclick\.net|tagger\.opecloud\.com/')
 !#safari_cb_affinity(general,privacy)
@@ -225,9 +227,6 @@ trustmyscience.com##.adb-border
 ! https://github.com/AdguardTeam/Scriptlets/issues/300
 !+ PLATFORM(windows, mac, android)
 geo.fr,capital.fr#%#(()=>{const a=function(){};window.apstag={fetchBids(c,a){"function"==typeof a&&a([])},init:a,setDisplayBids:a,targetingKeys:a}})();
-! https://github.com/AdguardTeam/AdguardFilters/issues/140450
-@@||cyclismactu.net/adserver2.js
-cyclismactu.net#%#//scriptlet('abort-current-inline-script', 'document.getElementById', 'AdBlocker')
 ! https://github.com/uBlockOrigin/uAssets/issues/12288#issuecomment-1374805715
 @@||dcode.fr/static/ads/ad_service.js
 ! https://github.com/AdguardTeam/AdguardFilters/issues/136196
@@ -997,6 +996,7 @@ $script,third-party,denyallow=fastly.net|statically.io|sharecast.ws|bunnycdn.ru|
 !
 !
 !
+cyclismactu.net##div[style^="float:left;"][style*="height:275px;"]
 lalsace.fr#$?##blockPubGalleryWrapper { remove: true; }
 leparisien.fr##.paywall-article-inread-ads
 ooparc.com##aside#cross-bar
