@@ -1,8 +1,8 @@
 !
-! Checksum: d6lBApEiXUsca39ooEWe3w
-! OriginalVersion: 202312212000
+! Checksum: /8m+nIFsgJHbei+/pcv0Ww
+! OriginalVersion: 202312220100
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-12-21 20:00 UTC
+! Last modified: 2023-12-22 01:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2130,6 +2130,12 @@ _twitter_follow.
 ##.wpmchimpa-overlay-bg
 ! bodyscience.com.au
 ##.preezie-widget-modal
+! Someone also bought popups
+###cb-widget-sales-pop
+##.cbSalesPopContainer
+##.noti-container-main
+##.wpcsn-notification-inner
+##.yo-notification
 ! Outbrain
 ###around-the-web
 ###g-outbrain
@@ -34413,6 +34419,8 @@ dashboard.razorpay.com#@##credential_picker_container
 ||ziprecruiter.com/jobs-widget/$third-party
 ||zoomanalytics.co^$third-party
 ||zotabox.com^*/widgets.js$third-party
+! Someone also bought popups
+||api.postscript.io/v2/public/popups/
 ! 3rd-party sounds
 ||acquire.io/assets/sound/
 ||amazonaws.com/alive5cdn/$media
@@ -47042,7 +47050,7 @@ ulta.com###js-stickyEmailSignUpFooter
 johnsonfitness.com###lb-wrapper-autonewsletter
 techforless.com###lightbox_container
 okvape.co.uk###lootly-widget
-reigningchamp.com,shop.reigningchamp.com###ltkpopup-container
+reigningchamp.com,ruralking.com,shop.reigningchamp.com###ltkpopup-container
 reigningchamp.com,shop.reigningchamp.com###ltkpopup-overlay
 volquartsen.com###mailing-list
 enjoybot.com###mambasms-forms-container
@@ -47270,8 +47278,8 @@ getrxd.com##.top-footer-wrapper
 sleepworld.com##.top-start
 sportsmans.com##.tw-email-signup-section
 ugreen.com##.ug-footer-subscribe
-fye.com##.ui-dialog
-aritzia.com,fye.com##.ui-widget-overlay
+bathandbodyworks.com,fye.com##.ui-dialog
+aritzia.com,bathandbodyworks.com,fye.com##.ui-widget-overlay
 lcpshop.net##.ulp-window-container
 volksbank.it##.vb-magazine-newsletter
 audioadvice.com##.white-bkg
@@ -51576,8 +51584,8 @@ liquidationgta.com#$#body,html { overflow: auto !important; position: initial !i
 vat19.com##.swal2-container
 vat19.com#$#body,html { height: auto !important; overflow: auto !important }
 ! #shopify-section-newsletter-popup
-bwpsales.com,fitnessav.com,gronkfitnessproducts.com,hockeylion.ca,justcloseoutscanada.ca,kitchenutopia.ca,lakshmistores.com###shopify-section-newsletter-popup
-bwpsales.com,fitnessav.com,gronkfitnessproducts.com,hockeylion.ca,justcloseoutscanada.ca,kitchenutopia.ca,lakshmistores.com#$#body,html { height: auto !important; overflow: auto !important }
+metrocheese.com,bwpsales.com,fitnessav.com,gronkfitnessproducts.com,hockeylion.ca,justcloseoutscanada.ca,kitchenutopia.ca,lakshmistores.com###shopify-section-newsletter-popup
+metrocheese.com,bwpsales.com,fitnessav.com,gronkfitnessproducts.com,hockeylion.ca,justcloseoutscanada.ca,kitchenutopia.ca,lakshmistores.com#$#body,html { height: auto !important; overflow: auto !important }
 ! shopify-section-signup-modal
 flovitamins.com###shopify-section-signup-modal
 flovitamins.com#$#body { overflow: auto !important; position: initial !important; }
