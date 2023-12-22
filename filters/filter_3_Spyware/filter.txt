@@ -4437,7 +4437,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ||dnsdelegation.io^
 ! AT Internet
 ||at-o.net^
-||atinternet.com^
+||atinternet.com^$third-party
 ||xiti.com^$third-party
 ! Eulerian
 ||euleriancdn.net^$third-party
