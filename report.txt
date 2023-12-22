@@ -1,9 +1,9 @@
 
-FiltersCompiler report 12/22/2023 5:00:15 PM:
+FiltersCompiler report 12/22/2023 9:00:17 PM:
 
 Filter ID: 101
 Filter name: EasyList
-Compiled rules: 66095
+Compiled rules: 66112
 Excluded rules: 48
 URL: https://easylist-downloads.adblockplus.org/easylist.txt
 INVALID RULES:
@@ -130,7 +130,7 @@ URL: https://raw.githubusercontent.com/KonoromiHimaries/PolishSubFilters/master/
 ---------------------------
 Filter ID: 118
 Filter name: EasyPrivacy
-Compiled rules: 33619
+Compiled rules: 33621
 Excluded rules: 12
 URL: https://easylist.to/easylist/easyprivacy.txt
 All rules are valid.
@@ -450,7 +450,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 232
 Filter name: KAD - Anti-Scam
-Compiled rules: 50641
+Compiled rules: 50672
 Excluded rules: 236
 URL: https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt
 INVALID RULES:
@@ -473,8 +473,8 @@ All rules are valid.
 ---------------------------
 Filter ID: 235
 Filter name: Persian Blocker
-Compiled rules: 3569
-Excluded rules: 2488
+Compiled rules: 3571
+Excluded rules: 2490
 URL: https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlocker.txt
 INVALID RULES:
 Error: "Unknown modifier: strict3p" in the rule: "||websocket.*/?u=*&s=$websocket,~third-party,strict3p"
@@ -552,8 +552,8 @@ URL: https://paulgb.github.io/BarbBlock/blacklists/adblock-plus.txt
 ---------------------------
 Filter ID: 241
 Filter name: EasyList Cookie List
-Compiled rules: 28879
-Excluded rules: 2992
+Compiled rules: 28880
+Excluded rules: 2994
 URL: https://www.fanboy.co.nz/fanboy-cookiemonster.txt
 All rules are valid.
 ---------------------------
@@ -636,7 +636,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 250
 Filter name: Dandelion Sprout's Annoyances List
-Compiled rules: 32646
+Compiled rules: 32650
 Excluded rules: 46006
 URL: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList
 INVALID RULES:
@@ -22284,7 +22284,7 @@ Error: "$removeparam rules are not compatible with some other modifiers" in the 
 ---------------------------
 Filter ID: 251
 Filter name: Legitimate URL Shortener
-Compiled rules: 3767
+Compiled rules: 3769
 Excluded rules: 552
 URL: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
 INVALID RULES:
@@ -22334,21 +22334,21 @@ URL: https://filters.adtidy.org/extension/chromium/filters/12.txt
 ---------------------------
 Filter ID: 13
 Filter name: AdGuard Turkish filter
-Compiled rules: 6612
+Compiled rules: 6616
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/13.txt
 All rules are valid.
 ---------------------------
 Filter ID: 14
 Filter name: AdGuard Annoyances filter
-Compiled rules: 52480
+Compiled rules: 52481
 Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/14.txt
 All rules are valid.
 ---------------------------
 Filter ID: 15
 Filter name: AdGuard DNS filter
-Compiled rules: 59324
+Compiled rules: 59349
 Excluded rules: 308
 URL: https://filters.adtidy.org/extension/chromium/filters/15.txt
 All rules are valid.
@@ -22363,7 +22363,7 @@ Error: "Unknown modifier: webrtc" in the rule: "$webrtc,domain=11anim.com|1337x.
 ---------------------------
 Filter ID: 17
 Filter name: AdGuard URL Tracking filter
-Compiled rules: 2034
+Compiled rules: 2035
 Excluded rules: 0
 URL: https://filters.adtidy.org/windows/filters/17.txt
 All rules are valid.
@@ -22413,7 +22413,7 @@ Error: Invalid selector: '.j_l_post[data-field*="\"user_name\":\"\\u4e3f\\u5929\
 ---------------------------
 Filter ID: 22
 Filter name: AdGuard Widgets filter
-Compiled rules: 2224
+Compiled rules: 2225
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/22.txt
 All rules are valid.
@@ -22427,7 +22427,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 2
 Filter name: AdGuard Base filter
-Compiled rules: 135204
+Compiled rules: 135235
 Excluded rules: 60
 URL: https://filters.adtidy.org/extension/chromium/filters/2.txt
 INVALID RULES:
@@ -22437,14 +22437,14 @@ Error: "Unknown modifier: webrtc" in the rule: "$webrtc,domain=ack.net|allthetes
 ---------------------------
 Filter ID: 3
 Filter name: AdGuard Tracking Protection filter
-Compiled rules: 84536
+Compiled rules: 84537
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/3.txt
 All rules are valid.
 ---------------------------
 Filter ID: 4
 Filter name: AdGuard Social Media filter
-Compiled rules: 14702
+Compiled rules: 14704
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/4.txt
 All rules are valid.
@@ -22458,7 +22458,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 6
 Filter name: AdGuard German filter
-Compiled rules: 11903
+Compiled rules: 11905
 Excluded rules: 18
 URL: https://filters.adtidy.org/extension/chromium/filters/6.txt
 All rules are valid.

@@ -1,7 +1,7 @@
 !
-! OriginalVersion: 202312221643
+! OriginalVersion: 202312222035
 ! Title: EasyPrivacy
-! Last modified: 22 Dec 2023 16:43 UTC
+! Last modified: 22 Dec 2023 20:35 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 !
@@ -9376,6 +9376,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ariane.abtasty.com^
 ||arkoselabs.com/metrics/
 ||asayer.io/tracker.js
+||assets.moneymade.io/js/fp.min.js
 ||assets.yumpu.com/release/*/tracking.js
 ||asterpix.com/tagcloudview/
 ||at.cbsi.com^*/event?
@@ -10954,6 +10955,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sparklit.com/counter/
 ||speedtest.dailymotion.com/latencies.js
 ||speedtrap.shopdirect.com^
+||spindl.link/events
 ||spiral.world/events/
 ||splunkcloud.com/services/collector/
 ||spotpass.com/api/log

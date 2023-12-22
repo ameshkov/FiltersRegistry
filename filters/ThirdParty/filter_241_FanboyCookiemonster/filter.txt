@@ -1,7 +1,7 @@
 !
-! Checksum: k3f57cVp7Q0CQbWX+FACJQ
+! Checksum: 1snloQEex2nITl2M4cI0lA
 ! Title: Easylist Cookie List
-! Updated: 2023-12-22 17:00 UTC
+! Updated: 2023-12-22 21:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -21908,6 +21908,7 @@ klinik-am-ring.de#%#//scriptlet('ubo-rc.js', 'cookiebanner-body', 'body', 'stay'
 idg.se#%#//scriptlet('ubo-rc.js', 'idgcp__layer--active', 'html', 'stay')
 buildex.cz#%#//scriptlet('ubo-rc.js', 'modal-open', 'body', 'stay')
 gruenderservice.at#%#//scriptlet('ubo-rc.js', 'hasPopup', 'body', 'stay')
+caiacosmetics.com#%#//scriptlet('ubo-rc.js', 'darker', 'body', 'stay')
 pdc-big.nl,pdc-big.it,pdc-big.ie,pdc-big.fr,pdc-big.es,pdc-big.be,pdc-big.at,pdc-big.co.uk,pdc-big.de,pdc-big.com#%#//scriptlet('ubo-rc.js', 'scommerce-gdpr-disabled', 'div', 'stay')
 elio-systems.io,sanha.com#%#//scriptlet('ubo-rc.js', 'no-scroll', 'html', 'stay')
 recettesetcabas.com#%#//scriptlet('ubo-rc.js', 'compensate-for-scrollbar', 'body', 'stay')

@@ -78,6 +78,8 @@ idg.se##+js(rc, idgcp__layer--active, html, stay)
 buildex.cz##+js(rc, modal-open, body, stay)
 ! Rule "gruenderservice.at##+js(rc, hasPopup, body, stay)" converted to: "gruenderservice.at#%#//scriptlet('ubo-rc.js', 'hasPopup', 'body', 'stay')"
 gruenderservice.at##+js(rc, hasPopup, body, stay)
+! Rule "caiacosmetics.com##+js(rc,  darker, body, stay)" converted to: "caiacosmetics.com#%#//scriptlet('ubo-rc.js', 'darker', 'body', 'stay')"
+caiacosmetics.com##+js(rc,  darker, body, stay)
 ! Rule "pdc-big.nl,pdc-big.it,pdc-big.ie,pdc-big.fr,pdc-big.es,pdc-big.be,pdc-big.at,pdc-big.co.uk,pdc-big.de,pdc-big.com##+js(rc, scommerce-gdpr-disabled, div, stay)" converted to: "pdc-big.nl,pdc-big.it,pdc-big.ie,pdc-big.fr,pdc-big.es,pdc-big.be,pdc-big.at,pdc-big.co.uk,pdc-big.de,pdc-big.com#%#//scriptlet('ubo-rc.js', 'scommerce-gdpr-disabled', 'div', 'stay')"
 pdc-big.nl,pdc-big.it,pdc-big.ie,pdc-big.fr,pdc-big.es,pdc-big.be,pdc-big.at,pdc-big.co.uk,pdc-big.de,pdc-big.com##+js(rc, scommerce-gdpr-disabled, div, stay)
 ! Rule "elio-systems.io,sanha.com##+js(rc, no-scroll, html, stay)" converted to: "elio-systems.io,sanha.com#%#//scriptlet('ubo-rc.js', 'no-scroll', 'html', 'stay')"

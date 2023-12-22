@@ -478,6 +478,8 @@ farsroid.com##+js(aopr, faPa)
 ||media.farsnews.ir/Uploaded/Files/Documents/*.gif^$image,1p
 ! Rule "||farsnews.ir/api/recordnewstextvisit?id=$xhr,1p" converted to: "||farsnews.ir/api/recordnewstextvisit?id=$xmlhttprequest,~third-party"
 ||farsnews.ir/api/recordnewstextvisit?id=$xhr,1p
+! Rule "ganjipakhsh.com##+js(aeld, , t.preventDefault)" converted to: "ganjipakhsh.com#%#//scriptlet('ubo-aeld.js', '', 't.preventDefault')"
+ganjipakhsh.com##+js(aeld, , t.preventDefault)
 ! Rule "||mihanwebhost.com^$image,3p,domain=gamemods.ir" converted to: "||mihanwebhost.com^$image,third-party,domain=gamemods.ir"
 ||mihanwebhost.com^$image,3p,domain=gamemods.ir
 ! Rule "getandroid.ir##+js(nowoif)" converted to: "getandroid.ir#%#//scriptlet('ubo-nowoif.js')"
@@ -862,8 +864,8 @@ shahanmusic.ir##+js(aopr, show_wpcp_message)
 shahanmusic.ir##+js(set-attr, img[data-src], src, [data-src])
 ! Rule "shahanmusic.ir##img[data-src]:style(opacity: 1 !important;)" converted to: "shahanmusic.ir#$#img[data-src] { opacity: 1 !important; }"
 shahanmusic.ir##img[data-src]:style(opacity: 1 !important;)
-! Rule "shahanmusic.ir##body:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)" converted to: "shahanmusic.ir#$#body { -webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important; }"
-shahanmusic.ir##body:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)
+! Rule "shahanmusic.ir##body:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important; cursor: revert !important;)" converted to: "shahanmusic.ir#$#body { -webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important; cursor: revert !important; }"
+shahanmusic.ir##body:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important; cursor: revert !important;)
 ! Rule "s-moshaver.com##+js(aeld, contextmenu)" converted to: "s-moshaver.com#%#//scriptlet('ubo-aeld.js', 'contextmenu')"
 s-moshaver.com##+js(aeld, contextmenu)
 ! Rule "s-moshaver.com##+js(set, disableSelection, noopFunc)" converted to: "s-moshaver.com#%#//scriptlet('ubo-set.js', 'disableSelection', 'noopFunc')"
