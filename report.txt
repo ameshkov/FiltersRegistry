@@ -1,9 +1,9 @@
 
-FiltersCompiler report 12/22/2023 9:00:39 AM:
+FiltersCompiler report 12/22/2023 1:00:19 PM:
 
 Filter ID: 101
 Filter name: EasyList
-Compiled rules: 66061
+Compiled rules: 66082
 Excluded rules: 48
 URL: https://easylist-downloads.adblockplus.org/easylist.txt
 INVALID RULES:
@@ -27,7 +27,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 104
 Filter name: EasyList China
-Compiled rules: 18902
+Compiled rules: 18903
 Excluded rules: 52
 URL: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 INVALID RULES:
@@ -130,7 +130,7 @@ URL: https://raw.githubusercontent.com/KonoromiHimaries/PolishSubFilters/master/
 ---------------------------
 Filter ID: 118
 Filter name: EasyPrivacy
-Compiled rules: 33615
+Compiled rules: 33619
 Excluded rules: 12
 URL: https://easylist.to/easylist/easyprivacy.txt
 All rules are valid.
@@ -157,7 +157,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 122
 Filter name: Fanboy's Annoyances
-Compiled rules: 57198
+Compiled rules: 57205
 Excluded rules: 7002
 URL: https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 INVALID RULES:
@@ -208,7 +208,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 204
 Filter name: Peter Lowe's Blocklist
-Compiled rules: 3808
+Compiled rules: 3810
 Excluded rules: 0
 URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext
 All rules are valid.
@@ -234,7 +234,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 208
 Filter name: Online Malicious URL Blocklist
-Compiled rules: 2188
+Compiled rules: 2469
 Excluded rules: 6
 URL: https://urlhaus-filter.pages.dev/urlhaus-filter-ag-online.txt
 All rules are valid.
@@ -324,8 +324,8 @@ URL: https://easylist-downloads.adblockplus.org/bitblock.txt
 ---------------------------
 Filter ID: 214
 Filter name: ABPVN List
-Compiled rules: 3037
-Excluded rules: 26
+Compiled rules: 3025
+Excluded rules: 18
 URL: https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn_adguard.txt
 All rules are valid.
 ---------------------------
@@ -417,7 +417,7 @@ URL: https://www.fanboy.co.nz/fanboy-vietnam.txt
 ---------------------------
 Filter ID: 227
 Filter name: List-KR
-Compiled rules: 3646
+Compiled rules: 3648
 Excluded rules: 22
 URL: https://raw.githubusercontent.com/List-KR/List-KR/master/filter-AdGuard.txt
 All rules are valid.
@@ -450,7 +450,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 232
 Filter name: KAD - Anti-Scam
-Compiled rules: 50536
+Compiled rules: 50616
 Excluded rules: 236
 URL: https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt
 INVALID RULES:
@@ -552,7 +552,7 @@ URL: https://paulgb.github.io/BarbBlock/blacklists/adblock-plus.txt
 ---------------------------
 Filter ID: 241
 Filter name: EasyList Cookie List
-Compiled rules: 28876
+Compiled rules: 28879
 Excluded rules: 2992
 URL: https://www.fanboy.co.nz/fanboy-cookiemonster.txt
 All rules are valid.
@@ -602,7 +602,7 @@ Error: "Unknown pseudo-class ':remove-attr' in selector: 'a[href][ping]:remove-a
 ---------------------------
 Filter ID: 244
 Filter name: YousList
-Compiled rules: 7442
+Compiled rules: 7443
 Excluded rules: 0
 URL: https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
 All rules are valid.
@@ -22322,7 +22322,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 11
 Filter name: AdGuard Mobile Ads filter
-Compiled rules: 7799
+Compiled rules: 7800
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/11.txt
 All rules are valid.
@@ -22341,14 +22341,14 @@ All rules are valid.
 ---------------------------
 Filter ID: 14
 Filter name: AdGuard Annoyances filter
-Compiled rules: 52470
+Compiled rules: 52478
 Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/14.txt
 All rules are valid.
 ---------------------------
 Filter ID: 15
 Filter name: AdGuard DNS filter
-Compiled rules: 59302
+Compiled rules: 59324
 Excluded rules: 308
 URL: https://filters.adtidy.org/extension/chromium/filters/15.txt
 All rules are valid.
@@ -22363,28 +22363,28 @@ Error: "Unknown modifier: webrtc" in the rule: "$webrtc,domain=11anim.com|1337x.
 ---------------------------
 Filter ID: 17
 Filter name: AdGuard URL Tracking filter
-Compiled rules: 2031
+Compiled rules: 2034
 Excluded rules: 0
 URL: https://filters.adtidy.org/windows/filters/17.txt
 All rules are valid.
 ---------------------------
 Filter ID: 18
 Filter name: AdGuard Cookie Notices filter
-Compiled rules: 18629
+Compiled rules: 18634
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/18.txt
 All rules are valid.
 ---------------------------
 Filter ID: 19
 Filter name: AdGuard Popups filter
-Compiled rules: 18874
+Compiled rules: 18877
 Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/19.txt
 All rules are valid.
 ---------------------------
 Filter ID: 1
 Filter name: AdGuard Russian filter
-Compiled rules: 24585
+Compiled rules: 24586
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/1.txt
 All rules are valid.
@@ -22405,7 +22405,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 224
 Filter name: AdGuard Chinese filter
-Compiled rules: 22235
+Compiled rules: 22237
 Excluded rules: 50
 URL: https://filters.adtidy.org/extension/chromium/filters/224.txt
 INVALID RULES:
@@ -22427,23 +22427,24 @@ All rules are valid.
 ---------------------------
 Filter ID: 2
 Filter name: AdGuard Base filter
-Compiled rules: 135144
-Excluded rules: 58
+Compiled rules: 135178
+Excluded rules: 60
 URL: https://filters.adtidy.org/extension/chromium/filters/2.txt
 INVALID RULES:
+Error: "Unknown modifier: 2/" in the rule: "||serverside.ai/vod/mpds/*.mpd$replace=/(<BaseURL>).*?\/ad\/.*?(<\/BaseURL>)/$1$2/"
 Error: "Unknown modifier: webrtc" in the rule: "$webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepiratebay.org|thepiratebay10.org"
 Error: "Unknown modifier: webrtc" in the rule: "$webrtc,domain=ack.net|allthetests.com|azvideo.net|champion.gg|clicknupload.link|colourlovers.com|csgolounge.com|dispatch.com|fastplay.to|go4up.com|janjua.pw|janjua.tv|jpost.com|megaup.net|netdna-storage.com|ouo.io|ouo.press|rlslog.net|sourceforge.net|spanishdict.com|telegram.com|torlock.icu|torlock2.com|uptobox.com|uptobox.eu|uptobox.fr|uptobox.link|vidtodo.com|yts.gs|yts.mx"
 ---------------------------
 Filter ID: 3
 Filter name: AdGuard Tracking Protection filter
-Compiled rules: 84533
+Compiled rules: 84536
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/3.txt
 All rules are valid.
 ---------------------------
 Filter ID: 4
 Filter name: AdGuard Social Media filter
-Compiled rules: 14700
+Compiled rules: 14702
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/4.txt
 All rules are valid.

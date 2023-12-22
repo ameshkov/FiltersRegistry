@@ -1,8 +1,8 @@
 !#if (adguard_ext_android_cb)
 ! version for AdGuard Content Blocker only
-! OriginalVersion: 20231222154334
+! OriginalVersion: 20231222170825
 ! Title: ABPVN List
-! Last modified: 22 Dec 2023 15:43:34 UTC+7
+! Last modified: 22 Dec 2023 17:08:25 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter
@@ -101,7 +101,7 @@
 ||cdn.webhoctienganh.com/asset/home/img/banner/$image,domain=webhoctienganh.com
 ||cdn2-img.net^*.gif$image,domain=hhpanda.cc|dongchill.tv|biphim.io|subnhanh.im|subnhanhvl.co|bichill.one|dongphim3s.net
 ||cf.shopee.vn^$image,domain=animevietsub.fan
-||chillhay.org/ads/$image
+||chillhay.pro/ads/$image
 ||chillphimmoi.org/assets/*.gif$image
 ||chillphimmoi.org/assets/js/popup.js
 ||chodansinh.net^*.gif
@@ -182,7 +182,6 @@
 ||mephimtv.net/wp-banner$image
 ||mocfun.net/uploads/banners/
 ||motchillt.net/banner$image
-||motchillt.net/videoi9/$media,redirect=noopmp3-0.1s,domain=motchillt.net
 ||nettruyenco.vn/public/assets/images/picart_others.png$image
 ||nettruyenco.vn/public/assets/js/pop
 ||nettruyenx.com/assets/videos/don_lg.mp4
@@ -199,11 +198,8 @@
 ||p.thoctv.com^*.gif$image
 ||phimcuon.com^*.gif$image
 ||phimhay.in^*.gif
-||phimhaymoi.com^*.gif$image
 ||phimhaythuyetminh.live$csp=script-src 'self' 'unsafe-inline'
-||phimhaytv.info/images$media,domain=phimhaytv.info,redirect=noopmp3-0.1s
 ||phimhaytv.info^*.gif
-||phimlongtieng.net^*.xml$~third-party
 ||phimmoi.io^*.gif$image
 ||phimmoi4s.com/files/banner/$image
 ||phimmoi4s.com^*.gif
@@ -247,7 +243,6 @@
 ||s.lazada.vn^$popup,domain=boophim.net
 ||s.tainhaccho.vn/images/afl
 ||s2.truyentot.com^*.gif$image,domain=hhtq.vip
-||s3.amazonaws.com^$domain=phimlongtieng.net
 ||saytruyenmoi.com/storage/images/banner/$image
 ||scrap.ithongtin.com/api/aff$xmlhttprequest
 ||senpay.vn/widget/
@@ -370,7 +365,6 @@
 ||xahoingaynay.com.vn/upload/$image
 ||xc.1357668.com^*.gif$domain=7mvn2.com
 ||xehay.vn/public/html5/ads/
-||xemhay24h.com/pop/shopee.js
 ||xemphim365vn.net/public/*.mp4$domain=xemphim365vn.net,redirect=noopmp3-0.1s
 ||xemphim365vn.net/public/banner/$image
 ||xevathethao.vn/wp-content/uploads/banner
@@ -393,6 +387,7 @@
 ||adtima-static.zascdn.me^
 ||adtima.vn^$third-party
 ||adtimaserver.vn^
+||affordedseasick.com^
 ||aj1047.online^
 ||aj1559.online^
 ||aj2393.online^
@@ -880,7 +875,7 @@ phimbocn.com###sticky
 phimcuon.com##.show.ads-sticky
 phimdacap.tv##[data-clm="ccccc2"]
 phimdacap.tv##[data-id="ap3poapup"]
-phimdinhcao.com,phimdinhcao.net##.i9bet
+phimdinhcao.com,phimdinhcao.net,phimlongtieng.net##.i9bet
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com###mobile_content_bottom
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com##.BanerTop100
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com##.adv-300-right
@@ -891,11 +886,10 @@ phimgichill.net,ophimhdvn3.net###pc-catfix
 phimgichill.net,ophimhdvn3.net##.lightbox-player-pc
 phimgichill.net,ophimhdvn3.net##div[id^="preload-"]
 phimgichill.net,ophimhdvn3.net##mobile-catfix
-phimhaymoi.com##.popmake
+phimhaymoii.com##a[target="_blank"][rel="nofollow noopener"]
 phimhaytv.info,congthucvatly.com##.fixed
 phimlongtieng.com,phimlongtieng.net###mobile_content_top
 phimlongtieng.com,phimlongtieng.net###p-GMH
-phimlongtieng.net##.i9bet
 phimmoi.io###container-ads
 phimmoi.io###hide_catfish
 phimmoi2.com##.player-vast-blocker
@@ -1453,7 +1447,7 @@ thiendia1.net##.my_nonresponsive_ads
 thiendia1.net##.my_responsive_ads
 thiendia1.net##.samBannerUnit
 thiendia1.net##.samTextUnit
-thiendia1.net,rphang.me,phim18vipb.com,phe3x.xyz,checkgaigoi.one,sieudamtv.net,web15.sexphim1.com##.float-ck
+thiendia1.net,rphang.me,phim18vipb.com,checkgaigoi.one,sieudamtv.net,web15.sexphim1.com##.float-ck
 truyen18.xyz##.a-header
 truyen18.xyz##.apu
 truyen18.xyz##.header
@@ -1487,9 +1481,9 @@ web15.sexphim1.com##.code-block-4
 !
 !#if (!adguard_ext_android_cb)
 ! version for all other AdGuard products
-! OriginalVersion: 20231222154334
+! OriginalVersion: 20231222170825
 ! Title: ABPVN List
-! Last modified: 22 Dec 2023 15:43:34 UTC+7
+! Last modified: 22 Dec 2023 17:08:25 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter
@@ -1588,7 +1582,7 @@ web15.sexphim1.com##.code-block-4
 ||cdn.webhoctienganh.com/asset/home/img/banner/$image,domain=webhoctienganh.com
 ||cdn2-img.net^*.gif$image,domain=hhpanda.cc|dongchill.tv|biphim.io|subnhanh.im|subnhanhvl.co|bichill.one|dongphim3s.net
 ||cf.shopee.vn^$image,domain=animevietsub.fan
-||chillhay.org/ads/$image
+||chillhay.pro/ads/$image
 ||chillphimmoi.org/assets/*.gif$image
 ||chillphimmoi.org/assets/js/popup.js
 ||chodansinh.net^*.gif
@@ -1669,7 +1663,6 @@ web15.sexphim1.com##.code-block-4
 ||mephimtv.net/wp-banner$image
 ||mocfun.net/uploads/banners/
 ||motchillt.net/banner$image
-||motchillt.net/videoi9/$media,redirect=noopmp3-0.1s,domain=motchillt.net
 ||nettruyenco.vn/public/assets/images/picart_others.png$image
 ||nettruyenco.vn/public/assets/js/pop
 ||nettruyenx.com/assets/videos/don_lg.mp4
@@ -1686,11 +1679,8 @@ web15.sexphim1.com##.code-block-4
 ||p.thoctv.com^*.gif$image
 ||phimcuon.com^*.gif$image
 ||phimhay.in^*.gif
-||phimhaymoi.com^*.gif$image
 ||phimhaythuyetminh.live$csp=script-src 'self' 'unsafe-inline'
-||phimhaytv.info/images$media,domain=phimhaytv.info,redirect=noopmp3-0.1s
 ||phimhaytv.info^*.gif
-||phimlongtieng.net^*.xml$~third-party
 ||phimmoi.io^*.gif$image
 ||phimmoi4s.com/files/banner/$image
 ||phimmoi4s.com^*.gif
@@ -1733,7 +1723,6 @@ web15.sexphim1.com##.code-block-4
 ||reatimes.vn/ads/$image
 ||s.tainhaccho.vn/images/afl
 ||s2.truyentot.com^*.gif$image,domain=hhtq.vip
-||s3.amazonaws.com^$domain=phimlongtieng.net
 ||saytruyenmoi.com/storage/images/banner/$image
 ||scrap.ithongtin.com/api/aff$xmlhttprequest
 ||senpay.vn/widget/
@@ -1855,7 +1844,6 @@ web15.sexphim1.com##.code-block-4
 ||xahoingaynay.com.vn/upload/$image
 ||xc.1357668.com^*.gif$domain=7mvn2.com
 ||xehay.vn/public/html5/ads/
-||xemhay24h.com/pop/shopee.js
 ||xemphim365vn.net/public/*.mp4$domain=xemphim365vn.net,redirect=noopmp3-0.1s
 ||xemphim365vn.net/public/banner/$image
 ||xevathethao.vn/wp-content/uploads/banner
@@ -1878,6 +1866,7 @@ web15.sexphim1.com##.code-block-4
 ||adtima-static.zascdn.me^
 ||adtima.vn^$third-party
 ||adtimaserver.vn^
+||affordedseasick.com^
 ||aj1047.online^
 ||aj1559.online^
 ||aj2393.online^
@@ -2365,7 +2354,7 @@ phimbocn.com###sticky
 phimcuon.com##.show.ads-sticky
 phimdacap.tv##[data-clm="ccccc2"]
 phimdacap.tv##[data-id="ap3poapup"]
-phimdinhcao.com,phimdinhcao.net##.i9bet
+phimdinhcao.com,phimdinhcao.net,phimlongtieng.net##.i9bet
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com###mobile_content_bottom
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com##.BanerTop100
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com##.adv-300-right
@@ -2376,11 +2365,10 @@ phimgichill.net,ophimhdvn3.net###pc-catfix
 phimgichill.net,ophimhdvn3.net##.lightbox-player-pc
 phimgichill.net,ophimhdvn3.net##div[id^="preload-"]
 phimgichill.net,ophimhdvn3.net##mobile-catfix
-phimhaymoi.com##.popmake
+phimhaymoii.com##a[target="_blank"][rel="nofollow noopener"]
 phimhaytv.info,congthucvatly.com##.fixed
 phimlongtieng.com,phimlongtieng.net###mobile_content_top
 phimlongtieng.com,phimlongtieng.net###p-GMH
-phimlongtieng.net##.i9bet
 phimmoi.io###container-ads
 phimmoi.io###hide_catfish
 phimmoi2.com##.player-vast-blocker
@@ -2928,7 +2916,7 @@ thiendia1.net##.my_nonresponsive_ads
 thiendia1.net##.my_responsive_ads
 thiendia1.net##.samBannerUnit
 thiendia1.net##.samTextUnit
-thiendia1.net,rphang.me,phim18vipb.com,phe3x.xyz,checkgaigoi.one,sieudamtv.net,web15.sexphim1.com##.float-ck
+thiendia1.net,rphang.me,phim18vipb.com,checkgaigoi.one,sieudamtv.net,web15.sexphim1.com##.float-ck
 truyen18.xyz##.a-header
 truyen18.xyz##.apu
 truyen18.xyz##.header
@@ -2975,7 +2963,7 @@ gavang1.link##.MuiDialog-root
 giavang.net#%#//scriptlet("prevent-fetch", "method:HEAD")
 gocmod.com#%#//scriptlet("prevent-setTimeout", "show")
 gotphim.com#%#//scriptlet("abort-current-inline-script", "navigator", "devtoolsDetector")
-gvnvh18.com,phe3x.xyz,sexdiaryx.us#%#//scriptlet("set-constant", "D4zz", "noopFunc")
+gvnvh18.com,sexdiaryx.us#%#//scriptlet("set-constant", "D4zz", "noopFunc")
 hh3dhay.com,hh3dhay.xyz#%#//scriptlet("abort-current-inline-script", "document.createElement", ";break;case")
 holyphim.com#%#//scriptlet("abort-current-inline-script", "window.addEventListener", "window.open")
 ios.codevn.net#%#//scriptlet("abort-current-inline-script", "setInterval", "offsetHeight")
@@ -3011,7 +2999,7 @@ tinsoikeo.vip#%#//scriptlet("abort-on-property-read", "sessionStorage")
 toptruyenne.com#%#//scriptlet("abort-current-inline-script", "Promise", "instance")
 truyen2u.net#%#//scriptlet("abort-current-inline-script", "eval")
 truyen35.vn#%#//scriptlet("abort-current-inline-script", "jQuery", "click_ads")
-truyengihotmoi.net#%#//scriptlet("abort-current-inline-script", "document.createElement", "checkIntersection")
+truyengihotqua.net#%#//scriptlet("abort-current-inline-script", "document.createElement", "checkIntersection")
 truyenqqvn.com#%#//scriptlet("abort-current-inline-script", "document.addEventListener", "window.open")
 truyensieuhay.com,phimvietsub.pro,tvhayh.org,vuaphimmoi.net,quangcaoyenbai.com,sieudamtv.net,ephimchill.com,motphimhan.cc,maclife.io,ophimhdvn3.net#%#//scriptlet("abort-on-property-read", "document.cookie")
 truyentuan.com#%#//scriptlet("abort-current-inline-script", "$", "btpop")
