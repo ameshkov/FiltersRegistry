@@ -242,6 +242,7 @@ niloblog.com##bloglinksblock
 ||on-click.ir^
 ||onclick.ir^
 ! >> P <<
+||pegah.tech^
 ||pushq.ir^
 ! musicsweb.ir, upmusics.com, musicdel.ir
 ||my-pishvaz.com^$third-party
@@ -2477,9 +2478,12 @@ techna.news##.jmb_banner
 techna.news##[class="widget_text sidebar-box"]:has-text(تبلیغ)
 techna.news##[class="widget_text sidebar-box"]:has-text(وبگردی)
 ! techna.news##div[class="widget_text sidebar-box"]:has(div[id*="kaprila_"])
-||technolife.ir/image/deema
-||technolife.ir/image/najva
-||technolife.ir/image/yekta
+||technolife.ir/image/affili.js^$script,~third-party
+||technolife.ir/image/sanjagh.js^$script,~third-party
+||technolife.ir/image/najvaScript.js^$script,~third-party
+||technolife.ir/image/deema0.js^$script,~third-party
+||technolife.ir/image/deemaScript.js^$script,~third-party
+||technolife.ir/image/yektanetScript.js^$script,~third-party
 ||tabanmusic.com/p-pop/
 texahang.org##.myside.right-sidebar
 ! TODO: Check again for new sidebar

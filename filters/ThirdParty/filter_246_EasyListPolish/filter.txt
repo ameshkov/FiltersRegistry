@@ -1,8 +1,8 @@
 !
-! Checksum: vj4CEcaRRjZEPdFs03qGEQ
-! OriginalVersion: 202312221250
+! Checksum: /3/rpnQGNh3N0vL2xIMHYw
+! OriginalVersion: 202312221651
 ! Title: EasyList Polish
-! Last modified: 22 Dec 2023 12:50 UTC
+! Last modified: 22 Dec 2023 16:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1452,7 +1452,6 @@ hfc.com.pl##.lozad
 lubiehrubie.pl##.lubie-widget
 jarmark.com.pl##.mMaterialRotator
 beskidnews.pl,wirtualnyregion.eu##.main-slider
-ogrodinfo.pl,sad24.pl##.main-top-banner
 gazetanowodworska.com##.mainSlider
 joemonster.org##.main_billboard
 cashbackrabat.pl##.main_sidebanner

@@ -1106,6 +1106,18 @@ takmili.com##style:has-text(wccp):remove()
 takmili.com##style:has-text(user-select):remove()
 ! Rule "techfars.com##:not(:matches-path(/category/website/reportage/)) .box:has-text(رپورتاژ آگهی)" converted to: "[$path=/^((?!category/website/reportage).)*$/]techfars.com##.box:has-text(رپورتاژ آگهی)"
 techfars.com##:not(:matches-path(/category/website/reportage/)) .box:has-text(رپورتاژ آگهی)
+! Rule "||technolife.ir/image/affili.js^$script,1p" converted to: "||technolife.ir/image/affili.js^$script,~third-party"
+||technolife.ir/image/affili.js^$script,1p
+! Rule "||technolife.ir/image/sanjagh.js^$script,1p" converted to: "||technolife.ir/image/sanjagh.js^$script,~third-party"
+||technolife.ir/image/sanjagh.js^$script,1p
+! Rule "||technolife.ir/image/najvaScript.js^$script,1p" converted to: "||technolife.ir/image/najvaScript.js^$script,~third-party"
+||technolife.ir/image/najvaScript.js^$script,1p
+! Rule "||technolife.ir/image/deema0.js^$script,1p" converted to: "||technolife.ir/image/deema0.js^$script,~third-party"
+||technolife.ir/image/deema0.js^$script,1p
+! Rule "||technolife.ir/image/deemaScript.js^$script,1p" converted to: "||technolife.ir/image/deemaScript.js^$script,~third-party"
+||technolife.ir/image/deemaScript.js^$script,1p
+! Rule "||technolife.ir/image/yektanetScript.js^$script,1p" converted to: "||technolife.ir/image/yektanetScript.js^$script,~third-party"
+||technolife.ir/image/yektanetScript.js^$script,1p
 ! Rule "trainbit.com##section#downloadbox > input#btnDownload:style(display: block !important;)" converted to: "trainbit.com#$#section#downloadbox > input#btnDownload { display: block !important; }"
 trainbit.com##section#downloadbox > input#btnDownload:style(display: block !important;)
 ! Rule "techrato.com##:not(:matches-path(/tag/رپورتاژ-آگهی/)) .posts-list > article.tag-8164 > .clearfix > a[class="title"][href$="reportage/"]:upward(article)" converted to: "[$path=/^((?!tag/رپورتاژ-آگهی).)*$/]techrato.com##.posts-list > article.tag-8164 > .clearfix > a[class="title"][href$="reportage/"]:upward(article)"
