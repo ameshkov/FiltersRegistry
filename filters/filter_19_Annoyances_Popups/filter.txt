@@ -4530,6 +4530,8 @@ sanalkurs.net###toast-container > .toast-error[aria-live="assertive"]
 !
 ! SECTION: Popups - Regular rules
 !
+nerdwallet.com###contextual-reg-modal-container
+yanusy.com#?#.overlay-box:has(> a[href*="campaign"])
 thestar.com.my##.freeModal
 diepresse.com###abocontainer-f
 ||autofill.yandex.ru^$domain=pikabu.ru

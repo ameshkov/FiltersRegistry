@@ -14920,6 +14920,8 @@ adguard.info,adguard.com,adguard.app##.hello_from_adguard_annoyances_cookies
 !
 !
 !
+! https://github.com/uBlockOrigin/uAssets/issues/21532
+@@||sdk.privacy-center.org^$domain=serially.it
 ! https://github.com/AdguardTeam/AdguardFilters/issues/169033
 rittal.com#@#.cookie-overlay:not(html):not(body)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/168923

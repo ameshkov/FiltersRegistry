@@ -14920,6 +14920,8 @@ adguard.info,adguard.com,adguard.app##.hello_from_adguard_annoyances_cookies
 !
 !
 !
+! https://github.com/uBlockOrigin/uAssets/issues/21532
+@@||sdk.privacy-center.org^$domain=serially.it
 ! https://github.com/AdguardTeam/AdguardFilters/issues/169033
 rittal.com#@#.cookie-overlay:not(html):not(body)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/168923
@@ -23091,6 +23093,8 @@ sanalkurs.net###toast-container > .toast-error[aria-live="assertive"]
 !
 ! SECTION: Popups - Regular rules
 !
+nerdwallet.com###contextual-reg-modal-container
+yanusy.com#?#.overlay-box:has(> a[href*="campaign"])
 thestar.com.my##.freeModal
 diepresse.com###abocontainer-f
 ||autofill.yandex.ru^$domain=pikabu.ru
