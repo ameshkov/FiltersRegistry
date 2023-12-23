@@ -1,8 +1,8 @@
 !
-! Checksum: +dWWcRR7Lu3X9PsvSt61FQ
-! OriginalVersion: 202312231251
+! Checksum: +elYl7iz4mV/6OBvPVNZ5w
+! OriginalVersion: 202312231650
 ! Title: EasyList
-! Last modified: 23 Dec 2023 12:51 UTC
+! Last modified: 23 Dec 2023 16:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -627,7 +627,6 @@
 /banner-ads/*
 /banner-adv-
 /banner-affiliate-
-/banner-sponsor/*
 /banner.asp?$third-party
 /banner.cgi?
 /banner.php
@@ -19612,6 +19611,7 @@ browsershots.org#@#.advert_area
 ||aaf26c0e6a.com^
 ||aafdcq.com^
 ||aagm.link^
+||aarfmftslfz.com^
 ||aarghwoning.digital^
 ||aarswtcnoz.com^
 ||aaxads.com^
@@ -22230,6 +22230,7 @@ browsershots.org#@#.advert_area
 ||babssata.com^
 ||babun.club^
 ||babyboomboomads.com^
+||babyish-tea.com^
 ||babyishmate.pro^
 ||babynaz.xyz^
 ||babyniceshark.com^
@@ -27646,6 +27647,7 @@ browsershots.org#@#.advert_area
 ||eignan.com^
 ||eigned.com^
 ||eiistillstayh.com^
+||eijumomf.com^
 ||eikegolehem.com^
 ||eincre.com^
 ||eintheworldwh.com^
@@ -27881,6 +27883,7 @@ browsershots.org#@#.advert_area
 ||enhwy.com^
 ||enjoyedestrangeapplication.com^
 ||enjoyedtool.com^
+||enjrzhkf.com^
 ||enlales.com^
 ||enlargementillegal.com^
 ||enlightencentury.com^
@@ -29823,6 +29826,7 @@ browsershots.org#@#.advert_area
 ||gdmconvtrck.com^
 ||gdmdigital.com^
 ||gdmgsecure.com^
+||gdwfhelbww.com^
 ||gearedftnerr.com^
 ||geasefloria.com^
 ||geazjxqwbr.com^
@@ -30622,6 +30626,7 @@ browsershots.org#@#.advert_area
 ||grootcho.com^
 ||grooveoperate.com^
 ||grooveworship.space^
+||gropefore.com^
 ||grortalt.xyz^
 ||gross-success.com^
 ||grossedoicks.com^
@@ -31340,6 +31345,7 @@ browsershots.org#@#.advert_area
 ||hjqdwmekhur.com^
 ||hjrwwwlqcovom.com^
 ||hjxajf.com^
+||hkeibmpspxn.com^
 ||hkifcxblsu.com^
 ||hkilops.com^
 ||hkiztcykfb.com^
@@ -31948,6 +31954,7 @@ browsershots.org#@#.advert_area
 ||ikrail.com^
 ||ikrauteri.life^
 ||ikunselt.com^
+||ikwiwnnofgpzq.com^
 ||ikxxgkpymja.com^
 ||ilaterdeallyi.info^
 ||ilaterdeallyig.info^
@@ -32850,6 +32857,7 @@ browsershots.org#@#.advert_area
 ||jdoqocy.com^
 ||jdt8.net^
 ||jdwhlqb.com^
+||jdxisgqcg.com^
 ||jdxpaoojg.com^
 ||jdyxpbaskvkyh.xyz^
 ||jdzqdcpkbh.com^
@@ -33001,6 +33009,7 @@ browsershots.org#@#.advert_area
 ||jkdzimao.com^
 ||jkha742.xyz^
 ||jklbilitukyd.xyz^
+||jklpy.com^
 ||jkthlsrdhni.com^
 ||jkttvpoxmk.com^
 ||jkyybewqmnll.top^
@@ -33014,6 +33023,7 @@ browsershots.org#@#.advert_area
 ||jmeeersdkmoir.xyz^
 ||jmiqbfhoar.com^
 ||jmpmedia.club^
+||jmpqkikcv.com^
 ||jmrnews.pro^
 ||jmrnpzbpqla.com^
 ||jmvscgd.com^
@@ -33473,6 +33483,7 @@ browsershots.org#@#.advert_area
 ||kffawlmqdahowhr.com^
 ||kfjhd.com^
 ||kfxkxyb.com^
+||kfxoqdivddwh.com^
 ||kgdvs9ov3l2aasw4nuts.com^
 ||kgfjrb711.com^
 ||kglqjacmqmns.com^
@@ -34706,6 +34717,7 @@ browsershots.org#@#.advert_area
 ||lrkenrerjkljb.top^
 ||lrqknpk.com^
 ||lrqvmaverkabb.top^
+||lrqvmaverkjzw.top^
 ||lrugxmpxyfb.com^
 ||lrvrayrnqjzjw.top^
 ||lrvrayrnqjzkz.top^
@@ -36210,6 +36222,7 @@ browsershots.org#@#.advert_area
 ||mvlvxzhxjci.com^
 ||mvqlsrakwp.com^
 ||mvqycoenp.com^
+||mvubzqaowhhgii.com^
 ||mvujvxc.com^
 ||mwazhey.com^
 ||mwbxpccx.com^
@@ -36689,6 +36702,7 @@ browsershots.org#@#.advert_area
 ||niaisimpreg.website^
 ||niaisrbound.digital^
 ||nianstarvards.info^
+||niauuslsoxwte.com^
 ||nibvtxyofd.com^
 ||nibzitgas.com^
 ||nicatethebene.info^
@@ -37234,6 +37248,7 @@ browsershots.org#@#.advert_area
 ||objectsentrust.com^
 ||objectstutted.store^
 ||objureexamen.life^
+||obkgavorztij.com^
 ||obligemadeuprough.com^
 ||oblivionthreatjeopardy.com^
 ||oblivionwatcherrebellious.com^
@@ -39284,6 +39299,7 @@ browsershots.org#@#.advert_area
 ||pnvbfxwbeg.com^
 ||poacawhe.net^
 ||poachfirewoodboast.com^
+||poanouwy.net^
 ||poaptoug.net^
 ||poapustu.net^
 ||poaships.com^
@@ -40136,6 +40152,7 @@ browsershots.org#@#.advert_area
 ||ptutchiz.com^
 ||ptwmemd.com^
 ||ptwmjmp.com^
+||ptyomtzjpdlcf.com^
 ||pu1.biz^
 ||pu3.biz^
 ||pu5hk1n2020.com^
@@ -41206,6 +41223,7 @@ browsershots.org#@#.advert_area
 ||relestar.com^
 ||relevanti.com^
 ||reliable-watch.pro^
+||reliableceaseswat.com^
 ||reliablemiraculouscaleb.com^
 ||reliablemore.com^
 ||reliableorientdelirium.com^
@@ -43150,6 +43168,7 @@ browsershots.org#@#.advert_area
 ||skierastonishedforensics.com^
 ||skierscarletconsensus.com^
 ||skierseatmileage.com^
+||skiguggn.com^
 ||skiingclefts.life^
 ||skiingsettling.com^
 ||skilfuljealousygeoffrey.com^
@@ -43544,6 +43563,7 @@ browsershots.org#@#.advert_area
 ||sortyellowapples.com^
 ||sosettoourmarke.info^
 ||soshoord.com^
+||soshvenal.top^
 ||sosigninggrudge.com^
 ||sotchoum.com^
 ||sotetahe.pro^
@@ -45327,6 +45347,7 @@ browsershots.org#@#.advert_area
 ||tmb5trk.com^
 ||tmematapyramid.space^
 ||tmfkuesmlpto.com^
+||tmftsdjyahbhi.com^
 ||tmh4pshu0f3n.com^
 ||tmjhdyghjm.com^
 ||tmnbocewmddu.com^
@@ -49501,6 +49522,7 @@ browsershots.org#@#.advert_area
 ||zypy2h6rgfux.com^
 ||zyuzdmxel.com^
 ||zzbmanavblkaw.top^
+||zzhyebbt.com^
 ||zzjwblqbwlrnj.top^
 ||zzkwsosixkdu.com^
 ||zzuzishy.com^
@@ -55182,6 +55204,7 @@ browsershots.org#@#.advert_area
 ||popupclick.ru^$third-party
 ||porkolt.com^$third-party
 ||porn300.com^$third-party
+||porn369.net^$third-party
 ||porn88.net^$third-party
 ||porn99.net^$third-party
 ||pornattitude.com^$third-party
@@ -58208,10 +58231,12 @@ $popup,third-party,domain=123animes.mobi|1337x.buzz|720pstream.tv|adblockeronsta
 ||anyporn.com/aa/
 ||anysex.com/*oio/|$script
 ||anysex.com/2-2-temparoryo/
+||asg.faperoni.com^
 ||atube.xxx/static/js/abb.js
 ||aucdn.net^$media,domain=clgt.one
 ||avn.com/server/
 ||b1.tubexo.tv^$subdocument
+||b8ms7gkwq7g.crocotube.com^
 ||babepedia.com/iStripper/
 ||babesandstars.com/img/banners/
 ||babeshows.co.uk^*banner
@@ -58631,6 +58656,7 @@ $popup,third-party,domain=123animes.mobi|1337x.buzz|720pstream.tv|adblockeronsta
 ||vivatube.*/templates/base_master/js/jquery.shows2.min.js
 ||vndevtop.com/lvcsm/abck-banners/
 ||voyeurhit.com/ffpqvfaczp/
+||vuwjv7sjvg7.zedporn.com^
 ||warashi-asian-pornstars.fr/wapdb-img/ep/
 ||watch-my-gf.com/list/
 ||watchgayporn.online/js/baf.js
