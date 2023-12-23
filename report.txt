@@ -1,9 +1,9 @@
 
-FiltersCompiler report 12/23/2023 1:00:16 AM:
+FiltersCompiler report 12/23/2023 5:00:15 AM:
 
 Filter ID: 101
 Filter name: EasyList
-Compiled rules: 66114
+Compiled rules: 66127
 Excluded rules: 48
 URL: https://easylist-downloads.adblockplus.org/easylist.txt
 INVALID RULES:
@@ -27,7 +27,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 104
 Filter name: EasyList China
-Compiled rules: 18912
+Compiled rules: 18917
 Excluded rules: 52
 URL: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 INVALID RULES:
@@ -417,7 +417,7 @@ URL: https://www.fanboy.co.nz/fanboy-vietnam.txt
 ---------------------------
 Filter ID: 227
 Filter name: List-KR
-Compiled rules: 3650
+Compiled rules: 3649
 Excluded rules: 22
 URL: https://raw.githubusercontent.com/List-KR/List-KR/master/filter-AdGuard.txt
 All rules are valid.
@@ -22322,7 +22322,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 11
 Filter name: AdGuard Mobile Ads filter
-Compiled rules: 7800
+Compiled rules: 7799
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/11.txt
 All rules are valid.
@@ -22405,7 +22405,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 224
 Filter name: AdGuard Chinese filter
-Compiled rules: 22245
+Compiled rules: 22251
 Excluded rules: 50
 URL: https://filters.adtidy.org/extension/chromium/filters/224.txt
 INVALID RULES:
@@ -22427,7 +22427,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 2
 Filter name: AdGuard Base filter
-Compiled rules: 135237
+Compiled rules: 135250
 Excluded rules: 60
 URL: https://filters.adtidy.org/extension/chromium/filters/2.txt
 INVALID RULES:
