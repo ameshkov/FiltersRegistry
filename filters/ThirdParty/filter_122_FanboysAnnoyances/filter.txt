@@ -1,8 +1,8 @@
 !
-! Checksum: 3vGecmX3eh0s2IMCfvg9Ew
-! OriginalVersion: 202312231620
+! Checksum: LXsa+vplUsnnGQvNhFh7oQ
+! OriginalVersion: 202312232045
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-12-23 16:20 UTC
+! Last modified: 2023-12-23 20:45 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -51534,8 +51534,8 @@ trutone.ca,frontrunners.ca,fruugo.co.uk,lull.com,otterbox.com,pulseuniform.com,s
 trutone.ca,frontrunners.ca,fruugo.co.uk,lull.com,otterbox.com,pulseuniform.com,saksfifthavenue.com,shop.pbs.org,szucstermekek.com,zumub.com##.modal-backdrop
 trutone.ca,frontrunners.ca,fruugo.co.uk,lull.com,otterbox.com,pulseuniform.com,saksfifthavenue.com,shop.pbs.org,szucstermekek.com,zumub.com#$#body { overflow: auto !important; position: initial !important; }
 ! tweeters.ca
-italianluxurygroup.com.au,tiedex.co.uk,tweeters.ca##.shopify-section-group-popup-group
-italianluxurygroup.com.au,tiedex.co.uk,tweeters.ca#$#body { overflow: auto !important; position: initial !important; }
+shop.libbey.com,italianluxurygroup.com.au,tiedex.co.uk,tweeters.ca##.shopify-section-group-popup-group
+shop.libbey.com,italianluxurygroup.com.au,tiedex.co.uk,tweeters.ca#$#body { overflow: auto !important; position: initial !important; }
 ! sweetteacaviar.com
 sweetteacaviar.com###swell-overlay
 sweetteacaviar.com###swell-popup

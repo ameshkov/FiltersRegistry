@@ -6874,8 +6874,8 @@ logicool.co.jp##body[style="overflow: hidden;"]:style(overflow: auto !important;
 launer.com##html:style(overflow: auto !important)
 ! Rule "trutone.ca,frontrunners.ca,fruugo.co.uk,lull.com,otterbox.com,pulseuniform.com,saksfifthavenue.com,shop.pbs.org,szucstermekek.com,zumub.com##body:style(overflow: auto !important; position: initial !important;)" converted to: "trutone.ca,frontrunners.ca,fruugo.co.uk,lull.com,otterbox.com,pulseuniform.com,saksfifthavenue.com,shop.pbs.org,szucstermekek.com,zumub.com#$#body { overflow: auto !important; position: initial !important; }"
 trutone.ca,frontrunners.ca,fruugo.co.uk,lull.com,otterbox.com,pulseuniform.com,saksfifthavenue.com,shop.pbs.org,szucstermekek.com,zumub.com##body:style(overflow: auto !important; position: initial !important;)
-! Rule "italianluxurygroup.com.au,tiedex.co.uk,tweeters.ca##body:style(overflow: auto !important; position: initial !important;)" converted to: "italianluxurygroup.com.au,tiedex.co.uk,tweeters.ca#$#body { overflow: auto !important; position: initial !important; }"
-italianluxurygroup.com.au,tiedex.co.uk,tweeters.ca##body:style(overflow: auto !important; position: initial !important;)
+! Rule "shop.libbey.com,italianluxurygroup.com.au,tiedex.co.uk,tweeters.ca##body:style(overflow: auto !important; position: initial !important;)" converted to: "shop.libbey.com,italianluxurygroup.com.au,tiedex.co.uk,tweeters.ca#$#body { overflow: auto !important; position: initial !important; }"
+shop.libbey.com,italianluxurygroup.com.au,tiedex.co.uk,tweeters.ca##body:style(overflow: auto !important; position: initial !important;)
 ! Rule "sweetteacaviar.com##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "sweetteacaviar.com#$#body,html { overflow: auto !important; position: initial !important; }"
 sweetteacaviar.com##body,html:style(overflow: auto !important; position: initial !important;)
 ! Rule "urbanoutfitters.com##+js(set-local-storage-item, modalViewed, 1)" converted to: "urbanoutfitters.com#%#//scriptlet('ubo-set-local-storage-item.js', 'modalViewed', '1')"

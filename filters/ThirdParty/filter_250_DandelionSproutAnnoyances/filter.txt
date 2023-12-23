@@ -27190,8 +27190,8 @@ ctrip.com##.copyright.mod
 mafengwo.cn###footer
 jandan.net###footer
 news.sohu.com##.area.footer
-! Title: 🧜🏾‍♀️ Dandelion Sprout's African Languages List
-! OriginalVersion: 05May2023v5-Alpha
+! Title: 🦁 Dandelion Sprout's African Languages List
+! OriginalVersion: 05May2023v6-Alpha
 ! Expires: 4 days
 ! Licence: https://github.com/DandelionSprout/adfilt/blob/master/LICENSE.md
 ! Homepage: https://github.com/DandelionSprout/adfilt/blob/master/Wiki/General-info.md
