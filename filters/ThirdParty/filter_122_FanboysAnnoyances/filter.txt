@@ -1,8 +1,8 @@
 !
-! Checksum: BVKfuew9BBobTWh+1x1YCw
-! OriginalVersion: 202312230800
+! Checksum: Ki5wuJIQCPknNCvGLcPiRA
+! OriginalVersion: 202312231215
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-12-23 08:00 UTC
+! Last modified: 2023-12-23 12:15 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -41481,6 +41481,7 @@ plos.org#%#//scriptlet('ubo-set-cookie.js', 'plosCookieConsentStatus', 'false')
 pc-canada.com#%#//scriptlet('ubo-set-cookie.js', 'Cookies-Accepted', 'true')
 mullgs.se#%#//scriptlet('ubo-set-cookie.js', 'cc-accepted', '2')
 1a-sehen.de#%#//scriptlet('ubo-set-cookie.js', 'cc-item-google', 'false')
+anker.com#%#//scriptlet('ubo-set-cookie.js', 'accept_cookies', 'accepted')
 feature.fm#%#//scriptlet('ubo-set-cookie.js', 'featureConsent', 'false', '', 'reload', '1')
 comte.com#%#//scriptlet('ubo-set-cookie.js', 'accept-cookie', 'no')
 vilgain.com#%#//scriptlet('ubo-set-cookie.js', 'consent', '0', '', 'reload', '1')
@@ -48048,6 +48049,7 @@ plos.org#%#//scriptlet('ubo-set-cookie.js', 'plosCookieConsentStatus', 'false')
 pc-canada.com#%#//scriptlet('ubo-set-cookie.js', 'Cookies-Accepted', 'true')
 mullgs.se#%#//scriptlet('ubo-set-cookie.js', 'cc-accepted', '2')
 1a-sehen.de#%#//scriptlet('ubo-set-cookie.js', 'cc-item-google', 'false')
+anker.com#%#//scriptlet('ubo-set-cookie.js', 'accept_cookies', 'accepted')
 feature.fm#%#//scriptlet('ubo-set-cookie.js', 'featureConsent', 'false', '', 'reload', '1')
 comte.com#%#//scriptlet('ubo-set-cookie.js', 'accept-cookie', 'no')
 vilgain.com#%#//scriptlet('ubo-set-cookie.js', 'consent', '0', '', 'reload', '1')
