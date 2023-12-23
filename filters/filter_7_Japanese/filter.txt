@@ -1629,6 +1629,7 @@ kuruma-news.jp,magmix.jp,trafficnews.jp$$div[data-history="photo_extra"]
 /wp-content/themes/CashLINESystem/js/modal.$script
 !
 ! Malware/Phishing
+://tokyodisney.*.com/*?lang=ja^$document
 .click/mac/^$document
 .click/win/^$document
 .xyz/mac/^$document
