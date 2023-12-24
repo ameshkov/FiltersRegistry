@@ -132,14 +132,10 @@ mtvuutiset.fi##.container:has(.consent-blocking-embed-message) ~ #onetrust-conse
 wetter.at##.full.blured:style(filter: none !important;)
 ! Rule "voas.fi##body:style(position: static !important)" converted to: "voas.fi#$#body { position: static !important }"
 voas.fi##body:style(position: static !important)
-! Rule "taloon.com##.header__top:style(position: unset !important)" converted to: "taloon.com#$#.header__top { position: unset !important }"
-taloon.com##.header__top:style(position: unset !important)
 ! Rule "bosch-easycontrol.com##.modal-open:style(overflow: auto !important; padding-right: 0 !important;)" converted to: "bosch-easycontrol.com#$#.modal-open { overflow: auto !important; padding-right: 0 !important; }"
 bosch-easycontrol.com##.modal-open:style(overflow: auto !important; padding-right: 0 !important;)
 ! Rule "mega.io,mega.nz##.overlayed .bottom-page.scroll-block:style(filter: none !important; -webkit-filter: none !important)" converted to: "mega.io,mega.nz#$#.overlayed .bottom-page.scroll-block { filter: none !important; -webkit-filter: none !important }"
 mega.io,mega.nz##.overlayed .bottom-page.scroll-block:style(filter: none !important; -webkit-filter: none !important)
-! Rule "taloon.com##.page-header:style(padding-top: 0 !important)" converted to: "taloon.com#$#.page-header { padding-top: 0 !important }"
-taloon.com##.page-header:style(padding-top: 0 !important)
 ! Rule "gesund24.at,oe24.at,wirkochen.at##.wrapper.blured:style(filter: none !important;)" converted to: "gesund24.at,oe24.at,wirkochen.at#$#.wrapper.blured { filter: none !important; }"
 gesund24.at,oe24.at,wirkochen.at##.wrapper.blured:style(filter: none !important;)
 ! Rule "merkur.dk,beststartup.eu,gislaved-banden.be,gislaved.es,gislaveddack.se,gislaved-tires.nl,gislaved.ca,gislaved-banden.be,gislaved-tyres.com,apk-vk.at,deichmann.com,vanharen.nl,grueneerde.com,cdu-fraktion.berlin.de,e-wie-einfach.de,hl.co.uk,kupplung.de,markets.com,mulders-opel.nl,nerim.com,nmhh.hu,researchaffiliates.com,sparkasse.at,tf1.fr,wgv.de,zdf.de,zsgarwolin.pl##body,html:style(height: auto !important; overflow: auto !important)" converted to: "merkur.dk,beststartup.eu,gislaved-banden.be,gislaved.es,gislaveddack.se,gislaved-tires.nl,gislaved.ca,gislaved-banden.be,gislaved-tyres.com,apk-vk.at,deichmann.com,vanharen.nl,grueneerde.com,cdu-fraktion.berlin.de,e-wie-einfach.de,hl.co.uk,kupplung.de,markets.com,mulders-opel.nl,nerim.com,nmhh.hu,researchaffiliates.com,sparkasse.at,tf1.fr,wgv.de,zdf.de,zsgarwolin.pl#$#body,html { height: auto !important; overflow: auto !important }"
@@ -324,8 +320,6 @@ campingdusoleil.com,hotel-la-chaumiere.com,les-anges-gardiens.fr,croco-kid.com,c
 dehn.es,dehn.fr,dehn.it,dehn.hu,desitek.dk,dehn.at,dehn.de##+js(rc, mandatory_cookie_modal, , stay)
 ! Rule "wwz.ch##+js(rc, wwzoverlay--open, , stay)" converted to: "wwz.ch#%#//scriptlet('ubo-rc.js', 'wwzoverlay--open', '', 'stay')"
 wwz.ch##+js(rc, wwzoverlay--open, , stay)
-! Rule "taloon.com##+js(rc, cookie_popup_exists, div.page-wrapper, stay)" converted to: "taloon.com#%#//scriptlet('ubo-rc.js', 'cookie_popup_exists', 'div.page-wrapper', 'stay')"
-taloon.com##+js(rc, cookie_popup_exists, div.page-wrapper, stay)
 ! Rule "inyova.at,inyova.ch,inyova.de,ccalbacenter.com,wamu.org##+js(rc, gdpr-infobar-visible, , stay)" converted to: "inyova.at,inyova.ch,inyova.de,ccalbacenter.com,wamu.org#%#//scriptlet('ubo-rc.js', 'gdpr-infobar-visible', '', 'stay')"
 inyova.at,inyova.ch,inyova.de,ccalbacenter.com,wamu.org##+js(rc, gdpr-infobar-visible, , stay)
 ! Rule "momentive.com##+js(rc, cookie-enabled, , stay)" converted to: "momentive.com#%#//scriptlet('ubo-rc.js', 'cookie-enabled', '', 'stay')"
@@ -1366,6 +1360,14 @@ ofdb.de##+js(set-cookie, ofdb_werbung, Y, , reload, 1)
 dtksoft.com##+js(set-cookie, user_cookie_consent, 1)
 ! Rule "serverstoplist.com##+js(set-cookie, STAgreement, 1)" converted to: "serverstoplist.com#%#//scriptlet('ubo-set-cookie.js', 'STAgreement', '1')"
 serverstoplist.com##+js(set-cookie, STAgreement, 1)
+! Rule "tampereenratikka.fi##+js(set-cookie, cookielawinfo-checkbox-necessary, yes)" converted to: "tampereenratikka.fi#%#//scriptlet('ubo-set-cookie.js', 'cookielawinfo-checkbox-necessary', 'yes')"
+tampereenratikka.fi##+js(set-cookie, cookielawinfo-checkbox-necessary, yes)
+! Rule "tampereenratikka.fi##+js(set-cookie, cookielawinfo-checkbox-markkinointi, no)" converted to: "tampereenratikka.fi#%#//scriptlet('ubo-set-cookie.js', 'cookielawinfo-checkbox-markkinointi', 'no')"
+tampereenratikka.fi##+js(set-cookie, cookielawinfo-checkbox-markkinointi, no)
+! Rule "tampereenratikka.fi##+js(set-cookie, cookielawinfo-checkbox-tilastointi, no)" converted to: "tampereenratikka.fi#%#//scriptlet('ubo-set-cookie.js', 'cookielawinfo-checkbox-tilastointi', 'no')"
+tampereenratikka.fi##+js(set-cookie, cookielawinfo-checkbox-tilastointi, no)
+! Rule "tampereenratikka.fi##+js(set-cookie, viewed_cookie_policy, no)" converted to: "tampereenratikka.fi#%#//scriptlet('ubo-set-cookie.js', 'viewed_cookie_policy', 'no')"
+tampereenratikka.fi##+js(set-cookie, viewed_cookie_policy, no)
 ! Rule "omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-other, false)" converted to: "omroepbrabant.nl#%#//scriptlet('ubo-set-local-storage-item.js', 'psh:cookies-other', 'false')"
 omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-other, false)
 ! Rule "omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-seen, true)" converted to: "omroepbrabant.nl#%#//scriptlet('ubo-set-local-storage-item.js', 'psh:cookies-seen', 'true')"
@@ -3118,6 +3120,8 @@ ilonpolku.fi##html:style(overflow: auto !important)
 kiertokanki.com##body:style(overflow: auto !important;)
 ! Rule "flip.bg##.modal-open:style(overflow: auto !important;)" converted to: "flip.bg#$#.modal-open { overflow: auto !important; }"
 flip.bg##.modal-open:style(overflow: auto !important;)
+! Rule "50plusmatch.fi##.compensate-for-scrollbar:style(margin-right: 0 !important)" converted to: "50plusmatch.fi#$#.compensate-for-scrollbar { margin-right: 0 !important }"
+50plusmatch.fi##.compensate-for-scrollbar:style(margin-right: 0 !important)
 ! Rule "audioholics.com,protocol.com,theconversation.com##body:style(overflow: auto !important;)" converted to: "audioholics.com,protocol.com,theconversation.com#$#body { overflow: auto !important; }"
 audioholics.com,protocol.com,theconversation.com##body:style(overflow: auto !important;)
 ! Rule "otisoatmilk.co.nz,socialitelife.com##html:style(overflow:auto !important)" converted to: "otisoatmilk.co.nz,socialitelife.com#$#html { overflow:auto !important }"
@@ -4860,6 +4864,14 @@ ofdb.de##+js(set-cookie, ofdb_werbung, Y, , reload, 1)
 dtksoft.com##+js(set-cookie, user_cookie_consent, 1)
 ! Rule "serverstoplist.com##+js(set-cookie, STAgreement, 1)" converted to: "serverstoplist.com#%#//scriptlet('ubo-set-cookie.js', 'STAgreement', '1')"
 serverstoplist.com##+js(set-cookie, STAgreement, 1)
+! Rule "tampereenratikka.fi##+js(set-cookie, cookielawinfo-checkbox-necessary, yes)" converted to: "tampereenratikka.fi#%#//scriptlet('ubo-set-cookie.js', 'cookielawinfo-checkbox-necessary', 'yes')"
+tampereenratikka.fi##+js(set-cookie, cookielawinfo-checkbox-necessary, yes)
+! Rule "tampereenratikka.fi##+js(set-cookie, cookielawinfo-checkbox-markkinointi, no)" converted to: "tampereenratikka.fi#%#//scriptlet('ubo-set-cookie.js', 'cookielawinfo-checkbox-markkinointi', 'no')"
+tampereenratikka.fi##+js(set-cookie, cookielawinfo-checkbox-markkinointi, no)
+! Rule "tampereenratikka.fi##+js(set-cookie, cookielawinfo-checkbox-tilastointi, no)" converted to: "tampereenratikka.fi#%#//scriptlet('ubo-set-cookie.js', 'cookielawinfo-checkbox-tilastointi', 'no')"
+tampereenratikka.fi##+js(set-cookie, cookielawinfo-checkbox-tilastointi, no)
+! Rule "tampereenratikka.fi##+js(set-cookie, viewed_cookie_policy, no)" converted to: "tampereenratikka.fi#%#//scriptlet('ubo-set-cookie.js', 'viewed_cookie_policy', 'no')"
+tampereenratikka.fi##+js(set-cookie, viewed_cookie_policy, no)
 ! Rule "omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-other, false)" converted to: "omroepbrabant.nl#%#//scriptlet('ubo-set-local-storage-item.js', 'psh:cookies-other', 'false')"
 omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-other, false)
 ! Rule "omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-seen, true)" converted to: "omroepbrabant.nl#%#//scriptlet('ubo-set-local-storage-item.js', 'psh:cookies-seen', 'true')"

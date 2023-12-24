@@ -1,5 +1,5 @@
 
-FiltersCompiler report 12/24/2023 1:00:25 AM:
+FiltersCompiler report 12/24/2023 5:00:15 AM:
 
 Filter ID: 101
 Filter name: EasyList
@@ -27,7 +27,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 104
 Filter name: EasyList China
-Compiled rules: 18932
+Compiled rules: 18935
 Excluded rules: 52
 URL: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 INVALID RULES:
@@ -157,8 +157,8 @@ All rules are valid.
 ---------------------------
 Filter ID: 122
 Filter name: Fanboy's Annoyances
-Compiled rules: 57227
-Excluded rules: 7022
+Compiled rules: 57235
+Excluded rules: 7034
 URL: https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 INVALID RULES:
 Error: Invalid selector: '+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)' -- '+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)' is not a valid selector in rule: zippia.com##+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)
@@ -381,7 +381,7 @@ URL: http://sub.adtchrome.com/adt-chinalist-easylist.txt
 ---------------------------
 Filter ID: 220
 Filter name: CJX's Annoyances List
-Compiled rules: 1829
+Compiled rules: 1830
 Excluded rules: 2
 URL: https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 All rules are valid.
@@ -22405,7 +22405,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 224
 Filter name: AdGuard Chinese filter
-Compiled rules: 22266
+Compiled rules: 22269
 Excluded rules: 50
 URL: https://filters.adtidy.org/extension/chromium/filters/224.txt
 INVALID RULES:
