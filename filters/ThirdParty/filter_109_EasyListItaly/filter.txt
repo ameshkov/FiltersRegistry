@@ -1,8 +1,8 @@
 !
-! Checksum: JdG0RkrppigpR6S9s25FLA
-! OriginalVersion: 202312240451
+! Checksum: fkrDE2PcLPcA/KpICtGUog
+! OriginalVersion: 202312240850
 ! Title: EasyList Italy
-! Last modified: 24 Dec 2023 04:51 UTC
+! Last modified: 24 Dec 2023 08:50 UTC
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://easylist.to/
 ! Licenza: https://easylist.to/pages/licence.html
