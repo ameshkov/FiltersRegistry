@@ -1,8 +1,8 @@
 !
-! Checksum: UJ3jkBmqRTJN2o1Ee5p9bQ
-! OriginalVersion: 202312241250
+! Checksum: 3pFBVfpCpuG4CSAyJrnCcQ
+! OriginalVersion: 202312241651
 ! Title: EasyList
-! Last modified: 24 Dec 2023 12:50 UTC
+! Last modified: 24 Dec 2023 16:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18560,7 +18560,7 @@ eneuro.org,jneurosci.org#@#.region-ad-top
 offmoto.com#@#.reklama
 msn.com#@#.serversidenativead
 audioholics.com,classy-online.jp#@#.side-ad
-ekitan.com#@#.sidebar-ad
+ekitan.com,kissanadu.com#@#.sidebar-ad
 independent.com#@#.sidebar-ads
 cadlinecommunity.co.uk#@#.sidebar_advert
 24city.cn.ua#@#.single-ads
@@ -20835,6 +20835,7 @@ browsershots.org#@#.advert_area
 ||albraixentor.com^
 ||albumsignaturerequested.com^
 ||albynloxia.website^
+||alcatza.com^
 ||alcesinassing.xyz^
 ||alchemysocial.com^
 ||alcoholsupervisiondisplace.com^
@@ -24126,6 +24127,7 @@ browsershots.org#@#.advert_area
 ||cavernousshift.pro^
 ||cavilerestops.com^
 ||cawbarthe.com^
+||cawlavzzap.com^
 ||cawnielammy.com^
 ||caxist.com^
 ||caymanboreism.com^
@@ -29686,6 +29688,7 @@ browsershots.org#@#.advert_area
 ||gafmajosxog.com^
 ||gaghygienetheir.com^
 ||gagpetwet.com^
+||gahonnlsh.com^
 ||gaigroak.com^
 ||gaijiglo.net^
 ||gaimofup.com^
@@ -32623,6 +32626,7 @@ browsershots.org#@#.advert_area
 ||issomeoneinth.info^
 ||istlnkbn.com^
 ||istsldaheh.com^
+||isvnwxpoqgsgyy.com^
 ||iswhatappyouneed.net^
 ||iswhelectual.cc^
 ||isymybwvzl.com^
@@ -37973,6 +37977,7 @@ browsershots.org#@#.advert_area
 ||osspwamuhn.com^
 ||ossrhydonr.com^
 ||ossshucklean.com^
+||ostazvtx.com^
 ||ostensibledressmaker.com^
 ||ostentatiousmystery.com^
 ||osteriawoold.space^
@@ -40479,6 +40484,7 @@ browsershots.org#@#.advert_area
 ||qcsjmidihe.com^
 ||qctzwkrczwjw.com^
 ||qdagihwi.xyz^
+||qdlbdpsctalt.com^
 ||qdlesuneeqoglp.com^
 ||qdmil.com^
 ||qdprapwflpvxpyl.com^

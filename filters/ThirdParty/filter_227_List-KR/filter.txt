@@ -1,7 +1,7 @@
 !
 ! Title: List-KR for AdGuard
 ! Description: List-KR for AdGuard. Maintained by the adblock community and AdGuard.
-! OriginalVersion: 2023.1224.0
+! OriginalVersion: 2023.1224.1
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! Support: https://github.com/List-KR/List-KR/issues/223
@@ -1260,6 +1260,7 @@ funbe276.com,funbe277.com,funbe278.com,funbe279.com,funbe280.com,funbe281.com,fu
 !
 ! DOMAIN-REFRESHER: START
 !
+||agitwebtoon.*/upload/$domain=agitwebtoon.*
 /^https:\/\/18moa[0-9]+\.com\/data\/file\/main_top_banner\/thumb-/
 ||topgirl.co/project/bm/js/nuevo.min.js
 ||wwwimageup.live-009.com/other/wx_app_admin/
@@ -2488,6 +2489,7 @@ osen.mt.co.kr##div#close_mask
 !
 ! DOMAIN-REFRESHER: START
 !
+agitwebtoon.*##.advx
 newtoki.*##.banner2
 opworlds16.com,opworlds17.com,opworlds18.com,opworlds19.com,opworlds20.com,opworlds21.com,opworlds22.com,opworlds23.com,opworlds24.com##.basic-banner-gallery
 jusoyo12.net,jusoyo13.net,jusoyo14.net,jusoyo15.net,jusoyo16.net,jusoyo17.net,jusoyo18.net,jusoyo19.net,jusoyo20.net,jusoyo21.net,jusoyo22.net##.hd_pops

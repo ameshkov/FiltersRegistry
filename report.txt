@@ -1,9 +1,9 @@
 
-FiltersCompiler report 12/24/2023 1:00:16 PM:
+FiltersCompiler report 12/24/2023 5:00:16 PM:
 
 Filter ID: 101
 Filter name: EasyList
-Compiled rules: 66180
+Compiled rules: 66186
 Excluded rules: 48
 URL: https://easylist-downloads.adblockplus.org/easylist.txt
 INVALID RULES:
@@ -27,7 +27,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 104
 Filter name: EasyList China
-Compiled rules: 18941
+Compiled rules: 18944
 Excluded rules: 52
 URL: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 INVALID RULES:
@@ -142,8 +142,8 @@ URL: https://adblock.gardar.net/is.abp.txt
 ---------------------------
 Filter ID: 120
 Filter name: AdBlockID
-Compiled rules: 5781
-Excluded rules: 1160
+Compiled rules: 5764
+Excluded rules: 1138
 URL: https://raw.githubusercontent.com/realodix/AdBlockID/main/dist/adblockid.adfl.txt
 INVALID RULES:
 Error: "Unknown pseudo-class ':remove-class' in selector: 'html:remove-class(cdk-global-scrollblock)'" in the rule: "duniagames.co.id##html:remove-class(cdk-global-scrollblock)"
@@ -157,7 +157,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 122
 Filter name: Fanboy's Annoyances
-Compiled rules: 57235
+Compiled rules: 57237
 Excluded rules: 7034
 URL: https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 INVALID RULES:
@@ -416,7 +416,7 @@ URL: https://www.fanboy.co.nz/fanboy-vietnam.txt
 ---------------------------
 Filter ID: 227
 Filter name: List-KR
-Compiled rules: 3656
+Compiled rules: 3658
 Excluded rules: 22
 URL: https://raw.githubusercontent.com/List-KR/List-KR/master/filter-AdGuard.txt
 All rules are valid.
@@ -449,7 +449,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 232
 Filter name: KAD - Anti-Scam
-Compiled rules: 50757
+Compiled rules: 50764
 Excluded rules: 236
 URL: https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt
 INVALID RULES:
@@ -601,7 +601,7 @@ Error: "Unknown pseudo-class ':remove-attr' in selector: 'a[href][ping]:remove-a
 ---------------------------
 Filter ID: 244
 Filter name: YousList
-Compiled rules: 7451
+Compiled rules: 7458
 Excluded rules: 0
 URL: https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
 All rules are valid.
@@ -22340,7 +22340,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 14
 Filter name: AdGuard Annoyances filter
-Compiled rules: 52481
+Compiled rules: 52482
 Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/14.txt
 All rules are valid.
@@ -22390,7 +22390,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 20
 Filter name: AdGuard Mobile App Banners filter
-Compiled rules: 3557
+Compiled rules: 3558
 Excluded rules: 0
 URL: https://filters.adtidy.org/extension/chromium/filters/20.txt
 All rules are valid.
@@ -22404,7 +22404,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 224
 Filter name: AdGuard Chinese filter
-Compiled rules: 22274
+Compiled rules: 22278
 Excluded rules: 50
 URL: https://filters.adtidy.org/extension/chromium/filters/224.txt
 INVALID RULES:
@@ -22426,7 +22426,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 2
 Filter name: AdGuard Base filter
-Compiled rules: 135241
+Compiled rules: 135247
 Excluded rules: 60
 URL: https://filters.adtidy.org/extension/chromium/filters/2.txt
 INVALID RULES:
@@ -22464,7 +22464,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 7
 Filter name: AdGuard Japanese filter
-Compiled rules: 10592
+Compiled rules: 10595
 Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/7.txt
 All rules are valid.
