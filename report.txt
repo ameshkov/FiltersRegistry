@@ -1,9 +1,9 @@
 
-FiltersCompiler report 12/24/2023 5:00:16 PM:
+FiltersCompiler report 12/24/2023 9:00:19 PM:
 
 Filter ID: 101
 Filter name: EasyList
-Compiled rules: 66186
+Compiled rules: 66187
 Excluded rules: 48
 URL: https://easylist-downloads.adblockplus.org/easylist.txt
 INVALID RULES:
@@ -150,15 +150,15 @@ Error: "Unknown pseudo-class ':remove-class' in selector: 'html:remove-class(cdk
 ---------------------------
 Filter ID: 121
 Filter name: Greek AdBlock Filter
-Compiled rules: 1049
+Compiled rules: 1052
 Excluded rules: 20
 URL: https://www.void.gr/kargig/void-gr-filters.txt
 All rules are valid.
 ---------------------------
 Filter ID: 122
 Filter name: Fanboy's Annoyances
-Compiled rules: 57237
-Excluded rules: 7034
+Compiled rules: 57241
+Excluded rules: 7038
 URL: https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 INVALID RULES:
 Error: Invalid selector: '+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)' -- '+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)' is not a valid selector in rule: zippia.com##+js(set-local-storage-item, gatedSignupTimerCounter, $remove$)
@@ -449,7 +449,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 232
 Filter name: KAD - Anti-Scam
-Compiled rules: 50764
+Compiled rules: 50774
 Excluded rules: 236
 URL: https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt
 INVALID RULES:
@@ -551,8 +551,8 @@ URL: https://paulgb.github.io/BarbBlock/blacklists/adblock-plus.txt
 ---------------------------
 Filter ID: 241
 Filter name: EasyList Cookie List
-Compiled rules: 28887
-Excluded rules: 3006
+Compiled rules: 28888
+Excluded rules: 3008
 URL: https://www.fanboy.co.nz/fanboy-cookiemonster.txt
 All rules are valid.
 ---------------------------
@@ -22347,7 +22347,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 15
 Filter name: AdGuard DNS filter
-Compiled rules: 59439
+Compiled rules: 59447
 Excluded rules: 308
 URL: https://filters.adtidy.org/extension/chromium/filters/15.txt
 All rules are valid.
@@ -22426,7 +22426,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 2
 Filter name: AdGuard Base filter
-Compiled rules: 135247
+Compiled rules: 135248
 Excluded rules: 60
 URL: https://filters.adtidy.org/extension/chromium/filters/2.txt
 INVALID RULES:

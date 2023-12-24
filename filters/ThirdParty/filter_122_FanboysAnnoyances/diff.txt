@@ -354,6 +354,8 @@ plos.org##+js(set-cookie, plosCookieConsentStatus, false)
 pc-canada.com##+js(set-cookie, Cookies-Accepted, true)
 ! Rule "mullgs.se##+js(set-cookie, cc-accepted, 2)" converted to: "mullgs.se#%#//scriptlet('ubo-set-cookie.js', 'cc-accepted', '2')"
 mullgs.se##+js(set-cookie, cc-accepted, 2)
+! Rule "auth.hiring.amazon.com##+js(set-local-storage-item, cookieConsent, true)" converted to: "auth.hiring.amazon.com#%#//scriptlet('ubo-set-local-storage-item.js', 'cookieConsent', 'true')"
+auth.hiring.amazon.com##+js(set-local-storage-item, cookieConsent, true)
 ! Rule "1a-sehen.de##+js(set-cookie, cc-item-google, false)" converted to: "1a-sehen.de#%#//scriptlet('ubo-set-cookie.js', 'cc-item-google', 'false')"
 1a-sehen.de##+js(set-cookie, cc-item-google, false)
 ! Rule "anker.com##+js(set-cookie, accept_cookies, accepted)" converted to: "anker.com#%#//scriptlet('ubo-set-cookie.js', 'accept_cookies', 'accepted')"
@@ -3494,8 +3496,8 @@ vrbo.com##+js(rc, has-uitk-sheet, body, stay)
 similarweb.com##+js(rc, app-banner-parent, body, stay)
 ! Rule "similarweb.com##.app-header:style(top:0 !important)" converted to: "similarweb.com#$#.app-header { top:0 !important }"
 similarweb.com##.app-header:style(top:0 !important)
-! Rule "eksisozluk1999.com##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "eksisozluk1999.com#$#body,html { overflow: auto !important; position: initial !important; }"
-eksisozluk1999.com##body,html:style(overflow: auto !important; position: initial !important;)
+! Rule "eksisozluk111.com##body,html:style(overflow: auto !important; position: initial !important;)" converted to: "eksisozluk111.com#$#body,html { overflow: auto !important; position: initial !important; }"
+eksisozluk111.com##body,html:style(overflow: auto !important; position: initial !important;)
 ! Rule "mydramalist.com##+js(rc, smartbanner-active, body)" converted to: "mydramalist.com#%#//scriptlet('ubo-rc.js', 'smartbanner-active', 'body')"
 mydramalist.com##+js(rc, smartbanner-active, body)
 ! Rule "smocca.jp##+js(set, history.state, undefined)" converted to: "smocca.jp#%#//scriptlet('ubo-set.js', 'history.state', 'undefined')"
@@ -3858,6 +3860,8 @@ plos.org##+js(set-cookie, plosCookieConsentStatus, false)
 pc-canada.com##+js(set-cookie, Cookies-Accepted, true)
 ! Rule "mullgs.se##+js(set-cookie, cc-accepted, 2)" converted to: "mullgs.se#%#//scriptlet('ubo-set-cookie.js', 'cc-accepted', '2')"
 mullgs.se##+js(set-cookie, cc-accepted, 2)
+! Rule "auth.hiring.amazon.com##+js(set-local-storage-item, cookieConsent, true)" converted to: "auth.hiring.amazon.com#%#//scriptlet('ubo-set-local-storage-item.js', 'cookieConsent', 'true')"
+auth.hiring.amazon.com##+js(set-local-storage-item, cookieConsent, true)
 ! Rule "1a-sehen.de##+js(set-cookie, cc-item-google, false)" converted to: "1a-sehen.de#%#//scriptlet('ubo-set-cookie.js', 'cc-item-google', 'false')"
 1a-sehen.de##+js(set-cookie, cc-item-google, false)
 ! Rule "anker.com##+js(set-cookie, accept_cookies, accepted)" converted to: "anker.com#%#//scriptlet('ubo-set-cookie.js', 'accept_cookies', 'accepted')"

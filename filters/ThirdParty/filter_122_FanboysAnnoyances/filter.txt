@@ -1,8 +1,8 @@
 !
-! Checksum: JERTAy/aHTGT+fNDsCn63w
-! OriginalVersion: 202312241615
+! Checksum: ykDr+swd5u+yk2d06C8qdg
+! OriginalVersion: 202312242030
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-12-24 16:15 UTC
+! Last modified: 2023-12-24 20:30 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -36478,7 +36478,7 @@ cacm.acm.org,cnbctv18.com,ekathimerini.com,gbnews.com,porngem.com##.to-top
 radaris.com##.toTop
 ny.thepaperfair.com##.top-bottom
 cheatcc.com,thrillophilia.com##.top-button
-butterwithasideofbread.com,momontimeout.com##.topButton
+butterwithasideofbread.com,dirtyship.com,momontimeout.com##.topButton
 nomadicmatt.com,vdigitalservices.com##.topbutton
 hispantv.com,minitool.com##.totop
 spjeff.com##.totop-br
@@ -36497,6 +36497,7 @@ kimcartoon.li##[href="#"]
 nordstrom.com##[href="#back-to-top"]
 nexusmods.com##[title="Back to top"]
 urlgalleries.net##[title="Go to top"]
+kitguru.net##[title="Scroll To Top"]
 wallpaperflare.com##[title="back to top"]
 !! .icon-top
 landian.vip,russian-sex.me##.icon-top
@@ -38299,7 +38300,6 @@ duffay-publicite.com###ch-cookie-consent-modal
 zealy.io###chakra-toast-manager-bottom-right
 cigionline.org###cigi-cookie-consent-container
 news.cision.com###cision-cookie-policy-banner
-wowza.com###ck_pu
 newindianexpress.com###ckgre
 nch.com.au,nchsoftware.com###ckndiv
 bghotelite.com###clb_wr
@@ -38505,6 +38505,7 @@ cyclemiles.co.uk###messages-cont
 jjb-collection.com###mi-container
 misskey.io###misskey-ga-cookie-accept-bar
 discoversanangelo.com###mm_cc_modal_overlay
+wowza.com###modal-3vufhe18z0kd
 aqara.com###modal-agreement
 thepointofsale.com###modal-background
 alvin-almazov.com###modal-cache__overlay
@@ -40897,7 +40898,7 @@ anpeandalucia.es,anpeasturias.es,anpecanarias.es,anpegalicia.es,crbinverbio.com,
 arb.ro,autoobuv.sk,ecoxtrem.ro,educatiefinanciara.info,groundtruth.com,metropolitanresidence.ro,openpolitics.ro,redis.org,simplefx.com,tigernails.ro,traineedagen.se,trendresidence.ro###gdpr-modal
 adressa.no,alicecooper.com,altaposten.no,deptagency.com,driva.no,econt.com,fjuken.no,folkebladet.no,l-a.no,lp.no,peoplefone.lt,smp.no,soshace.com##.gdpr-modal
 !! .gdpr-container
-cvhelp.co.uk,hhmi.org,mjcb.io,smugmug.com,xvpn.io##.gdpr-container
+cvhelp.co.uk,hhmi.org,mjcb.io,smugmug.com,snapon.com,xvpn.io##.gdpr-container
 !! .consentmodal
 kaartje2go.be,kaartje2go.nl,sendasmile.de##.consentmodal
 !! #privacy
@@ -41477,6 +41478,7 @@ rt.com#%#//scriptlet('ubo-set-cookie.js', 'rt-cb-approve', 'true')
 plos.org#%#//scriptlet('ubo-set-cookie.js', 'plosCookieConsentStatus', 'false')
 pc-canada.com#%#//scriptlet('ubo-set-cookie.js', 'Cookies-Accepted', 'true')
 mullgs.se#%#//scriptlet('ubo-set-cookie.js', 'cc-accepted', '2')
+auth.hiring.amazon.com#%#//scriptlet('ubo-set-local-storage-item.js', 'cookieConsent', 'true')
 1a-sehen.de#%#//scriptlet('ubo-set-cookie.js', 'cc-item-google', 'false')
 anker.com#%#//scriptlet('ubo-set-cookie.js', 'accept_cookies', 'accepted')
 feature.fm#%#//scriptlet('ubo-set-cookie.js', 'featureConsent', 'false', '', 'reload', '1')
@@ -44728,7 +44730,7 @@ easternstandardtimes.com###news-letter-pop
 thenation.com###news-letters
 chicagotribune.com,nydailynews.com###news_letter_div
 momontimeout.com###newsbox
-getprice.com.au###newsletter
+getprice.com.au,keshaofficial.com###newsletter
 empr.com,endocrinologyadvisor.com,hematologyadvisor.com,mcknights.com,mcknightshomecare.com,medicalbag.com,neurologyadvisor.com,ophthalmologyadvisor.com,optometryadvisor.com,thecardiologyadvisor.com###newsletter-asset
 foodandwaterwatch.org###newsletter-block-bottom
 startribune.com###newsletter-boot
@@ -45731,6 +45733,7 @@ stakingrewards.com##.newsletter_newsletter__sU4Yv
 fairplanet.org##.newsletter_popup
 weareexplorers.co##.newsletter_sidebar_block
 thegazette.com##.newsletter_sign_up_page_breaker
+shakira.com##.newsletter_signup
 themoscowtimes.com##.newsletterbanner
 christiantoday.com##.newsletterbox
 gardeningknowhow.com##.newsletterform
@@ -47575,9 +47578,9 @@ vrbo.com#%#//scriptlet('ubo-rc.js', 'has-uitk-sheet', 'body', 'stay')
 ! similarweb.com (Collapse top)
 similarweb.com#%#//scriptlet('ubo-rc.js', 'app-banner-parent', 'body', 'stay')
 similarweb.com#$#.app-header { top:0 !important }
-! eksisozluk1999.com
-eksisozluk1999.com###app-suggestion-container
-eksisozluk1999.com#$#body,html { overflow: auto !important; position: initial !important; }
+! eksisozluk111.com
+eksisozluk111.com###app-suggestion-container
+eksisozluk111.com#$#body,html { overflow: auto !important; position: initial !important; }
 ! mydramalist.com
 mydramalist.com#%#//scriptlet('ubo-rc.js', 'smartbanner-active', 'body')
 ! smocca.jp
@@ -48054,6 +48057,7 @@ rt.com#%#//scriptlet('ubo-set-cookie.js', 'rt-cb-approve', 'true')
 plos.org#%#//scriptlet('ubo-set-cookie.js', 'plosCookieConsentStatus', 'false')
 pc-canada.com#%#//scriptlet('ubo-set-cookie.js', 'Cookies-Accepted', 'true')
 mullgs.se#%#//scriptlet('ubo-set-cookie.js', 'cc-accepted', '2')
+auth.hiring.amazon.com#%#//scriptlet('ubo-set-local-storage-item.js', 'cookieConsent', 'true')
 1a-sehen.de#%#//scriptlet('ubo-set-cookie.js', 'cc-item-google', 'false')
 anker.com#%#//scriptlet('ubo-set-cookie.js', 'accept_cookies', 'accepted')
 feature.fm#%#//scriptlet('ubo-set-cookie.js', 'featureConsent', 'false', '', 'reload', '1')
