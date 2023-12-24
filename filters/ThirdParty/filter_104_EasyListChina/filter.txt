@@ -1612,6 +1612,7 @@ newduba.cn###jq_youxi
 ##script[src="/js/sy2.js"] + div[align="center"]
 ##span[title="neteasefooter"]
 ##style + .a-loading
+##.player-tt-rmm
 ##style + .need_grid_img
 ##style + .vdgdo
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
@@ -2744,6 +2745,9 @@ newduba.cn###jq_youxi
 ||bdsahkln.xyz^
 ||xuyanlong1.cn^
 ||xdsahkln.xyz^
+||aukllsq.cn^
+||tdsahkln.xyz^
+||jueyds.top^
 ||zzyy20.top^
 !
 ##[style*="sotv.me"]

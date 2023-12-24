@@ -1,8 +1,8 @@
 !
-! Checksum: 0gxSPxlUjaNNLJMwARjJcA
-! OriginalVersion: 202312240850
+! Checksum: KIGxvjlU4f8pGvswYFGs3w
+! OriginalVersion: 202312241250
 ! Title: RU AdList: Counters
-! Last modified: 24 Dec 2023 08:50 UTC
+! Last modified: 24 Dec 2023 12:50 UTC
 ! Expires: 1 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1156,7 +1156,6 @@ freehd.com.ua,hdreactor.club,hdreactor.su#?#.sidebar > .menu-wrap > .menu-head:-
 pb.wtf,piratbit.org,piratbit.pw,piratbit.top,vidak.icu#?#.table > tbody[id^="post_"]:-abp-has(a[target="_blank"] > strong)
 /manifest.json$domain=eapteka.ru
 @@/adsense.png|$image,domain=freeopenvpn.org
-@@||forum.ruboard.$generichide
 @@||inoreader.com^$generichide
 @@||only-paper.ru/*/$script,domain=only-paper.ru
 @@||www.inoreader.com/adv/$domain=www.inoreader.com

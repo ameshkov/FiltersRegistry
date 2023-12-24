@@ -1,7 +1,7 @@
 !
 ! Title: List-KR for AdGuard
 ! Description: List-KR for AdGuard. Maintained by the adblock community and AdGuard.
-! OriginalVersion: 2023.1223.4
+! OriginalVersion: 2023.1224.0
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! Support: https://github.com/List-KR/List-KR/issues/223
@@ -519,6 +519,7 @@ funbe276.com,funbe277.com,funbe278.com,funbe279.com,funbe280.com,funbe281.com,fu
 /data/banner.json?
 /ad-manager.min.js
 !
+/^https:\/\/humorpick\.com\/data\/editor\/[0-9]{4}\/(?!thumb-)/$domain=humorpick.com
 ||dentalnews.or.kr/data/banner/
 ||m2.nateimg.co.kr/cms/*.gif|$image
 /^https?:\/\/www\.tinnews\.co\.kr\/data\/tinnews_co_kr\/banner\/(?!(favicon\.ico|2020040642392902))/$domain=tinnews.co.kr
@@ -2651,6 +2652,11 @@ auto.danawa.com#%#//scriptlet('set-constant', 'NAVER_ADPOST_V2', 'noopFunc')
 !#endif
 !#if (adguard_ext_chromium || adguard_ext_edge || adguard_ext_firefox || adguard_ext_opera)
 ||shopsquare.naver.com^$badfilter
+!#endif
+!#if adguard_app_ios
+||humorpick.com/data/editor/
+@@/^https:\/\/humorpick\.com\/data\/editor\/[0-9]+\/thumb-/$domain=humorpick.com
+/^https:\/\/humorpick\.com\/data\/editor\/[0-9]+\/[a-z0-9]+/$domain=humorpick.com
 !#endif
 ! TODO: remove the following filter if https://github.com/AdguardTeam/CoreLibs/issues/1831 is resolved.
 !#if (adguard_app_android || adguard_app_mac || adguard_app_windows)

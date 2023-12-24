@@ -1,9 +1,9 @@
 
-FiltersCompiler report 12/24/2023 9:00:16 AM:
+FiltersCompiler report 12/24/2023 1:00:16 PM:
 
 Filter ID: 101
 Filter name: EasyList
-Compiled rules: 66163
+Compiled rules: 66180
 Excluded rules: 48
 URL: https://easylist-downloads.adblockplus.org/easylist.txt
 INVALID RULES:
@@ -27,7 +27,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 104
 Filter name: EasyList China
-Compiled rules: 18937
+Compiled rules: 18941
 Excluded rules: 52
 URL: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 INVALID RULES:
@@ -234,7 +234,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 208
 Filter name: Online Malicious URL Blocklist
-Compiled rules: 2233
+Compiled rules: 2186
 Excluded rules: 6
 URL: https://urlhaus-filter.pages.dev/urlhaus-filter-ag-online.txt
 All rules are valid.
@@ -256,7 +256,7 @@ URL: https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adbl
 ---------------------------
 Filter ID: 212
 Filter name: RU AdList: Counters
-Compiled rules: 1493
+Compiled rules: 1492
 Excluded rules: 250
 URL: https://easylist-downloads.adblockplus.org/cntblock.txt
 INVALID RULES:
@@ -338,11 +338,10 @@ All rules are valid.
 ---------------------------
 Filter ID: 216
 Filter name: Official Polish filters for AdBlock, uBlock Origin & AdGuard
-Compiled rules: 6482
-Excluded rules: 596
+Compiled rules: 6495
+Excluded rules: 594
 URL: https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt
 INVALID RULES:
-Error: Invalid selector: '#text-424kurier.pl##div.box_reklama, .box_reklama_t' -- Error: unable to select by '#text-424kurier.pl##div.box_reklama' — '#text-424kurier.pl##div.box_reklama' is not a valid selector in rule: 24legnica.pl,premierywtv.pl,motohigh.pl###text-424kurier.pl##div.box_reklama, .box_reklama_t
 Error: "Unknown modifier: from=filmweb.pl" in the rule: "||fwcdn.pl/front/assets/fastaticbanner-*.$from=filmweb.pl"
 Error: Invalid selector: ':xpath("//div[count(*)=3][img[@class][@src]][*[count(*)=1]/*[count(*)=1]/*[count(*)=1]/*[count(*)=1]/*[count(*)=0]]")' -- Invalid argument of :xpath() pseudo-class: '"//div[count(*)=3][img[@class][@src]][*[count(*)=1]/*[count(*)=1]/*[count(*)=1]/*[count(*)=1]/*[count(*)=0]]"' in rule: ~www.wp.pl,wp.pl##:xpath("//div[count(*)=3][img[@class][@src]][*[count(*)=1]/*[count(*)=1]/*[count(*)=1]/*[count(*)=1]/*[count(*)=0]]")
 Error: Invalid selector: ':xpath("//div[count(*)=1][*[count(*)=1]/*[count(*)=1]/*[count(*)=1]/*[count(*)=0]]")' -- Invalid argument of :xpath() pseudo-class: '"//div[count(*)=1][*[count(*)=1]/*[count(*)=1]/*[count(*)=1]/*[count(*)=0]]"' in rule: parenting.pl##:xpath("//div[count(*)=1][*[count(*)=1]/*[count(*)=1]/*[count(*)=1]/*[count(*)=0]]")
@@ -417,7 +416,7 @@ URL: https://www.fanboy.co.nz/fanboy-vietnam.txt
 ---------------------------
 Filter ID: 227
 Filter name: List-KR
-Compiled rules: 3650
+Compiled rules: 3656
 Excluded rules: 22
 URL: https://raw.githubusercontent.com/List-KR/List-KR/master/filter-AdGuard.txt
 All rules are valid.
@@ -450,7 +449,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 232
 Filter name: KAD - Anti-Scam
-Compiled rules: 50753
+Compiled rules: 50757
 Excluded rules: 236
 URL: https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt
 INVALID RULES:
@@ -507,7 +506,7 @@ Error: "Invalid cosmetic rule, wrong brackets" in the rule: "science.hotnews.ro#
 ---------------------------
 Filter ID: 237
 Filter name: Polish Annoyances Filters
-Compiled rules: 13342
+Compiled rules: 13343
 Excluded rules: 2046
 URL: https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PPB.txt
 INVALID RULES:
@@ -22348,7 +22347,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 15
 Filter name: AdGuard DNS filter
-Compiled rules: 59419
+Compiled rules: 59439
 Excluded rules: 308
 URL: https://filters.adtidy.org/extension/chromium/filters/15.txt
 All rules are valid.
@@ -22405,7 +22404,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 224
 Filter name: AdGuard Chinese filter
-Compiled rules: 22271
+Compiled rules: 22274
 Excluded rules: 50
 URL: https://filters.adtidy.org/extension/chromium/filters/224.txt
 INVALID RULES:
@@ -22427,7 +22426,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 2
 Filter name: AdGuard Base filter
-Compiled rules: 135224
+Compiled rules: 135241
 Excluded rules: 60
 URL: https://filters.adtidy.org/extension/chromium/filters/2.txt
 INVALID RULES:
@@ -22465,7 +22464,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 7
 Filter name: AdGuard Japanese filter
-Compiled rules: 10591
+Compiled rules: 10592
 Excluded rules: 2
 URL: https://filters.adtidy.org/extension/chromium/filters/7.txt
 All rules are valid.
