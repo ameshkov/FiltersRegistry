@@ -7080,6 +7080,7 @@ dzen.ru##div[class^="dzen-desktop__teaser-"]
 dzen.ru##div[class*="__isNewGridFloors"] > article._full-height[aria-label] + article:not(article._full-height):not([aria-label])
 !
 ! Dzen News
+dzen.ru##.news-mt-advert
 dzen.ru##.mg-advert > div[class*="loader"]
 dzen.ru#?#div[aria-label="Лента Дзена"] article.card-wrapper:has(div[class^="feed-single-desktop-floors-"])
 dzen.ru##.news-app__content div[class*="__column_myTarget mg-grid__item"] div[class*="__loader "]
@@ -9900,6 +9901,7 @@ bits.media,devyatka.ru,gazeta-n1.ru,gorod48.ru,hi-fi.ru,innov.ru,k1news.ru,ktost
 !
 !
 !
+oper.ru###container > div[style$="text-align: center;"] > a[href][target="_blank"]
 ||aapi.yp.ru/content/Banners/
 yp.ru##.main-wrapper > a[href][target="_blank"]
 yp.ru###wrapper > a[href][target="_blank"]
@@ -14849,7 +14851,6 @@ tofight.ru###container > div#header
 online-journal.net###container > div#right > div.right_bloc:nth-child(3)
 kirovnet.ru###container > div#top
 gorodkirov.ru###container > div.stripe
-oper.ru###container > div[style$="text-align: center;"]
 oper.ru###container > div[style^="width: 100%; height: 295px;"]
 joyreactor.cc,reactor.cc###container > span > a[rel="nofollow"]
 wikimovies.ru###content > a > img
