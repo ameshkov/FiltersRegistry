@@ -500,8 +500,16 @@ freizeitbad-greifswald.de##+js(set-cookie, swgCookie, false)
 giuseppezanotti.com##+js(set-cookie, cookieConsentPreferencesGranted, 1)
 ! Rule "giuseppezanotti.com##+js(set-cookie, cookieConsentMarketingGranted, 0)" converted to: "giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentMarketingGranted', '0')"
 giuseppezanotti.com##+js(set-cookie, cookieConsentMarketingGranted, 0)
-! Rule "giuseppezanotti.com##+js(set-cookie, cookieConsentGranted, 1)" converted to: "giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentGranted', '1')"
-giuseppezanotti.com##+js(set-cookie, cookieConsentGranted, 1)
+! Rule "giuseppezanotti.com,xcen.se##+js(set-cookie, cookieConsentGranted, 1)" converted to: "giuseppezanotti.com,xcen.se#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentGranted', '1')"
+giuseppezanotti.com,xcen.se##+js(set-cookie, cookieConsentGranted, 1)
+! Rule "biggreenegg.co.uk##+js(set-cookie, cookies-rejected, true)" converted to: "biggreenegg.co.uk#%#//scriptlet('ubo-set-cookie.js', 'cookies-rejected', 'true')"
+biggreenegg.co.uk##+js(set-cookie, cookies-rejected, true)
+! Rule "skihuette-oberbeuren.de##+js(set-cookie, NL_COOKIE_KOMFORT, false)" converted to: "skihuette-oberbeuren.de#%#//scriptlet('ubo-set-cookie.js', 'NL_COOKIE_KOMFORT', 'false')"
+skihuette-oberbeuren.de##+js(set-cookie, NL_COOKIE_KOMFORT, false)
+! Rule "skihuette-oberbeuren.de##+js(set-cookie, NL_COOKIE_MEMORY, true, , reload, 1)" converted to: "skihuette-oberbeuren.de#%#//scriptlet('ubo-set-cookie.js', 'NL_COOKIE_MEMORY', 'true', '', 'reload', '1')"
+skihuette-oberbeuren.de##+js(set-cookie, NL_COOKIE_MEMORY, true, , reload, 1)
+! Rule "skihuette-oberbeuren.de##+js(set-cookie, NL_COOKIE_STATS, false)" converted to: "skihuette-oberbeuren.de#%#//scriptlet('ubo-set-cookie.js', 'NL_COOKIE_STATS', 'false')"
+skihuette-oberbeuren.de##+js(set-cookie, NL_COOKIE_STATS, false)
 ! Rule "pwsweather.com##+js(set-cookie, pws_gdrp_accept, 1)" converted to: "pwsweather.com#%#//scriptlet('ubo-set-cookie.js', 'pws_gdrp_accept', '1')"
 pwsweather.com##+js(set-cookie, pws_gdrp_accept, 1)
 ! Rule "theweathernetwork.com##+js(set-cookie, pelm_cstate, 1)" converted to: "theweathernetwork.com#%#//scriptlet('ubo-set-cookie.js', 'pelm_cstate', '1')"
@@ -718,6 +726,8 @@ mypensiontracker.co.uk##+js(set-cookie, complianceCookie, on)
 endclothing.com##+js(set-cookie, cookieTermsDismissed, true)
 ! Rule "esimplus.me##+js(set-cookie, cookie-consent, 1)" converted to: "esimplus.me#%#//scriptlet('ubo-set-cookie.js', 'cookie-consent', '1')"
 esimplus.me##+js(set-cookie, cookie-consent, 1)
+! Rule "cineplanet.com.pe##+js(set-cookie, cookie-consent, 0)" converted to: "cineplanet.com.pe#%#//scriptlet('ubo-set-cookie.js', 'cookie-consent', '0')"
+cineplanet.com.pe##+js(set-cookie, cookie-consent, 0)
 ! Rule "ecologi.com##+js(set-cookie, ecologi_cookie_consent_20220224, false)" converted to: "ecologi.com#%#//scriptlet('ubo-set-cookie.js', 'ecologi_cookie_consent_20220224', 'false')"
 ecologi.com##+js(set-cookie, ecologi_cookie_consent_20220224, false)
 ! Rule "wamba.com##+js(set-cookie, appBannerPopUpRulesCookie, true)" converted to: "wamba.com#%#//scriptlet('ubo-set-cookie.js', 'appBannerPopUpRulesCookie', 'true')"
@@ -1330,6 +1340,10 @@ moebel-mahler-siebenlehn.de##+js(set-cookie, optOutAccepted, true)
 buidlbox.io##+js(set-cookie, cookiesAccepted, true)
 ! Rule "calendly.com##+js(set-cookie, gdpr_dismissal, true)" converted to: "calendly.com#%#//scriptlet('ubo-set-cookie.js', 'gdpr_dismissal', 'true')"
 calendly.com##+js(set-cookie, gdpr_dismissal, true)
+! Rule "batesenvironmental.co.uk##+js(set-cookie, analyticsCookieAccepted, 0)" converted to: "batesenvironmental.co.uk#%#//scriptlet('ubo-set-cookie.js', 'analyticsCookieAccepted', '0')"
+batesenvironmental.co.uk##+js(set-cookie, analyticsCookieAccepted, 0)
+! Rule "batesenvironmental.co.uk##+js(set-cookie, cookieAccepted, 0)" converted to: "batesenvironmental.co.uk#%#//scriptlet('ubo-set-cookie.js', 'cookieAccepted', '0')"
+batesenvironmental.co.uk##+js(set-cookie, cookieAccepted, 0)
 ! Rule "ubereats.com##+js(set-cookie, uev2.gg, true)" converted to: "ubereats.com#%#//scriptlet('ubo-set-cookie.js', 'uev2.gg', 'true')"
 ubereats.com##+js(set-cookie, uev2.gg, true)
 ! Rule "101internet.ru##+js(set-cookie, closeNotificationAboutCookie, true)" converted to: "101internet.ru#%#//scriptlet('ubo-set-cookie.js', 'closeNotificationAboutCookie', 'true')"
@@ -1378,6 +1392,8 @@ omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-seen, true)
 omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-social, true)
 ! Rule "makerz.me##+js(set-local-storage-item, makerz_allow_consentmgr, 0)" converted to: "makerz.me#%#//scriptlet('ubo-set-local-storage-item.js', 'makerz_allow_consentmgr', '0')"
 makerz.me##+js(set-local-storage-item, makerz_allow_consentmgr, 0)
+! Rule "nationalexpress.de##+js(set-local-storage-item, contao-privacy-center.hidden, 1)" converted to: "nationalexpress.de#%#//scriptlet('ubo-set-local-storage-item.js', 'contao-privacy-center.hidden', '1')"
+nationalexpress.de##+js(set-local-storage-item, contao-privacy-center.hidden, 1)
 ! Rule "go.bkk.hu##+js(set-local-storage-item, cookie_consent, false)" converted to: "go.bkk.hu#%#//scriptlet('ubo-set-local-storage-item.js', 'cookie_consent', 'false')"
 go.bkk.hu##+js(set-local-storage-item, cookie_consent, false)
 ! Rule "bazaartracker.com##+js(set-local-storage-item, cookiesAgree, true)" converted to: "bazaartracker.com#%#//scriptlet('ubo-set-local-storage-item.js', 'cookiesAgree', 'true')"
@@ -3346,8 +3362,8 @@ worldcrunch.com##body,html:style(height: auto !important; overflow: auto !import
 bonappetit.com##+js(cookie-remover.js, pay_ent_pass)
 ! Rule "bonappetit.com##+js(cookie-remover.js, pay_ent_msmp)" converted to: "bonappetit.com#%#//scriptlet('ubo-cookie-remover.js', 'pay_ent_msmp')"
 bonappetit.com##+js(cookie-remover.js, pay_ent_msmp)
-! Rule "esquire.com##body:style(overflow: auto !important; position: initial !important;)" converted to: "esquire.com#$#body { overflow: auto !important; position: initial !important; }"
-esquire.com##body:style(overflow: auto !important; position: initial !important;)
+! Rule "delish.com,esquire.com##body:style(overflow: auto !important; position: initial !important;)" converted to: "delish.com,esquire.com#$#body { overflow: auto !important; position: initial !important; }"
+delish.com,esquire.com##body:style(overflow: auto !important; position: initial !important;)
 ! Rule "treblezine.com##body,html:style(height: auto !important; overflow: auto !important)" converted to: "treblezine.com#$#body,html { height: auto !important; overflow: auto !important }"
 treblezine.com##body,html:style(height: auto !important; overflow: auto !important)
 ! Rule "pv-magazine-usa.com##body,html:style(height: auto !important; overflow: auto !important)" converted to: "pv-magazine-usa.com#$#body,html { height: auto !important; overflow: auto !important }"
@@ -4006,8 +4022,16 @@ freizeitbad-greifswald.de##+js(set-cookie, swgCookie, false)
 giuseppezanotti.com##+js(set-cookie, cookieConsentPreferencesGranted, 1)
 ! Rule "giuseppezanotti.com##+js(set-cookie, cookieConsentMarketingGranted, 0)" converted to: "giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentMarketingGranted', '0')"
 giuseppezanotti.com##+js(set-cookie, cookieConsentMarketingGranted, 0)
-! Rule "giuseppezanotti.com##+js(set-cookie, cookieConsentGranted, 1)" converted to: "giuseppezanotti.com#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentGranted', '1')"
-giuseppezanotti.com##+js(set-cookie, cookieConsentGranted, 1)
+! Rule "giuseppezanotti.com,xcen.se##+js(set-cookie, cookieConsentGranted, 1)" converted to: "giuseppezanotti.com,xcen.se#%#//scriptlet('ubo-set-cookie.js', 'cookieConsentGranted', '1')"
+giuseppezanotti.com,xcen.se##+js(set-cookie, cookieConsentGranted, 1)
+! Rule "biggreenegg.co.uk##+js(set-cookie, cookies-rejected, true)" converted to: "biggreenegg.co.uk#%#//scriptlet('ubo-set-cookie.js', 'cookies-rejected', 'true')"
+biggreenegg.co.uk##+js(set-cookie, cookies-rejected, true)
+! Rule "skihuette-oberbeuren.de##+js(set-cookie, NL_COOKIE_KOMFORT, false)" converted to: "skihuette-oberbeuren.de#%#//scriptlet('ubo-set-cookie.js', 'NL_COOKIE_KOMFORT', 'false')"
+skihuette-oberbeuren.de##+js(set-cookie, NL_COOKIE_KOMFORT, false)
+! Rule "skihuette-oberbeuren.de##+js(set-cookie, NL_COOKIE_MEMORY, true, , reload, 1)" converted to: "skihuette-oberbeuren.de#%#//scriptlet('ubo-set-cookie.js', 'NL_COOKIE_MEMORY', 'true', '', 'reload', '1')"
+skihuette-oberbeuren.de##+js(set-cookie, NL_COOKIE_MEMORY, true, , reload, 1)
+! Rule "skihuette-oberbeuren.de##+js(set-cookie, NL_COOKIE_STATS, false)" converted to: "skihuette-oberbeuren.de#%#//scriptlet('ubo-set-cookie.js', 'NL_COOKIE_STATS', 'false')"
+skihuette-oberbeuren.de##+js(set-cookie, NL_COOKIE_STATS, false)
 ! Rule "pwsweather.com##+js(set-cookie, pws_gdrp_accept, 1)" converted to: "pwsweather.com#%#//scriptlet('ubo-set-cookie.js', 'pws_gdrp_accept', '1')"
 pwsweather.com##+js(set-cookie, pws_gdrp_accept, 1)
 ! Rule "theweathernetwork.com##+js(set-cookie, pelm_cstate, 1)" converted to: "theweathernetwork.com#%#//scriptlet('ubo-set-cookie.js', 'pelm_cstate', '1')"
@@ -4224,6 +4248,8 @@ mypensiontracker.co.uk##+js(set-cookie, complianceCookie, on)
 endclothing.com##+js(set-cookie, cookieTermsDismissed, true)
 ! Rule "esimplus.me##+js(set-cookie, cookie-consent, 1)" converted to: "esimplus.me#%#//scriptlet('ubo-set-cookie.js', 'cookie-consent', '1')"
 esimplus.me##+js(set-cookie, cookie-consent, 1)
+! Rule "cineplanet.com.pe##+js(set-cookie, cookie-consent, 0)" converted to: "cineplanet.com.pe#%#//scriptlet('ubo-set-cookie.js', 'cookie-consent', '0')"
+cineplanet.com.pe##+js(set-cookie, cookie-consent, 0)
 ! Rule "ecologi.com##+js(set-cookie, ecologi_cookie_consent_20220224, false)" converted to: "ecologi.com#%#//scriptlet('ubo-set-cookie.js', 'ecologi_cookie_consent_20220224', 'false')"
 ecologi.com##+js(set-cookie, ecologi_cookie_consent_20220224, false)
 ! Rule "wamba.com##+js(set-cookie, appBannerPopUpRulesCookie, true)" converted to: "wamba.com#%#//scriptlet('ubo-set-cookie.js', 'appBannerPopUpRulesCookie', 'true')"
@@ -4836,6 +4862,10 @@ moebel-mahler-siebenlehn.de##+js(set-cookie, optOutAccepted, true)
 buidlbox.io##+js(set-cookie, cookiesAccepted, true)
 ! Rule "calendly.com##+js(set-cookie, gdpr_dismissal, true)" converted to: "calendly.com#%#//scriptlet('ubo-set-cookie.js', 'gdpr_dismissal', 'true')"
 calendly.com##+js(set-cookie, gdpr_dismissal, true)
+! Rule "batesenvironmental.co.uk##+js(set-cookie, analyticsCookieAccepted, 0)" converted to: "batesenvironmental.co.uk#%#//scriptlet('ubo-set-cookie.js', 'analyticsCookieAccepted', '0')"
+batesenvironmental.co.uk##+js(set-cookie, analyticsCookieAccepted, 0)
+! Rule "batesenvironmental.co.uk##+js(set-cookie, cookieAccepted, 0)" converted to: "batesenvironmental.co.uk#%#//scriptlet('ubo-set-cookie.js', 'cookieAccepted', '0')"
+batesenvironmental.co.uk##+js(set-cookie, cookieAccepted, 0)
 ! Rule "ubereats.com##+js(set-cookie, uev2.gg, true)" converted to: "ubereats.com#%#//scriptlet('ubo-set-cookie.js', 'uev2.gg', 'true')"
 ubereats.com##+js(set-cookie, uev2.gg, true)
 ! Rule "101internet.ru##+js(set-cookie, closeNotificationAboutCookie, true)" converted to: "101internet.ru#%#//scriptlet('ubo-set-cookie.js', 'closeNotificationAboutCookie', 'true')"
@@ -4884,6 +4914,8 @@ omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-seen, true)
 omroepbrabant.nl##+js(set-local-storage-item, psh:cookies-social, true)
 ! Rule "makerz.me##+js(set-local-storage-item, makerz_allow_consentmgr, 0)" converted to: "makerz.me#%#//scriptlet('ubo-set-local-storage-item.js', 'makerz_allow_consentmgr', '0')"
 makerz.me##+js(set-local-storage-item, makerz_allow_consentmgr, 0)
+! Rule "nationalexpress.de##+js(set-local-storage-item, contao-privacy-center.hidden, 1)" converted to: "nationalexpress.de#%#//scriptlet('ubo-set-local-storage-item.js', 'contao-privacy-center.hidden', '1')"
+nationalexpress.de##+js(set-local-storage-item, contao-privacy-center.hidden, 1)
 ! Rule "go.bkk.hu##+js(set-local-storage-item, cookie_consent, false)" converted to: "go.bkk.hu#%#//scriptlet('ubo-set-local-storage-item.js', 'cookie_consent', 'false')"
 go.bkk.hu##+js(set-local-storage-item, cookie_consent, false)
 ! Rule "bazaartracker.com##+js(set-local-storage-item, cookiesAgree, true)" converted to: "bazaartracker.com#%#//scriptlet('ubo-set-local-storage-item.js', 'cookiesAgree', 'true')"
@@ -6852,8 +6884,8 @@ worldcrunch.com##body,html:style(height: auto !important; overflow: auto !import
 bonappetit.com##+js(cookie-remover.js, pay_ent_pass)
 ! Rule "bonappetit.com##+js(cookie-remover.js, pay_ent_msmp)" converted to: "bonappetit.com#%#//scriptlet('ubo-cookie-remover.js', 'pay_ent_msmp')"
 bonappetit.com##+js(cookie-remover.js, pay_ent_msmp)
-! Rule "esquire.com##body:style(overflow: auto !important; position: initial !important;)" converted to: "esquire.com#$#body { overflow: auto !important; position: initial !important; }"
-esquire.com##body:style(overflow: auto !important; position: initial !important;)
+! Rule "delish.com,esquire.com##body:style(overflow: auto !important; position: initial !important;)" converted to: "delish.com,esquire.com#$#body { overflow: auto !important; position: initial !important; }"
+delish.com,esquire.com##body:style(overflow: auto !important; position: initial !important;)
 ! Rule "treblezine.com##body,html:style(height: auto !important; overflow: auto !important)" converted to: "treblezine.com#$#body,html { height: auto !important; overflow: auto !important }"
 treblezine.com##body,html:style(height: auto !important; overflow: auto !important)
 ! Rule "pv-magazine-usa.com##body,html:style(height: auto !important; overflow: auto !important)" converted to: "pv-magazine-usa.com#$#body,html { height: auto !important; overflow: auto !important }"
