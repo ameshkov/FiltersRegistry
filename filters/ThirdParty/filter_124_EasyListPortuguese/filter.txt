@@ -1,8 +1,8 @@
 !
-! Checksum: KyDJi53TlGe82QjN4Rk0pQ
-! OriginalVersion: 202312251651
+! Checksum: eOKcraJUGtG4Onc0ORehcA
+! OriginalVersion: 202312252050
 ! Title: EasyList Portuguese
-! Last modified: 25 Dec 2023 16:51 UTC
+! Last modified: 25 Dec 2023 20:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html

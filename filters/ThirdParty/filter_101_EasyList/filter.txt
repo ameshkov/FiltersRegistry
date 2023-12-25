@@ -1,8 +1,8 @@
 !
-! Checksum: fUAS9O0x6RyTlgqnmdWQmA
-! OriginalVersion: 202312251651
+! Checksum: UQTSAscS9ddwU3aoLlhpbw
+! OriginalVersion: 202312252050
 ! Title: EasyList
-! Last modified: 25 Dec 2023 16:51 UTC
+! Last modified: 25 Dec 2023 20:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -61519,6 +61519,7 @@ bab.la##.info-panel
 gameworldobserver.com##.information-block
 gameworldobserver.com##.information-blocks
 careerindia.com,oneindia.com##.inhouse-content
+asheville.com##.injected-ads
 bestlifeonline.com,eatthis.com##.inline
 manitobacooperator.ca##.inline--2
 forbes.com##.inline-article-ed-placeholder

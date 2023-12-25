@@ -1,8 +1,8 @@
 !
-! Checksum: ZmdBpBBr4qD2FrFsdmYvKw
-! OriginalVersion: 202312251600
+! Checksum: s1w/SauGU51LweUtt74zhw
+! OriginalVersion: 202312252015
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-12-25 16:00 UTC
+! Last modified: 2023-12-25 20:15 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -35955,6 +35955,7 @@ mydailyfreedom.com,patriotfetch.com##.gpoll_enabled_wrapper
 grist.org##.grist-modal-ad-blocker
 bowhuntingmag.com,firearmsnews.com,flyfisherman.com,gameandfishmag.com,gundogmag.com,gunsandammo.com,handgunsmag.com,in-fisherman.com,northamericanwhitetail.com,outdoorchannelplus.com,petersenshunting.com,shootingtimes.com,wildfowlmag.com##.has-promo
 texastribune.org##.has-vert-bar--padded-xxl
+duckduckgo.com##.header--aside.js-header-aside > .header--aside__item > [class]
 wdet.org##.header-donate
 myanimelist.net##.header-mini-banner
 themarkup.org##.header-stripe
@@ -36145,7 +36146,6 @@ techcrunch.com##.upcoming-events
 flightradar24.com##.upgrade-button
 vigilantcitizen.com##.vigil-after-article
 techguide.com.au##.w-nt.h-ni
-duckduckgo.com##.w25QKW6SapBaqItNSrlA
 w2g.tv##.w2g-doit
 w2g.tv##.w2g-top-message-small
 reason.com##.webathon-leaderboard
@@ -37703,6 +37703,7 @@ nerdist.com##.nerdist-social-share
 taiwebs.com##.networking
 screenshot-media.com##.new-home-banner
 aimp.ru##.news_story > div
+nfl.com##.nfl-c-article__share-bar
 news18.com##.nhsocial
 nist.gov##.nist-social__wrapper
 trendy.letudiant.fr##.nl-social
@@ -48145,6 +48146,7 @@ skihuette-oberbeuren.de#%#//scriptlet('ubo-set-cookie.js', 'NL_COOKIE_KOMFORT', 
 skihuette-oberbeuren.de#%#//scriptlet('ubo-set-cookie.js', 'NL_COOKIE_MEMORY', 'true', '', 'reload', '1')
 skihuette-oberbeuren.de#%#//scriptlet('ubo-set-cookie.js', 'NL_COOKIE_STATS', 'false')
 pwsweather.com#%#//scriptlet('ubo-set-cookie.js', 'pws_gdrp_accept', '1')
+xfree.com#%#//scriptlet('ubo-set-cookie.js', 'have18', '1')
 theweathernetwork.com#%#//scriptlet('ubo-set-cookie.js', 'pelm_cstate', '1')
 theweathernetwork.com#%#//scriptlet('ubo-set-cookie.js', 'pelm_consent', '1')
 monese.com#%#//scriptlet('ubo-set-cookie.js', 'accept-cookies', 'true')

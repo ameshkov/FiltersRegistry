@@ -1,7 +1,7 @@
 !
-! Checksum: gC1I5SCmPTagWNgE0OkKpg
+! Checksum: vfjvHVwms4AdCH0zAaLWEg
 ! Title: Easylist Cookie List
-! Updated: 2023-12-25 17:00 UTC
+! Updated: 2023-12-25 20:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22066,6 +22066,7 @@ skihuette-oberbeuren.de#%#//scriptlet('ubo-set-cookie.js', 'NL_COOKIE_KOMFORT', 
 skihuette-oberbeuren.de#%#//scriptlet('ubo-set-cookie.js', 'NL_COOKIE_MEMORY', 'true', '', 'reload', '1')
 skihuette-oberbeuren.de#%#//scriptlet('ubo-set-cookie.js', 'NL_COOKIE_STATS', 'false')
 pwsweather.com#%#//scriptlet('ubo-set-cookie.js', 'pws_gdrp_accept', '1')
+xfree.com#%#//scriptlet('ubo-set-cookie.js', 'have18', '1')
 theweathernetwork.com#%#//scriptlet('ubo-set-cookie.js', 'pelm_cstate', '1')
 theweathernetwork.com#%#//scriptlet('ubo-set-cookie.js', 'pelm_consent', '1')
 monese.com#%#//scriptlet('ubo-set-cookie.js', 'accept-cookies', 'true')
