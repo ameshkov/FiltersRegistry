@@ -334,8 +334,8 @@
 			"groupId": 7,
 			"subscriptionUrl": "https://filters.adtidy.org/extension/android-content-blocker/filters/1.txt",
 			"trustLevel": "full",
-			"version": "2.0.87.46",
-			"timeUpdated": "2023-12-26T17:50:25+0300",
+			"version": "2.0.87.47",
+			"timeUpdated": "2023-12-26T15:31:32+0000",
 			"languages": [
 				"ru"
 			],
@@ -357,8 +357,8 @@
 			"groupId": 1,
 			"subscriptionUrl": "https://filters.adtidy.org/extension/android-content-blocker/filters/2.txt",
 			"trustLevel": "full",
-			"version": "2.3.15.46",
-			"timeUpdated": "2023-12-26T17:29:59+0300",
+			"version": "2.3.15.47",
+			"timeUpdated": "2023-12-26T15:32:05+0000",
 			"languages": [],
 			"tags": [
 				10,
@@ -457,8 +457,8 @@
 			"groupId": 7,
 			"subscriptionUrl": "https://filters.adtidy.org/extension/android-content-blocker/filters/7.txt",
 			"trustLevel": "full",
-			"version": "2.0.47.4",
-			"timeUpdated": "2023-12-26T17:51:31+0300",
+			"version": "2.0.47.5",
+			"timeUpdated": "2023-12-26T15:32:35+0000",
 			"languages": [
 				"ja"
 			],
@@ -479,8 +479,8 @@
 			"groupId": 7,
 			"subscriptionUrl": "https://filters.adtidy.org/extension/android-content-blocker/filters/8.txt",
 			"trustLevel": "full",
-			"version": "2.0.6.29",
-			"timeUpdated": "2023-12-12T15:32:14+0300",
+			"version": "2.0.6.30",
+			"timeUpdated": "2023-12-26T15:32:39+0000",
 			"languages": [
 				"nl"
 			],
@@ -588,8 +588,8 @@
 			"groupId": 4,
 			"subscriptionUrl": "https://filters.adtidy.org/extension/android-content-blocker/filters/14.txt",
 			"trustLevel": "full",
-			"version": "2.1.83.12",
-			"timeUpdated": "2023-12-26T17:50:00+0300",
+			"version": "2.1.83.13",
+			"timeUpdated": "2023-12-26T15:31:08+0000",
 			"languages": [],
 			"tags": [
 				5,
@@ -720,8 +720,8 @@
 			"groupId": 4,
 			"subscriptionUrl": "https://filters.adtidy.org/extension/android-content-blocker/filters/21.txt",
 			"trustLevel": "full",
-			"version": "2.0.18.16",
-			"timeUpdated": "2023-12-26T17:09:36+0300",
+			"version": "2.0.18.17",
+			"timeUpdated": "2023-12-26T15:31:34+0000",
 			"languages": [],
 			"tags": [
 				5,

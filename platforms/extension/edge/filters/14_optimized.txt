@@ -1,9 +1,9 @@
-! Checksum: E4gksLpJiYEqiy2E+G/I0A
-! Diff-Path: ../patches/14_optimized/14_optimized-s-1703602440-3600.patch
+! Checksum: ZGYEyU9dkMsDN36IJs+fPQ
+! Diff-Path: ../patches/14_optimized/14_optimized-s-1703604903-3600.patch
 ! Title: AdGuard Annoyances filter (Optimized)
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups. Contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets.
-! Version: 2.1.83.12
-! TimeUpdated: 2023-12-26T14:50:00+00:00
+! Version: 2.1.83.13
+! TimeUpdated: 2023-12-26T15:31:08+00:00
 ! Expires: 4 days (update frequency)
 #%#var AG_onLoad=function(func){if(document.readyState==="complete"||document.readyState==="interactive")func();else if(document.addEventListener)document.addEventListener("DOMContentLoaded",func);else if(document.attachEvent)document.attachEvent("DOMContentLoaded",func)};
 #%#var AG_removeElementById = function(id) { var element = document.getElementById(id); if (element && element.parentNode) { element.parentNode.removeChild(element); }};
@@ -20337,6 +20337,7 @@ alexfitness.ru#$#.modal-open { overflow: visible!important; }
 banggood.com##.top_mt.datacube_banner
 tf1.fr##div[aria-describedby^="max-banner-"]
 ||contributions.guardianapis.com^
+wordparts.ru##div[class^="ad"]:has(> a[href="https://t.me/wordparts_bot"])
 sportskeeda.com###fortnite-promotional-banner
 m.lenta.ru##.new-year-button
 wix.com###comp-k0zay9k9
