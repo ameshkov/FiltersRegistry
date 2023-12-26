@@ -11,10 +11,12 @@ const {
 const { findFiles } = require('../utils/find_files');
 
 /**
- * Parse command-cli parameters -t|--time and -r|--resolution
+ * Parse command-cli parameters -t|--time, -r|--resolution, -i|--include and -s|--skip
  */
 let time = 60;
 let resolution = 'm';
+let includedFilterIDs = [];
+let excludedFilterIDs = [];
 
 const args = process.argv.slice(2); // Get command line arguments
 args.forEach((val) => {
@@ -24,6 +26,22 @@ args.forEach((val) => {
 
     if (val.startsWith('-r=') || val.startsWith('--resolution=')) {
         resolution = val.slice(val.indexOf('=') + 1);
+    }
+
+    if (val.startsWith('-i=') || val.startsWith('--include=')) {
+        const value = val.slice(val.indexOf('=') + 1);
+
+        includedFilterIDs = value
+            .split(',')
+            .map((x) => Number.parseInt(x, 10));
+    }
+
+    if (val.startsWith('-s=') || val.startsWith('--skip=')) {
+        const value = val.slice(val.indexOf('=') + 1);
+
+        excludedFilterIDs = value
+            .split(',')
+            .map((x) => Number.parseInt(x, 10));
     }
 });
 
@@ -60,7 +78,35 @@ const main = async () => {
     // Find all new filter files
     const newFilterFiles = await findFiles(
         FOLDER_WITH_NEW_FILTERS,
-        (file) => file.includes('filters/') && file.endsWith('.txt')
+        (file) => {
+            const fileInFiltersFolder = file.includes('filters/');
+            const fileHasTxtExtension = file.endsWith('.txt');
+
+            const filename = path.basename(file);
+
+            if (!/\d+(_optimized|_without_easylist)?\.txt/.test(filename)) {
+                console.log(`Skipped generating patch for: ${file}`);
+
+                return false;
+            }
+
+            const filterId = Number.parseInt(filename, 10);
+
+            const fileNotExcluded = excludedFilterIDs.length > 0
+                ? !excludedFilterIDs.includes(filterId)
+                : true;
+            const fileIncluded = includedFilterIDs.length > 0
+                ? includedFilterIDs.includes(filterId)
+                : true;
+
+            const res = fileInFiltersFolder && fileHasTxtExtension && fileNotExcluded && fileIncluded;
+
+            if (!res) {
+                console.log(`Skipped generating patch for: ${file}`);
+            }
+
+            return res;
+        }
     );
 
     for (let i = 0; i < newFilterFiles.length; i += 1) {

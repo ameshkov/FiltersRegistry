@@ -1,8 +1,8 @@
 !
-! Checksum: G3nsoTFJBnlM3Sfrv7ByvA
-! OriginalVersion: 202312260851
+! Checksum: 63R1XEPkvH9w3ZP5RI1PtA
+! OriginalVersion: 202312261531
 ! Title: RU AdList: Counters
-! Last modified: 26 Dec 2023 08:51 UTC
+! Last modified: 26 Dec 2023 15:31 UTC
 ! Expires: 1 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1276,7 +1276,7 @@ yandex.*#?#.touch-feed > div > .feed-item[id^="zen-row-"]:-abp-has([class^="zen-
 !
 ! 4pda.to (ранее 4pda.ru)
 ! верхняя плашка
-4pda.*##html[style] :not(div):not([id]) > :not(div)[id][class] > div[id][class]:not(:empty)
+4pda.*##html[style]:not([style=""]) :not(div):not([id]) > :not(div)[id][class] > div[id][class]:not(:empty)
 ! верхняя плашка в мобильном макете 534×854
 4pda.*##html[style] > body [class]:not([id]):not(div):not([style]) :not(div)[class][id][style^="min-height:"][style$="px;"]
 ! рекламный фон
