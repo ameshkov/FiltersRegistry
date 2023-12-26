@@ -103,6 +103,8 @@ instagram.com##._aagw:empty
 !
 ! End: Instagram.com
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/169290
+remanga.org##canvas[data-testid="SnowfallCanvas"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/168666
 techwar.gr###better-social-counter-2
 ! https://github.com/AdguardTeam/AdguardFilters/issues/168654
@@ -3284,6 +3286,7 @@ mail.yandex.*##div[class^="DisableAdsButton"]
 !
 rasp.yandex.*##.TravelHotelsBanner
 ! Yandex.Search
+[$path=/search]ya.ru,yandex.*##.Distribution-Popup
 [$path=/search]ya.ru,yandex.*#$#.Distribution-Splashscreen { display: none !important; }
 [$path=/search]ya.ru,yandex.*#?#div.Root[id]:has(> button.SplashscreenDefault-DeclineButtonOuter)
 [$path=/search]ya.ru,yandex.*#$#body[style] { padding-right: 0 !important; overflow: auto !important; }
@@ -4989,6 +4992,7 @@ theguardian.com##.contributions__adblock
 !
 ! SECTION: Self-promo - Regular rules
 !
+sportskeeda.com###fortnite-promotional-banner
 m.lenta.ru##.new-year-button
 wix.com###comp-k0zay9k9
 animexin.vip##.announ

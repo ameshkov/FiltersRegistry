@@ -1816,6 +1816,8 @@ zebratechnologies.force.com##.zbrbot-container
 !
 !   SECTION: Uncategorized
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/169262
+||api-*.spot.im/*/feed/pitc/*/no^post$domain=olhardigital.com.br
 ! https://github.com/AdguardTeam/AdguardFilters/issues/163923 - quiz widget
 ||quiz.rambler.ru^$domain=lenta.ru
 ! https://github.com/AdguardTeam/AdguardFilters/issues/163741
@@ -2081,6 +2083,7 @@ subbota.ua##aside.sidebar > div[id^="custom_html-"]
 !
 !   NOTE: Donation widgets (which are really annoying only)
 !
+openstreetmap.org###banner
 wbur.org##.section--takeover
 www.wikipedia.org##div[id^="portalBanner_"].banner-bottom
 ||wisepops.net/loader.js$domain=civileats.com

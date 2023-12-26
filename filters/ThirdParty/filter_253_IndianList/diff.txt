@@ -1,2 +1,0 @@
-! Error: Invalid selector: '?#div:-abp-has(> ins.adsbygoogle)' -- Error: unable to select by '?#div' — '?#div' is not a valid selector in rule:
-marathiworld.com##?#div:-abp-has(> ins.adsbygoogle)

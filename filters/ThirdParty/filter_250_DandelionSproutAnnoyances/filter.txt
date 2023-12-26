@@ -2401,7 +2401,7 @@ www.microsoft.com##a[data-pfns][href*=pac-men]
 !#endif
 !#if adguard
 ! Title: 💊 Dandelion Sprout's Anti-Malware List (for AdGuard)
-! OriginalVersion: 19December2023v2
+! OriginalVersion: 25December2023v1
 ! Expires: 2 days
 ! Description: This list goes the extra kilometer to prevent more malware than other mainstream anti-malware lists. It blocks heavily abused top-level domains (and even search engine results for them), blocks domains used in malware redirection trains and in domain parking schemes, blocks sponsored Windows PUP nags on PC guide articles, uses mass blocking of domains belonging to bad IPs, and has many other subcategories that give it a solid advantage over similar lists out there.
 ! For other security-specific lists I've made, check out https://github.com/DandelionSprout/adfilt/tree/master/Special%20security%20lists
@@ -2423,7 +2423,7 @@ www.microsoft.com##a[data-pfns][href*=pac-men]
 ||top^$document,domain=~caitlin.top|~corriente.top|~gdtot.top|~nicenature.top|~reminder.top|~magocoro.top|~castlevania.top|~suiten.top|~shucks.top|~1stream.top|~ambr.top|~techblog.top|~changlam10.top|~changlam11.top|~pdcdn1.top|~mastodon.top|~pressplay.top|~chillx.top|~strims.top|~thedesk.top|~audioforyou.top
 ! International topical domains that have consistently horrendous scores on watchlists of bad TLDs, and whose use for legit purposes is practically non-existent.
 ||loan^$document
-||agency^$document,domain=~battlefield.agency|~baam.agency|~robotzebra.agency|~uphotel.agency|~ws.agency
+!!!||agency^$document,domain=~battlefield.agency|~baam.agency|~robotzebra.agency|~uphotel.agency|~ws.agency (Can't remember the last time I saw it used in a redirection train.)
 ||gdn^$document,domain=~cst.gdn|~pss.gdn
 ||bid^$document
 ||ooo^$document,domain=~toast.ooo
@@ -19935,6 +19935,9 @@ zombooru.com##a[href="http://www.hard55.com"]
 ||vossblues.no^$document
 ||yttersiden.no^$document
 162.214.80.*$network
+! https://github.com/DandelionSprout/adfilt/discussions/932#discussioncomment-7873648
+||monetrizer*.$all
+38.180.96.244$network
 ! ——— Standard malware that I stumbled upon on my own ———
 ! http://www.toorgle.net/results.php?q=fetishkitsch&security=666
 ||downloadprovider.me^$all
@@ -28168,7 +28171,7 @@ watchseries.*##.imdb
 !#if !env_safari
 !#if !adguard_app_ios
 ! Title: ➗ Actually Legitimate URL Shortener Tool
-! OriginalVersion: 22December2023v1
+! OriginalVersion: 26December2023v2
 ! Expires: 1 day
 ! Description: In a world dominated by bitLy, adfLy, and several thousand other malware cover-up tools, this list reduces the length of URLs in a much more legitimate and transparent manner. Essentially, it automatically removes unnecessary $/& values from the URLs, making them easier to copy from the URL bar and pasting elsewhere as links. Enjoy.
 ! Homepage: https://github.com/DandelionSprout/adfilt/discussions/163
@@ -31870,6 +31873,8 @@ $document,removeparam=af_reengagement_window
 ||affiliate.insider.com^$document,removeparam=postSlug
 ! https://translate.wordpress.com/languages/nb/default/-all-waiting?ref=weekly-email (22/12/2023)
 ||wordpress.com^$removeparam=/^ref=[a-z-]{5,}$/
+! https://www.avito.ru/azov/tovary_dlya_detey_i_igrushki/my_little_pony_pinki_pay_2041239389?context=H4sIAAAAAAAA_0q0MrSqLrYytFKqULIutjI2tFJKNSgzqsopTDfNMcm0rDAtzirMt8gwLqtKMyvNNimvULKuBQQAAP__rPiLMTUAAAA (26/12/2023)
+$removeparam=context,domain=avito.ru|avito.ma
 !#if !env_mobile
 ! ——— Entries mostly dedicated to maximising image sizes (thus poorly suited for phones) ———
 ! https://sproutsluckycorner.files.wordpress.com/2019/12/ring-fit-adventure-smoothies-1.png?w=600 (Shows the actual raw image instead of a promotion page; 25/11/2020)
@@ -31881,14 +31886,14 @@ $removeparam=height,domain=i-viaplay.com.akamaized.net|media.discordapp.net|tvno
 ! https://www.ikea.com/no/no/images/products/friheten-hjornesovesofa-med-oppbevaring-skiftebo-mork-gra__0175610_pe328883_s5.jpg?f=xl
 ||ikea.com/*/images/products^$removeparam=f
 !#endif
-! ——— Scriptlets ———
+! + ——— + Scriptlets + ——— + !
 ! https://github.com/DandelionSprout/adfilt/discussions/163#discussioncomment-1352038
 actionewz.com,animemojo.com,comicbookmovie.com,fearhq.com,gamefragger.com,mtvuutiset.fi,sffgazette.com,theringreport.com,toonado.com#%#//scriptlet('ubo-set.js', 'GSvars.addressTracking', 'false')
 ! https://buffalonews.com/news/#tracking-source=main-nav
 buffalonews.com#%#//scriptlet('ubo-set.js', 'lee_trkLinkSrc', 'noopFunc')
 ! https://github.com/DandelionSprout/adfilt/issues/874
 !!! forbes.com##+js(set, trackingService.track, noopFunc)
-! ——— Allowlist ——— !
+! @@ ——— @@ Allowlist @@ ——— @@ !
 ! https://github.com/DandelionSprout/adfilt/commit/6dd010c70438a84cae7cf6b683d0d99dc56794ad
 @@mailinglist$removeparam=/^utm_/i
 ! Prevent rules from applying the internet Archive, and thus breaking it
