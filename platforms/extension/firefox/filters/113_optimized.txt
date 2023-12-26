@@ -1,9 +1,9 @@
-! Checksum: NbFDSDi7RSqKW3GDRw5ugA
-! Diff-Path: ../patches/113_optimized/113_optimized-s-1703616884-14400.patch
+! Checksum: Yc+b+I2ja828YQJO3vgW+g
+! Diff-Path: ../patches/113_optimized/113_optimized-s-1703624751-14400.patch
 ! Title: Liste FR (Optimized)
 ! Description: Additional filter list for websites in French. Already included in AdGuard French filter.
-! Version: 2.1.41.18
-! TimeUpdated: 2023-12-26T18:50:23+00:00
+! Version: 2.1.41.19
+! TimeUpdated: 2023-12-26T21:01:25+00:00
 ! Expires: 4 days (update frequency)
 &ad_count=
 &ad_target_

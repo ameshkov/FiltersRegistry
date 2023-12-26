@@ -1,9 +1,9 @@
-! Checksum: cQVpC4tpZ6dKVDRK9cC0KA
-! Diff-Path: ../patches/204/204-s-1703616904-14400.patch
+! Checksum: uKhz9xdLcCAug9aydUNk2Q
+! Diff-Path: ../patches/204/204-s-1703624774-14400.patch
 ! Title: Peter Lowe's Blocklist
 ! Description: Filter that blocks ads, trackers, and other nasty things.
-! Version: 2.0.13.21
-! TimeUpdated: 2023-12-26T18:50:45+00:00
+! Version: 2.0.13.22
+! TimeUpdated: 2023-12-26T21:01:47+00:00
 ! Expires: 4 days (update frequency)
 !
 !Blocklist for use with Adblock Plus. Use the following URL to add
@@ -18,7 +18,7 @@
 !Format:        adblockplus
 !Entries:       3787
 !Credits:       Peter Lowe - pgl@yoyo.org - pgl on github - https://pgl.yoyo.org/
-!This URL:      https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext
+!This URL:      https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext&title=list
 !Policy:        https://pgl.yoyo.org/adservers/policy.php
 !Other formats: https://pgl.yoyo.org/adservers/formats.php
 !

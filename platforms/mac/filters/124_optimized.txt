@@ -1,9 +1,9 @@
-! Checksum: dhJWSibs97BbHspDp3vy7A
-! Diff-Path: ../patches/124_optimized/124_optimized-s-1703616904-14400.patch
+! Checksum: MFg0a1AOp/me4Ux0LS0H9Q
+! Diff-Path: ../patches/124_optimized/124_optimized-s-1703624774-14400.patch
 ! Title: EasyList Portuguese (Optimized)
 ! Description: Additional filter list for websites in Spanish and Portuguese.
-! Version: 2.0.12.93
-! TimeUpdated: 2023-12-26T18:50:43+00:00
+! Version: 2.0.12.94
+! TimeUpdated: 2023-12-26T21:01:45+00:00
 ! Expires: 4 days (update frequency)
 /ads/anuncio.
 -publicidade.
