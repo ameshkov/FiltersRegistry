@@ -83,17 +83,20 @@ const main = async () => {
             const fileHasTxtExtension = file.endsWith('.txt');
 
             const filename = path.basename(file);
-            let filterId = '';
-            if (filename.includes('_optimized')) {
-                filterId = filename.slice(0, -('_optimized.txt'.length));
-            } else {
-                filterId = filename.slice(0, -('.txt'.length));
+
+            if (!/\d+(_optimized|_without_easylist)?\.txt/.test(filename)) {
+                console.log(`Skipped generating patch for: ${file}`);
+
+                return false;
             }
+
+            const filterId = Number.parseInt(filename, 10);
+
             const fileNotExcluded = excludedFilterIDs.length > 0
-                ? !excludedFilterIDs.includes(Number.parseInt((filterId), 10))
+                ? !excludedFilterIDs.includes(filterId)
                 : true;
             const fileIncluded = includedFilterIDs.length > 0
-                ? includedFilterIDs.includes(Number.parseInt((filterId), 10))
+                ? includedFilterIDs.includes(filterId)
                 : true;
 
             const res = fileInFiltersFolder && fileHasTxtExtension && fileNotExcluded && fileIncluded;
