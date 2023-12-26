@@ -5,7 +5,6 @@
 ! Homepage: https://gitlab.com/malware-filter/urlhaus-filter
 ! License: https://gitlab.com/malware-filter/urlhaus-filter#license
 ! Source: https://urlhaus.abuse.ch/api/
-||1.169.142.131$all
 ||1.41.113.39$all
 ||1.64.232.214$all
 ||1.69.106.220$all
@@ -564,12 +563,10 @@
 ||185.81.157.24$all
 ||185.81.157.244$all
 ||186.158.8.26$all
-||186.179.219.105$all
 ||186.179.219.164$all
 ||186.179.253.150$all
 ||186.179.253.170$all
 ||186.96.209.159$all
-||187.136.209.51$all
 ||187.155.175.8$all
 ||187.168.119.143$all
 ||187.189.56.33$all
@@ -669,7 +666,6 @@
 ||202.79.172.93$all
 ||203.111.213.210$all
 ||203.122.41.174$all
-||203.145.165.14$all
 ||203.204.146.133$all
 ||203.204.186.225$all
 ||203.204.193.17$all
@@ -715,6 +711,7 @@
 ||213.151.47.18$all
 ||213.16.63.103$all
 ||213.243.216.3$all
+||213.33.204.186$all
 ||213.60.225.184$all
 ||213.7.223.212$all
 ||216.183.54.169$all
@@ -759,7 +756,7 @@
 ||220.208.77.116$all
 ||220.80.59.85$all
 ||220.82.170.22$all
-||220.87.49.57$all
+||220.88.160.105$all
 ||221.145.153.108$all
 ||221.225.5.19$all
 ||222.104.200.163$all
@@ -839,12 +836,14 @@
 ||27.71.59.7$all
 ||31.0.136.2$all
 ||31.168.152.116$all
+||31.168.179.83$all
 ||31.168.60.234$all
 ||31.172.83.170$all
 ||31.173.124.114$all
 ||31.182.115.211$all
 ||31.184.194.114$all
 ||31.190.225.251$all
+||31.220.3.140$all
 ||31.25.133.191$all
 ||31.41.244.146$all
 ||33rdderryscouts.com$all
@@ -988,6 +987,7 @@
 ||5.88.229.223$all
 ||5.89.207.160$all
 ||5.89.36.162$all
+||50.168.230.234$all
 ||50.168.233.74$all
 ||50.38.24.188$all
 ||50.96.33.83$all
@@ -1118,7 +1118,6 @@
 ||78.197.6.50$all
 ||78.38.89.229$all
 ||78.38.98.43$all
-||78.39.233.217$all
 ||79.10.210.149$all
 ||79.11.158.214$all
 ||79.11.164.51$all
@@ -1153,7 +1152,6 @@
 ||81.218.207.112$all
 ||81.218.212.95$all
 ||82.1.25.159$all
-||82.118.21.69$all
 ||82.142.100.221$all
 ||82.157.254.217$all
 ||82.209.187.190$all
@@ -1276,6 +1274,7 @@
 ||93.170.131.209$all
 ||93.184.203.49$all
 ||93.39.178.18$all
+||93.41.154.145$all
 ||93.41.157.53$all
 ||93.41.182.249$all
 ||93.41.227.233$all
@@ -1470,6 +1469,7 @@
 ||cream.hitsturbo.com/order/tuc3.exe$all
 ||cream.hitsturbo.com/order/tuc4.exe$all
 ||cream.hitsturbo.com/order/tuc5.exe$all
+||cream.hitsturbo.com/order/tuc6.exe$all
 ||cream.hitsturbo.com/order/tuc7.exe$all
 ||crz.de$all
 ||cursodeparapsicologia.org$all
@@ -1517,8 +1517,10 @@
 ||down.udashi.com$all
 ||download.caihong.com$all
 ||download.doumaibiji.cn$all
+||download.pdf00.cn$all
 ||download.skycn.com$all
 ||downloayxkemam.sbs$all
+||drhanneserasmus.co.za$all
 ||drive.google.com.it-barcelona.com/frm0reseen/prntscrnofamzorderid.jpg.exe$all
 ||drive.google.com/u/0/uc?id=13st0duhd4buy1kbprqwpj_j7caaeg8vh&export=download$all
 ||drive.google.com/u/0/uc?id=1971nn11jts-j0fmdyn1kow_zr8szvsjo&export=download$all
@@ -1870,6 +1872,7 @@
 ||meeweb.com$all
 ||meonhanong.com$all
 ||microsecurityupdate.com$all
+||microtrimsltd.com.bd$all
 ||mistydeblasiophotography.com$all
 ||muzzumilruheel.com$all
 ||my-sbox.trns.co.za$all
@@ -1877,6 +1880,7 @@
 ||namthaibinh.net$all
 ||needs.hitsturbo.com/order/tuc2.exe$all
 ||needs.hitsturbo.com/order/tuc3.exe$all
+||needs.hitsturbo.com/order/tuc4.exe$all
 ||needs.hitsturbo.com/order/tuc5.exe$all
 ||needs.hitsturbo.com/order/tuc6.exe$all
 ||needs.hitsturbo.com/order/tuc7.exe$all
@@ -1885,6 +1889,7 @@
 ||networkwheels.co.za$all
 ||never.hitsturbo.com/order/tuc2.exe$all
 ||never.hitsturbo.com/order/tuc3.exe$all
+||never.hitsturbo.com/order/tuc4.exe$all
 ||never.hitsturbo.com/order/tuc5.exe$all
 ||never.hitsturbo.com/order/tuc7.exe$all
 ||ngwcscyd.page.link$all
@@ -1934,6 +1939,7 @@
 ||pasteio.com/download/xfmftxmfneef$all
 ||pasteio.com/download/xllglhavdlkc$all
 ||pasteio.com/download/xpq3rfxbtxkz$all
+||pasteio.com/download/xwxy5n0wkwgu$all
 ||pasteio.com/download/xxmqin6lcz5s$all
 ||patisserie.co.ke$all
 ||pink99.com$all
@@ -2029,6 +2035,7 @@
 ||stoon.hitsturbo.com/order/tuc4.exe$all
 ||stoon.hitsturbo.com/order/tuc6.exe$all
 ||stoon.hitsturbo.com/order/tuc7.exe$all
+||studiopro.com.br$all
 ||suakhoaketsattphcm.com$all
 ||sudmqtha.page.link$all
 ||sunglassesninja.com$all
