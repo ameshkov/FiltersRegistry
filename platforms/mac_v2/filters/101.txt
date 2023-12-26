@@ -1,15 +1,15 @@
-! Checksum: CB7m1ktCzUcar2fjC05fbQ
-! Diff-Path: ../patches/101/101-s-1703612016-14400.patch
+! Checksum: yO41a5LRRUODEkmq8fZQDQ
+! Diff-Path: ../patches/101/101-s-1703616906-14400.patch
 ! Title: EasyList
 ! Description: EasyList is the primary subscription that removes adverts from web pages in English. Already included in AdGuard Base filter.
-! Version: 2.1.18.20
-! TimeUpdated: 2023-12-26T17:27:57+00:00
+! Version: 2.1.18.21
+! TimeUpdated: 2023-12-26T18:50:06+00:00
 ! Expires: 12 hours (update frequency)
 !
-! Checksum: QIDPt0HsZWtWmiN/Is9tDg
-! OriginalVersion: 202312261711
+! Checksum: 7higMiFxkggTv3aDe66Rcw
+! OriginalVersion: 202312261841
 ! Title: EasyList
-! Last modified: 26 Dec 2023 17:11 UTC
+! Last modified: 26 Dec 2023 18:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -61130,7 +61130,7 @@ op.gg##.e17e77tq6
 op.gg##.e17e77tq8
 thesaurus.com##.e1wyd5nb0
 nytimes.com,nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion##.e1xxpj0j1.css-4vtjtj
-arabtimesonline.com,independent.co.ug,nigerianobservernews.com,songslover.vip##.e3lan
+arabtimesonline.com,independent.co.ug,nigerianobservernews.com,songslover.vip,udaipurkiran.com##.e3lan
 presskitaquat.com##.e3lan-top
 tiresandparts.net##.e3lanat-layout-rotator
 fxempire.com##.eLQRRm

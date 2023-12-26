@@ -1,9 +1,9 @@
-! Checksum: l6XrB9fd7hQHQbcKzQZhKQ
-! Diff-Path: ../patches/204_optimized/204_optimized-s-1703612019-14400.patch
+! Checksum: eJM7JacT4BKrxTXDe5pWTw
+! Diff-Path: ../patches/204_optimized/204_optimized-s-1703616908-14400.patch
 ! Title: Peter Lowe's Blocklist (Optimized)
 ! Description: Filter that blocks ads, trackers, and other nasty things.
-! Version: 2.0.13.20
-! TimeUpdated: 2023-12-26T17:28:38+00:00
+! Version: 2.0.13.21
+! TimeUpdated: 2023-12-26T18:50:45+00:00
 ! Expires: 12 hours (update frequency)
 ||1-1ads.com^
 ||101com.com^
