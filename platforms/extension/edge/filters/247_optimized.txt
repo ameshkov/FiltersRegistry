@@ -1,8 +1,9 @@
-! Checksum: h8Th/PcxmPK9XulNgVJK7g
+! Checksum: DXY5TCi7KnSQ++BbtPtNXA
+! Diff-Path: ../patches/247_optimized/247_optimized-s-1703611967-14400.patch
 ! Title: Polish Anti-Annoying Special Supplement (Optimized)
 ! Description: Filters that block and hide RSS elements and remnants of hidden newsletters combined with social elements on Polish websites.
 ! Version: 2.0.3.61
-! TimeUpdated: 2023-12-20T04:01:46+03:00
+! TimeUpdated: 2023-12-20T01:01:46+00:00
 ! Expires: 4 days (update frequency)
 4kdownload.com##.community__item--feed.community__item
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss

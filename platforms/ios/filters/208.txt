@@ -1,8 +1,9 @@
-! Checksum: /xW8pHh2dqn4hcsYPp6O6g
+! Checksum: REQWlETC1aD/q8zTSYItig
+! Diff-Path: ../patches/208/208-s-1703612003-14400.patch
 ! Title: Online Malicious URL Blocklist
 ! Description: Blocks domains that are known to be used to propagate malware and spyware.
 ! Version: 2.0.93.80
-! TimeUpdated: 2023-12-26T04:01:05+03:00
+! TimeUpdated: 2023-12-26T01:01:05+00:00
 ! Expires: 4 days (update frequency)
 !
 ! Title: Online Malicious URL Blocklist (AdGuard)

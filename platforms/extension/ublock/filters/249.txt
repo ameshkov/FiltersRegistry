@@ -1,9 +1,10 @@
+! Checksum: Dkook3JpuEB3TrasKCUcPg
+! Diff-Path: ../patches/249/249-s-1703611999-14400.patch
 ![Adblock Plus 2.0]
-! Checksum: q6GHtEqFW9fIVOh2Qczo5Q
 ! Title: Dandelion Sprout's Nordic Filters
 ! Description: This list covers websites for Norway, Denmark, Iceland, Danish territories, and the Sami indigenous population.
 ! Version: 2.0.7.14
-! TimeUpdated: 2023-12-26T18:18:00+03:00
+! TimeUpdated: 2023-12-26T15:18:00+00:00
 ! Expires: 4 days (update frequency)
 !
 ! Title: 🏔️ Dandelion Sprouts nordiske filtre for ryddigere nettsider (for AdGuard)

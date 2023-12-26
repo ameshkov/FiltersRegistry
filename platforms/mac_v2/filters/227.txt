@@ -1,8 +1,9 @@
-! Checksum: A0NzsX+O6VPxXDCC5Tr3cA
+! Checksum: k7mIfCg77TyN02qihncbPw
+! Diff-Path: ../patches/227/227-s-1703612021-14400.patch
 ! Title: List-KR
 ! Description: Filter that removes ads and various scripts from websites with Korean content. Combined and augmented with AdGuard-specific rules for enhanced filtering. This filter is expected to be used alongside with AdGuard Base filter.
 ! Version: 2.0.17.20
-! TimeUpdated: 2023-12-26T18:17:35+03:00
+! TimeUpdated: 2023-12-26T15:17:35+00:00
 ! Expires: 12 hours (update frequency)
 !
 ! Title: List-KR for AdGuard

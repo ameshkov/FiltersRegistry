@@ -1,8 +1,9 @@
-! Checksum: gmCf4R/3T8ALjHAnHGKgnQ
+! Checksum: 37NZCkjLuTkeq17P+PkdKQ
+! Diff-Path: ../patches/238_optimized/238_optimized-s-1703611950-14400.patch
 ! Title: Polish Anti Adblock Filters (Optimized)
 ! Description: Official Polish filters against Adblock alerts.
 ! Version: 2.0.3.54
-! TimeUpdated: 2023-12-06T20:02:32+03:00
+! TimeUpdated: 2023-12-06T17:02:32+00:00
 ! Expires: 4 days (update frequency)
 @@||sso.ppapi.pl/rodo.js$xmlhttprequest
 alefunny.pl###myModal, .modal-backdrop

@@ -1,8 +1,9 @@
-! Checksum: EDpSac7JCzp8rn5VoPnGRw
+! Checksum: dNYg+JbHZ4KDgDUi8G7YBg
+! Diff-Path: ../patches/236_optimized/236_optimized-s-1703611990-14400.patch
 ! Title: road-block light (Optimized)
 ! Description: Romanian ad blocking filter subscription.
 ! Version: 2.0.2.41
-! TimeUpdated: 2023-12-19T00:01:41+03:00
+! TimeUpdated: 2023-12-18T21:01:41+00:00
 ! Expires: 4 days (update frequency)
 /plugins/footer-pop-up-banner/*
 /Reclama/*

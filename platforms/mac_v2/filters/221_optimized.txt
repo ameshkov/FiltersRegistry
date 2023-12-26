@@ -1,8 +1,9 @@
-! Checksum: 9Tv4Kw7w/U0HZZ0Ci8APhA
+! Checksum: svQCJ8PvDYF3z8yrtmrJFA
+! Diff-Path: ../patches/221_optimized/221_optimized-s-1703612021-14400.patch
 ! Title: Polish Social Filters (Optimized)
 ! Description: Polish filter list for social widgets, popups, etc.
 ! Version: 2.0.4.73
-! TimeUpdated: 2023-12-18T04:01:15+03:00
+! TimeUpdated: 2023-12-18T01:01:15+00:00
 ! Expires: 12 hours (update frequency)
 !#safari_cb_affinity(social)
 /wp-content/plugins/dc-facebook-like-box-popup-increase-facebook-fans

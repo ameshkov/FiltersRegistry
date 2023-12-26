@@ -1,14 +1,15 @@
-! Checksum: xvnnRYQng1ZdgAT3gByiZg
+! Checksum: wT3MEwQ6tO5aqCJ3YAL6Ng
+! Diff-Path: ../patches/122/122-s-1703611954-14400.patch
 ! Title: Fanboy's Annoyances
 ! Description: Removes in-page pop-ups and other annoyances. Includes Fanboy's Social Blocking & EasyList Cookie Lists.
-! Version: 2.1.18.45
-! TimeUpdated: 2023-12-26T18:17:17+03:00
+! Version: 2.1.18.46
+! TimeUpdated: 2023-12-26T17:28:33+00:00
 ! Expires: 4 days (update frequency)
 !
-! Checksum: 1zFtRj7OCJJ+Sip4uGC5eQ
-! OriginalVersion: 202312261500
+! Checksum: HFb1AvnypfSaPsGTFU2Pvw
+! OriginalVersion: 202312261700
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-12-26 15:00 UTC
+! Last modified: 2023-12-26 17:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/

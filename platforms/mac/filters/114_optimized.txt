@@ -1,8 +1,9 @@
-! Checksum: CebcMUXSON2jV4g125FZFA
+! Checksum: 2UQDAW/3eYaHuON71/ntkg
+! Diff-Path: ../patches/114_optimized/114_optimized-s-1703612009-14400.patch
 ! Title: ROList (Optimized)
 ! Description: Additional filter list for websites in Romanian.
 ! Version: 2.0.1.28
-! TimeUpdated: 2023-10-25T08:00:37+03:00
+! TimeUpdated: 2023-10-25T05:00:37+00:00
 ! Expires: 4 days (update frequency)
 ||01.creativecdn.com^
 ||2mdn.net^

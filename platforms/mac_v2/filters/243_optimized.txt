@@ -1,8 +1,9 @@
-! Checksum: 4nezw2jyepO1RrAHcMyLCA
+! Checksum: IfoIaRuqVN9bvNz9COtFPA
+! Diff-Path: ../patches/243_optimized/243_optimized-s-1703612023-14400.patch
 ! Title: Frellwit's Swedish Filter (Optimized)
 ! Description: Filter that aims to remove regional Swedish ads, tracking, social media, annoyances, sponsored articles etc.
 ! Version: 2.0.17.26
-! TimeUpdated: 2023-12-26T12:01:47+03:00
+! TimeUpdated: 2023-12-26T09:01:47+00:00
 ! Expires: 12 hours (update frequency)
 .ads-gdprlock
 .ax/ad/

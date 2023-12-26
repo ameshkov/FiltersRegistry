@@ -1,8 +1,9 @@
-! Checksum: oJepaTxyiCvLsFeHBdZYHQ
+! Checksum: H1J0u0O5QyQNcFE4PFp+cQ
+! Diff-Path: ../patches/226/226-s-1703612013-14400.patch
 ! Title: (Obsolete) Fanboy's Vietnamese
 ! Description: Filter list for websites in Vietnamese.
 ! Version: 2.0.0.25
-! TimeUpdated: 2020-04-03T04:01:55+03:00
+! TimeUpdated: 2020-04-03T01:01:55+00:00
 ! Expires: 4 days (update frequency)
 !
 ! Checksum: XgxOBFbJrURrxGlKZ/47/A

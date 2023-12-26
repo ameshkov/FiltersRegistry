@@ -1,8 +1,9 @@
-! Checksum: /3CSuPfAwckxkWEbZiPPBg
+! Checksum: Wh/iFebvWR+O/jAtQMGCtw
+! Diff-Path: ../patches/103/103-s-1703611937-14400.patch
 ! Title: Bulgarian list
 ! Description: Additional filter list for websites in Bulgarian.
 ! Version: 2.0.0.36
-! TimeUpdated: 2023-12-06T11:45:57+03:00
+! TimeUpdated: 2023-12-06T08:45:57+00:00
 ! Expires: 4 days (update frequency)
 !
 ! Checksum: Isjvz+DRHav85u4htTx58w

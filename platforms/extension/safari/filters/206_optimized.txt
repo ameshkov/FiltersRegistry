@@ -1,8 +1,9 @@
-! Checksum: nc0dZl22RT6kyTirzm7mEw
+! Checksum: GH4mVvkC7RqMOsZZGqm7PQ
+! Diff-Path: ../patches/206_optimized/206_optimized-s-1703611988-14400.patch
 ! Title: Xfiles (Optimized)
 ! Description: Italian adblock filter list.
 ! Version: 2.0.1.79
-! TimeUpdated: 2023-12-19T08:01:03+03:00
+! TimeUpdated: 2023-12-19T05:01:03+00:00
 ! Expires: 4 days (update frequency)
 @@||assistenza.sky.it^$document
 @@||betrad.com/geo/h1.js$domain=corriere.it|gazzetta.it

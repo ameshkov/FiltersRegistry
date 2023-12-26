@@ -1,8 +1,9 @@
-! Checksum: ppJft8P88pBFVMdd8GxgRA
+! Checksum: 0np7TYH+dgRFmf7/W9s+XA
+! Diff-Path: ../patches/108/108-s-1703611977-14400.patch
 ! Title: EasyList Hebrew
 ! Description: Additional filter list for websites in Hebrew.
 ! Version: 2.0.4.51
-! TimeUpdated: 2023-12-19T08:00:34+03:00
+! TimeUpdated: 2023-12-19T05:00:34+00:00
 ! Expires: 4 days (update frequency)
 !
 ! Checksum: 2j0s3ItJNiI4/JMeGePOpg

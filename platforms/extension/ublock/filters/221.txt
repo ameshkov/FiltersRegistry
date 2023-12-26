@@ -1,9 +1,10 @@
+! Checksum: ciutUzXUUgPc8wpa2mOlWQ
+! Diff-Path: ../patches/221/221-s-1703611997-14400.patch
 ![Adblock Plus 2.0]
-! Checksum: MH3xu1dbxgcFs1DKYgMC3A
 ! Title: Polish Social Filters
 ! Description: Polish filter list for social widgets, popups, etc.
 ! Version: 2.0.4.73
-! TimeUpdated: 2023-12-18T04:01:15+03:00
+! TimeUpdated: 2023-12-18T01:01:15+00:00
 ! Expires: 4 days (update frequency)
 !
 ! Title: 🇵🇱 Polskie Filtry Społecznościowe

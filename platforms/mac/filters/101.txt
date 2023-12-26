@@ -1,14 +1,15 @@
-! Checksum: 12xxRULFSmggPg8l07xPkw
+! Checksum: QOVGE+wn1Ic99Bs2andbAg
+! Diff-Path: ../patches/101/101-s-1703612008-14400.patch
 ! Title: EasyList
 ! Description: EasyList is the primary subscription that removes adverts from web pages in English. Already included in AdGuard Base filter.
-! Version: 2.1.18.19
-! TimeUpdated: 2023-12-26T18:38:54+03:00
+! Version: 2.1.18.20
+! TimeUpdated: 2023-12-26T17:27:57+00:00
 ! Expires: 4 days (update frequency)
 !
-! Checksum: +ag485++NQzr7btSXUFRuQ
-! OriginalVersion: 202312261531
+! Checksum: QIDPt0HsZWtWmiN/Is9tDg
+! OriginalVersion: 202312261711
 ! Title: EasyList
-! Last modified: 26 Dec 2023 15:31 UTC
+! Last modified: 26 Dec 2023 17:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -40773,6 +40774,7 @@ browsershots.org#@#.advert_area
 ||qyqkemrarznvv.top^
 ||qyxwfe.com^
 ||qz496amxfh87mst.com^
+||qzdmvwewzxzzze.com^
 ||qzkjkiexmsyv.com^
 ||qzqmrlqnnzwab.top^
 ||qzyllgqficyd.com^
@@ -46373,6 +46375,7 @@ browsershots.org#@#.advert_area
 ||ululubugles.website^
 ||ulyhadchos.com^
 ||umbretalen.com^
+||umcsghecmszp.com^
 ||umedadelempanyi.info^
 ||umekana.ru^
 ||umentrandings.xyz^

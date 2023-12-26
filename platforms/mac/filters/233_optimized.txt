@@ -1,8 +1,9 @@
-! Checksum: cZdqAQ8ABXdyE8X6nEpFXw
+! Checksum: 4EQHT61uA4Z7haPRyrf2Bg
+! Diff-Path: ../patches/233_optimized/233_optimized-s-1703612014-14400.patch
 ! Title: Adblock List for Finland (Optimized)
 ! Description: Finnish ad blocking filter list.
 ! Version: 2.0.10.75
-! TimeUpdated: 2023-12-24T04:01:41+03:00
+! TimeUpdated: 2023-12-24T01:01:41+00:00
 ! Expires: 4 days (update frequency)
 ampparit.com##.ad-slot
 ap-cdn.sanomagames.com##.banner-slot-preroll

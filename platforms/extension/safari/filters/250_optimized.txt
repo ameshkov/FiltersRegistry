@@ -1,8 +1,9 @@
-! Checksum: k2HN3D/893RDUZ01cJNB9w
+! Checksum: iaHwQUzMU7mqLI6BBSbmRg
+! Diff-Path: ../patches/250_optimized/250_optimized-s-1703611991-14400.patch
 ! Title: Dandelion Sprout's Annoyances List (Optimized)
 ! Description: This list is made in the style of AdGuard's and Fanboy's annoyances lists. It combines many of Dandelion Sprout's proudest and most frequently maintained international lists, as a curated compilation for simplicity's sake.
 ! Version: 2.0.12.80
-! TimeUpdated: 2023-12-26T08:01:57+03:00
+! TimeUpdated: 2023-12-26T05:01:57+00:00
 ! Expires: 4 days (update frequency)
 ###smart-banner
 ###smartbanner

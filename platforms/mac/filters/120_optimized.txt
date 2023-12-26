@@ -1,8 +1,9 @@
-! Checksum: Cy9N4+vwxolDCcPH+SevuQ
+! Checksum: bIKHC1MkCqVaQ2lHo519Ew
+! Diff-Path: ../patches/120_optimized/120_optimized-s-1703612010-14400.patch
 ! Title: AdBlockID (Optimized)
 ! Description: Additional filter list for websites in Indonesian.
 ! Version: 2.0.18.21
-! TimeUpdated: 2023-12-24T20:00:46+03:00
+! TimeUpdated: 2023-12-24T17:00:46+00:00
 ! Expires: 4 days (update frequency)
 .id^*/ads_$domain=~cartalog.id
 .id^*/adv-$domain=~adv.kompas.id

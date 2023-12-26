@@ -1,8 +1,9 @@
-! Checksum: sHp0ZD1pL3G7ZXMw3clTkQ
+! Checksum: uc6RvRlRc5PCH40zzZNKbw
+! Diff-Path: ../patches/244/244-s-1703611991-14400.patch
 ! Title: YousList
 ! Description: Filter that blocks ads on Korean sites.
 ! Version: 2.0.10.24
-! TimeUpdated: 2023-12-26T00:01:47+03:00
+! TimeUpdated: 2023-12-25T21:01:47+00:00
 ! Expires: 4 days (update frequency)
 !
 ! Homepage: https://github.com/yous/YousList

@@ -1,8 +1,9 @@
-! Checksum: ys6NNO9ap7LcPLh5xTa8cw
+! Checksum: zgSGRbOgFb5JpaEPZkFtwQ
+! Diff-Path: ../patches/216/216-s-1703611980-14400.patch
 ! Title: Official Polish filters for AdBlock, uBlock Origin & AdGuard
 ! Description: Additional filter list for websites in Polish.
 ! Version: 2.0.15.15
-! TimeUpdated: 2023-12-25T16:01:12+03:00
+! TimeUpdated: 2023-12-25T13:01:12+00:00
 ! Expires: 4 days (update frequency)
 !
 ! Title: Official Polish Filters for AdBlock, uBlock Origin & AdGuard

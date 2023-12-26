@@ -1,8 +1,9 @@
-! Checksum: 9aM/3kHil+223eu/CJzIPg
+! Checksum: FsI0wmnghSwQekWWOH/ofg
+! Diff-Path: ../patches/252/252-s-1703611967-14400.patch
 ! Title: Dandelion Sprout's Serbo-Croatian List
 ! Description: A filter list for websites in Serbian, Montenegrin, Croatian, and Bosnian.
 ! Version: 2.0.0.43
-! TimeUpdated: 2023-12-12T08:01:58+03:00
+! TimeUpdated: 2023-12-12T05:01:58+00:00
 ! Expires: 4 days (update frequency)
 !
 ! Title: 🏀 Dandelion Sprout's Serbo-Croatian filters

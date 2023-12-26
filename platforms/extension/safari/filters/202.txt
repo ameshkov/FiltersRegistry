@@ -1,8 +1,9 @@
-! Checksum: DJ/ElF4e4G5g9frAlwM/Hw
+! Checksum: u2dhB7p2Xir3eFl6jl1Dew
+! Diff-Path: ../patches/202/202-s-1703611987-14400.patch
 ! Title: EasyList Thailand
 ! Description: Filter that blocks ads on Thai sites.
 ! Version: 2.0.0.12
-! TimeUpdated: 2023-12-21T16:01:07+03:00
+! TimeUpdated: 2023-12-21T13:01:07+00:00
 ! Expires: 4 days (update frequency)
 !
 ! Title: EasyList Thailand

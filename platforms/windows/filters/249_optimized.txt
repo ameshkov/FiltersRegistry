@@ -1,8 +1,9 @@
-! Checksum: ZLQ/miAgKi4obuCPzguiiQ
+! Checksum: 5nbG/0p6HRqtQz6sI4Ub2w
+! Diff-Path: ../patches/249_optimized/249_optimized-s-1703612031-14400.patch
 ! Title: Dandelion Sprout's Nordic Filters (Optimized)
 ! Description: This list covers websites for Norway, Denmark, Iceland, Danish territories, and the Sami indigenous population.
 ! Version: 2.0.7.14
-! TimeUpdated: 2023-12-26T18:18:00+03:00
+! TimeUpdated: 2023-12-26T15:18:00+00:00
 ! Expires: 12 hours (update frequency)
 ##.annonselenker:not(html,body,:empty)
 ##.full-width.daily-offers:not(html,body,:empty)

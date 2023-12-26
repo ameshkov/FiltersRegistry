@@ -1,8 +1,9 @@
-! Checksum: P6S5c3tHIcmiAAw1iB27XA
+! Checksum: VffLLsxOV/Xu/x3Uot3R2A
+! Diff-Path: ../patches/223_optimized/223_optimized-s-1703612029-14400.patch
 ! Title: (Obsolete) Fanboy's Swedish (Optimized)
 ! Description: Filter list for websites in Swedish.
 ! Version: 2.0.0.25
-! TimeUpdated: 2020-10-13T15:45:24+03:00
+! TimeUpdated: 2020-10-13T12:45:24+00:00
 ! Expires: 12 hours (update frequency)
 .dt.se/banner/
 .dt.se/img/space.gif?

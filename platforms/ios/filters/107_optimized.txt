@@ -1,8 +1,9 @@
-! Checksum: 8sfo2mrzFSAcafd3C4xxhQ
+! Checksum: vZVbsKqtShoJm65xMe+eCQ
+! Diff-Path: ../patches/107_optimized/107_optimized-s-1703612001-14400.patch
 ! Title: EasyList Germany (Optimized)
 ! Description: Additional filter list for websites in German. Already included in AdGuard German filter.
 ! Version: 2.0.12.26
-! TimeUpdated: 2023-12-24T00:00:37+03:00
+! TimeUpdated: 2023-12-23T21:00:37+00:00
 ! Expires: 4 days (update frequency)
 &werbemittel=
 -Bannerwerbung-

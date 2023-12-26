@@ -1,8 +1,9 @@
-! Checksum: j8HxSA8D+lEJ/4LPE/amPQ
+! Checksum: H4FVRInaluGdwiVOuVPNzQ
+! Diff-Path: ../patches/246_optimized/246_optimized-s-1703611944-14400.patch
 ! Title: EasyList Polish (Optimized)
 ! Description: Additional filter list for websites in Polish.
-! Version: 2.1.37.24
-! TimeUpdated: 2023-12-26T18:39:57+03:00
+! Version: 2.1.37.25
+! TimeUpdated: 2023-12-26T17:29:26+00:00
 ! Expires: 4 days (update frequency)
 /adserwer.
 =adv/GetAdvertisment|
@@ -2132,7 +2133,6 @@ mobiletrends.pl##a[href^="https://escola.pl/?utm_source=Mobile+Trends&utm_medium
 weszlo.com##a[href^="https://fuksiarz.pl/"]
 gieldomania.pl##a[href^="https://gieldomania.pl/r/"] img
 hdtvpolska.com##a[href^="https://hdtvpolska.com/forum/adv-"]
-2x45.info##a[href^="https://in.betsson29.com/"]
 gazeta-mosina.pl##a[href^="https://jezyk-stacja-"]
 zakazanaprawda.pl##a[href^="https://ksiazki.pafere.org/"]
 uploaduj.com##a[href^="https://lead.network/"]

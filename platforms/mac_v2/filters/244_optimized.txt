@@ -1,8 +1,9 @@
-! Checksum: dersfYz2K0PnTt9h1TI21Q
+! Checksum: Gt6rKRp91Z84nX2i9gS6xg
+! Diff-Path: ../patches/244_optimized/244_optimized-s-1703612023-14400.patch
 ! Title: YousList (Optimized)
 ! Description: Filter that blocks ads on Korean sites.
 ! Version: 2.0.10.24
-! TimeUpdated: 2023-12-26T00:01:47+03:00
+! TimeUpdated: 2023-12-25T21:01:47+00:00
 ! Expires: 12 hours (update frequency)
 ##amp-ad
 ##amp-embed.ad_cnt

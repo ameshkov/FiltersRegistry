@@ -1,8 +1,9 @@
-! Checksum: AY+mGCSUapnlHSt3X5R9DQ
+! Checksum: 4WXgBP/BPhI8z101ZkE/3g
+! Diff-Path: ../patches/220_optimized/220_optimized-s-1703612021-14400.patch
 ! Title: CJX's Annoyances List (Optimized)
 ! Description: Supplement for EasyList China+EasyList and EasyPrivacy.
 ! Version: 2.0.5.42
-! TimeUpdated: 2023-12-24T08:01:11+03:00
+! TimeUpdated: 2023-12-24T05:01:11+00:00
 ! Expires: 12 hours (update frequency)
 /wiseatom/banner/pack_
 /template/bingfeng/statics/js/pingbi.js
