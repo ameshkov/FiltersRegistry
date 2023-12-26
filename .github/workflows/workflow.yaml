@@ -1,6 +1,8 @@
-name: Build Filters Registry
+name: Test build filters and patches
 
 on:
+  # For manual run builds
+  workflow_dispatch:
   push:
     paths-ignore:
       # do not trigger build on changes to the following files.
@@ -19,15 +21,21 @@ jobs:
         with:
           node-version: 18.x
 
-      - name: yarn install
+      - name: Install dependencies
         run: yarn install --network-concurrency 1
 
-      - name: node
-        run: |
-          # TODO: add a separate workflow for linting
-          yarn lint
+      # TODO: add a separate workflow for linting
+      - name: Lint code
+        run: yarn lint
 
-          TLS=insecure node index.js
+      - name: Build filters
+        run: TLS=insecure yarn build
 
-          node validate.js
-          node validate-locales.js
+      - name: Build patches
+        # Does not matter how long patches are
+        # valid because these patches (as well as filter)
+        # would not be merged to master.
+        run: yarn build:patches --time=3600 --resolution=s
+
+      - name: Validate platforms and locales
+        run: yarn validate

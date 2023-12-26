@@ -7,7 +7,7 @@ const args = process.argv.slice(2);
 
 let platforms = args[0];
 if (!platforms) {
-    platforms = './platforms';
+    platforms = '../../platforms';
 }
 
 const platformsPath = path.join(__dirname, platforms);
