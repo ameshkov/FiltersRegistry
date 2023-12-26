@@ -1,10 +1,10 @@
-! Checksum: 2edCkDMxM9yDYbDZEYUWog
-! Diff-Path: ../patches/2_without_easylist/2_without_easylist-s-1703604923-3600.patch
 ![Adblock Plus 2.0]
+! Checksum: lHbQSv05mR7eGruFHxiT6Q
+! Diff-Path: ../patches/2_without_easylist/2_without_easylist-s-1703617484-3600.patch
 ! Title: AdGuard Base filter
 ! Description: This filter is necessary for quality ad blocking.
-! Version: 2.3.15.47
-! TimeUpdated: 2023-12-26T15:32:05+00:00
+! Version: 2.3.15.48
+! TimeUpdated: 2023-12-26T19:01:22+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -26970,6 +26970,7 @@ youtube.com#@$##contentContainer.tp-yt-app-drawer[swipe-open].tp-yt-app-drawer::
 ! Popular ad on streaming services
 ##button[data-openuri="|BTN_URL|"]
 !
+##iframe[src^="https://tsyndicate.com/"]
 ##.roxot-dynamic
 ##body > div#fixedban
 ###close-fixedban
@@ -32406,6 +32407,7 @@ $script,third-party,denyallow=linkvertise.com|fastly.net|statically.io|sharecast
 !
 ! NOTE: Specific rules
 !
+bellesa.co##div[width="337px"][height="283px"]
 sportlemone.top##.adds_content
 sportlemone.top##.bet_content
 ||thatsthem.com/img/spokeo-identity-protect-*.jpg
@@ -36607,7 +36609,6 @@ omnicoreagency.com###text-59
 abc.com##.noPlaylistAd
 flightconnections.com##div[class^="waldo-"]
 flightconnections.com##.parallax-container
-fapnado.com,adultepic.com,videocelebs.net##iframe[width="300"][height="100"]
 timesofindia.indiatimes.com##.clsplaceholder
 alphr.com##.js-article_desktop_end
 apnnews.com##.bottomAd2
