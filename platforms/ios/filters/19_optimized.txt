@@ -1,8 +1,9 @@
-! Checksum: 0sLuxay8iQjs/F4Xn9hINA
+! Checksum: 01TD64mTK+I56az82SPDIg
+! Diff-Path: ../patches/19_optimized/19_optimized-s-1703601208-3600.patch
 ! Title: AdGuard Popups filter (Optimized)
 ! Description: Blocks all kinds of pop-ups that are not necessary for websites' operation.
-! Version: 2.0.29.3
-! TimeUpdated: 2023-12-26T14:09:23+00:00
+! Version: 2.0.29.4
+! TimeUpdated: 2023-12-26T14:29:15+00:00
 ! Expires: 4 days (update frequency)
 #%#var AG_onLoad=function(func){if(document.readyState==="complete"||document.readyState==="interactive")func();else if(document.addEventListener)document.addEventListener("DOMContentLoaded",func);else if(document.attachEvent)document.attachEvent("DOMContentLoaded",func)};
 #%#var AG_removeElementById = function(id) { var element = document.getElementById(id); if (element && element.parentNode) { element.parentNode.removeChild(element); }};
@@ -4802,6 +4803,7 @@ medonet.pl##body.withFPU::before
 kurashiru.com#$##dly-LandingPopupBanner { display: none !important; }
 !+ NOT_OPTIMIZED
 kurashiru.com#$#html.dly-modal-active { overflow: auto !important; }
+motom-jp.com###footer_btn
 imobie.jp##.sideadv_wrapmo
 magokoro-bento.com#$#.popup_outer { display: none !important; }
 magokoro-bento.com#$#html.popup_hide { overflow: auto !important; }

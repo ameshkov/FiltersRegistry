@@ -1,8 +1,9 @@
-! Checksum: yyTjETaFN/9djyT5fU6ooQ
+! Checksum: 0FqsCuCqHR+dWBaueio1uw
+! Diff-Path: ../patches/2_optimized/2_optimized-s-1703601180-3600.patch
 ! Title: AdGuard Base filter (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.15.45
-! TimeUpdated: 2023-12-26T14:10:09+00:00
+! Version: 2.3.15.46
+! TimeUpdated: 2023-12-26T14:29:59+00:00
 ! Expires: 4 days (update frequency)
 ||pepapigg.xyz^
 ||elfnxscnmtao.com^
@@ -1097,9 +1098,9 @@ delicious-audio.com#$#body { overflow: auto !important; }
 @@||ssl.cdne.cpmstar.com/cached/zonemasters/blueprints/instreamvideo.js$domain=chickenkarts.io
 @@||ssl.cdne.cpmstar.com/cached/zonemasters/lib/prebid/starprebid.js$domain=chickenkarts.io
 @@||server.cpmstar.com/view.aspx$domain=chickenkarts.io
-||autoscout24.com/frontend-metrics/
-@@||autoscout24.com^$generichide
-autoscout24.com##s24-ad-slot
+||autoscout24.*/frontend-metrics/
+@@||autoscout24.*^$generichide
+autoscout24.*##s24-ad-slot
 @@||googletagmanager.com/gtag/js$domain=themarysue.com
 @@||succeedscene.com/pagead/pubads_impl.js$domain=themarysue.com
 datasciencelearner.com#$#html { overflow: auto !important; padding-right: 0 !important; }
@@ -6818,6 +6819,8 @@ linksvip.net##div[class^="banner-style-"]
 nhaccuatui.com##div[class^="adv_"]
 @@||facebook.com/share/share_now_menu/$domain=facebook.com
 youtube.com#@$##contentContainer.tp-yt-app-drawer[swipe-open].tp-yt-app-drawer::after, tp-yt-app-drawer { position: absolute !important; }
+!+ NOT_OPTIMIZED
+##.ads-two
 !+ NOT_OPTIMIZED
 ##AD-SLOT
 !+ NOT_OPTIMIZED
@@ -23437,6 +23440,7 @@ browsershots.org#@#.advert_area
 ||3482f0c95a.com^
 ||360yield-basic.com^
 ||360yield.com^
+||3a17d27bf9.com^
 ||3dfcff2ec15099df0a24ad2cee74f21a.com^
 ||3e950d4353.com^
 ||3edcc83467.com^
@@ -24000,6 +24004,7 @@ browsershots.org#@#.advert_area
 ||alsatiapolynia.com^
 ||alstrome9riya10.com^
 ||altairaquilae.top^
+||altarhackees.digital^
 ||alterassumeaggravate.com^
 ||alternativecpmgate.com^
 ||altitude-arena.com^
@@ -24160,6 +24165,7 @@ browsershots.org#@#.advert_area
 ||askprivate.com^
 ||asleavannychan.com^
 ||aslnk.link^
+||asmetotreatwab.com^
 ||asmodeusfields.com^
 ||asnincadar.com^
 ||aso1.net^
@@ -24312,6 +24318,7 @@ browsershots.org#@#.advert_area
 ||baggageconservationcaught.com^
 ||baggalaresaid.com^
 ||baguioattalea.com^
+||bahswl.com^
 ||bainushe.com^
 ||baiseesh.net^
 ||baithoph.net^
@@ -24546,6 +24553,7 @@ browsershots.org#@#.advert_area
 ||bmcdn4.com^
 ||bmcdn5.com^
 ||bmcdn6.com^
+||bmlcuby.com^
 ||bn5x.net^
 ||bnagilu.com^
 ||bncloudfl.com^
@@ -24762,6 +24770,7 @@ browsershots.org#@#.advert_area
 ||byxcbixzvjclxz.com^
 ||byzkrjamkqbal.top^
 ||bzsiyxkvehty.com^
+||bzxcygmykxymcj.com^
 ||c0me-get-s0me.net^
 ||c1sf9.top^
 ||c43a3cd8f99413891.com^
@@ -25781,6 +25790,7 @@ browsershots.org#@#.advert_area
 ||empdat.com^
 ||empirelayer.club^
 ||emsservice.de^
+||emukentsiwo.org^
 ||emwqvlymjydv.com^
 ||emxdgt.com^
 ||enablerubbingjab.com^
@@ -26047,6 +26057,7 @@ browsershots.org#@#.advert_area
 ||findromanticdates.com^
 ||finisheddaysflamboyant.com^
 ||finreporter.net^
+||firewoodpeerlessuphill.com^
 ||fireworksane.com^
 ||firmsossa.guru^
 ||fishedtopple.com^
@@ -26709,6 +26720,7 @@ browsershots.org#@#.advert_area
 ||holdsoutset.com^
 ||hollowcharacter.com^
 ||holmiumundried.com^
+||homeycommemorate.com^
 ||homierceston.top^
 ||honorablehalt.com^
 ||honoursdashed.com^
@@ -28400,6 +28412,7 @@ browsershots.org#@#.advert_area
 ||oomtexoa.com^
 ||oongouha.xyz^
 ||oopoawee.xyz^
+||oorbfdycj.com^
 ||oovaufty.com^
 ||op00.biz^
 ||op02.biz^
@@ -28662,8 +28675,10 @@ browsershots.org#@#.advert_area
 ||petchesa.net^
 ||petchoub.com^
 ||petemenleban.uno^
+||pgerrismp.com^
 ||pgjlctmswgnwf.com^
 ||pgonews.pro^
+||pgwcrtobrdjx.com^
 ||phaipaun.net^
 ||phamsacm.net^
 ||pheegoab.click^
@@ -29544,6 +29559,7 @@ browsershots.org#@#.advert_area
 ||rvrpushserv.com^
 ||rvrpushsrv.com^
 ||rvxqnjsczubld.com^
+||rwhgpxvoqfvv.com^
 ||rwwoqcjefc.com^
 ||rxatodtvt.com^
 ||rxeosevsso.com^
@@ -30017,6 +30033,7 @@ browsershots.org#@#.advert_area
 ||stawhoph.com^
 ||steadilyparental.com^
 ||steakeffort.com^
+||stealcurtainsdeeprooted.com^
 ||steepto.com^
 ||steeringsunshine.com^
 ||stemboastfulrattle.com^
@@ -30378,6 +30395,7 @@ browsershots.org#@#.advert_area
 ||townrusisedprivat.info^
 ||toxaminbowtell.com^
 ||toyjofkkcdyr.com^
+||tozuoi.xyz^
 ||tpbsxcsa.com^
 ||tpcserve.com^
 ||tpdads.com^
@@ -31180,6 +31198,7 @@ browsershots.org#@#.advert_area
 ||xadsmart.com^
 ||xameleonads.com^
 ||xapads.com^
+||xatesfrgkifde.com^
 ||xawlop.com^
 ||xcec.ru^
 ||xdezxlbnpo.com^
@@ -31229,6 +31248,7 @@ browsershots.org#@#.advert_area
 ||xoalt.com^
 ||xohnodzbfjjqje.com^
 ||xonyxdpnelhzi.com^
+||xowvmktath.com^
 ||xpjjlgzqs.com^
 ||xporn.in^
 ||xqfwhxbfxhpjko.com^
@@ -33383,6 +33403,7 @@ oann.com##.ad-slot__ad-label
 freepressjournal.in##.ad-slots
 trueachievements.com##.ad-wrap
 smithsonianmag.com,tasty.co##.ad-wrapper
+gamingdeputy.com##.ad-wrapper-parent-video
 allscrabblewords.com,famously-dead.com,famouslyarrested.com,famouslyscandalous.com,gamesadshopper.com,iamgujarat.com,lolcounter.com,mpog100.com,samayam.com,timesofindia.com,vijaykarnataka.com##.ad1
 allscrabblewords.com,famously-dead.com,famouslyarrested.com,famouslyscandalous.com,mpog100.com##.ad2
 allscrabblewords.com,mpog100.com##.ad3
