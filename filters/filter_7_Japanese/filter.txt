@@ -498,8 +498,9 @@
 !
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/159931
+iwb.jp#%#//scriptlet('abort-on-stack-trace', 'onload', 'getComputedStyle')
+!+ PLATFORM(ios, ext_android_cb)
 iwb.jp#@#ins.adsbygoogle
-iwb.jp#$#ins.adsbygoogle { height: 0 !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/167887
 ||nazology.net/*/adb/adb.js
 ! https://github.com/AdguardTeam/AdguardFilters/issues/167723
@@ -1627,6 +1628,7 @@ kuruma-news.jp,magmix.jp,trafficnews.jp$$div[data-history="photo_extra"]
 /wp-content/themes/CashLINESystem/js/modal.$script
 !
 ! Malware/Phishing
+.com/ibg/client/*.php|$document
 ://smdc-*.fit/$document
 ://tokyodisney.*.com/*?lang=ja^$document
 .click/mac/^$document
@@ -1801,6 +1803,7 @@ gundamlog.com###more > iframe[src^="https://richlink.blogsys.jp"]
 !
 !
 !
+/^https:\/\/javplayer\.org\/[0-9a-zA-Z]{5,7}\.js$/$script,~third-party
 itmedia.co.jp###TopLink
 diamond.jp##.kabunushiyutai-ir
 smhn.info#?##primary > div.half:has(> .ads)
@@ -6312,6 +6315,7 @@ nlab.itmedia.co.jp##.admsg
 nlab.itmedia.co.jp##.bannar
 nlab.itmedia.co.jp###globalHeader
 nlab.itmedia.co.jp##.headerbannar
+gamewith.jp##div[class$="adWrapper"]
 ||gamewith.jp/*/ad/index.js
 gamewith.jp##.review_amazon_ranking_container
 gamewith.jp##.review_amazon_ranking_title

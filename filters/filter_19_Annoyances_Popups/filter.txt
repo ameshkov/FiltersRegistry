@@ -116,7 +116,7 @@ music.yandex.*##.notify > div.deco-tooltip_notify.notify_shown
 afisha.yandex.*#%#//scriptlet('prevent-eval-if', 'bidReqIdStr')
 !
 ! Yandex.Disk
-docviewer.yandex.*#%#//scriptlet('abort-on-property-read', 'Object.prototype.YaAdtuneFeedbackType')
+docviewer.yandex.*#%#//scriptlet('abort-on-property-read', 'Object.prototype.Rtb')
 !
 ! Yandex.Mail
 mail.yandex.*#%#//scriptlet('json-prune', 'seatbid rtb')
@@ -12515,6 +12515,8 @@ newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,nordbayern.de,theloca
 !
 ! SECTION: Subscriptions - Regular rules
 !
+mskagency.ru##.telegram-subscribe-popup
+www.chosun.com#?#div[class^="article-tags"] ~ .flex-chain-wrapper:has(a[aria-label="조선일보 구독"])
 heho.com.tw##a[href="https://pse.is/hehonews"]
 read.engineerscodex.com##div[class*="frontend-components-SubscribePrompt-"]
 read.engineerscodex.com##.subscription-widget
