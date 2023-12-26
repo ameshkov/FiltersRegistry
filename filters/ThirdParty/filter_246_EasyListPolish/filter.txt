@@ -1,8 +1,8 @@
 !
-! Checksum: TpIjPQe28q1VoCYP88m3Cg
-! OriginalVersion: 202312261502
+! Checksum: g89tKPCyQD1KITJ3T3HwYA
+! OriginalVersion: 202312261531
 ! Title: EasyList Polish
-! Last modified: 26 Dec 2023 15:02 UTC
+! Last modified: 26 Dec 2023 15:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html

@@ -1,9 +1,9 @@
 ![Adblock Plus 2.0]
-! Checksum: 50rQl1W0yahyekVxFIRQpg
+! Checksum: wGh6f7hSHYmhvob4QsS3ng
 ! Title: Liste FR (Optimized)
 ! Description: Additional filter list for websites in French. Already included in AdGuard French filter.
-! Version: 2.1.41.15
-! TimeUpdated: 2023-12-26T18:17:07+03:00
+! Version: 2.1.41.16
+! TimeUpdated: 2023-12-26T18:39:06+03:00
 ! Expires: 4 days (update frequency)
 &ad_count=
 &ad_target_
