@@ -73,8 +73,14 @@ const main = async () => {
             const fileInFiltersFolder = file.includes('filters/');
             const fileHasTxtExtension = file.endsWith('.txt');
 
-            const fileNameWithoutExtension = path.basename(file).slice(0, -('.txt'.length));
-            const fileNotExcluded = !blacklist.includes(fileNameWithoutExtension);
+            const filename = path.basename(file);
+            let filterId = '';
+            if (filename.includes('_optimized')) {
+                filterId = filename.slice(0, -('_optimized.txt'.length));
+            } else {
+                filterId = filename.slice(0, -('.txt'.length));
+            }
+            const fileNotExcluded = !blacklist.includes(Number.parseInt((filterId), 10));
 
             const res = fileInFiltersFolder && fileHasTxtExtension && fileNotExcluded;
 
