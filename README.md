@@ -244,7 +244,7 @@ More information about the `@include` directive and its options can be found her
 
 1. **Build Patches**
 
-    To build patches with different TTL (Time To Live), use the following commands:
+    To build patches with different TTL (Time To Live) and selectively include or exclude specific filter IDs, use the following commands:
 
     - For a TTL of 10 hours:
 
@@ -264,7 +264,24 @@ More information about the `@include` directive and its options can be found her
       yarn build:patches --time=3000 --resolution=s
       ```
 
-    This script recursively finds new filter files in the `platforms/` folder, generates patches by comparing them with corresponding old filter files (from `temp/platforms`), and saves these patches in a designated directory. Additionally, it copies any existing old patches to the new filter directory and cleans up temporary files, facilitating the maintenance of filter updates.
+    - To include specific filter IDs:
+
+      ```bash
+      yarn build:patches --include=1,2,3
+      ```
+
+      This includes only filters with IDs 1, 2, and 3 in the patch generation process.
+
+    - To exclude specific filter IDs:
+
+      ```bash
+      yarn build:patches --skip=4,5
+      ```
+
+      This excludes filters with IDs 4 and 5 from the patch generation process.
+
+    This script recursively finds new filter files in the `platforms/` folder, generates patches by comparing them with corresponding old filter files (from `temp/platforms`), and saves these patches in a designated directory. The `--include` and `--skip` parameters allow for selective processing of filters based on their IDs. After generating the patches, the script copies any existing old patches to the new filter directory and cleans up temporary files, facilitating the maintenance and updates of filters.
+
 
 1. **Validate Platforms**
 

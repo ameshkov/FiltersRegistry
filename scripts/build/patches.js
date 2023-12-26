@@ -15,7 +15,8 @@ const { findFiles } = require('../utils/find_files');
  */
 let time = 60;
 let resolution = 'm';
-let blacklist = [];
+let includedFilterIDs = [];
+let excludedFilterIDs = [];
 
 const args = process.argv.slice(2); // Get command line arguments
 args.forEach((val) => {
@@ -27,10 +28,18 @@ args.forEach((val) => {
         resolution = val.slice(val.indexOf('=') + 1);
     }
 
+    if (val.startsWith('-i=') || val.startsWith('--include=')) {
+        const value = val.slice(val.indexOf('=') + 1);
+
+        includedFilterIDs = value
+            .split(',')
+            .map((x) => Number.parseInt(x, 10));
+    }
+
     if (val.startsWith('-s=') || val.startsWith('--skip=')) {
         const value = val.slice(val.indexOf('=') + 1);
 
-        blacklist = value
+        excludedFilterIDs = value
             .split(',')
             .map((x) => Number.parseInt(x, 10));
     }
@@ -80,9 +89,14 @@ const main = async () => {
             } else {
                 filterId = filename.slice(0, -('.txt'.length));
             }
-            const fileNotExcluded = !blacklist.includes(Number.parseInt((filterId), 10));
+            const fileNotExcluded = excludedFilterIDs.length > 0
+                ? !excludedFilterIDs.includes(Number.parseInt((filterId), 10))
+                : true;
+            const fileIncluded = includedFilterIDs.length > 0
+                ? includedFilterIDs.includes(Number.parseInt((filterId), 10))
+                : true;
 
-            const res = fileInFiltersFolder && fileHasTxtExtension && fileNotExcluded;
+            const res = fileInFiltersFolder && fileHasTxtExtension && fileNotExcluded && fileIncluded;
 
             if (!res) {
                 console.log(`Skipped generating patch for: ${file}`);
