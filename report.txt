@@ -1,5 +1,5 @@
 
-FiltersCompiler report 12/26/2023 1:00:16 AM:
+FiltersCompiler report 12/26/2023 5:00:16 AM:
 
 Filter ID: 101
 Filter name: EasyList
@@ -27,7 +27,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 104
 Filter name: EasyList China
-Compiled rules: 18969
+Compiled rules: 18975
 Excluded rules: 52
 URL: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 INVALID RULES:
@@ -635,7 +635,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 250
 Filter name: Dandelion Sprout's Annoyances List
-Compiled rules: 32650
+Compiled rules: 32655
 Excluded rules: 46004
 URL: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList
 INVALID RULES:
@@ -22283,7 +22283,7 @@ Error: "$removeparam rules are not compatible with some other modifiers" in the 
 ---------------------------
 Filter ID: 251
 Filter name: Legitimate URL Shortener
-Compiled rules: 3769
+Compiled rules: 3771
 Excluded rules: 552
 URL: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
 INVALID RULES:
@@ -22404,7 +22404,7 @@ All rules are valid.
 ---------------------------
 Filter ID: 224
 Filter name: AdGuard Chinese filter
-Compiled rules: 22303
+Compiled rules: 22309
 Excluded rules: 50
 URL: https://filters.adtidy.org/extension/chromium/filters/224.txt
 INVALID RULES:
