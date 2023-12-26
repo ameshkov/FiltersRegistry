@@ -11,10 +11,11 @@ const {
 const { findFiles } = require('../utils/find_files');
 
 /**
- * Parse command-cli parameters -t|--time and -r|--resolution
+ * Parse command-cli parameters -t|--time, -r|--resolution, -i|--include and -s|--skip
  */
 let time = 60;
 let resolution = 'm';
+let blacklist = [];
 
 const args = process.argv.slice(2); // Get command line arguments
 args.forEach((val) => {
@@ -24,6 +25,14 @@ args.forEach((val) => {
 
     if (val.startsWith('-r=') || val.startsWith('--resolution=')) {
         resolution = val.slice(val.indexOf('=') + 1);
+    }
+
+    if (val.startsWith('-s=') || val.startsWith('--skip=')) {
+        const value = val.slice(val.indexOf('=') + 1);
+
+        blacklist = value
+            .split(',')
+            .map((x) => Number.parseInt(x, 10));
     }
 });
 
@@ -60,7 +69,21 @@ const main = async () => {
     // Find all new filter files
     const newFilterFiles = await findFiles(
         FOLDER_WITH_NEW_FILTERS,
-        (file) => file.includes('filters/') && file.endsWith('.txt')
+        (file) => {
+            const fileInFiltersFolder = file.includes('filters/');
+            const fileHasTxtExtension = file.endsWith('.txt');
+
+            const fileNameWithoutExtension = path.basename(file).slice(0, -('.txt'.length));
+            const fileNotExcluded = !blacklist.includes(fileNameWithoutExtension);
+
+            const res = fileInFiltersFolder && fileHasTxtExtension && fileNotExcluded;
+
+            if (!res) {
+                console.log(`Skipped generating patch for: ${file}`);
+            }
+
+            return res;
+        }
     );
 
     for (let i = 0; i < newFilterFiles.length; i += 1) {
