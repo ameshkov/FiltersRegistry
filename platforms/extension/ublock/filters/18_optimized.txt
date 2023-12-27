@@ -1,11 +1,11 @@
 ![Adblock Plus 2.0]
-! Checksum: 6Yvjun7nQIwPfdFbhXg1Eg
-! Diff-Path: ../patches/18_optimized/18_optimized-s-1703691351-3600.patch
+! Checksum: AAFk4lhCOhHTBp952dtUww
+! Diff-Path: ../patches/18_optimized/18_optimized-s-1703695022-3600.patch
 ! Title: AdGuard Cookie Notices filter (Optimized)
 ! Description: Blocks cookie notices on web pages.
 ! Version: 2.0.30.38
 ! TimeUpdated: 2023-12-27T15:31:35+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !#######################################################
 !######### General element hiding rules ################
 !#######################################################

@@ -1,10 +1,11 @@
 ![Adblock Plus 2.0]
-! Checksum: mL0g4p3ct8+6X7wLyN+xDQ
+! Checksum: M16FFNgCVsfJNvpRsK7wQQ
+! Diff-Path: ../patches/17_optimized/17_optimized-s-1703695022-3600.patch
 ! Title: AdGuard URL Tracking filter (Optimized)
 ! Description: Filter that enhances privacy by removing tracking parameters from URLs.
 ! Version: 2.0.7.65
 ! TimeUpdated: 2023-12-25T18:30:47+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 $removeparam=spot_im_redirect_source
 $removeparam=mt_link_id
 $removeparam=iclid

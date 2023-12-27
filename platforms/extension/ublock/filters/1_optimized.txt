@@ -1,11 +1,11 @@
 ![Adblock Plus 2.0]
-! Checksum: YVY1SR2XgXNrGx704yoUlA
-! Diff-Path: ../patches/1_optimized/1_optimized-s-1703669723-3600.patch
+! Checksum: mIAtRVTwrOgjlP5ZPrIbLQ
+! Diff-Path: ../patches/1_optimized/1_optimized-s-1703695022-3600.patch
 ! Title: AdGuard Russian filter (Optimized)
 ! Description: Filter that enables ad blocking on websites in Russian language.
 ! Version: 2.0.87.49
 ! TimeUpdated: 2023-12-27T09:31:36+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 /resources/js/sticker.js?$third-party
 .xml?v=3.0&external_subid=
 /esh-kichum.js

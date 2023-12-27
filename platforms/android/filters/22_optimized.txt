@@ -1,10 +1,10 @@
-! Checksum: UwebrqV2ktreZ/Qj0RnllA
-! Diff-Path: ../patches/22_optimized/22_optimized-s-1703662503-3600.patch
+! Checksum: HXUiIzOOYrA0fOj5RVpP4w
+! Diff-Path: ../patches/22_optimized/22_optimized-s-1703694973-3600.patch
 ! Title: AdGuard Widgets filter (Optimized)
 ! Description: Blocks annoying third-party widgets: online assistants, live support chats, etc.
 ! Version: 2.0.6.96
 ! TimeUpdated: 2023-12-27T07:31:45+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 #%#var AG_onLoad=function(func){if(document.readyState==="complete"||document.readyState==="interactive")func();else if(document.addEventListener)document.addEventListener("DOMContentLoaded",func);else if(document.attachEvent)document.attachEvent("DOMContentLoaded",func)};
 #%#var AG_removeElementById = function(id) { var element = document.getElementById(id); if (element && element.parentNode) { element.parentNode.removeChild(element); }};
 #%#var AG_removeElementBySelector = function(selector) { if (!document.querySelectorAll) { return; } var nodes = document.querySelectorAll(selector); if (nodes) { for (var i = 0; i < nodes.length; i++) { if (nodes[i] && nodes[i].parentNode) { nodes[i].parentNode.removeChild(nodes[i]); } } } };

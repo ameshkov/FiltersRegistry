@@ -1,10 +1,10 @@
-! Checksum: oTA9XRnWzL3JpQ7wr7ybTQ
-! Diff-Path: ../patches/7_optimized/7_optimized-s-1703617455-3600.patch
+! Checksum: 041/VYth6/61RkxpOELhHQ
+! Diff-Path: ../patches/7_optimized/7_optimized-s-1703694976-3600.patch
 ! Title: AdGuard Japanese filter (Optimized)
 ! Description: Filter that enables ad blocking on websites in Japanese language.
 ! Version: 2.0.47.6
 ! TimeUpdated: 2023-12-26T19:01:53+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 #%#var AG_onLoad=function(func){if(document.readyState==="complete"||document.readyState==="interactive")func();else if(document.addEventListener)document.addEventListener("DOMContentLoaded",func);else if(document.attachEvent)document.attachEvent("DOMContentLoaded",func)};
 #%#var AG_removeElementById = function(id) { var element = document.getElementById(id); if (element && element.parentNode) { element.parentNode.removeChild(element); }};
 #%#var AG_removeElementBySelector = function(selector) { if (!document.querySelectorAll) { return; } var nodes = document.querySelectorAll(selector); if (nodes) { for (var i = 0; i < nodes.length; i++) { if (nodes[i] && nodes[i].parentNode) { nodes[i].parentNode.removeChild(nodes[i]); } } } };

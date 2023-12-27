@@ -1,11 +1,11 @@
 ![Adblock Plus 2.0]
-! Checksum: XqBpm053LEeHckWHBZ/BQA
-! Diff-Path: ../patches/2_without_easylist/2_without_easylist-s-1703691354-3600.patch
+! Checksum: SWkMbEUuOE41dyTxe4X5lw
+! Diff-Path: ../patches/2_without_easylist/2_without_easylist-s-1703695025-3600.patch
 ! Title: AdGuard Base filter
 ! Description: This filter is necessary for quality ad blocking.
-! Version: 2.3.15.61
-! TimeUpdated: 2023-12-27T15:32:22+00:00
-! Expires: 4 days (update frequency)
+! Version: 2.3.15.62
+! TimeUpdated: 2023-12-27T16:32:23+00:00
+! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
 !
@@ -7501,9 +7501,7 @@ decrypt.day#$?#ins.adsbygoogle { height: 1px !important; }
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bloggingsathi.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/167075
 ! https://github.com/AdguardTeam/AdguardFilters/issues/164439
-@@||platform.bidgear.com/pubbidgear-ad.js$domain=infinityscans.xyz
-infinityscans.xyz##+js(abort-on-property-write, pubbidgeartag)
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=infinityscans.xyz
+@@||cdn.pubfuture-ad.com/v2/unit/pt.js$xmlhttprequest,domain=infinityscans.xyz
 ! https://github.com/AdguardTeam/AdguardFilters/issues/164348
 porn4f.com##+js(no-fetch-if, pagead2.googlesyndication.com)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/164396

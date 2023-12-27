@@ -1,10 +1,10 @@
-! Checksum: 07dPSwdwChTdh5sYCdyClg
-! Diff-Path: ../patches/20/20-s-1703691314-3600.patch
+! Checksum: V0xveXQ8RSri8jRFu4cD7A
+! Diff-Path: ../patches/20/20-s-1703694973-3600.patch
 ! Title: AdGuard Mobile App Banners filter
 ! Description: Blocks irritating banners that promote mobile apps of websites.
-! Version: 2.0.11.49
-! TimeUpdated: 2023-12-27T15:31:49+00:00
-! Expires: 4 days (update frequency)
+! Version: 2.0.11.50
+! TimeUpdated: 2023-12-27T16:31:50+00:00
+! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
 !
@@ -372,6 +372,7 @@ ulifestyle.com.hk##.modal-backdrop
 ulifestyle.com.hk###Open-appLink-banner
 three.com.hk##.download-footer
 app.diandian.com###__layout > div > div[class="box dd-base-color"]
+eksisozluk111.com#%#//scriptlet('set-cookie', 'app-suggestion', '1')
 myoji-yurai.net#?#a[href="https://play.google.com/store/apps/details?id=net.myoji_yurai.myojiOmikuji"]:upward(1)
 coolapk.com##.download-group
 e1.ru#?##record-header > div[class]:has(> div[class] > a[href^="https://redirect.appmetrica.yandex.com/"])

@@ -1,10 +1,10 @@
-! Checksum: Kb/XFpTsT6rT4nfHTRswuw
-! Diff-Path: ../patches/19/19-s-1703691340-3600.patch
+! Checksum: GH1NXns+pzOsbS2Vw6uuAw
+! Diff-Path: ../patches/19/19-s-1703695007-3600.patch
 ! Title: AdGuard Popups filter
 ! Description: Blocks all kinds of pop-ups that are not necessary for websites' operation.
 ! Version: 2.0.29.8
 ! TimeUpdated: 2023-12-27T15:31:38+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
 !

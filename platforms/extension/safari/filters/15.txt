@@ -1,10 +1,10 @@
-! Checksum: hDLWKNjVjiKipUiCo9exbA
-! Diff-Path: ../patches/15/15-s-1703680550-3600.patch
+! Checksum: QZsKax3mAiqpoKrbwxs7+Q
+! Diff-Path: ../patches/15/15-s-1703695014-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Version: 2.0.59.75
 ! TimeUpdated: 2023-12-27T12:31:25+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 !
 ! Title: AdGuard DNS filter

@@ -1,10 +1,10 @@
-! Checksum: ACWqQ0BrPm/tqmxif5s11w
-! Diff-Path: ../patches/1/1-s-1703669730-3600.patch
+! Checksum: 93WXd5J/Dm1TW9O/rZK37w
+! Diff-Path: ../patches/1/1-s-1703695034-3600.patch
 ! Title: AdGuard Russian filter
 ! Description: Filter that enables ad blocking on websites in Russian language.
 ! Version: 2.0.87.49
 ! TimeUpdated: 2023-12-27T09:31:36+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
 !

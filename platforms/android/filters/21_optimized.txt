@@ -1,10 +1,10 @@
-! Checksum: MJVJsLdVf2zB2rd68SAERA
-! Diff-Path: ../patches/21_optimized/21_optimized-s-1703691314-3600.patch
+! Checksum: ZKDXOTVttdTgjIDgVyunZQ
+! Diff-Path: ../patches/21_optimized/21_optimized-s-1703694973-3600.patch
 ! Title: AdGuard Other Annoyances filter (Optimized)
 ! Description: Blocks irritating elements on web pages that do not fall under the popular categories of annoyances.
-! Version: 2.0.18.20
-! TimeUpdated: 2023-12-27T15:31:50+00:00
-! Expires: 4 days (update frequency)
+! Version: 2.0.18.21
+! TimeUpdated: 2023-12-27T16:31:51+00:00
+! Expires: 5 days (update frequency)
 #%#var AG_onLoad=function(func){if(document.readyState==="complete"||document.readyState==="interactive")func();else if(document.addEventListener)document.addEventListener("DOMContentLoaded",func);else if(document.attachEvent)document.attachEvent("DOMContentLoaded",func)};
 #%#var AG_removeElementById = function(id) { var element = document.getElementById(id); if (element && element.parentNode) { element.parentNode.removeChild(element); }};
 #%#var AG_removeElementBySelector = function(selector) { if (!document.querySelectorAll) { return; } var nodes = document.querySelectorAll(selector); if (nodes) { for (var i = 0; i < nodes.length; i++) { if (nodes[i] && nodes[i].parentNode) { nodes[i].parentNode.removeChild(nodes[i]); } } } };
@@ -2252,6 +2252,7 @@ mirsmart.com.ua##div[class^="blockbaner"]
 opennet.ru##a[href^="/banners"]
 inc42.com##.plus-bottom-bar
 autoua.net##a[href="https://insurance.autoua.net/ru/osago/"]
+eksisozluk111.com##aside > iframe[src^="https://eksiseyler.com/sozluk/"]
 phonearena.com##.widgetOffers
 ||image.infoseek.rakuten.co.jp/content/MNO_banner/MNO_PC_300x125_$domain=news.infoseek.co.jp
 ||script.softcube.com^$domain=foxtrot.com.ua

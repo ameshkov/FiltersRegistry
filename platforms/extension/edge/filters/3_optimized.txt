@@ -1,10 +1,10 @@
-! Checksum: dJflc1mfsAbhBkRHRX3I5Q
-! Diff-Path: ../patches/3_optimized/3_optimized-s-1703691331-3600.patch
+! Checksum: AagyP5A6fPcBNxE8EefM1g
+! Diff-Path: ../patches/3_optimized/3_optimized-s-1703694996-3600.patch
 ! Title: AdGuard Tracking Protection filter (Optimized)
 ! Description: The most comprehensive list of various online counters and web analytics tools. Use this filter if you do not want your actions on the Internet to be tracked.
-! Version: 2.0.65.0
-! TimeUpdated: 2023-12-27T15:32:30+00:00
-! Expires: 4 days (update frequency)
+! Version: 2.0.65.1
+! TimeUpdated: 2023-12-27T16:32:32+00:00
+! Expires: 5 days (update frequency)
 #%#var AG_onLoad=function(func){if(document.readyState==="complete"||document.readyState==="interactive")func();else if(document.addEventListener)document.addEventListener("DOMContentLoaded",func);else if(document.attachEvent)document.attachEvent("DOMContentLoaded",func)};
 #%#var AG_removeElementById = function(id) { var element = document.getElementById(id); if (element && element.parentNode) { element.parentNode.removeChild(element); }};
 #%#var AG_removeElementBySelector = function(selector) { if (!document.querySelectorAll) { return; } var nodes = document.querySelectorAll(selector); if (nodes) { for (var i = 0; i < nodes.length; i++) { if (nodes[i] && nodes[i].parentNode) { nodes[i].parentNode.removeChild(nodes[i]); } } } };
@@ -74318,7 +74318,7 @@ _tracking.php?b=
 ||google-analytics.com/analytics.js$script,redirect=google-analytics,domain=~olx.*|~banki.ru|~bigc.co.th
 ||google-analytics.com/ga.js$script,redirect=google-analytics-ga,domain=~daj.jp
 ||googletagservices.com/tag/js/gpt.js$xmlhttprequest,script,redirect=googletagservices-gpt
-||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=~golf.com|~today.line.me|~inmuebles24.com|~inside.com.tw|~investing.com|~olx.com.eg|~heycar.co.uk
+||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=~golf.com|~today.line.me|~inmuebles24.com|~inside.com.tw|~investing.com|~olx.com.eg|~eksisozluk111.com|~heycar.co.uk
 .demdex.net/id^$redirect=nooptext,important
 ||omtrdc.net/id^$redirect=nooptext,important
 ||nd.demdex.net/event?d_mid=$redirect=nooptext,important,domain=9now.com.au

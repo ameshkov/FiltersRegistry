@@ -1,10 +1,10 @@
-! Checksum: wDpn3EqTJHVgoU+3zlbirQ
-! Diff-Path: ../patches/14/14-s-1703691317-3600.patch
+! Checksum: Lk+Lnh/MAez3T3GfkBDagg
+! Diff-Path: ../patches/14/14-s-1703694977-3600.patch
 ! Title: AdGuard Annoyances filter
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups. Contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets.
-! Version: 2.1.83.20
-! TimeUpdated: 2023-12-27T15:31:25+00:00
-! Expires: 4 days (update frequency)
+! Version: 2.1.83.21
+! TimeUpdated: 2023-12-27T16:31:25+00:00
+! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
 !
@@ -42073,6 +42073,7 @@ inc42.com##.plus-bottom-bar
 odiarioonline.com.br##.advertising-container
 autoua.net##a[href="https://insurance.autoua.net/ru/osago/"]
 filmora.wondershare.com##.wsc-seasonal-container
+eksisozluk111.com##aside > iframe[src^="https://eksiseyler.com/sozluk/"]
 revistapegn.globo.com###footerOgloboPianoId
 phonearena.com##.widgetOffers__disclaimer
 phonearena.com##.widgetOffers

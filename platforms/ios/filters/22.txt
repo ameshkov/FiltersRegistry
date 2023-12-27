@@ -1,10 +1,10 @@
-! Checksum: mrk1494XrgS4U2aBP6JD7g
-! Diff-Path: ../patches/22/22-s-1703662524-3600.patch
+! Checksum: IL2L6xrECAdIgF1f9zZTvw
+! Diff-Path: ../patches/22/22-s-1703695032-3600.patch
 ! Title: AdGuard Widgets filter
 ! Description: Blocks annoying third-party widgets: online assistants, live support chats, etc.
 ! Version: 2.0.6.96
 ! TimeUpdated: 2023-12-27T07:31:45+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
 !

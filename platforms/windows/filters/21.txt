@@ -1,9 +1,9 @@
-! Checksum: +t7q1I9qJwoL4do1mI1Ayg
-! Diff-Path: ../patches/21/21-s-1703691379-3600.patch
+! Checksum: DVfmJ7seM+zr6q6ArY3nbA
+! Diff-Path: ../patches/21/21-s-1703695049-3600.patch
 ! Title: AdGuard Other Annoyances filter
 ! Description: Blocks irritating elements on web pages that do not fall under the popular categories of annoyances.
-! Version: 2.0.18.20
-! TimeUpdated: 2023-12-27T15:31:50+00:00
+! Version: 2.0.18.21
+! TimeUpdated: 2023-12-27T16:31:51+00:00
 ! Expires: 12 hours (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -6458,6 +6458,7 @@ inc42.com##.plus-bottom-bar
 odiarioonline.com.br##.advertising-container
 autoua.net##a[href="https://insurance.autoua.net/ru/osago/"]
 filmora.wondershare.com##.wsc-seasonal-container
+eksisozluk111.com##aside > iframe[src^="https://eksiseyler.com/sozluk/"]
 revistapegn.globo.com###footerOgloboPianoId
 phonearena.com##.widgetOffers__disclaimer
 phonearena.com##.widgetOffers

@@ -1,11 +1,11 @@
 ![Adblock Plus 2.0]
-! Checksum: mAqsgA9iCE7zRxkeM36dyA
-! Diff-Path: ../patches/2_optimized/2_optimized-s-1703691353-3600.patch
+! Checksum: HXrr1kjcc+lWttJ+34hEbA
+! Diff-Path: ../patches/2_optimized/2_optimized-s-1703695024-3600.patch
 ! Title: AdGuard Base filter + EasyList (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.15.61
-! TimeUpdated: 2023-12-27T15:32:22+00:00
-! Expires: 4 days (update frequency)
+! Version: 2.3.15.62
+! TimeUpdated: 2023-12-27T16:32:23+00:00
+! Expires: 5 days (update frequency)
 ||bewathis.com^$all
 ||datatechone.com^$all
 ||rsgouhlbhfl.com^
@@ -1285,9 +1285,7 @@ fsicomics.com##+js(no-setTimeout-if, placebo.height())
 decrypt.day#$?#ins.adsbygoogle { height: 1px !important; }
 @@||static.doubleclick.net/instream/ad_status.js$domain=bloggingsathi.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bloggingsathi.com
-@@||platform.bidgear.com/pubbidgear-ad.js$domain=infinityscans.xyz
-infinityscans.xyz##+js(abort-on-property-write, pubbidgeartag)
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=infinityscans.xyz
+@@||cdn.pubfuture-ad.com/v2/unit/pt.js$xmlhttprequest,domain=infinityscans.xyz
 porn4f.com##+js(no-fetch-if, pagead2.googlesyndication.com)
 otlinks.xyz##+js(no-fetch-if, pagead2.googlesyndication.com)
 nabzclan.vip##+js(set-constant, adsbygoogle, {})

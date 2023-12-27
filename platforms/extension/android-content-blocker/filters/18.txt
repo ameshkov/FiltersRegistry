@@ -1,10 +1,10 @@
-! Checksum: TN8DAYLi0tkBxToyEhaGjQ
-! Diff-Path: ../patches/18/18-s-1703691318-3600.patch
+! Checksum: a5W2+u0mZi493AJSvV2bIA
+! Diff-Path: ../patches/18/18-s-1703694978-3600.patch
 ! Title: AdGuard Cookie Notices filter
 ! Description: Blocks cookie notices on web pages.
 ! Version: 2.0.30.38
 ! TimeUpdated: 2023-12-27T15:31:35+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
 !

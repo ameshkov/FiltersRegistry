@@ -1,9 +1,10 @@
-! Checksum: KxOWpbhtMYNAQ5ZSIvLv/w
+! Checksum: Jm9nobt3xESJ2DRQuFQsIg
+! Diff-Path: ../patches/5/5-s-1703694975-3600.patch
 ! Title: AdGuard Experimental filter
 ! Description: Filter designed to test certain hazardous filtering rules before they are added to the basic filters.
 ! Version: 2.0.1.25
 ! TimeUpdated: 2023-12-25T09:32:03+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
 !
