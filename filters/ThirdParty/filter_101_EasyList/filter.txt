@@ -1,8 +1,8 @@
 !
-! Checksum: xj5ePlVUtc56W8t7gqjz1g
-! OriginalVersion: 202312270851
+! Checksum: GwtBPI1uUsOOYLenh+GJBQ
+! OriginalVersion: 202312271251
 ! Title: EasyList
-! Last modified: 27 Dec 2023 08:51 UTC
+! Last modified: 27 Dec 2023 12:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21808,6 +21808,7 @@ browsershots.org#@#.advert_area
 ||atemoyaderider.com^
 ||atentherel.org^
 ||aterhouse.info^
+||aterhouseoyop.com^
 ||aterhouseoyop.info^
 ||atesbrotheres.com^
 ||atevaccination.com^
@@ -28516,6 +28517,7 @@ browsershots.org#@#.advert_area
 ||f7e5bf5ed8.com^
 ||f7e8aa0821.com^
 ||f8260adbf8558d6.com^
+||f83d8a9867.com^
 ||f853150605ccb.com^
 ||f8e36bb73c.com^
 ||f95nkry2nf8o.com^
@@ -29198,6 +29200,7 @@ browsershots.org#@#.advert_area
 ||fmsads.com^
 ||fmsde0dv2j54.com^
 ||fmstigat.online^
+||fmwzfwzxztu.com^
 ||fmxfboibrmbf.xyz^
 ||fmzjinez.com^
 ||fnbauniukvi.com^
@@ -29653,6 +29656,7 @@ browsershots.org#@#.advert_area
 ||futuredistracting.com^
 ||futureresiduals.com^
 ||futureus.com^
+||fuvmtqiwhaffnc.com^
 ||fuyytjuopkikl.com^
 ||fuzakumpaks.com^
 ||fuzeelamby.com^
@@ -31447,6 +31451,7 @@ browsershots.org#@#.advert_area
 ||holduporatory.com^
 ||holebnnjuom.xyz^
 ||holemanwasco.com^
+||holenhw.com^
 ||holict.com^
 ||hollekeamboina.com^
 ||hollowcharacter.com^
@@ -33441,6 +33446,7 @@ browsershots.org#@#.advert_area
 ||kdosimp.com^
 ||kdpnmlygyagyx.com^
 ||kdwuiulga.com^
+||kdxhsaaealyadm.com^
 ||keajs.com^
 ||keamateorski.xyz^
 ||keapeiros.xyz^
@@ -37097,6 +37103,7 @@ browsershots.org#@#.advert_area
 ||ntoftheusysia.info^
 ||ntoftheusysianedt.info^
 ||ntrfr.leovegas.com^
+||ntsiwoulukdli.org^
 ||ntsujfrvvabs.com^
 ||ntswithde.autos^
 ||ntuplay.xyz^
@@ -38011,6 +38018,7 @@ browsershots.org#@#.advert_area
 ||osspwamuhn.com^
 ||ossrhydonr.com^
 ||ossshucklean.com^
+||ossyfirecpo.com^
 ||ostazvtx.com^
 ||ostensibledressmaker.com^
 ||ostentatiousmystery.com^
@@ -40502,6 +40510,7 @@ browsershots.org#@#.advert_area
 ||qalscihrolwu.com^
 ||qambywkmlvyj.top^
 ||qamwm5o8dlgijte.com^
+||qaqqihlho.com^
 ||qarewien.com^
 ||qasrae.com^
 ||qatsbesagne.com^
@@ -48612,6 +48621,7 @@ browsershots.org#@#.advert_area
 ||wwwowww.xyz^
 ||wwwpromoter.com^
 ||wwwwndings.click^
+||wxaqazawxhjiz.com^
 ||wxcqdnf.com^
 ||wxejroeeteesr.com^
 ||wxhiojortldjyegtkx.bid^
@@ -48655,6 +48665,7 @@ browsershots.org#@#.advert_area
 ||xageyai.com^
 ||xaguturkuufyq.com^
 ||xahhhptqa.top^
+||xajqhrrrnxmy.com^
 ||xakfdicg.com^
 ||xalienstreamx.com^
 ||xameleonads.com^
@@ -49190,6 +49201,7 @@ browsershots.org#@#.advert_area
 ||yrhdmalrfr.com^
 ||yrinpvfw.com^
 ||yrkycfjq.com^
+||yrtfyeohmjdw.com^
 ||yrufmaimbhxxe.com^
 ||yrvzqabfxe.com^
 ||yscntxil.com^

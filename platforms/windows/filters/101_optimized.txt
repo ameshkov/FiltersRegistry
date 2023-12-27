@@ -1,9 +1,9 @@
-! Checksum: y91nJXMlpJO/iXSqhE8XOA
-! Diff-Path: ../patches/101_optimized/101_optimized-s-1703668005-14400.patch
+! Checksum: o99gxp1E/pO/q7In4VVcOg
+! Diff-Path: ../patches/101_optimized/101_optimized-s-1703682455-14400.patch
 ! Title: EasyList (Optimized)
 ! Description: EasyList is the primary subscription that removes adverts from web pages in English. Already included in AdGuard Base filter.
-! Version: 2.1.18.24
-! TimeUpdated: 2023-12-27T09:01:04+00:00
+! Version: 2.1.18.25
+! TimeUpdated: 2023-12-27T13:01:13+00:00
 ! Expires: 12 hours (update frequency)
 -ad-300x600-
 -ad-bottom-
@@ -11271,6 +11271,7 @@ browsershots.org#@#.advert_area
 ||atemda.com^
 ||atemoyaderider.com^
 ||atentherel.org^
+||aterhouseoyop.com^
 ||atevaccination.com^
 ||atgthkqt.com^
 ||athbzeobts.com^
@@ -14535,6 +14536,7 @@ browsershots.org#@#.advert_area
 ||f5v1x3kgv5.com^
 ||f63f3176ad.com^
 ||f78f9d3fc2.com^
+||f83d8a9867.com^
 ||f8e36bb73c.com^
 ||f9d38526cd.com^
 ||fa3f0c1e3f.com^
@@ -14890,6 +14892,7 @@ browsershots.org#@#.advert_area
 ||fmkqhwrfvs.com^
 ||fmorugnmnihrcv.com^
 ||fmpub.net^
+||fmwzfwzxztu.com^
 ||fmzjinez.com^
 ||fnbauniukvi.com^
 ||fnrrm2fn1njl1.com^
@@ -15145,6 +15148,7 @@ browsershots.org#@#.advert_area
 ||futilereposerefreshments.com^
 ||futureads.io^
 ||futureus.com^
+||fuvmtqiwhaffnc.com^
 ||fuyytjuopkikl.com^
 ||fuzakumpaks.com^
 ||fuzinghummaul.com^
@@ -16009,6 +16013,7 @@ browsershots.org#@#.advert_area
 ||hoisquit.buzz^
 ||holdsbracketsherry.com^
 ||holdsoutset.com^
+||holenhw.com^
 ||hollowcharacter.com^
 ||hollowgleamed.com^
 ||holmiumundried.com^
@@ -17031,6 +17036,7 @@ browsershots.org#@#.advert_area
 ||kbmcpatd.com^
 ||kdpnmlygyagyx.com^
 ||kdwuiulga.com^
+||kdxhsaaealyadm.com^
 ||keajs.com^
 ||keapeiros.xyz^
 ||kebyartopsman.website^
@@ -18837,6 +18843,7 @@ browsershots.org#@#.advert_area
 ||ntjmnyzwkpb.com^
 ||ntmemns.com^
 ||ntrfr.leovegas.com^
+||ntsiwoulukdli.org^
 ||ntsujfrvvabs.com^
 ||ntswithde.autos^
 ||ntuplay.xyz^
@@ -19261,6 +19268,7 @@ browsershots.org#@#.advert_area
 ||osspwamuhn.com^
 ||ossrhydonr.com^
 ||ossshucklean.com^
+||ossyfirecpo.com^
 ||ostazvtx.com^
 ||ostensibledressmaker.com^
 ||ostentatiousmystery.com^
@@ -20581,6 +20589,7 @@ browsershots.org#@#.advert_area
 ||qajwizsifaj.com^
 ||qakmlfdseuzfkz.com^
 ||qamwm5o8dlgijte.com^
+||qaqqihlho.com^
 ||qatsbesagne.com^
 ||qatttuluhog.com^
 ||qaydqvuzmu.com^
@@ -24631,6 +24640,7 @@ browsershots.org#@#.advert_area
 ||www6.hentai-zone.com^
 ||www8.upload-pics.com^
 ||wwwpromoter.com^
+||wxaqazawxhjiz.com^
 ||wxhiojortldjyegtkx.bid^
 ||wxmicgwfzqekj.com^
 ||wxseedslpi.com^
@@ -24650,6 +24660,7 @@ browsershots.org#@#.advert_area
 ||xad.com^
 ||xads.one^
 ||xadsmart.com^
+||xajqhrrrnxmy.com^
 ||xameleonads.com^
 ||xanawet.com^
 ||xapads.com^
@@ -24900,6 +24911,7 @@ browsershots.org#@#.advert_area
 ||yrcpsfqoyi.com^
 ||yrhdmalrfr.com^
 ||yrinpvfw.com^
+||yrtfyeohmjdw.com^
 ||yscntxil.com^
 ||ysesials.net^
 ||ytfezzava.com^

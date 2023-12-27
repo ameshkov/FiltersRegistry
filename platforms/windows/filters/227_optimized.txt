@@ -1,9 +1,9 @@
-! Checksum: Pd7DcXSxSfmLr4Fbg6kN3w
-! Diff-Path: ../patches/227_optimized/227_optimized-s-1703612029-14400.patch
+! Checksum: REiKoH0hQ/JpzZxG2bkzxQ
+! Diff-Path: ../patches/227_optimized/227_optimized-s-1703682458-14400.patch
 ! Title: List-KR (Optimized)
 ! Description: Filter that removes ads and various scripts from websites with Korean content. Combined and augmented with AdGuard-specific rules for enhanced filtering. This filter is expected to be used alongside with AdGuard Base filter.
-! Version: 2.0.17.20
-! TimeUpdated: 2023-12-26T15:17:35+00:00
+! Version: 2.0.17.21
+! TimeUpdated: 2023-12-27T13:02:12+00:00
 ! Expires: 12 hours (update frequency)
 ||ad1.missyusa.com^
 ||ads.motorgraph.com^
@@ -1417,6 +1417,9 @@ lol.ps##div[class*="ad-"]
 jobkorea.co.kr##div[id^="Banner"]
 eegosa.com##section[id*="_ads_"]
 sports.donga.com##div[id*="_AD"]
+buly.kr##.modal > #pop_modal
+search.danawa.com##li[style][id^="ad"]
+quasarzone.com##div[id^="bidrich_"][style*=" "]
 mobile.missyusa.com##.div_banner
 m.dcinside.com##*[class^="adv-group"]
 url.kr##form[method="post"] > #maskLayer
