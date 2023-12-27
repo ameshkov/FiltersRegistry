@@ -1,10 +1,10 @@
-! Checksum: 40dWi28JAUNTqehepaH9Yw
-! Diff-Path: ../patches/120_optimized/120_optimized-s-1703654053-14400.patch
+! Checksum: r100zKttAWkJIE9pxxLhcg
+! Diff-Path: ../patches/120_optimized/120_optimized-s-1703696752-14400.patch
 ! Title: AdBlockID (Optimized)
 ! Description: Additional filter list for websites in Indonesian.
 ! Version: 2.0.18.22
 ! TimeUpdated: 2023-12-27T05:01:12+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 .id^*/ads_$domain=~cartalog.id
 .id^*/adv-$domain=~adv.kompas.id
 .id^*/adv.$domain=~iklaninter.net|~ngiklan.gratis

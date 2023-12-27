@@ -1,10 +1,10 @@
-! Checksum: Rm9KPcqYgkyej0OIYWAoKw
-! Diff-Path: ../patches/242/242-s-1703612015-14400.patch
+! Checksum: h+IIK7/Fe4xJ49kuCUVbaQ
+! Diff-Path: ../patches/242/242-s-1703696822-14400.patch
 ! Title: NoCoin Filter List
 ! Description: This filter disables browser-based miners such as coin-hive.
 ! Version: 1.0.2.44
 ! TimeUpdated: 2023-09-13T21:01:54+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! Title: NoCoin Filter List
 ! Expires: 7 days (update frequency)

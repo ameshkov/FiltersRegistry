@@ -1,10 +1,10 @@
-! Checksum: ZOdQz8eSGLfF0PcDq627WA
-! Diff-Path: ../patches/237_optimized/237_optimized-s-1703612014-14400.patch
+! Checksum: hSzVgL51mjQIAnvmGxTv0Q
+! Diff-Path: ../patches/237_optimized/237_optimized-s-1703696822-14400.patch
 ! Title: Polish Annoyances Filters (Optimized)
 ! Description: Filter list that hides and blocks pop-ups, widgets, newsletters, push notifications, arrows, tagged internal links that are off-topic, and other irritating elements. Polish GDPR-Cookies Filters is already in it.
 ! Version: 1.0.30.43
 ! TimeUpdated: 2023-12-26T15:17:50+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 ||4prm.pl/*/4p_newsletter.jpg
 ||a-ajurweda.pl/images/layout/ajurweda/newsletter_ajurweda.png
 ||app2.salesmanago.pl/cf/*/zapis_na_newsletter_$subdocument

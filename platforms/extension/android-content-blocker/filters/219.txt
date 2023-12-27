@@ -1,10 +1,10 @@
-! Checksum: Y6KI6oUxv4WRnKx6O8o2iQ
-! Diff-Path: ../patches/219/219-s-1703611949-14400.patch
+! Checksum: Y2mxHmgp1d5ZumMbF8cQWA
+! Diff-Path: ../patches/219/219-s-1703696755-14400.patch
 ! Title: (Obsolete) ChinaList+EasyList
 ! Description: Adblocking list for China. Note that it does not actually include EasyList.
 ! Version: 2.0.22.16
 ! TimeUpdated: 2022-07-06T13:01:54+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! Checksum: vXO2skD37egAcrKzRVhe1A
 ! OriginalVersion: 202207061714

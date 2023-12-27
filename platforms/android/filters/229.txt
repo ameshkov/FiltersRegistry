@@ -1,10 +1,10 @@
-! Checksum: JFJn6hHjlwHEbmrPhafi4A
-! Diff-Path: ../patches/229/229-s-1703611942-14400.patch
+! Checksum: WIKCOF6sX/FcIXLt2QJ4/A
+! Diff-Path: ../patches/229/229-s-1703696747-14400.patch
 ! Title: I don't care about cookies
 ! Description: Hides annoying cookie warnings from almost all websites and saves you from unnecessary clicks.
 ! Version: 2.0.4.88
 ! TimeUpdated: 2023-12-14T09:01:36+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! OriginalVersion: 350.202311301133
 ! Title: I don't care about cookies

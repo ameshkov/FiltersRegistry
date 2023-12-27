@@ -1,10 +1,10 @@
-! Checksum: b5LyRVAaqQSH/qqeCkWt/g
-! Diff-Path: ../patches/254/254-s-1703611959-14400.patch
+! Checksum: eZyAe8ZsbPNNUqrKZLd55Q
+! Diff-Path: ../patches/254/254-s-1703696765-14400.patch
 ! Title: Macedonian adBlock Filters
 ! Description: Blocks ads and trackers on various Macedonian websites.
 ! Version: 2.0.0.6
 ! TimeUpdated: 2023-10-26T21:01:59+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! Title: Macedonian adBlock Filters
 ! Expires: 1 day

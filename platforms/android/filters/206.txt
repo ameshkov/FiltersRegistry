@@ -1,10 +1,10 @@
-! Checksum: t56pwwHngMWll5mUTTWFBQ
-! Diff-Path: ../patches/206/206-s-1703611940-14400.patch
+! Checksum: XuBlI6f4qrHG/c1IAPUxkA
+! Diff-Path: ../patches/206/206-s-1703696746-14400.patch
 ! Title: Xfiles
 ! Description: Italian adblock filter list.
 ! Version: 2.0.1.79
 ! TimeUpdated: 2023-12-19T05:01:03+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! Title: NoAds X Files
 ! OriginalVersion: 202312190205

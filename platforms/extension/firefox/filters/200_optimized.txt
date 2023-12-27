@@ -1,10 +1,10 @@
-! Checksum: Zo5hpWP3WZeN5NOsvbY9/g
-! Diff-Path: ../patches/200_optimized/200_optimized-s-1703611971-14400.patch
+! Checksum: TLjEFTfLxA1fSaLyeVAA8Q
+! Diff-Path: ../patches/200_optimized/200_optimized-s-1703696776-14400.patch
 ! Title: (Obsolete) ABP Japanese Filters (Optimized)
 ! Description: 日本語
 ! Version: 2.0.0.96
 ! TimeUpdated: 2021-05-26T13:01:22+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 @@.js?_t=pPc^$script,domain=map.yahoo.co.jp
 @@.mp4?*&affiliateid=
 @@/history/external/*$domain=amazon.ca|amazon.cn|amazon.co.jp|amazon.co.uk|amazon.com|amazon.de|amazon.es|amazon.fr|amazon.it

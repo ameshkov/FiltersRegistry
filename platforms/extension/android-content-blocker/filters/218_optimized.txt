@@ -1,10 +1,10 @@
-! Checksum: JaJUZYuajBNDGrecEcMdsg
-! Diff-Path: ../patches/218_optimized/218_optimized-s-1703611949-14400.patch
+! Checksum: vU4FJ1/CeDUETuy6e6jlbg
+! Diff-Path: ../patches/218_optimized/218_optimized-s-1703696754-14400.patch
 ! Title: Estonian List (Optimized)
 ! Description: Filter for ad blocking on Estonian sites.
 ! Version: 2.0.3.58
 ! TimeUpdated: 2023-12-02T13:01:14+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 ##A[href*="http://pay4results24.eu"]
 ##iframe[src*="cherrystatic.net"]
 ##iframe[src*="date.elu24.ee"]

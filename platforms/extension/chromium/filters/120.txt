@@ -1,10 +1,10 @@
-! Checksum: Sj0kx3St0/qltNTmsGyChg
-! Diff-Path: ../patches/120/120-s-1703654327-14400.patch
+! Checksum: aIPb5tBuLLHYs6qgrVjT5Q
+! Diff-Path: ../patches/120/120-s-1703696759-14400.patch
 ! Title: AdBlockID
 ! Description: Additional filter list for websites in Indonesian.
 ! Version: 2.0.18.22
 ! TimeUpdated: 2023-12-27T05:01:12+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! OriginalVersion: 23.12.51
 ! Title: AdBlockID

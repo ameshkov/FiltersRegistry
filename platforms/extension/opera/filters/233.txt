@@ -1,10 +1,10 @@
-! Checksum: yHJcmn52Nz/h/FoO3hUJPA
-! Diff-Path: ../patches/233/233-s-1703611982-14400.patch
+! Checksum: G9gxrwDd5OiHTrqa30KZ8g
+! Diff-Path: ../patches/233/233-s-1703696789-14400.patch
 ! Title: Adblock List for Finland
 ! Description: Finnish ad blocking filter list.
 ! Version: 2.0.10.75
 ! TimeUpdated: 2023-12-24T01:01:41+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! Title: Adblock List for Finland
 ! Description: Finnish adblock list

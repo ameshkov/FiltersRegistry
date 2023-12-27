@@ -1,10 +1,10 @@
-! Checksum: VG3v6IQnrYoedRd+K+B9rg
-! Diff-Path: ../patches/207_optimized/207_optimized-s-1703682391-14400.patch
+! Checksum: ivVXOH+4pgDSDTkWk2d9UQ
+! Diff-Path: ../patches/207_optimized/207_optimized-s-1703696746-14400.patch
 ! Title: Adblock Warning Removal List (Optimized)
 ! Description: Removes anti-adblock warnings and other obtrusive messages.
-! Version: 2.1.41.23
-! TimeUpdated: 2023-12-27T13:01:56+00:00
-! Expires: 4 days (update frequency)
+! Version: 2.1.41.24
+! TimeUpdated: 2023-12-27T17:01:54+00:00
+! Expires: 5 days (update frequency)
 /adb-watch.
 /adb_script/*
 /deadblocker/*

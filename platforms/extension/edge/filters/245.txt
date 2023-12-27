@@ -1,10 +1,10 @@
-! Checksum: 4OQDgwnOTDdwebRYel09Gg
-! Diff-Path: ../patches/245/245-s-1703611967-14400.patch
+! Checksum: HIt/kYrZoLuHbj/KJFv4eA
+! Diff-Path: ../patches/245/245-s-1703696772-14400.patch
 ! Title: (Obsolete) AlleBlock
 ! Description: Filter that removes annoying elements from Polish e-commerce sites.
 ! Version: 2.0.1.35
 ! TimeUpdated: 2021-08-18T21:01:55+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! Title: AlleBlock
 !

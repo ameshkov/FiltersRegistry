@@ -1,10 +1,10 @@
-! Checksum: I+5cx+ggF9onKeypzx0AUw
-! Diff-Path: ../patches/114_optimized/114_optimized-s-1703611985-14400.patch
+! Checksum: c5OzuEKObGs6zTEcFa4brA
+! Diff-Path: ../patches/114_optimized/114_optimized-s-1703696792-14400.patch
 ! Title: ROList (Optimized)
 ! Description: Additional filter list for websites in Romanian.
 ! Version: 2.0.1.28
 ! TimeUpdated: 2023-10-25T05:00:37+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 ||01.creativecdn.com^
 ||2mdn.net^
 ||7w.ro^

@@ -1,10 +1,10 @@
-! Checksum: SqAAyXd+pdhz7log7B5zvg
-! Diff-Path: ../patches/117_optimized/117_optimized-s-1703611986-14400.patch
+! Checksum: XFOwQb/iu3lsibZALwwxTg
+! Diff-Path: ../patches/117_optimized/117_optimized-s-1703696793-14400.patch
 ! Title: (Obsolete) Polskie Filtry Wewnętrzne (Optimized)
 ! Description: Polskie Filtry Wewnętrzne.
 ! Version: 1.0.5.22
 ! TimeUpdated: 2020-07-26T17:00:44+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 weszlo.com##.col-xs-12.col-md-4
 open.fm###download-box
 www.wprost.pl##.issues

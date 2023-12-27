@@ -1,10 +1,10 @@
-! Checksum: 0sPrf9j83kBaLBUCfP15xg
-! Diff-Path: ../patches/200/200-s-1703611955-14400.patch
+! Checksum: fefuY+Bnjb7j9hZKBYXq1Q
+! Diff-Path: ../patches/200/200-s-1703696760-14400.patch
 ! Title: (Obsolete) ABP Japanese Filters
 ! Description: 日本語
 ! Version: 2.0.0.96
 ! TimeUpdated: 2021-05-26T13:01:22+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! Homepage: https://github.com/k2jp/abp-japanese-filters/
 ! Title: ABP Japanese filters (ONLY FOR Japanese and experienced users: READ Support Policy)

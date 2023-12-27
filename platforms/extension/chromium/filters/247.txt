@@ -1,10 +1,10 @@
-! Checksum: R5Gj5WnK2AOwCW8uQ+ei+A
-! Diff-Path: ../patches/247/247-s-1703611959-14400.patch
+! Checksum: ztkz7oZsdehhUQocQDUB8w
+! Diff-Path: ../patches/247/247-s-1703696764-14400.patch
 ! Title: Polish Anti-Annoying Special Supplement
 ! Description: Filters that block and hide RSS elements and remnants of hidden newsletters combined with social elements on Polish websites.
 ! Version: 2.0.3.61
 ! TimeUpdated: 2023-12-20T01:01:46+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! Title: 🇵🇱 Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement

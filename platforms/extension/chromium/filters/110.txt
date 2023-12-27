@@ -1,10 +1,10 @@
-! Checksum: 110yThj9+7Vnt1T7KTljzw
-! Diff-Path: ../patches/110/110-s-1703611952-14400.patch
+! Checksum: qhUU2+ZUEh18Jr60kQAXwA
+! Diff-Path: ../patches/110/110-s-1703696758-14400.patch
 ! Title: EasyList Lithuania
 ! Description: Additional filter list for websites in Lithuanian.
 ! Version: 2.0.2.75
 ! TimeUpdated: 2023-12-07T05:00:38+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! Title: EasyList Lithuania
 ! Prisidėjo: Imre Kristoffer Eilertsen (Dandelion Sprout), iibett. (Anksčiau: Algimantas Margevičius, Mantas Malcius)

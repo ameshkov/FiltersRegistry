@@ -1,10 +1,10 @@
-! Checksum: aetGEKH11rQ2tUWxYFR4bA
-! Diff-Path: ../patches/210_optimized/210_optimized-s-1703612004-14400.patch
+! Checksum: vxZ+Au4YpfZ65v31HmLYGA
+! Diff-Path: ../patches/210_optimized/210_optimized-s-1703696811-14400.patch
 ! Title: (Obsolete) Spam404 (Optimized)
 ! Description: This filter protects you from online scams.
 ! Version: 2.0.2.44
 ! TimeUpdated: 2021-05-26T21:01:50+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 ##[href^="http://cleanfiles.net/"]
 ##[href^="https://cleanfiles.net/"]
 ##[href^="http://downloadity.net/"]

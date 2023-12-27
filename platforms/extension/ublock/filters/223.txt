@@ -1,11 +1,11 @@
-! Checksum: 3QUyQPNYV2BiV1YwrNAYdA
-! Diff-Path: ../patches/223/223-s-1703611997-14400.patch
 ![Adblock Plus 2.0]
+! Checksum: ZwNAH2IxerBGl8Zq/bAuCg
+! Diff-Path: ../patches/223/223-s-1703696804-14400.patch
 ! Title: (Obsolete) Fanboy's Swedish
 ! Description: Filter list for websites in Swedish.
 ! Version: 2.0.0.25
 ! TimeUpdated: 2020-10-13T12:45:24+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! Checksum: /MmL6dZPXvANlxK41jNcEQ
 ! Title: Fanboy's Swedish

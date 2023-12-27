@@ -1,10 +1,10 @@
-! Checksum: d6wDvFXI08bv1W/1cdO1hQ
-! Diff-Path: ../patches/209_optimized/209_optimized-s-1703611948-14400.patch
+! Checksum: AV4GCWYz5ZllE4zatr1yIQ
+! Diff-Path: ../patches/209_optimized/209_optimized-s-1703696754-14400.patch
 ! Title: (Obsolete) ADgk Mobile China list (Optimized)
 ! Description: Filter for Chinese mobile sites.
 ! Version: 2.0.0.18
 ! TimeUpdated: 2023-05-17T13:01:06+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 ||twlcyc.cn^
 dmhy.org###pkpk
 dmhy.org##div[id*="_ad"]

@@ -1,10 +1,10 @@
-! Checksum: sVcV2vN8TvBEcdN/E4W58w
-! Diff-Path: ../patches/116/116-s-1703611986-14400.patch
+! Checksum: 5HIbgkz4XqSy2YmEEtoscQ
+! Diff-Path: ../patches/116/116-s-1703696793-14400.patch
 ! Title: (Obsolete) Wiltteri
 ! Description: Finnish supplement list for EasyList
 ! Version: 1.0.1.71
 ! TimeUpdated: 2017-12-04T11:19:37+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 ! Checksum: Lth5fJb4oj9BquahidKRNg
 ! Title: Wiltteri
 ! Description: Finnish supplement list for EasyList

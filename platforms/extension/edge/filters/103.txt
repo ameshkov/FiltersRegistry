@@ -1,10 +1,10 @@
-! Checksum: kTNPNtMYzVpivFNVm+U5og
-! Diff-Path: ../patches/103/103-s-1703611960-14400.patch
+! Checksum: zkJ+PIFw5Ee2xvm+mCZdlQ
+! Diff-Path: ../patches/103/103-s-1703696766-14400.patch
 ! Title: Bulgarian list
 ! Description: Additional filter list for websites in Bulgarian.
 ! Version: 2.0.0.36
 ! TimeUpdated: 2023-12-06T08:45:57+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! Checksum: Isjvz+DRHav85u4htTx58w
 ! Title: Bulgarian adblock list

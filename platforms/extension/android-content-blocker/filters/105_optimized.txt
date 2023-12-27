@@ -1,10 +1,10 @@
-! Checksum: SqRrEGn+Xqf5IHgMV9fL5Q
-! Diff-Path: ../patches/105_optimized/105_optimized-s-1703611946-14400.patch
+! Checksum: kVNczgTuqGC4xoAjaYulEg
+! Diff-Path: ../patches/105_optimized/105_optimized-s-1703696751-14400.patch
 ! Title: EasyList Czech and Slovak (Optimized)
 ! Description: Additional filter list for websites in Czech and Slovak.
 ! Version: 2.0.2.61
 ! TimeUpdated: 2023-11-25T17:00:32+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 -reklama.
 .com/bannery/
 .cz/ads/

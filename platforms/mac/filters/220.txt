@@ -1,10 +1,10 @@
-! Checksum: HkAvQZ40XOKE74yUfKi7Xw
-! Diff-Path: ../patches/220/220-s-1703612012-14400.patch
+! Checksum: x4ODLHVeJtRJOxw8ev5NMw
+! Diff-Path: ../patches/220/220-s-1703696820-14400.patch
 ! Title: CJX's Annoyances List
 ! Description: Supplement for EasyList China+EasyList and EasyPrivacy.
 ! Version: 2.0.5.42
 ! TimeUpdated: 2023-12-24T05:01:11+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! OriginalVersion: 202312241217
 ! Title: CJX's Annoyance List

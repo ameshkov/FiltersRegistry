@@ -1,11 +1,11 @@
 ![Adblock Plus 2.0]
-! Checksum: IUnu3mZTJmO4Q31HseJZFg
-! Diff-Path: ../patches/108/108-s-1703655712-14400.patch
+! Checksum: joe/4bRiWhfoxr4fjmmK0w
+! Diff-Path: ../patches/108/108-s-1703696800-14400.patch
 ! Title: EasyList Hebrew
 ! Description: Additional filter list for websites in Hebrew.
 ! Version: 2.0.4.52
 ! TimeUpdated: 2023-12-27T05:01:01+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! Checksum: ZfY5gl0fXggEGqg8MIdYrA
 ! Title: EasyList Hebrew

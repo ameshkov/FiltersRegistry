@@ -1,10 +1,10 @@
-! Checksum: nX98EDh1lhFre1kyTnuVLw
-! Diff-Path: ../patches/205/205-s-1703611948-14400.patch
+! Checksum: JMZ504yAW9r1fyLQCaEBQg
+! Diff-Path: ../patches/205/205-s-1703696754-14400.patch
 ! Title: (Obsolete) Schacks Adblock Plus liste
 ! Description: dansk
 ! Version: 2.0.0.31
 ! TimeUpdated: 2020-10-13T12:44:48+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! Homepage: https://henrik.schack.dk/adblock/
 ! Title: Schacks Adblock Plus liste

@@ -1,10 +1,10 @@
-! Checksum: wqVpBxRSC61VxkYCE0fnfA
-! Diff-Path: ../patches/234_optimized/234_optimized-s-1703612014-14400.patch
+! Checksum: tEtUPNY4kLsuatRBobtvXg
+! Diff-Path: ../patches/234_optimized/234_optimized-s-1703696821-14400.patch
 ! Title: ROLIST2 (Optimized)
 ! Description: This is a complementary list for ROList with annoyances that are not necessarily banners. It is a very aggressive list and not recommended for beginners.
 ! Version: 2.0.0.71
 ! TimeUpdated: 2023-09-28T09:01:32+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 @@||autovitro-statics.akamaized.net/statics-autovitro/naspersclassifieds-regional/verticals-cars-atlas-web-autovitro/static/img/favicon.ico
 @@||autovitro-staticstmp.akamaized.net/naspersclassifieds-regional/verticals-cars-atlas-web-autovitro/static/img/favicon.ico
 @@||cdn1.shopmania.biz/files/s9/621751395/favicon.ico

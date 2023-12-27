@@ -1,11 +1,11 @@
 ![Adblock Plus 2.0]
-! Checksum: C1dqMVUIcdm/a1KTW8gYKQ
-! Diff-Path: ../patches/253_optimized/253_optimized-s-1703682439-14400.patch
+! Checksum: c4ftgtOk8nGWbO7utghVSQ
+! Diff-Path: ../patches/253_optimized/253_optimized-s-1703696807-14400.patch
 ! Title: IndianList (Optimized)
 ! Description: Additional filter list for websites in Hindi, Tamil and other Dravidian and Indic languages.
-! Version: 2.0.34.55
-! TimeUpdated: 2023-12-27T13:03:01+00:00
-! Expires: 4 days (update frequency)
+! Version: 2.0.34.56
+! TimeUpdated: 2023-12-27T17:02:53+00:00
+! Expires: 5 days (update frequency)
 -ad-mob
 -ad-space-
 -advt-

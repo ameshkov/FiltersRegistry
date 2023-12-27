@@ -1,11 +1,11 @@
-! Checksum: c6toD+pHnXq8gG1pu/8CIw
-! Diff-Path: ../patches/228_optimized/228_optimized-s-1703611997-14400.patch
 ![Adblock Plus 2.0]
+! Checksum: iTKxZs6uONK01A/MfJbPZg
+! Diff-Path: ../patches/228_optimized/228_optimized-s-1703696804-14400.patch
 ! Title: xinggsf (Optimized)
 ! Description: Blocks ads on the Chinese video platforms (MangoTV, DouYu and others).
 ! Version: 2.0.2.54
 ! TimeUpdated: 2023-12-26T15:17:36+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 @@||bdstatic.com/static/common/widget/ui/admanager/$script,domain=image.baidu.com
 ||cpro.$domain=~baidu.com
 ada.baidu.com

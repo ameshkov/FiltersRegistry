@@ -1,10 +1,10 @@
-! Checksum: /WwClMVxbKFWuXj0qvwhzA
-! Diff-Path: ../patches/203/203-s-1703612003-14400.patch
+! Checksum: 12lDw60A9V7hFJJaz846MQ
+! Diff-Path: ../patches/203/203-s-1703696811-14400.patch
 ! Title: Hungarian filter
 ! Description: Hufilter. Filter list that specifically removes ads on websites in the Hungarian language.
 ! Version: 2.0.2.70
 ! TimeUpdated: 2023-12-19T13:01:00+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! Checksum: BMDfwS+ViLNuGfU9VxoBEA
 ! OriginalVersion: 202312191000

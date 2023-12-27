@@ -1,10 +1,10 @@
-! Checksum: 6eqFpXyMSd01qS/ox6SGlQ
-! Diff-Path: ../patches/119_optimized/119_optimized-s-1703611970-14400.patch
+! Checksum: 4cgWSykfMOoogoFyZp4wUQ
+! Diff-Path: ../patches/119_optimized/119_optimized-s-1703696775-14400.patch
 ! Title: Icelandic ABP List (Optimized)
 ! Description: Additional filter list for websites in Icelandic.
 ! Version: 2.0.0.13
 ! TimeUpdated: 2022-11-21T17:00:48+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 .is/ads/
 .is/augl/
 .is/*/augl/

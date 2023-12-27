@@ -1,10 +1,10 @@
-! Checksum: Tj+2WK6FhZMJXpY3YVmP8g
-! Diff-Path: ../patches/108_optimized/108_optimized-s-1703654327-14400.patch
+! Checksum: s+uNmGtCSSZ47xiu2jxZ6w
+! Diff-Path: ../patches/108_optimized/108_optimized-s-1703696758-14400.patch
 ! Title: EasyList Hebrew (Optimized)
 ! Description: Additional filter list for websites in Hebrew.
 ! Version: 2.0.4.52
 ! TimeUpdated: 2023-12-27T05:01:01+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 ||213.8.137.51^
 ||activated.co.il^$third-party
 ||activetrail.biz^$third-party

@@ -1,11 +1,11 @@
 ![Adblock Plus 2.0]
-! Checksum: K8DLV9UFvScPn6R6S0PGEg
-! Diff-Path: ../patches/208_optimized/208_optimized-s-1703682437-14400.patch
+! Checksum: vrBMT64LKO6ZYl/y1YOLYQ
+! Diff-Path: ../patches/208_optimized/208_optimized-s-1703696803-14400.patch
 ! Title: Online Malicious URL Blocklist (Optimized)
 ! Description: Blocks domains that are known to be used to propagate malware and spyware.
 ! Version: 2.0.93.82
 ! TimeUpdated: 2023-12-27T13:01:57+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 ||1.41.113.39$all
 ||1.64.232.214$all
 ||1.69.106.220$all

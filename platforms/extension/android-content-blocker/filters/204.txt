@@ -1,10 +1,10 @@
-! Checksum: 4MI8BemmzOwjQlwQpn5zkw
-! Diff-Path: ../patches/204/204-s-1703654054-14400.patch
+! Checksum: NMHDdkmZs/oHQmGj0Q2jeQ
+! Diff-Path: ../patches/204/204-s-1703696754-14400.patch
 ! Title: Peter Lowe's Blocklist
 ! Description: Filter that blocks ads, trackers, and other nasty things.
 ! Version: 2.0.13.23
 ! TimeUpdated: 2023-12-27T05:01:28+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 !Blocklist for use with Adblock Plus. Use the following URL to add
 !AdBlock Plus:

@@ -1,10 +1,10 @@
-! Checksum: agBIaH4B1g8NvXFT2/goLg
-! Diff-Path: ../patches/222_optimized/222_optimized-s-1703612005-14400.patch
+! Checksum: AosWQX+XUyQ7TJF0JSU4Rg
+! Diff-Path: ../patches/222_optimized/222_optimized-s-1703696812-14400.patch
 ! Title: (Obsolete) Adblock-Persian list (Optimized)
 ! Description: Persian ad blocking filter list.
 ! Version: 2.0.0.34
 ! TimeUpdated: 2021-08-13T17:01:22+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 @@-230x230.$domain=songsara.net
 @@||gamepedia.com/load.php?
 .ir/baner

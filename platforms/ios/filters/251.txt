@@ -1,10 +1,10 @@
-! Checksum: u/TQpReGj4UxljM5mfIhQA
-! Diff-Path: ../patches/251/251-s-1703682444-14400.patch
+! Checksum: azAJ/E3Oo7WmFrgt7/hNiw
+! Diff-Path: ../patches/251/251-s-1703696815-14400.patch
 ! Title: Legitimate URL Shortener
 ! Description: Automatically removes unnecessary '$' and '&' values from URLs, making them easier to copy from the URL bar and pasting elsewhere as links.
 ! Version: 2.0.7.18
 ! TimeUpdated: 2023-12-27T13:02:57+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! Title: ➗ Actually Legitimate URL Shortener Tool
 ! OriginalVersion: 27December2023v1

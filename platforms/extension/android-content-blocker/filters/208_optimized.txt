@@ -1,7 +1,7 @@
-! Checksum: oNdQ5JOPKQTT172tOe3wZA
-! Diff-Path: ../patches/208_optimized/208_optimized-s-1703682399-14400.patch
+! Checksum: CMN/eBnTr5XIdN6uWK43NA
+! Diff-Path: ../patches/208_optimized/208_optimized-s-1703696754-14400.patch
 ! Title: Online Malicious URL Blocklist (Optimized)
 ! Description: Blocks domains that are known to be used to propagate malware and spyware.
 ! Version: 2.0.93.82
 ! TimeUpdated: 2023-12-27T13:01:57+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)

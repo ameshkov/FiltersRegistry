@@ -1,10 +1,10 @@
-! Checksum: 1Nz437nJdJ4FPO5VMEaqng
-! Diff-Path: ../patches/210/210-s-1703611955-14400.patch
+! Checksum: 4jlpEHq1N3GmhhILSD2Oog
+! Diff-Path: ../patches/210/210-s-1703696761-14400.patch
 ! Title: (Obsolete) Spam404
 ! Description: This filter protects you from online scams.
 ! Version: 2.0.2.44
 ! TimeUpdated: 2021-05-26T21:01:50+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404

@@ -1,10 +1,10 @@
-! Checksum: sl6MFIRnDKamhjAwd1BbsQ
-! Diff-Path: ../patches/235/235-s-1703611974-14400.patch
+! Checksum: oP6tdporY8m7rPF7s/q0yg
+! Diff-Path: ../patches/235/235-s-1703696781-14400.patch
 ! Title: Persian Blocker
 ! Description: Filter list for blocking ads and trackers on websites in Persian.
 ! Version: 2.0.3.98
 ! TimeUpdated: 2023-12-26T09:01:36+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! Title: PersianBlocker
 ! Description: سرانجام، یک لیست بهینه و گسترده برای مسدودسازی تبلیغ ها و ردیاب ها در سایت های پارسی زبان!

@@ -1,10 +1,10 @@
-! Checksum: Ggw2+uYMt0lToQ7IxsESWQ
-! Diff-Path: ../patches/216_optimized/216_optimized-s-1703611956-14400.patch
+! Checksum: f4vWcQq1SMXCnYS39CRrsw
+! Diff-Path: ../patches/216_optimized/216_optimized-s-1703696761-14400.patch
 ! Title: Official Polish filters for AdBlock, uBlock Origin & AdGuard (Optimized)
 ! Description: Additional filter list for websites in Polish.
 ! Version: 2.0.15.15
 ! TimeUpdated: 2023-12-25T13:01:12+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 ##a[href*="techmaniak.pl/www/gact/ckk.php"]
 .*sales*.pl/offers/$image
 */files/rek/$image,domain=siechnice.com.pl|rybnik.com.pl|tuwodzislaw.pl

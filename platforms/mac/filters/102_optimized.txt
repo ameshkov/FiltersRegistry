@@ -1,10 +1,10 @@
-! Checksum: szeioaLjGPgB2Q8SMEscGg
-! Diff-Path: ../patches/102_optimized/102_optimized-s-1703656132-14400.patch
+! Checksum: yFpUJxx09EdlbfS8hZKUIg
+! Diff-Path: ../patches/102_optimized/102_optimized-s-1703696815-14400.patch
 ! Title: ABPindo (Optimized)
 ! Description: Additional filter list for websites in Indonesian.
 ! Version: 2.0.6.43
 ! TimeUpdated: 2023-12-27T05:00:52+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 ||188affiliates.com^$third-party
 ||accesstrade.co.id^$third-party
 ||ad-loupe.com^$third-party

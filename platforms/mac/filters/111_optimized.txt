@@ -1,10 +1,10 @@
-! Checksum: AyDesGl8gl0Akfpgv9qYog
-! Diff-Path: ../patches/111_optimized/111_optimized-s-1703612009-14400.patch
+! Checksum: FcpnLa8uVbJXv9+wXtW1Mw
+! Diff-Path: ../patches/111_optimized/111_optimized-s-1703696816-14400.patch
 ! Title: Latvian List (Optimized)
 ! Description: Additional filter list for websites in Latvian.
 ! Version: 2.0.0.56
 ! TimeUpdated: 2023-02-10T13:00:38+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 .lv/ads/
 .lv/banners/
 .lv/images/banners/$third-party

@@ -1,10 +1,10 @@
-! Checksum: Y9zIyOld/gw5qqV7byQIvg
-! Diff-Path: ../patches/121/121-s-1703612002-14400.patch
+! Checksum: 4oAPHNawwJX1a7iA11U7WQ
+! Diff-Path: ../patches/121/121-s-1703696809-14400.patch
 ! Title: Greek AdBlock Filter
 ! Description: Additional filter list for websites in Greek.
 ! Version: 2.0.0.90
 ! TimeUpdated: 2023-12-24T21:00:49+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! Title: Greek AdBlock Filter
 ! OriginalVersion: 2023112600

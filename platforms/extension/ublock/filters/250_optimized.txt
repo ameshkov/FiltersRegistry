@@ -1,11 +1,11 @@
 ![Adblock Plus 2.0]
-! Checksum: 6WgUi03tbArZf/MUIIXScQ
-! Diff-Path: ../patches/250_optimized/250_optimized-s-1703682439-14400.patch
+! Checksum: oAVtx+2lFS60b/5kbakTJQ
+! Diff-Path: ../patches/250_optimized/250_optimized-s-1703696806-14400.patch
 ! Title: Dandelion Sprout's Annoyances List (Optimized)
 ! Description: This list is made in the style of AdGuard's and Fanboy's annoyances lists. It combines many of Dandelion Sprout's proudest and most frequently maintained international lists, as a curated compilation for simplicity's sake.
 ! Version: 2.0.12.82
 ! TimeUpdated: 2023-12-27T13:02:57+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 ###smart-banner
 ###smartbanner
 ##.app-banner:not(html, body)

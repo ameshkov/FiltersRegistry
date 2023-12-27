@@ -1,10 +1,10 @@
-! Checksum: 9FATry/2XAjlg2gqpkfbzA
-! Diff-Path: ../patches/215/215-s-1703611941-14400.patch
+! Checksum: 9QZsDY0IMLtJESRgeTezLw
+! Diff-Path: ../patches/215/215-s-1703696747-14400.patch
 ! Title: Fanboy's Enhanced Tracking List
 ! Description: Blocks common tracking scripts such as Omniture, Webtrends, Foresee, Coremetrics, Google Analytics, Touch Clarity and Channel Intelligence.
 ! Version: 2.0.4.70
 ! TimeUpdated: 2023-11-06T13:01:09+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! Checksum: 1JeRnRcun8N01nsYcbZp3Q
 ! Title: Fanboy's Enhanced Tracking List

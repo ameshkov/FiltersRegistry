@@ -1,10 +1,10 @@
-! Checksum: 1f+2dvto/2vtiCfx5ye/Jw
-! Diff-Path: ../patches/201/201-s-1703611963-14400.patch
+! Checksum: aB9865W9sx+Z26GOre1x6g
+! Diff-Path: ../patches/201/201-s-1703696768-14400.patch
 ! Title: (Obsolete) Web Annoyances Ultralist
 ! Description: Blocks annoying web elements and reclaims lost screen real estate.
 ! Version: 1.0.8.71
 ! TimeUpdated: 2023-06-16T21:01:02+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! Title: Web Annoyances Ultralist
 ! Last Modified: 15:21 2023-06-16

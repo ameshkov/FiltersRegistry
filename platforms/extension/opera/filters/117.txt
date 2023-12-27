@@ -1,10 +1,10 @@
-! Checksum: 1mHC5JOcCjN2xe0eFhOZ+g
-! Diff-Path: ../patches/117/117-s-1703611977-14400.patch
+! Checksum: fYmz5shLm42JBMhcHdhFBg
+! Diff-Path: ../patches/117/117-s-1703696785-14400.patch
 ! Title: (Obsolete) Polskie Filtry Wewnętrzne
 ! Description: Polskie Filtry Wewnętrzne.
 ! Version: 1.0.5.22
 ! TimeUpdated: 2020-07-26T17:00:44+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! Checksum: bggctu82ahaJGVSTzqUXLQ
 ! Title: Polskie Filtry Wewnętrzne

@@ -1,10 +1,10 @@
-! Checksum: C+ZLl9vsXry2hRtm/e983g
-! Diff-Path: ../patches/119/119-s-1703611986-14400.patch
+! Checksum: Qv/a5KkvDjscj3+26TFtFA
+! Diff-Path: ../patches/119/119-s-1703696793-14400.patch
 ! Title: Icelandic ABP List
 ! Description: Additional filter list for websites in Icelandic.
 ! Version: 2.0.0.13
 ! TimeUpdated: 2022-11-21T17:00:48+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! [Icelandic ABP List]
 ! Adblock listi fyrir íslenskar vefsíður / Adblock list for icelandic websites

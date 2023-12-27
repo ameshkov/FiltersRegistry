@@ -1,10 +1,10 @@
-! Checksum: bV8Ue/h3TlMrGLRPe7sw4w
-! Diff-Path: ../patches/102/102-s-1703655996-14400.patch
+! Checksum: yQ2A19BYUbA1hJFhqemk6Q
+! Diff-Path: ../patches/102/102-s-1703696815-14400.patch
 ! Title: ABPindo
 ! Description: Additional filter list for websites in Indonesian.
 ! Version: 2.0.6.43
 ! TimeUpdated: 2023-12-27T05:00:52+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! OriginalVersion: 202312262357
 ! Title: ABPindo

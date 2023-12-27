@@ -1,10 +1,10 @@
-! Checksum: Bfeok9/avTiV6XPFJe0NBA
-! Diff-Path: ../patches/103_optimized/103_optimized-s-1703611976-14400.patch
+! Checksum: CpBikaPqRsFUdcO4zK/fOw
+! Diff-Path: ../patches/103_optimized/103_optimized-s-1703696783-14400.patch
 ! Title: Bulgarian list (Optimized)
 ! Description: Additional filter list for websites in Bulgarian.
 ! Version: 2.0.0.36
 ! TimeUpdated: 2023-12-06T08:45:57+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 AdsClick.php?AdsID=
 BannerClick.aspx?ID=
 /bannerscstm/*

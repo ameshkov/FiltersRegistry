@@ -1,10 +1,10 @@
-! Checksum: Fbn5i2u5ced6SMIx80FFJw
-! Diff-Path: ../patches/114/114-s-1703611953-14400.patch
+! Checksum: J1u5SSeQ0DywRoi2xxtICw
+! Diff-Path: ../patches/114/114-s-1703696758-14400.patch
 ! Title: ROList
 ! Description: Additional filter list for websites in Romanian.
 ! Version: 2.0.1.28
 ! TimeUpdated: 2023-10-25T05:00:37+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! Title: ROLIST - Romanian Adblock List
 ! Original list, by Menetz, was handed over to Zoso to host and maintain.

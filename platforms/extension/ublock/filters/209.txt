@@ -1,11 +1,11 @@
-! Checksum: LxNKL9pLnsXKQQ7xT0x7Vg
-! Diff-Path: ../patches/209/209-s-1703611996-14400.patch
 ![Adblock Plus 2.0]
+! Checksum: RiHztECXtOeehzJwY6Lglw
+! Diff-Path: ../patches/209/209-s-1703696803-14400.patch
 ! Title: (Obsolete) ADgk Mobile China list
 ! Description: Filter for Chinese mobile sites.
 ! Version: 2.0.0.18
 ! TimeUpdated: 2023-05-17T13:01:06+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! OriginalVersion: 20230323162617
 ! Title: adgk手机去广告规则

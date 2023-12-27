@@ -1,10 +1,10 @@
-! Checksum: MTX/raMaBdHz8WUBrtVkDw
-! Diff-Path: ../patches/230/230-s-1703611973-14400.patch
+! Checksum: VqUY4D3iWnQooV72QbsNMQ
+! Diff-Path: ../patches/230/230-s-1703696780-14400.patch
 ! Title: (Obsolete) Fanboy's Spanish/Portuguese
 ! Description: Filter list for websites in Spanish and Portuguese
 ! Version: 2.0.0.27
 ! TimeUpdated: 2020-10-13T12:45:38+00:00
-! Expires: 4 days (update frequency)
+! Expires: 5 days (update frequency)
 !
 ! Checksum: lzM2KsghXtIcyGCcagm8qQ
 ! Title: Fanboy's Spanish/Portuguese
