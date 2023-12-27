@@ -1,9 +1,9 @@
-! Checksum: fXtj/fHI1nOHSoULbJcxsw
-! Diff-Path: ../patches/18/18-s-1703698506-3600.patch
+! Checksum: H1hd3C2RQXiaC4sO5IVzSQ
+! Diff-Path: ../patches/18/18-s-1703705701-3600.patch
 ! Title: AdGuard Cookie Notices filter
 ! Description: Blocks cookie notices on web pages.
-! Version: 2.0.30.39
-! TimeUpdated: 2023-12-27T17:31:25+00:00
+! Version: 2.0.30.40
+! TimeUpdated: 2023-12-27T19:31:21+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -12971,6 +12971,9 @@ adguard.info,adguard.com,adguard.app##.hello_from_adguard_annoyances_cookies
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/169393
+@@||app.usercentrics.eu/browser-ui/$domain=wohnglueck.de
+@@||api.usercentrics.eu/settings/$domain=wohnglueck.de
 ! https://github.com/easylist/easylist/pull/18111
 @@||cdn.cookielaw.org^$domain=mesta.net
 mesta.net#@##onetrust-consent-sdk
