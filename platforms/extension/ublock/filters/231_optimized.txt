@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: sYVgtYtNG+DdIM/BBauFQA
-! Diff-Path: ../patches/231_optimized/231_optimized-s-1703624766-14400.patch
+! Checksum: FlxweZi6jO3G4mJeL9ojUA
+! Diff-Path: ../patches/231_optimized/231_optimized-s-1703655715-14400.patch
 ! Title: EasyList Spanish (Optimized)
 ! Description: Additional filter list for websites in Spanish.
-! Version: 2.1.41.21
-! TimeUpdated: 2023-12-26T21:02:11+00:00
+! Version: 2.1.41.22
+! TimeUpdated: 2023-12-27T05:01:52+00:00
 ! Expires: 4 days (update frequency)
 /banner-publicidad-
 /234x60.php

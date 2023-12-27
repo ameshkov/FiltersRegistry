@@ -1,16 +1,16 @@
 ![Adblock Plus 2.0]
-! Checksum: 7ov+8lOSCDPYXCrLkw5JuQ
-! Diff-Path: ../patches/246/246-s-1703624767-14400.patch
+! Checksum: NfInqeIbjqiJJzHb3vFPJQ
+! Diff-Path: ../patches/246/246-s-1703655716-14400.patch
 ! Title: EasyList Polish
 ! Description: Additional filter list for websites in Polish.
-! Version: 2.1.37.27
-! TimeUpdated: 2023-12-26T21:02:33+00:00
+! Version: 2.1.37.28
+! TimeUpdated: 2023-12-27T05:02:13+00:00
 ! Expires: 4 days (update frequency)
 !
-! Checksum: fewlddeqbWCHc9s/rVFinQ
-! OriginalVersion: 202312262051
+! Checksum: X4uhPathOoJYMU/3q5WNsQ
+! OriginalVersion: 202312270451
 ! Title: EasyList Polish
-! Last modified: 26 Dec 2023 20:51 UTC
+! Last modified: 27 Dec 2023 04:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
