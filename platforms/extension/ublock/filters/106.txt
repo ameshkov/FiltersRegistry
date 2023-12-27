@@ -1,16 +1,16 @@
 ![Adblock Plus 2.0]
-! Checksum: sjhw6mC0nH5rFo0/YajIyg
-! Diff-Path: ../patches/106/106-s-1703696799-14400.patch
+! Checksum: /UyzV0139y/QPwmRwWPnIw
+! Diff-Path: ../patches/106/106-s-1703711156-14400.patch
 ! Title: EasyList Dutch
 ! Description: Additional filter list for websites in Dutch. Already included in AdGuard Dutch filter.
-! Version: 2.1.41.23
-! TimeUpdated: 2023-12-27T17:01:22+00:00
+! Version: 2.1.41.24
+! TimeUpdated: 2023-12-27T21:01:10+00:00
 ! Expires: 5 days (update frequency)
 !
-! Checksum: vGMYBP5OmkISmesWpbcHWw
-! OriginalVersion: 202312271651
+! Checksum: TZVdV0j1mirMVFJHEQWPMg
+! OriginalVersion: 202312272051
 ! Title: EasyList Dutch
-! Last modified: 27 Dec 2023 16:51 UTC
+! Last modified: 27 Dec 2023 20:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 !

@@ -1,9 +1,9 @@
-! Checksum: Cr9HNxJeGFs6mtiApuZyvQ
-! Diff-Path: ../patches/246_optimized/246_optimized-s-1703696764-14400.patch
+! Checksum: sRfmqMHziyw2ZofAR1eDhw
+! Diff-Path: ../patches/246_optimized/246_optimized-s-1703711136-14400.patch
 ! Title: EasyList Polish (Optimized)
 ! Description: Additional filter list for websites in Polish.
-! Version: 2.1.37.31
-! TimeUpdated: 2023-12-27T17:02:38+00:00
+! Version: 2.1.37.32
+! TimeUpdated: 2023-12-27T21:02:25+00:00
 ! Expires: 5 days (update frequency)
 /adserwer.
 =adv/GetAdvertisment|
@@ -2014,6 +2014,7 @@ tulodz.pl##a[href="https://beesafe.pl/"]
 swarzedz24.pl##a[href="https://bit.ly/WarsztatyOSM"]
 wiesci.com.pl##a[href="https://budet.pl/"]
 staleo.pl##a[href="https://discover.mazakeu.com/pl/iconnect/"]
+angolia.co.uk##a[href="https://domeny24.uk/"]
 7dni.pila.pl##a[href="https://dronmedia.my.canva.site/newsmedia-info?fbclid=IwAR0nKL3WPxUwbIBjxybGL5kjfvAymrHxAgzW-HhCiBJGlRuQmLxVA3W7O20"]
 chwaszczyno.pl##a[href="https://e-eltom.pl/"]
 wiesci.com.pl##a[href="https://focusdentalclinic.pl"]

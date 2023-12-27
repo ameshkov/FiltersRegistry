@@ -1,15 +1,15 @@
-! Checksum: za/cRMCHN0uOvLWo5N5ltQ
-! Diff-Path: ../patches/246/246-s-1703696798-14400.patch
+! Checksum: xwIHiJZM0f8+b1MIPgD+zw
+! Diff-Path: ../patches/246/246-s-1703711155-14400.patch
 ! Title: EasyList Polish
 ! Description: Additional filter list for websites in Polish.
-! Version: 2.1.37.31
-! TimeUpdated: 2023-12-27T17:02:38+00:00
+! Version: 2.1.37.32
+! TimeUpdated: 2023-12-27T21:02:25+00:00
 ! Expires: 5 days (update frequency)
 !
-! Checksum: Zae2nEOnPT/EclxXqcFuVA
-! OriginalVersion: 202312271651
+! Checksum: xx5aqvE51G/9iKOW2YWGWQ
+! OriginalVersion: 202312272051
 ! Title: EasyList Polish
-! Last modified: 27 Dec 2023 16:51 UTC
+! Last modified: 27 Dec 2023 20:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2050,6 +2050,7 @@ tulodz.pl##a[href="https://beesafe.pl/"]
 swarzedz24.pl##a[href="https://bit.ly/WarsztatyOSM"]
 wiesci.com.pl##a[href="https://budet.pl/"]
 staleo.pl##a[href="https://discover.mazakeu.com/pl/iconnect/"]
+angolia.co.uk##a[href="https://domeny24.uk/"]
 7dni.pila.pl##a[href="https://dronmedia.my.canva.site/newsmedia-info?fbclid=IwAR0nKL3WPxUwbIBjxybGL5kjfvAymrHxAgzW-HhCiBJGlRuQmLxVA3W7O20"]
 chwaszczyno.pl##a[href="https://e-eltom.pl/"]
 wiesci.com.pl##a[href="https://focusdentalclinic.pl"]

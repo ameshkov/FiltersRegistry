@@ -1,9 +1,9 @@
-! Checksum: ylKk3xvT4h/tW3Gdg7by7A
-! Diff-Path: ../patches/109_optimized/109_optimized-s-1703696829-14400.patch
+! Checksum: xX05WN6De1nzYeuB0ma9aw
+! Diff-Path: ../patches/109_optimized/109_optimized-s-1703711174-14400.patch
 ! Title: EasyList Italy (Optimized)
 ! Description: Additional filter list for websites in Italian.
-! Version: 2.1.41.25
-! TimeUpdated: 2023-12-27T17:01:26+00:00
+! Version: 2.1.41.26
+! TimeUpdated: 2023-12-27T21:01:13+00:00
 ! Expires: 12 hours (update frequency)
 -000Pubblicita-
 -000pubblicita.
