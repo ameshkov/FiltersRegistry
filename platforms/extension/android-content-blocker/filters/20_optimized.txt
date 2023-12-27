@@ -1,9 +1,9 @@
-! Checksum: bCLo5ER2aXP5VGXu9t/FbA
-! Diff-Path: ../patches/20_optimized/20_optimized-s-1703687768-3600.patch
+! Checksum: oLQtxIAwueenJPtI/RMQXw
+! Diff-Path: ../patches/20_optimized/20_optimized-s-1703691319-3600.patch
 ! Title: AdGuard Mobile App Banners filter (Optimized)
 ! Description: Blocks irritating banners that promote mobile apps of websites.
-! Version: 2.0.11.48
-! TimeUpdated: 2023-12-27T14:31:48+00:00
+! Version: 2.0.11.49
+! TimeUpdated: 2023-12-27T15:31:49+00:00
 ! Expires: 4 days (update frequency)
 /js/jquery.smartbanner.js
 ##amp-app-banner
@@ -1309,6 +1309,7 @@ honeysanime.com#$##header-line-2 { margin-top: -60px !important; }
 honeysanime.com#$##wrap-app-notice { display: none !important; }
 !+ NOT_OPTIMIZED
 m.tokopedia.com#$#div[data-testid="divOverlay"] { display: none!important; }
+rnd.de##div[class^="Articlestyled__"] div[data-testid="piano-container"]
 live.erinn.biz###win_appinstallhint
 kinarino.jp###js-appeal-top-banner
 radio.de###headerTopBar + style + div[class^="sc-"]
