@@ -1,9 +1,9 @@
-! Checksum: o8ENBFDuKAHnnyS5nCMBRw
-! Diff-Path: ../patches/101_optimized/101_optimized-s-1703654331-14400.patch
+! Checksum: 8VkSfpZa/TZcTELPr+DMUA
+! Diff-Path: ../patches/101_optimized/101_optimized-s-1703667968-14400.patch
 ! Title: EasyList (Optimized)
 ! Description: EasyList is the primary subscription that removes adverts from web pages in English. Already included in AdGuard Base filter.
-! Version: 2.1.18.23
-! TimeUpdated: 2023-12-27T05:00:50+00:00
+! Version: 2.1.18.24
+! TimeUpdated: 2023-12-27T09:01:04+00:00
 ! Expires: 4 days (update frequency)
 -ad-300x600-
 -ad-bottom-
@@ -16692,6 +16692,7 @@ browsershots.org#@#.advert_area
 ||itupjhlxjyxacl.com^
 ||itweepinbelltor.com^
 ||iuc1.online^
+||iuc1.space^
 ||ivanvillager.com^
 ||ivedmanyyea.org^
 ||iviugcxgemuk.com^
@@ -27123,6 +27124,10 @@ $popup,third-party,domain=123animes.mobi|1337x.buzz|720pstream.tv|adblockeronsta
 ||adultfilmdatabase.com/graphics/porndude.png
 ||akiba-online.com/data/siropu/
 ||alrincon.com/nbk/
+||amsterdam.xhamster.com^
+||amsterdam.xhamster.desi^
+||amsterdam.xhamster2.com^
+||amsterdam.xhamster3.com^
 ||analdin.xxx/player/html.php?aid=
 ||anyporn.com/aa/
 ||asg.faperoni.com^
@@ -27254,7 +27259,6 @@ $popup,third-party,domain=123animes.mobi|1337x.buzz|720pstream.tv|adblockeronsta
 ||thehun.net/banners/
 ||thisvid.com/enblk/
 ||tits-guru.com/js/istripper4.js
-||tokyo.xhamster.com^
 ||tranny.one/bdb.php
 ||trannygem.com/ai
 ||tubeon.*/templates/base_master/js/jquery.shows2.min.js
@@ -27426,6 +27430,7 @@ inquirer.net###billboard_article
 gumtree.com###bing-text-ad-1
 gumtree.com###bing-text-ad-2
 gumtree.com###bing-text-ad-3
+raspberrytips.com###block-11
 raspians.com###block-29
 raspians.com###block-31
 ancient-origins.net###block-block-49

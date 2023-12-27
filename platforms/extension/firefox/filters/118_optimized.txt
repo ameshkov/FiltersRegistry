@@ -1,9 +1,9 @@
-! Checksum: WdpigcIC/9uhBN83E1kG/g
-! Diff-Path: ../patches/118_optimized/118_optimized-s-1703654877-14400.patch
+! Checksum: /SiLaj5iD074TySJRUqmrA
+! Diff-Path: ../patches/118_optimized/118_optimized-s-1703667974-14400.patch
 ! Title: EasyPrivacy (Optimized)
 ! Description: Privacy protection supplement for EasyList.
-! Version: 2.1.19.61
-! TimeUpdated: 2023-12-27T05:01:11+00:00
+! Version: 2.1.19.62
+! TimeUpdated: 2023-12-27T09:01:23+00:00
 ! Expires: 4 days (update frequency)
 &action=js_stats&
 &ev=PageView&
@@ -8772,6 +8772,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collector.xhamster.com^
 ||collector.xhamster.desi^
 ||collector.xhamster2.com^
+||collector.xhamster3.com^
 ||collider.com/strpixel.png
 ||colvk.viki.io^
 ||confiant.msn.com^

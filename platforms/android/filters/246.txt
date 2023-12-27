@@ -1,15 +1,15 @@
-! Checksum: q7PSzv5I4fyTBeAZSs4XAg
-! Diff-Path: ../patches/246/246-s-1703653780-14400.patch
+! Checksum: XRnCpPU5j8XEdY6ImY6cPg
+! Diff-Path: ../patches/246/246-s-1703667958-14400.patch
 ! Title: EasyList Polish
 ! Description: Additional filter list for websites in Polish.
-! Version: 2.1.37.28
-! TimeUpdated: 2023-12-27T05:02:13+00:00
+! Version: 2.1.37.29
+! TimeUpdated: 2023-12-27T09:02:28+00:00
 ! Expires: 4 days (update frequency)
 !
-! Checksum: X4uhPathOoJYMU/3q5WNsQ
-! OriginalVersion: 202312270451
+! Checksum: gFRKp2DRQc7eQOjTKm8hEw
+! OriginalVersion: 202312270851
 ! Title: EasyList Polish
-! Last modified: 27 Dec 2023 04:51 UTC
+! Last modified: 27 Dec 2023 08:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1012,6 +1012,7 @@ nowezyciepabianic.pl##.adv-wrap
 antyradio.pl,appleworld.pl,bezuzyteczna.pl,charaktery.eu,dzienniknowy.pl,dziennikzachodni.pl,expressbydgoski.pl,gazetalubuska.pl,kowbojki.pl,malyniezlomni.com,nowiny24.pl,nowosci.com.pl,piekielni.pl,planeta.pl,planowo.pl,prostozmostu24.pl,regiopraca.pl,starachowice.pl,superniusy.pl,szokuje.pl,twojememy.pl,udostepniane.pl,wyznajemy.pl,zw.com.pl,zwielkopolski24.pl##.advContainer
 gospodarkapodkarpacka.pl##.advLargeHorizontal
 gospodarkapodkarpacka.pl##.advRec
+altair.com.pl##.advSet
 zyciesokolowa.pl##.adv__content
 historykon.pl##.adv_content
 alebank.pl,bogatynia.info.pl,bronradom.pl,eurogamer.pl,istotne.pl,krosnocity.pl,nysa.fm,ox.pl,podkarpacielive.pl,polishexpress.co.uk,pozytywniej.pl,radiozet.pl,rynek-drzewny.pl,wiescirolnicze.pl##.advert
@@ -2171,7 +2172,6 @@ weszlo.com##a[href^="https://fuksiarz.pl/"]
 gieldomania.pl##a[href^="https://gieldomania.pl/r/"] img
 hdtvpolska.com##a[href^="https://hdtvpolska.com/forum/adv-"]
 gazeta-mosina.pl##a[href^="https://jezyk-stacja-"]
-zakazanaprawda.pl##a[href^="https://ksiazki.pafere.org/"]
 uploaduj.com##a[href^="https://lead.network/"]
 elektroda.pl##a[href^="https://listwy-tvled.impelshop.com/"]
 angielskieespresso.pl##a[href^="https://m.lvbetpartners.pl/Redirect.aspx?mid=120"]

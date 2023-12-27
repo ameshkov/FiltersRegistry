@@ -1,9 +1,9 @@
-! Checksum: RvvZprjGpqVSSw+i5X6Btg
-! Diff-Path: ../patches/112_optimized/112_optimized-s-1703654052-14400.patch
+! Checksum: /9Tf+7WI5vvcC1NS1W66Cg
+! Diff-Path: ../patches/112_optimized/112_optimized-s-1703667959-14400.patch
 ! Title: Liste AR (Optimized)
 ! Description: Additional filter list for websites in Arabic.
-! Version: 2.1.41.21
-! TimeUpdated: 2023-12-27T05:01:05+00:00
+! Version: 2.1.41.22
+! TimeUpdated: 2023-12-27T09:01:17+00:00
 ! Expires: 4 days (update frequency)
 %20728x90%20
 &ad_size=

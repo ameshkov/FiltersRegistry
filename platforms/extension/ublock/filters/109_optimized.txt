@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: uNMfdHPsBVrc16kdhZW/eQ
-! Diff-Path: ../patches/109_optimized/109_optimized-s-1703655712-14400.patch
+! Checksum: Nc5iBvkTCuiJLM5dvhML8A
+! Diff-Path: ../patches/109_optimized/109_optimized-s-1703667987-14400.patch
 ! Title: EasyList Italy (Optimized)
 ! Description: Additional filter list for websites in Italian.
-! Version: 2.1.41.22
-! TimeUpdated: 2023-12-27T05:01:03+00:00
+! Version: 2.1.41.23
+! TimeUpdated: 2023-12-27T09:01:16+00:00
 ! Expires: 4 days (update frequency)
 -000Pubblicita-
 -000pubblicita.
