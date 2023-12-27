@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: 05Q1s6t1qWE7SikmWGQFFw
-! Diff-Path: ../patches/2_without_easylist/2_without_easylist-s-1703666117-3600.patch
+! Checksum: ks5/o4D12wP0ZycPjLnSHg
+! Diff-Path: ../patches/2_without_easylist/2_without_easylist-s-1703669725-3600.patch
 ! Title: AdGuard Base filter
 ! Description: This filter is necessary for quality ad blocking.
-! Version: 2.3.15.55
-! TimeUpdated: 2023-12-27T08:32:04+00:00
+! Version: 2.3.15.56
+! TimeUpdated: 2023-12-27T09:32:09+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -9194,8 +9194,9 @@ fcportables.com##div[class^="popup"][class$="wrap"][id]
 ||pubads.g.doubleclick.net/ondemand/*/content/*/vid/*/streams/*/time-events.json$important,domain=cbs.com|paramountplus.com|history.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/129547
 comohoy.com##+js(set-constant, checkAdBlock, noopFunc)
+! https://github.com/AdguardTeam/AdguardFilters/issues/169369
 ! https://github.com/AdguardTeam/AdguardFilters/issues/129563
-rakuten.tv##+js(no-xhr-if, cdn.spotxcdn.com/media/)
+rakuten.tv##+js(no-xhr-if, /springserve\.com|cdn\.spotxcdn\.com\/media\//)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/129441
 latest-files.com###blockedmessagewrapper
 ! https://github.com/AdguardTeam/AdguardFilters/issues/129435
