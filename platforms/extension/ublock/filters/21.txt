@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: 3EM4ZgopGM9UE6AaoriJzQ
-! Diff-Path: ../patches/21/21-s-1703695024-3600.patch
+! Checksum: Qd5Ugg/iYs2EC8QVt8FWzw
+! Diff-Path: ../patches/21/21-s-1703702132-3600.patch
 ! Title: AdGuard Other Annoyances filter
 ! Description: Blocks irritating elements on web pages that do not fall under the popular categories of annoyances.
-! Version: 2.0.18.21
-! TimeUpdated: 2023-12-27T16:31:51+00:00
+! Version: 2.0.18.22
+! TimeUpdated: 2023-12-27T18:31:38+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -3232,6 +3232,8 @@ www.kinopoisk.ru##div[class^="trailer-promo"]
 ! END: Yandex
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/169074
+wyofile.com##.newspack-popup-container
 ! https://github.com/AdguardTeam/AdguardFilters/issues/168879
 diepresse.com###abocontainer-f
 ! https://github.com/AdguardTeam/AdguardFilters/issues/168313
