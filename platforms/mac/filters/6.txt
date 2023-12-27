@@ -1,9 +1,9 @@
-! Checksum: cu3sDV9kDQWIIP+c30G+PA
-! Diff-Path: ../patches/6/6-s-1703712927-3600.patch
+! Checksum: 9vIo8KBryJ1lrnAwUa8S2g
+! Diff-Path: ../patches/6/6-s-1703716541-3600.patch
 ! Title: AdGuard German filter
 ! Description: EasyList Germany + AdGuard German filter. Filter list that specifically removes ads on websites in German language.
-! Version: 2.0.39.65
-! TimeUpdated: 2023-12-27T21:32:47+00:00
+! Version: 2.0.39.66
+! TimeUpdated: 2023-12-27T22:32:41+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -9813,6 +9813,7 @@ augsburger-allgemeine.de##.p-swatch_top-nice--blank.p-blocklink
 kultur.bz.it##.page-banner
 finanzen.ch##.page-layout__ad-header-bottom
 tour-magazin.de##.page-sponsoring
+eltern.de##.page__ad-element
 rhein-zeitung.de##.page__billboard
 hamburg-magazin.de,kiel-magazin.de,luebeck-magazin.de##.paidContent
 tschechien-online.org##.pane-aktuelle-top-links

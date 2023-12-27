@@ -1,9 +1,9 @@
-! Checksum: IL2L6xrECAdIgF1f9zZTvw
-! Diff-Path: ../patches/22/22-s-1703695032-3600.patch
+! Checksum: oOvXNNiX2+iPuZ1WXBFO2w
+! Diff-Path: ../patches/22/22-s-1703716536-3600.patch
 ! Title: AdGuard Widgets filter
 ! Description: Blocks annoying third-party widgets: online assistants, live support chats, etc.
-! Version: 2.0.6.96
-! TimeUpdated: 2023-12-27T07:31:45+00:00
+! Version: 2.0.6.97
+! TimeUpdated: 2023-12-27T22:31:52+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -1963,6 +1963,7 @@ pesni-tut.com##.r_m_genre_songs + div[id] + div:not([id])
 ||youtube.com/embed/?enablejsapi=1&origin=*3dnews.ru&widgetid=1
 ! Voting widget
 ! specific
+t-online.de#?#div[data-testid="StageLayout.StreamItem"]:has(> figure:only-child > iframe[src*="civey"])
 t-online.de##iframe[src^="https://app.civey.com/embed/"]
 ha.com##body > div.QSIPopOver
 tagesspiegel.de###story-elements > div[class]:has(> div#opinary-automation-placeholder)
