@@ -639,6 +639,7 @@ module.exports = {
     'EXTENSION_SAFARI': {
         'platform': 'ext_safari',
         'path': 'extension/safari',
+        'expires': '10 days',
         'configuration': {
             'removeRulePatterns': SAFARI_BASED_EXTENSION_PATTERNS,
             'replacements': null,
@@ -704,7 +705,7 @@ module.exports = {
     'EXTENSION_UBLOCK': {
         'platform': 'ext_ublock',
         'path': 'extension/ublock',
-        'expires': '12 hours',
+        'expires': '10 days',
         'configuration': {
             'removeRulePatterns': [
                 ...HTML_FILTERING_MODIFIER_PATTERNS,
