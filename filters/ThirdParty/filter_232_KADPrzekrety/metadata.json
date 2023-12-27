@@ -4,7 +4,7 @@
   "description": "Filter that protects against various types of scams in the Polish network, such as mass text messaging, fake online stores, etc.",
   "timeAdded": 1404115015843,
   "homepage": "https://github.com/FiltersHeroes/KAD",
-  "expires": "4 days",
+  "expires": "5 days",
   "displayNumber": 2,
   "groupId": 7,
   "subscriptionUrl": "https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt",

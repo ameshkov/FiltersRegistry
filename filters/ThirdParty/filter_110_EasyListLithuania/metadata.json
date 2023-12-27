@@ -4,7 +4,7 @@
   "description": "Additional filter list for websites in Lithuanian.",
   "timeAdded": 1404115015843,
   "homepage": "https://github.com/EasyList-Lithuania/easylist_lithuania",
-  "expires": "4 days",
+  "expires": "5 days",
   "displayNumber": 2,
   "groupId": 7,
   "subscriptionUrl": "https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt",

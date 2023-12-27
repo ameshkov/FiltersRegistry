@@ -4,7 +4,7 @@
   "description": "Additional filter list for websites in Czech and Slovak.",
   "timeAdded": 1404115015843,
   "homepage": "https://github.com/tomasko126/easylistczechandslovak",
-  "expires": "4 days",
+  "expires": "5 days",
   "displayNumber": 2,
   "groupId": 7,
   "subscriptionUrl": "https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt",

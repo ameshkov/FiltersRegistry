@@ -4,7 +4,7 @@
   "description": "Additional filter list for websites in Chinese. Already included in AdGuard Chinese filter.",
   "timeAdded": 1404115015843,
   "homepage": "https://github.com/easylist/easylistchina",
-  "expires": "4 days",
+  "expires": "5 days",
   "displayNumber": 2,
   "groupId": 7,
   "subscriptionUrl": "https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt",
