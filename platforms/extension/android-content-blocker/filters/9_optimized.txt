@@ -1,9 +1,9 @@
-! Checksum: 8V+Ygkk/7mUvl535EFjvRg
-! Diff-Path: ../patches/9_optimized/9_optimized-s-1703676975-3600.patch
+! Checksum: vrE+iwqVZRr8yxQttPrfoQ
+! Diff-Path: ../patches/9_optimized/9_optimized-s-1703680527-3600.patch
 ! Title: AdGuard Spanish/Portuguese filter (Optimized)
 ! Description: Filter list that specifically removes ads on websites in Spanish, Portuguese, and Brazilian Portuguese languages.
-! Version: 2.0.22.62
-! TimeUpdated: 2023-12-27T11:33:07+00:00
+! Version: 2.0.22.63
+! TimeUpdated: 2023-12-27T12:33:02+00:00
 ! Expires: 4 days (update frequency)
 ||nobeta.com.br^$third-party
 ||bcgame.top^$popup
@@ -309,8 +309,6 @@ netmentor.es#$#.op-body { overflow: auto !important; }
 futbolfantasy.com#@#.adsBanner
 @@||ads-api.twitter.com^|$xmlhttprequest,domain=nptmedia.tv
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=nptmedia.tv
-netcine2.la#$#body { overflow: auto !important; padding-right: 0 !important; }
-netcine2.la#$#.swal2-container { display: none !important; }
 @@$third-party,xmlhttprequest,domain=netcine2.la
 antoniomote.com#$#[id].adsbox.doubleclick.ad-placement { display: block !important; }
 oliberal.com#@#.ad-block

@@ -1,11 +1,17 @@
 ![Adblock Plus 2.0]
-! Checksum: Z/0vr7OYuHVvtO5LcULNUg
-! Diff-Path: ../patches/2_optimized/2_optimized-s-1703677015-3600.patch
+! Checksum: gwRq2UY90EjEYbry0ABH3Q
+! Diff-Path: ../patches/2_optimized/2_optimized-s-1703680559-3600.patch
 ! Title: AdGuard Base filter + EasyList (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.15.57
-! TimeUpdated: 2023-12-27T11:32:18+00:00
+! Version: 2.3.15.58
+! TimeUpdated: 2023-12-27T12:32:23+00:00
 ! Expires: 4 days (update frequency)
+||rsgouhlbhfl.com^
+||vuphoubs.com^
+||zjpwrpo.com^
+||nczxuga.com^
+||ntsiwoulukdli.org^
+||aterhouseoyop.com^
 ||pepapigg.xyz^
 ||socde.com^$all
 ||elfnxscnmtao.com^
@@ -411,6 +417,7 @@
 !+ NOT_PLATFORM(windows, mac, android)
 ||amgload.net^$third-party,badfilter
 ||adconsent.samsungrs.com^
+||d2ovgc4ipdt6us.cloudfront.net^
 ||d1zw8evbrw553l.cloudfront.net^
 ||d39xdhxlbi0rlm.cloudfront.net^
 ||dvv009j588zal.cloudfront.net^
@@ -8918,6 +8925,7 @@ $script,third-party,denyallow=linkvertise.com|fastly.net|statically.io|sharecast
 ||olalivehdplay.ru/blast.js
 ||lovesomecommunity.com/blast.js
 ||b4ucast.com/blast.js
+indiatimes.com##.article-detail-ad-slot
 thehansindia.com##.right_level_2
 thehansindia.com##section[class^="ad_"]
 thehansindia.com##.theiaStickySidebar > section[class]:has(> div[class*="ad"])
@@ -9136,7 +9144,7 @@ eurogamer.net##.primis_wrapper
 mail.aol.com#?#div[data-test-id="mail-app-main-content"] ul[role="list"] > li:has(a[data-test-id="pencil-ad-messageList"])
 inwepo.co##div[id^="oa-"]
 parcelsapp.com##div[style="text-align: center; min-height: 280px;"]
-$script,xmlhttprequest,third-party,domain=clickndownload.org|clicknupload.click|clicknupload.link|clicknupload.red|clicknupload.vip|clicknupload.xyz
+$script,xmlhttprequest,third-party,domain=clickndownload.org|clicknupload.click|clicknupload.link|clicknupload.red|clicknupload.vip|clicknupload.xyz|clickndownload.space
 whatsmydns.net##div[class*="md\:w-\[728px\] md\:min-h-\[90px\]"]
 ||nyaa.land/static/PIA.png
 prothomalo.com#?#div[class]:has(> .dfp-ad-unit:only-child)
@@ -12732,7 +12740,7 @@ satdl.com#@#.advertizement
 @@||cmp.inmobi.com/choice/*/choice.js$domain=express.co.uk
 @@||cmp.inmobi.com/tcfv2/*.js$domain=express.co.uk
 @@||cmp.inmobi.com/*/vendor-list-*.json$domain=express.co.uk
-@@/clickn(download|upload)\.[a-z]{3,5}/$script,xmlhttprequest,domain=clickndownload.org|clicknupload.click|clicknupload.link|clicknupload.red|clicknupload.vip|clicknupload.xyz
+@@/clickn(download|upload)\.[a-z]{3,5}/$script,xmlhttprequest,domain=clickndownload.org|clicknupload.click|clicknupload.link|clicknupload.red|clicknupload.vip|clicknupload.xyz|clickndownload.space
 prothomalo.com#@#.adsBox
 prothomalo.com#@##top-ad
 ||stluserehtem.com^$badfilter
