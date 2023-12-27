@@ -4,7 +4,7 @@
   "description": "Official Polish filters against Adblock alerts.",
   "timeAdded": 1404115015843,
   "homepage": "https://github.com/olegwukr/polish-privacy-filters",
-  "expires": "4 days",
+  "expires": "5 days",
   "displayNumber": 2,
   "groupId": 7,
   "subscriptionUrl": "https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/anti-adblock.txt",

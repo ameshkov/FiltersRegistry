@@ -4,7 +4,7 @@
   "description": "This filter protects you from online scams.",
   "timeAdded": 1404115015843,
   "homepage": "https://www.spam404.com/",
-  "expires": "4 days",
+  "expires": "5 days",
   "displayNumber": 2,
   "groupId": 5,
   "subscriptionUrl": "https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt",

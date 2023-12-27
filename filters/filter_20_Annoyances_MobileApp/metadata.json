@@ -4,7 +4,7 @@
   "description": "Blocks irritating banners that promote mobile apps of websites.",
   "timeAdded": 1657180419636,
   "homepage": "https://adguard.com/kb/general/ad-filtering/adguard-filters/",
-  "expires": "4 days",
+  "expires": "5 days",
   "displayNumber": 2,
   "groupId": 4,
   "subscriptionUrl": "https://filters.adtidy.org/extension/chromium/filters/20.txt",

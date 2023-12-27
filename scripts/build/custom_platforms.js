@@ -571,7 +571,6 @@ module.exports = {
     'EXTENSION_CHROMIUM': {
         'platform': 'ext_chromium',
         'path': 'extension/chromium',
-        'expires': '10 days',
         'configuration': {
             'removeRulePatterns': CHROMIUM_BASED_EXTENSION_PATTERNS,
             'replacements': null,
@@ -585,7 +584,6 @@ module.exports = {
     'EXTENSION_EDGE': {
         'platform': 'ext_edge',
         'path': 'extension/edge',
-        'expires': '10 days',
         'configuration': {
             'removeRulePatterns': CHROMIUM_BASED_EXTENSION_PATTERNS,
             'replacements': null,
@@ -600,7 +598,6 @@ module.exports = {
     'EXTENSION_OPERA': {
         'platform': 'ext_opera',
         'path': 'extension/opera',
-        'expires': '10 days',
         'configuration': {
             'removeRulePatterns': CHROMIUM_BASED_EXTENSION_PATTERNS,
             'replacements': null,
@@ -615,7 +612,6 @@ module.exports = {
     'EXTENSION_FIREFOX': {
         'platform': 'ext_ff',
         'path': 'extension/firefox',
-        'expires': '10 days',
         'configuration': {
             'removeRulePatterns': [
                 ...HTML_FILTERING_MODIFIER_PATTERNS,
@@ -639,7 +635,6 @@ module.exports = {
     'EXTENSION_SAFARI': {
         'platform': 'ext_safari',
         'path': 'extension/safari',
-        'expires': '10 days',
         'configuration': {
             'removeRulePatterns': SAFARI_BASED_EXTENSION_PATTERNS,
             'replacements': null,
@@ -705,7 +700,6 @@ module.exports = {
     'EXTENSION_UBLOCK': {
         'platform': 'ext_ublock',
         'path': 'extension/ublock',
-        'expires': '10 days',
         'configuration': {
             'removeRulePatterns': [
                 ...HTML_FILTERING_MODIFIER_PATTERNS,

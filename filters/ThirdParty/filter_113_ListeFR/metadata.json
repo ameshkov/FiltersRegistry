@@ -4,7 +4,7 @@
   "description": "Additional filter list for websites in French. Already included in AdGuard French filter.",
   "timeAdded": 1404115015843,
   "homepage": "https://forums.lanik.us/viewforum.php?f=91",
-  "expires": "4 days",
+  "expires": "5 days",
   "displayNumber": 2,
   "groupId": 7,
   "subscriptionUrl": "https://easylist-downloads.adblockplus.org/liste_fr.txt",

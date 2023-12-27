@@ -4,7 +4,7 @@
   "description": "Blocks ads on the Chinese video platforms (MangoTV, DouYu and others).",
   "timeAdded": 1404115015843,
   "homepage": "https://github.com/xinggsf/Adblock-Plus-Rule/",
-  "expires": "4 days",
+  "expires": "5 days",
   "displayNumber": 2,
   "groupId": 7,
   "subscriptionUrl": "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt",
