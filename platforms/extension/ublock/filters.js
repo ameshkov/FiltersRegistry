@@ -607,8 +607,8 @@
 			"groupId": 6,
 			"subscriptionUrl": "https://filters.adtidy.org/extension/ublock/filters/15.txt",
 			"trustLevel": "full",
-			"version": "2.0.59.73",
-			"timeUpdated": "2023-12-27T00:31:18+0000",
+			"version": "2.0.59.74",
+			"timeUpdated": "2023-12-27T06:31:08+0000",
 			"languages": [],
 			"tags": [
 				45,
