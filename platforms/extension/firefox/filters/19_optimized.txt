@@ -1,9 +1,9 @@
-! Checksum: vL5oYk+gB5s8s7TaxJUlGQ
-! Diff-Path: ../patches/19_optimized/19_optimized-s-1703705714-3600.patch
+! Checksum: 7yThv87x1Cf16sRvh/wu8A
+! Diff-Path: ../patches/19_optimized/19_optimized-s-1703709315-3600.patch
 ! Title: AdGuard Popups filter (Optimized)
 ! Description: Blocks all kinds of pop-ups that are not necessary for websites' operation.
-! Version: 2.0.29.10
-! TimeUpdated: 2023-12-27T19:31:24+00:00
+! Version: 2.0.29.11
+! TimeUpdated: 2023-12-27T20:31:30+00:00
 ! Expires: 5 days (update frequency)
 #%#var AG_onLoad=function(func){if(document.readyState==="complete"||document.readyState==="interactive")func();else if(document.addEventListener)document.addEventListener("DOMContentLoaded",func);else if(document.attachEvent)document.attachEvent("DOMContentLoaded",func)};
 #%#var AG_removeElementById = function(id) { var element = document.getElementById(id); if (element && element.parentNode) { element.parentNode.removeChild(element); }};
@@ -1601,6 +1601,7 @@ aol.com#@#.adwrap
 ||unpkg.com/@textback/notification-widget
 ||widget.pico.tools^$third-party
 ||widget.privy.com^$third-party
+frag-mutti.de##.popup-box.guest
 frag-mutti.de###signup-popup
 codereliant.io##.kg-signup-card
 chatgptdemo.net###rating-modal

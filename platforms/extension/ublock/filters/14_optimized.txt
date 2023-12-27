@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: zA9PjrMnlaUTrCm1H+NsPQ
-! Diff-Path: ../patches/14_optimized/14_optimized-s-1703705725-3600.patch
+! Checksum: cDzYPlX18L5JVNgKvovr0w
+! Diff-Path: ../patches/14_optimized/14_optimized-s-1703709326-3600.patch
 ! Title: AdGuard Annoyances filter (Optimized)
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups. Contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets.
-! Version: 2.1.83.24
-! TimeUpdated: 2023-12-27T19:31:10+00:00
+! Version: 2.1.83.25
+! TimeUpdated: 2023-12-27T20:31:17+00:00
 ! Expires: 5 days (update frequency)
 !#######################################################
 !######### General element hiding rules ################
@@ -9741,6 +9741,7 @@ aol.com#@#.adwrap
 ||unpkg.com/@textback/notification-widget
 ||widget.pico.tools^$third-party
 ||widget.privy.com^$third-party
+frag-mutti.de##.popup-box.guest
 frag-mutti.de###signup-popup
 codereliant.io##.kg-signup-card
 chatgptdemo.net###rating-modal

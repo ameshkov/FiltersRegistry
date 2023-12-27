@@ -1,9 +1,9 @@
-! Checksum: 0hUVob/wsD8n/QaeKbrXYA
-! Diff-Path: ../patches/19/19-s-1703705735-3600.patch
+! Checksum: 6HeLlY9yy2BeyTYnrnkVFA
+! Diff-Path: ../patches/19/19-s-1703709335-3600.patch
 ! Title: AdGuard Popups filter
 ! Description: Blocks all kinds of pop-ups that are not necessary for websites' operation.
-! Version: 2.0.29.10
-! TimeUpdated: 2023-12-27T19:31:24+00:00
+! Version: 2.0.29.11
+! TimeUpdated: 2023-12-27T20:31:30+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -4184,6 +4184,7 @@ aol.com#$#.ad__tile { height: 10px!important; position: absolute!important; left
 !
 ! SECTION: Popups - Regular rules
 !
+frag-mutti.de##.popup-box.guest
 frag-mutti.de###signup-popup
 codereliant.io##.kg-signup-card
 chatgptdemo.net###rating-modal
