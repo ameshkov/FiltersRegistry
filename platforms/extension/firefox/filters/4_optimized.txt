@@ -1,9 +1,9 @@
-! Checksum: xBUmOR5PgcvcKIP8oYvhKQ
-! Diff-Path: ../patches/4_optimized/4_optimized-s-1703695004-3600.patch
+! Checksum: 1xmAwTtZKsFm7IUZAZ++Vg
+! Diff-Path: ../patches/4_optimized/4_optimized-s-1703698521-3600.patch
 ! Title: AdGuard Social Media filter (Optimized)
 ! Description: Filter for social media widgets such as 'Like' and 'Share' buttons and more.
-! Version: 2.0.95.37
-! TimeUpdated: 2023-12-27T15:32:35+00:00
+! Version: 2.0.95.38
+! TimeUpdated: 2023-12-27T17:32:26+00:00
 ! Expires: 5 days (update frequency)
 #%#var AG_onLoad=function(func){if(document.readyState==="complete"||document.readyState==="interactive")func();else if(document.addEventListener)document.addEventListener("DOMContentLoaded",func);else if(document.attachEvent)document.attachEvent("DOMContentLoaded",func)};
 #%#var AG_removeElementById = function(id) { var element = document.getElementById(id); if (element && element.parentNode) { element.parentNode.removeChild(element); }};
@@ -1020,7 +1020,7 @@ fizkult-nn.ru##.social-buttons-default-block
 goodlooker.ru##.socials-after_post-right
 oe24.at##.articleShareBox
 sravni.ru##div[class^="article-footer_wrapper"] button[name="Поделиться"]
-nsenergybusiness.com##.social-media
+maxnet.ua,nsenergybusiness.com##.social-media
 barchart.com##.modal-share-group
 barchart.com##.bc-twittertimeline-wrapper
 oilcapital.ru,newizv.ru,inkazan.ru,vostokmedia.com##button[class^="LeftcolSocials"]
