@@ -1,9 +1,9 @@
-! Checksum: 4j4PPIT6wfPYvPnmnLqbiQ
-! Diff-Path: ../patches/14/14-s-1703604937-3600.patch
+! Checksum: h5QhjSYBlvI+P2b2r2a7Cg
+! Diff-Path: ../patches/14/14-s-1703662530-3600.patch
 ! Title: AdGuard Annoyances filter
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups. Contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets.
-! Version: 2.1.83.13
-! TimeUpdated: 2023-12-26T15:31:08+00:00
+! Version: 2.1.83.14
+! TimeUpdated: 2023-12-27T07:31:11+00:00
 ! Expires: 12 hours (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -49073,6 +49073,9 @@ hoge5ch.info,genshin-matome.blog.jp,romasaga-reuniverse.blog.jp,umamusume-pakamu
 ! 2chblog.jp,blog.jp,blog.livedoor.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp,seesaa.net,blog.fc2.com,blog.2nt.com
 ! specify subdomain or use unique and safe selector; for blog.livedoor.jp make your rule as specific as possible or use $path
 !
+kijomatomelog.com##div[style="margin:0px;padding:2px;"]
+kijomatomelog.com##span[style="font-weight: bold;"] ~ a[href^="http://matomeantena.com/feed/"]
+kijomatomelog.com##span[style="font-weight: bold;"] ~ a[href^="http://matomeantena.com/feed/"] ~ a[href][target="_blank"]
 kijomatomelog.com#?#span > span[style]:has(> b > a[href^="http://newmofu.doorblog.jp/"])
 baiku-sokuho.info##.links2
 ||baiku-sokuho.info/pickup-rss*.html
