@@ -1,9 +1,9 @@
-! Checksum: i4hIU1diSoV67Qpnd6cFfA
-! Diff-Path: ../patches/14/14-s-1703680523-3600.patch
+! Checksum: u1GU+IGcWpIXKG3YSRM/JQ
+! Diff-Path: ../patches/14/14-s-1703684359-3600.patch
 ! Title: AdGuard Annoyances filter
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups. Contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets.
-! Version: 2.1.83.17
-! TimeUpdated: 2023-12-27T12:31:24+00:00
+! Version: 2.1.83.18
+! TimeUpdated: 2023-12-27T13:34:27+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -40766,6 +40766,7 @@ theguardian.com##.contributions__adblock
 !
 ! SECTION: Self-promo - Regular rules
 !
+scribd.com##.between_page_portal_root
 langenscheidt.com###lgs-ad
 sportskeeda.com###fortnite-promotional-banner
 m.lenta.ru##.new-year-button

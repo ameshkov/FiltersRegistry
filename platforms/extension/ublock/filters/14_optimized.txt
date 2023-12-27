@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: AdUbHytPWH951Ng/jzH4pw
-! Diff-Path: ../patches/14_optimized/14_optimized-s-1703680556-3600.patch
+! Checksum: +RkaiXrILdrCdZ3n7ooG3g
+! Diff-Path: ../patches/14_optimized/14_optimized-s-1703684392-3600.patch
 ! Title: AdGuard Annoyances filter (Optimized)
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups. Contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets.
-! Version: 2.1.83.17
-! TimeUpdated: 2023-12-27T12:31:24+00:00
+! Version: 2.1.83.18
+! TimeUpdated: 2023-12-27T13:34:27+00:00
 ! Expires: 4 days (update frequency)
 !#######################################################
 !######### General element hiding rules ################
@@ -19764,6 +19764,7 @@ alexfitness.ru#$#.modal-open { overflow: visible!important; }
 banggood.com##.top_mt.datacube_banner
 tf1.fr##div[aria-describedby^="max-banner-"]
 ||contributions.guardianapis.com^
+scribd.com##.between_page_portal_root
 langenscheidt.com###lgs-ad
 wordparts.ru##div[class^="ad"]:has(> a[href="https://t.me/wordparts_bot"])
 sportskeeda.com###fortnite-promotional-banner
