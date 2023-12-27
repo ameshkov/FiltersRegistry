@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: Q813y9xcWufN9oEJUeNrOg
-! Diff-Path: ../patches/18/18-s-1703684392-3600.patch
+! Checksum: fDqeSI1Fgh4pT6IjFjKSZQ
+! Diff-Path: ../patches/18/18-s-1703687813-3600.patch
 ! Title: AdGuard Cookie Notices filter
 ! Description: Blocks cookie notices on web pages.
-! Version: 2.0.30.36
-! TimeUpdated: 2023-12-27T13:34:40+00:00
+! Version: 2.0.30.37
+! TimeUpdated: 2023-12-27T14:31:34+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -2308,6 +2308,8 @@ cioccolatonippon.it,movieplayer.it,hwupgrade.it,iphoneitalia.com,mediaset.it,tom
 !
 ! NOTE: Regular rules
 !
+cancer.org.au##.notification_banner
+dhakapost.com##main > div.fixed.bottom-0
 portaleargo.it###spopupCont
 drudgereport.com###dr_dae_consent
 greenwaypolska.pl##div[id^="the_cookies"]
