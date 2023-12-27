@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: QCj86OswzVXi3P3gVBANkA
-! Diff-Path: ../patches/2_optimized/2_optimized-s-1703644520-3600.patch
+! Checksum: +Q31PcmVJOX2smDogU2UeA
+! Diff-Path: ../patches/2_optimized/2_optimized-s-1703651711-3600.patch
 ! Title: AdGuard Base filter + EasyList (Optimized)
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.3.15.53
-! TimeUpdated: 2023-12-27T02:32:01+00:00
+! Version: 2.3.15.54
+! TimeUpdated: 2023-12-27T04:32:03+00:00
 ! Expires: 4 days (update frequency)
 ||pepapigg.xyz^
 ||socde.com^$all
@@ -28646,6 +28646,7 @@ browsershots.org#@#.advert_area
 ||filemoon.*/js/baf.js
 ||fishki.net/code?
 ||forabodiesonly.com/mopar/sidebarbanners/
+||forum.miata.net/sp/
 ||funnyjunk.com/site/js/extra/pre
 ||gamecopyworld.com/ddd/
 ||ganjing.world/v1/cdkapi/
