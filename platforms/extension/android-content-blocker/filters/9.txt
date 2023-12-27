@@ -1,8 +1,9 @@
-! Checksum: BHpWGIb82oulhx0kmluXng
+! Checksum: f/zRdZ9xTg4DUxsOb40FVQ
+! Diff-Path: ../patches/9/9-s-1703676975-3600.patch
 ! Title: AdGuard Spanish/Portuguese filter
 ! Description: Filter list that specifically removes ads on websites in Spanish, Portuguese, and Brazilian Portuguese languages.
-! Version: 2.0.22.61
-! TimeUpdated: 2023-12-26T09:32:14+00:00
+! Version: 2.0.22.62
+! TimeUpdated: 2023-12-27T11:33:07+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -295,6 +296,7 @@
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/169287
 ! https://github.com/AdguardTeam/AdguardFilters/issues/169277
 seriesemcena.com.br#@#.ad-250
 seriesemcena.com.br#@#ins.adsbygoogle

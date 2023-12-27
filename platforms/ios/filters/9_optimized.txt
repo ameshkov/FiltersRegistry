@@ -1,8 +1,9 @@
-! Checksum: 2v9l9WKesgtsbpg+WYr3Ew
+! Checksum: DMrsDaB3MB51lVMCgOZrSQ
+! Diff-Path: ../patches/9_optimized/9_optimized-s-1703677029-3600.patch
 ! Title: AdGuard Spanish/Portuguese filter (Optimized)
 ! Description: Filter list that specifically removes ads on websites in Spanish, Portuguese, and Brazilian Portuguese languages.
-! Version: 2.0.22.61
-! TimeUpdated: 2023-12-26T09:32:14+00:00
+! Version: 2.0.22.62
+! TimeUpdated: 2023-12-27T11:33:07+00:00
 ! Expires: 4 days (update frequency)
 #%#var AG_onLoad=function(func){if(document.readyState==="complete"||document.readyState==="interactive")func();else if(document.addEventListener)document.addEventListener("DOMContentLoaded",func);else if(document.attachEvent)document.attachEvent("DOMContentLoaded",func)};
 #%#var AG_removeElementById = function(id) { var element = document.getElementById(id); if (element && element.parentNode) { element.parentNode.removeChild(element); }};
@@ -208,6 +209,7 @@
 ||zebestof.com^$third-party
 ||adclient-uol.lp.uol.com.br^
 ||adv.r7.com^
+techdiniz.com,trueliketop.org#%#//scriptlet('set-cookie', 'force_ad', '2')
 seriesemcena.com.br#%#//scriptlet('prevent-requestAnimationFrame', '.clientHeight')
 seriesemcena.com.br#@#.ad-250
 seriesemcena.com.br#@#ins.adsbygoogle

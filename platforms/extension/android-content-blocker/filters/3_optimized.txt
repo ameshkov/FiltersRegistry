@@ -1,8 +1,9 @@
-! Checksum: D5h5cuii0CpDVojr0kye0Q
+! Checksum: fP3WuOrFwJxNj1ElJZDaNQ
+! Diff-Path: ../patches/3_optimized/3_optimized-s-1703676974-3600.patch
 ! Title: AdGuard Tracking Protection filter (Optimized)
 ! Description: The most comprehensive list of various online counters and web analytics tools. Use this filter if you do not want your actions on the Internet to be tracked.
-! Version: 2.0.64.98
-! TimeUpdated: 2023-12-26T14:10:17+00:00
+! Version: 2.0.64.99
+! TimeUpdated: 2023-12-27T11:32:28+00:00
 ! Expires: 4 days (update frequency)
 itmedia.co.jp#$##ulCommentWidget[style*="display"] { display: block !important; }
 elcomercio.es#$##engagement-top { display: none !important; }
@@ -56071,6 +56072,7 @@ inapps.appsflyersdk.com^
 !#################
 @@||mc.yandex.ru/metrika/tag.js$domain=banki.ru
 @@||mc.yandex.ru/metrika/tag.js$domain=7flowers.ru
+@@||d.line-scdn.net/*/torimochi.js/public/v1/release/stable/min/torimochi.js$domain=pointclub-portal.landpress.line.me
 @@||cdn-go.cn/aegis/aegis-sdk/latest/aegis.min.js$domain=yfk20.com
 !+ PLATFORM(ios, ext_safari, ext_android_cb)
 @@||googletagmanager.com/gtm.js$domain=alfemminile.com
