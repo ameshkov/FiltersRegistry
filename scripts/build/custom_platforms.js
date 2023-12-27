@@ -704,6 +704,7 @@ module.exports = {
     'EXTENSION_UBLOCK': {
         'platform': 'ext_ublock',
         'path': 'extension/ublock',
+        'expires': '12 hours',
         'configuration': {
             'removeRulePatterns': [
                 ...HTML_FILTERING_MODIFIER_PATTERNS,
