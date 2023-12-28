@@ -1,9 +1,9 @@
-! Checksum: oJAiJTLxIMqCqSb7uAX/Jw
-! Diff-Path: ../patches/3_optimized/3_optimized-s-1703770580-3600.patch
+! Checksum: u5WoXiEdI+OBCVp19CVU7Q
+! Diff-Path: ../patches/3_optimized/3_optimized-s-1703774173-3600.patch
 ! Title: AdGuard Tracking Protection filter (Optimized)
 ! Description: The most comprehensive list of various online counters and web analytics tools. Use this filter if you do not want your actions on the Internet to be tracked.
-! Version: 2.0.65.3
-! TimeUpdated: 2023-12-28T13:32:52+00:00
+! Version: 2.0.65.4
+! TimeUpdated: 2023-12-28T14:32:55+00:00
 ! Expires: 5 days (update frequency)
 #%#var AG_onLoad=function(func){if(document.readyState==="complete"||document.readyState==="interactive")func();else if(document.addEventListener)document.addEventListener("DOMContentLoaded",func);else if(document.attachEvent)document.attachEvent("DOMContentLoaded",func)};
 #%#var AG_removeElementById = function(id) { var element = document.getElementById(id); if (element && element.parentNode) { element.parentNode.removeChild(element); }};
@@ -37633,9 +37633,8 @@ login.coupang.com#%#//scriptlet('prevent-element-src-loading', 'script', 'app-co
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
 @@||galaxy.geely.com/assets/plugins/sa-sdk-javascript-*/sensorsdata.min.js
 @@||googletagmanager.com/gtm.js$domain=make.dmm.com
-capital.it#%#//scriptlet('prevent-element-src-loading', 'script', 'static.chartbeat.com/js/chartbeat_brightcove_plugin.js')
-!+ PLATFORM(ios, ext_android_cb, ext_safari)
-@@||static.chartbeat.com/js/chartbeat_brightcove_plugin.js$domain=capital.it
+@@||googletagmanager.com/gtm.js$domain=m2o.it|deejay.it|capital.it
+@@||static.chartbeat.com/js/chartbeat_brightcove_plugin.js$domain=m2o.it|deejay.it|capital.it
 ||form.info-morimoto-real.jp^$badfilter
 @@||cdn.taboola.com^$domain=asianetnews.com
 @@||trc-events.taboola.com^$domain=asianetnews.com
