@@ -1,9 +1,9 @@
-! Checksum: mPKmhQjumKHhEdcnIR8hdg
-! Diff-Path: ../patches/231_optimized/231_optimized-s-1703711135-14400.patch
+! Checksum: yKu3YXIZ6Yz2t7Bhnj7BlA
+! Diff-Path: ../patches/231_optimized/231_optimized-s-1703725524-14400.patch
 ! Title: EasyList Spanish (Optimized)
 ! Description: Additional filter list for websites in Spanish.
-! Version: 2.1.41.26
-! TimeUpdated: 2023-12-27T21:02:03+00:00
+! Version: 2.1.41.27
+! TimeUpdated: 2023-12-28T01:01:57+00:00
 ! Expires: 5 days (update frequency)
 /banner-publicidad-
 /234x60.php

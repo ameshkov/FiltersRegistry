@@ -1,13 +1,13 @@
-! Checksum: Ah7tAZioi+U2NyNHbJm8Zw
-! Diff-Path: ../patches/208/208-s-1703696754-14400.patch
+! Checksum: z6d8DQQboHJCUTiJT2pjvA
+! Diff-Path: ../patches/208/208-s-1703725520-14400.patch
 ! Title: Online Malicious URL Blocklist
 ! Description: Blocks domains that are known to be used to propagate malware and spyware.
-! Version: 2.0.93.82
-! TimeUpdated: 2023-12-27T13:01:57+00:00
+! Version: 2.0.93.83
+! TimeUpdated: 2023-12-28T01:01:36+00:00
 ! Expires: 5 days (update frequency)
 !
 ! Title: Online Malicious URL Blocklist (AdGuard)
-! Updated: 2023-12-27T12:08:37Z
+! Updated: 2023-12-28T00:09:02Z
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/malware-filter/urlhaus-filter
 ! License: https://gitlab.com/malware-filter/urlhaus-filter#license

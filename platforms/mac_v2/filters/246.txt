@@ -1,15 +1,15 @@
-! Checksum: SSa1e2Qg6VfKLu80vZgRRQ
-! Diff-Path: ../patches/246/246-s-1703711173-14400.patch
+! Checksum: hLGpuAVIVl3HS924sbpdpA
+! Diff-Path: ../patches/246/246-s-1703725560-14400.patch
 ! Title: EasyList Polish
 ! Description: Additional filter list for websites in Polish.
-! Version: 2.1.37.32
-! TimeUpdated: 2023-12-27T21:02:25+00:00
+! Version: 2.1.37.33
+! TimeUpdated: 2023-12-28T01:02:19+00:00
 ! Expires: 12 hours (update frequency)
 !
-! Checksum: xx5aqvE51G/9iKOW2YWGWQ
-! OriginalVersion: 202312272051
+! Checksum: ekZjeCS+aqvqgFWpQQUPtg
+! OriginalVersion: 202312280051
 ! Title: EasyList Polish
-! Last modified: 27 Dec 2023 20:51 UTC
+! Last modified: 28 Dec 2023 00:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html

@@ -1,15 +1,15 @@
-! Checksum: 16jFA2SvAiJeQlM779mqmA
-! Diff-Path: ../patches/109/109-s-1703711142-14400.patch
+! Checksum: iWwdpIlkEIwhwOC0uBzUBA
+! Diff-Path: ../patches/109/109-s-1703725531-14400.patch
 ! Title: EasyList Italy
 ! Description: Additional filter list for websites in Italian.
-! Version: 2.1.41.26
-! TimeUpdated: 2023-12-27T21:01:13+00:00
+! Version: 2.1.41.27
+! TimeUpdated: 2023-12-28T01:01:08+00:00
 ! Expires: 5 days (update frequency)
 !
-! Checksum: PSlPckfqSDykiQ6UBZu8Pw
-! OriginalVersion: 202312272051
+! Checksum: oZlFNBHcfnHYbgHlICMnpA
+! OriginalVersion: 202312280051
 ! Title: EasyList Italy
-! Last modified: 27 Dec 2023 20:51 UTC
+! Last modified: 28 Dec 2023 00:51 UTC
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://easylist.to/
 ! Licenza: https://easylist.to/pages/licence.html

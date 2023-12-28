@@ -1,15 +1,15 @@
-! Checksum: Ga1Hpksi8FlcXYbu+TjSXQ
-! Diff-Path: ../patches/207/207-s-1703711162-14400.patch
+! Checksum: 1RRBFVah4qkUxjU3f3zNEw
+! Diff-Path: ../patches/207/207-s-1703725550-14400.patch
 ! Title: Adblock Warning Removal List
 ! Description: Removes anti-adblock warnings and other obtrusive messages.
-! Version: 2.1.41.25
-! TimeUpdated: 2023-12-27T21:01:41+00:00
+! Version: 2.1.41.26
+! TimeUpdated: 2023-12-28T01:01:35+00:00
 ! Expires: 5 days (update frequency)
 !
-! Checksum: EjTTVUADjnLatFLmGPRIPw
-! OriginalVersion: 202312272051
+! Checksum: 4wN1S6sdOuBy5FoSSWtVYw
+! OriginalVersion: 202312280051
 ! Title: Adblock Warning Removal List
-! Last modified: 27 Dec 2023 20:51 UTC
+! Last modified: 28 Dec 2023 00:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/antiadblockfilters
 ! Licence: https://easylist.to/pages/licence.html

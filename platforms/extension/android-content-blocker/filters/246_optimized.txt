@@ -1,9 +1,9 @@
-! Checksum: L2LfOQrIguvQJ4qXGimivg
-! Diff-Path: ../patches/246_optimized/246_optimized-s-1703711132-14400.patch
+! Checksum: 7lTxkrT7STJdkV+mjyUohA
+! Diff-Path: ../patches/246_optimized/246_optimized-s-1703725521-14400.patch
 ! Title: EasyList Polish (Optimized)
 ! Description: Additional filter list for websites in Polish.
-! Version: 2.1.37.32
-! TimeUpdated: 2023-12-27T21:02:25+00:00
+! Version: 2.1.37.33
+! TimeUpdated: 2023-12-28T01:02:19+00:00
 ! Expires: 5 days (update frequency)
 /adserwer.
 =adv/GetAdvertisment|

@@ -1,9 +1,9 @@
-! Checksum: 5smc5blWMy+k0XMycEivww
-! Diff-Path: ../patches/107_optimized/107_optimized-s-1703612025-14400.patch
+! Checksum: gQcz9jp6rzvArlZAGCuPCA
+! Diff-Path: ../patches/107_optimized/107_optimized-s-1703725561-14400.patch
 ! Title: EasyList Germany (Optimized)
 ! Description: Additional filter list for websites in German. Already included in AdGuard German filter.
-! Version: 2.0.12.26
-! TimeUpdated: 2023-12-23T21:00:37+00:00
+! Version: 2.0.12.27
+! TimeUpdated: 2023-12-28T01:01:06+00:00
 ! Expires: 12 hours (update frequency)
 &werbemittel=
 -Bannerwerbung-
@@ -4058,6 +4058,7 @@ augsburger-allgemeine.de##.p-swatch_top-nice--blank.p-blocklink
 kultur.bz.it##.page-banner
 finanzen.ch##.page-layout__ad-header-bottom
 tour-magazin.de##.page-sponsoring
+eltern.de##.page__ad-element
 rhein-zeitung.de##.page__billboard
 hamburg-magazin.de,kiel-magazin.de,luebeck-magazin.de##.paidContent
 tschechien-online.org##.pane-aktuelle-top-links

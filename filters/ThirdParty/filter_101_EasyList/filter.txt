@@ -1,8 +1,8 @@
 !
-! Checksum: Pd3ApSKihlS7zssWJopakg
-! OriginalVersion: 202312272051
+! Checksum: 0Eaz2ASxqLHjoY0aYoOjTw
+! OriginalVersion: 202312280051
 ! Title: EasyList
-! Last modified: 27 Dec 2023 20:51 UTC
+! Last modified: 28 Dec 2023 00:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -25684,6 +25684,7 @@ browsershots.org#@#.advert_area
 ||cuesingle.com^
 ||cuevastrck.com^
 ||cueyetwee.site^
+||cugeeksy.net^
 ||cuisineenvoyadvertise.com^
 ||cuisineomnipresentinfinite.com^
 ||cuissenbisque.com^
@@ -33022,6 +33023,7 @@ browsershots.org#@#.advert_area
 ||jignairy.com^
 ||jigsawthirsty.com^
 ||jiiglogwdkcqwou.xyz^
+||jijhkclur.com^
 ||jikicotho.pro^
 ||jikvcrikdvng.com^
 ||jikzudkkispi.com^
@@ -34416,6 +34418,7 @@ browsershots.org#@#.advert_area
 ||linedpuzzle.com^
 ||linendoubtful.com^
 ||linendrink.com^
+||linensephraim.com^
 ||linerslutrine.guru^
 ||lingamretene.com^
 ||lingerincle.com^
@@ -35519,6 +35522,7 @@ browsershots.org#@#.advert_area
 ||mentiopportal.org^
 ||mentorconform.com^
 ||mentrandi.com^
+||mentswithde.com^
 ||mentxviewsinte.info^
 ||menui.xyz^
 ||menuoverridemotherhood.com^
@@ -35778,6 +35782,7 @@ browsershots.org#@#.advert_area
 ||mittylargen.com^
 ||miveci.uno^
 ||miwhethi.xyz^
+||miwllmo.com^
 ||mixandfun.com^
 ||mixeavocat.com^
 ||mixedknitting.com^
@@ -36194,6 +36199,7 @@ browsershots.org#@#.advert_area
 ||muddiedbubales.com^
 ||muddychronicstuffed.com^
 ||muddytransplantinsert.com^
+||mudwortlithog.website^
 ||mufcrkk.com^
 ||mufflealiases.com^
 ||muffled-apartment.com^
@@ -40548,6 +40554,7 @@ browsershots.org#@#.advert_area
 ||qdlbdpsctalt.com^
 ||qdlesuneeqoglp.com^
 ||qdmil.com^
+||qdotzfy.com^
 ||qdprapwflpvxpyl.com^
 ||qdxzpcytii.com^
 ||qe0ckm024b.com^
@@ -42822,6 +42829,7 @@ browsershots.org#@#.advert_area
 ||sexy-sluts.org^
 ||sexyadsrun.com^
 ||sexyepc.com^
+||sfafabztidi.com^
 ||sfcfssgbrhnsb.com^
 ||sffsdvc.com^
 ||sfinwoyxjx.xyz^
@@ -43597,6 +43605,7 @@ browsershots.org#@#.advert_area
 ||sombrdybhwa.com^
 ||somecdn.bid^
 ||somehowluxuriousreader.com^
+||someonein.org^
 ||somethingalbumexasperation.com^
 ||somethingprecursorfairfax.com^
 ||somevermedea.com^
@@ -53297,6 +53306,7 @@ browsershots.org#@#.advert_area
 ||ntedmanahegaz.com^$popup
 ||ntoftheusysia.info^$popup
 ||ntoftheusysianedt.info^
+||ntsiwoulukdli.org^$popup
 ||ntvpforever.com^$popup
 ||nudgercoptine.life^$popup
 ||nudgeworry.com^$popup
@@ -54111,6 +54121,7 @@ browsershots.org#@#.advert_area
 ||soliads.net^$popup
 ||solispartner.com^$popup
 ||solvingcue.com^$popup
+||someonein.org^$popup
 ||soninlawfaceconfide.com^$popup
 ||sonioubemeal.com^$popup
 ||soocaips.com^$popup
@@ -56416,6 +56427,7 @@ browsershots.org#@#.advert_area
 ||d25dfknw9ghxs6.cloudfront.net^
 ||d25xkbr68qqtcn.cloudfront.net^
 ||d261u4g5nqprix.cloudfront.net^
+||d264dxqvolp03e.cloudfront.net^
 ||d26adrx9c3n0mq.cloudfront.net^
 ||d26e5rmb2qzuo3.cloudfront.net^
 ||d26p9ecwyy9zqv.cloudfront.net^

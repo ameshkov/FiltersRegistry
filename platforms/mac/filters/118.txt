@@ -1,14 +1,14 @@
-! Checksum: TarhrK6stGdzLp669vKt1A
-! Diff-Path: ../patches/118/118-s-1703711165-14400.patch
+! Checksum: uST1Qk6n4VGQElqxboWSiA
+! Diff-Path: ../patches/118/118-s-1703725553-14400.patch
 ! Title: EasyPrivacy
 ! Description: Privacy protection supplement for EasyList.
-! Version: 2.1.19.65
-! TimeUpdated: 2023-12-27T21:01:21+00:00
+! Version: 2.1.19.66
+! TimeUpdated: 2023-12-28T01:01:16+00:00
 ! Expires: 5 days (update frequency)
 !
-! OriginalVersion: 202312272051
+! OriginalVersion: 202312280050
 ! Title: EasyPrivacy
-! Last modified: 27 Dec 2023 20:51 UTC
+! Last modified: 28 Dec 2023 00:50 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 !
@@ -10180,6 +10180,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hgcdn.net/?$third-party
 ||hi.hellobar.com^
 ||hicloud.com/download/web/dtm.js
+||highway.cablecar.sph.com.sg^
 ||highwebmedia.com/CACHE/js/output.92c98302d256.js
 ||hit.mybestpro.com^
 ||hits.dealer.com^
@@ -11072,6 +11073,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||streamads.com/view?
 ||streamoptim.com/log.js
 ||streamoptim.com/log/report?
+||streams.cablecar.sph.com.sg^
 ||streamtheworld.com/imp?
 ||stripe.com/?event=
 ||sts.eccmp.com^
@@ -13360,7 +13362,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fortune.com/comscore-json/
 ||foursquare.com/v2/private/logactions
 ||foxsports.com.au/akam/
-||foxsports.com/static/orion/js/segment-analytics.js
 ||fp.heavybit.com^
 ||fp.measure.office.com^
 ||fpa-cdn.adweek.com^
