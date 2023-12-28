@@ -1,9 +1,9 @@
-! Checksum: hO0K2zc1Mu26Tv34o9VrDQ
-! Diff-Path: ../patches/18/18-s-1703774163-3600.patch
+! Checksum: VUgX8xbckqejeT5szPAIWQ
+! Diff-Path: ../patches/18/18-s-1703781355-3600.patch
 ! Title: AdGuard Cookie Notices filter
 ! Description: Blocks cookie notices on web pages.
-! Version: 2.0.30.44
-! TimeUpdated: 2023-12-28T14:31:59+00:00
+! Version: 2.0.30.45
+! TimeUpdated: 2023-12-28T16:31:37+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -2335,6 +2335,7 @@ cmp.chip.de#%#//scriptlet('trusted-click-element', '.sp_choice_type_9:not(.last-
 !
 ! NOTE: Regular rules
 !
+||ferroflex.ch/typo3temp/assets/compressed/cookieman-theme.min-
 login.plurall.net##div[class^="PrivacyFooter_privacy"]
 packlink.it##div[data-js="cookie-disclaimer"]
 wohnglueck.de#$?#.overflowHidden { overflow: auto !important; }

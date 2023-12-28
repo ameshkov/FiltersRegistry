@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: r7/nlNqnwM79XWaLanjNFQ
-! Diff-Path: ../patches/18/18-s-1703774167-3600.patch
+! Checksum: 1iTbjNRX9YmybKKJD0wYSg
+! Diff-Path: ../patches/18/18-s-1703781360-3600.patch
 ! Title: AdGuard Cookie Notices filter
 ! Description: Blocks cookie notices on web pages.
-! Version: 2.0.30.44
-! TimeUpdated: 2023-12-28T14:31:59+00:00
+! Version: 2.0.30.45
+! TimeUpdated: 2023-12-28T16:31:37+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -2310,6 +2310,7 @@ cioccolatonippon.it,movieplayer.it,hwupgrade.it,iphoneitalia.com,mediaset.it,tom
 !
 ! NOTE: Regular rules
 !
+||ferroflex.ch/typo3temp/assets/compressed/cookieman-theme.min-
 login.plurall.net##div[class^="PrivacyFooter_privacy"]
 packlink.it##div[data-js="cookie-disclaimer"]
 wohnglueck.de#$?#.overflowHidden { overflow: auto !important; }
