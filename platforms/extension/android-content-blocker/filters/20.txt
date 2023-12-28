@@ -1,9 +1,9 @@
-! Checksum: faAtv0iU67rIYC/iW7Zimw
-! Diff-Path: ../patches/20/20-s-1703752526-3600.patch
+! Checksum: IQU5xL9qnR64HrzivPSqVw
+! Diff-Path: ../patches/20/20-s-1703766929-3600.patch
 ! Title: AdGuard Mobile App Banners filter
 ! Description: Blocks irritating banners that promote mobile apps of websites.
-! Version: 2.0.11.51
-! TimeUpdated: 2023-12-28T08:31:44+00:00
+! Version: 2.0.11.52
+! TimeUpdated: 2023-12-28T12:31:55+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -111,6 +111,7 @@ turkishairlines.com,atmos-tokyo.com,radarbox.com,ciceksepeti.com,rabota.by,temp-
 ! TODO: Delete the following rule when https://github.com/AdguardTeam/ExtendedCss/issues/172 is resolved.
 ! https://github.com/AdguardTeam/AdguardFilters/issues/161301
 !
+bfmtv.com#$##android_banner { display: none!important; }
 indiatimes.com##.site-header__getapp
 fressnapf.de#$#.smartbanner { display: none !important; }
 fressnapf.de#$#.header--smart-banner-visible { top: 0!important; }

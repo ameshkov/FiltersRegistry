@@ -1,9 +1,9 @@
-! Checksum: m4/VUQyJ/zzp+RUv04uwdQ
-! Diff-Path: ../patches/11_optimized/11_optimized-s-1703763327-3600.patch
+! Checksum: ey0JEVhcV1FhHpzVvu1r5Q
+! Diff-Path: ../patches/11_optimized/11_optimized-s-1703766925-3600.patch
 ! Title: AdGuard Mobile Ads filter (Optimized)
 ! Description: Filter for all known mobile ad networks. Useful for mobile devices.
-! Version: 2.0.47.78
-! TimeUpdated: 2023-12-28T11:31:16+00:00
+! Version: 2.0.47.79
+! TimeUpdated: 2023-12-28T12:31:13+00:00
 ! Expires: 5 days (update frequency)
 ||dad-api.dcard.tw^
 ||ad-splash-tracking.hktvmall.com^

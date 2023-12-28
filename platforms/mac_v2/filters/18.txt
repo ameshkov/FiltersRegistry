@@ -1,9 +1,9 @@
-! Checksum: +ewMEdxvFU6pqktij59rnQ
-! Diff-Path: ../patches/18/18-s-1703752567-3600.patch
+! Checksum: s/Bwm0N8XmJfoD0zaCRxJQ
+! Diff-Path: ../patches/18/18-s-1703766976-3600.patch
 ! Title: AdGuard Cookie Notices filter
 ! Description: Blocks cookie notices on web pages.
-! Version: 2.0.30.42
-! TimeUpdated: 2023-12-28T08:31:30+00:00
+! Version: 2.0.30.43
+! TimeUpdated: 2023-12-28T12:31:41+00:00
 ! Expires: 12 hours (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -2330,6 +2330,7 @@ cmp.chip.de#%#//scriptlet('trusted-click-element', '.sp_choice_type_9:not(.last-
 !
 ! NOTE: Regular rules
 !
+packlink.it##div[data-js="cookie-disclaimer"]
 wohnglueck.de#$?#.overflowHidden { overflow: auto !important; }
 motomagazyn.pl##.adp-popup
 petri.com###enlivy-kit-cookie-policy-container
@@ -14395,7 +14396,6 @@ elearningindustry.com#%#document.cookie = "cookie_preferences=0-0-0-0";
 selgros.pl#%#//scriptlet('set-cookie', 'cookie_new_msg', '1')
 guard.io#%#//scriptlet('set-cookie', 'cookie_consent_seen', '1')
 consent.google.*#%#AG_onLoad(function(){if(window.location.href.includes("consent.google.")){var a=document.querySelector('form[action^="https://consent.google."][action$="/s"]')||document.querySelector('form[action^="https://consent.google."][action$="/save"]');if(a)a.submit();else{var b=new MutationObserver(function(){a&&(b.disconnect(),a.submit())});b.observe(document,{childList:!0,subtree:!0});setTimeout(function(){b.disconnect()},1E4)}}});
-consent.youtube.com#%#AG_onLoad(function(){if(window.location.href.includes("consent.youtube.com")){var a=new MutationObserver(function(){var b=document.querySelector('form[action="https://consent.youtube.com/s"]')||document.querySelector('form[action="https://consent.youtube.com/save"]');b&&(a.disconnect(),b.submit())});a.observe(document,{childList:!0,subtree:!0});setTimeout(function(){a.disconnect()},1E4)}});
 zweitausendeins.de,meyer-gartenbedarf.de#%#//scriptlet('set-cookie', 'amcookie_allowed', '1')
 geforcenow.com#%#(function(){var a=new MutationObserver(function(){var b=document.querySelector(".welcome-footer-container > button.mat-button-base");b&&(a.disconnect(),b.click())});a.observe(document,{childList:!0,subtree:!0});setTimeout(function(){a.disconnect()},1E4)})();
 tennisassa.fi#%#(function(){if("/cookiewall/"===location.pathname){var a=new MutationObserver(function(){var b=document.querySelector(".js-accept-basic");b&&(a.disconnect(),b.click())});a.observe(document,{childList:!0,subtree:!0});setTimeout(function(){a.disconnect()},1E4)}})();

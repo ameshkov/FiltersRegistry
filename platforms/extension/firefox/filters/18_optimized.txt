@@ -1,9 +1,9 @@
-! Checksum: Xk/3Xiz1pFuyVNj4jvfBXw
-! Diff-Path: ../patches/18_optimized/18_optimized-s-1703752538-3600.patch
+! Checksum: IChSG8w5Ctwv9XWleucJ0g
+! Diff-Path: ../patches/18_optimized/18_optimized-s-1703766943-3600.patch
 ! Title: AdGuard Cookie Notices filter (Optimized)
 ! Description: Blocks cookie notices on web pages.
-! Version: 2.0.30.42
-! TimeUpdated: 2023-12-28T08:31:30+00:00
+! Version: 2.0.30.43
+! TimeUpdated: 2023-12-28T12:31:41+00:00
 ! Expires: 5 days (update frequency)
 #%#var AG_onLoad=function(func){if(document.readyState==="complete"||document.readyState==="interactive")func();else if(document.addEventListener)document.addEventListener("DOMContentLoaded",func);else if(document.attachEvent)document.attachEvent("DOMContentLoaded",func)};
 #%#var AG_removeElementById = function(id) { var element = document.getElementById(id); if (element && element.parentNode) { element.parentNode.removeChild(element); }};
@@ -1185,6 +1185,7 @@ wexphotovideo.com,m2o.it,moto.it,automoto.it,atlantico.fr,movieplayer.it,mediase
 ||cdn.privacy-mgmt.com^$important,domain=promipool.de|android-hilfe.de|wsj.com
 cmp.chip.de,cmpv2.pcworld.com,baseendpoint.brigitte.de,thepopverse.com,cmpv2.netdoktor.ch,cmp.videogameschronicle.com,cmp.svd.se,cmpsp.gamesindustry.biz,cmp.omni.se,lbc.co.uk,eurogamer.pl,cmpsp.computerhoy.com,cmp.dpgmedia.be,consent.yorkshirepost.co.uk,stuttgarter-nachrichten.de,consent.formula1.com,sp-spiegel-de.spiegel.de,sourcepoint.kotaku.com,sourcepoint.tvnow.de,privacy.menshealth.de,baseendpoint.urbia.de,cmp.utopia.de,baseendpoint.vip.de,cdn.privacy-mgmt.com,cmp-sp.lvz.de,cmp2.macwelt.de,cmp2.pcwelt.de,cmp.travelbook.de,cmp.petbook.de,consent.gamingbible.com#%#//scriptlet('trusted-click-element', 'button.sp_choice_type_11')
 cmp.chip.de#%#//scriptlet('trusted-click-element', '.sp_choice_type_9:not(.last-focusable-el)')
+packlink.it##div[data-js="cookie-disclaimer"]
 wohnglueck.de#$?#.overflowHidden { overflow: auto !important; }
 motomagazyn.pl##.adp-popup
 petri.com###enlivy-kit-cookie-policy-container
@@ -7145,7 +7146,6 @@ elearningindustry.com#%#document.cookie = "cookie_preferences=0-0-0-0";
 selgros.pl#%#//scriptlet('set-cookie', 'cookie_new_msg', '1')
 guard.io#%#//scriptlet('set-cookie', 'cookie_consent_seen', '1')
 consent.google.*#%#AG_onLoad(function(){if(window.location.href.includes("consent.google.")){var a=document.querySelector('form[action^="https://consent.google."][action$="/s"]')||document.querySelector('form[action^="https://consent.google."][action$="/save"]');if(a)a.submit();else{var b=new MutationObserver(function(){a&&(b.disconnect(),a.submit())});b.observe(document,{childList:!0,subtree:!0});setTimeout(function(){b.disconnect()},1E4)}}});
-consent.youtube.com#%#AG_onLoad(function(){if(window.location.href.includes("consent.youtube.com")){var a=new MutationObserver(function(){var b=document.querySelector('form[action="https://consent.youtube.com/s"]')||document.querySelector('form[action="https://consent.youtube.com/save"]');b&&(a.disconnect(),b.submit())});a.observe(document,{childList:!0,subtree:!0});setTimeout(function(){a.disconnect()},1E4)}});
 zweitausendeins.de,meyer-gartenbedarf.de#%#//scriptlet('set-cookie', 'amcookie_allowed', '1')
 geforcenow.com#%#(function(){var a=new MutationObserver(function(){var b=document.querySelector(".welcome-footer-container > button.mat-button-base");b&&(a.disconnect(),b.click())});a.observe(document,{childList:!0,subtree:!0});setTimeout(function(){a.disconnect()},1E4)})();
 tennisassa.fi#%#(function(){if("/cookiewall/"===location.pathname){var a=new MutationObserver(function(){var b=document.querySelector(".js-accept-basic");b&&(a.disconnect(),b.click())});a.observe(document,{childList:!0,subtree:!0});setTimeout(function(){a.disconnect()},1E4)}})();

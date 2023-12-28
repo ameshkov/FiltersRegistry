@@ -1,9 +1,9 @@
-! Checksum: hch7NQ7pE8AieyJx9NPlMQ
-! Diff-Path: ../patches/14/14-s-1703759732-3600.patch
+! Checksum: kYC5w6LH8R3HBMZ0YGvPBg
+! Diff-Path: ../patches/14/14-s-1703766925-3600.patch
 ! Title: AdGuard Annoyances filter
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups. Contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets.
-! Version: 2.1.83.30
-! TimeUpdated: 2023-12-28T10:31:40+00:00
+! Version: 2.1.83.31
+! TimeUpdated: 2023-12-28T12:31:31+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -2300,6 +2300,7 @@ cioccolatonippon.it,movieplayer.it,hwupgrade.it,iphoneitalia.com,mediaset.it,tom
 !
 ! NOTE: Regular rules
 !
+packlink.it##div[data-js="cookie-disclaimer"]
 motomagazyn.pl##.adp-popup
 petri.com###enlivy-kit-cookie-policy-container
 cancer.org.au##.notification_banner
@@ -27747,6 +27748,7 @@ newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,nordbayern.de,theloca
 !
 ! SECTION: Subscriptions - Regular rules
 !
+packlink.it##.com-newsletter
 read.engineerscodex.com##.subscribe-footer
 technologyreview.com##div[class^="stayConnected"]
 technologyreview.com##footer > div#piano__body-footer
@@ -33282,6 +33284,7 @@ turkishairlines.com,atmos-tokyo.com,radarbox.com,ciceksepeti.com,rabota.by,temp-
 ! TODO: Delete the following rule when https://github.com/AdguardTeam/ExtendedCss/issues/172 is resolved.
 ! https://github.com/AdguardTeam/AdguardFilters/issues/161301
 !
+bfmtv.com#$##android_banner { display: none!important; }
 indiatimes.com##.site-header__getapp
 fressnapf.de#$#.smartbanner { display: none !important; }
 fressnapf.de#$#.header--smart-banner-visible { top: 0!important; }

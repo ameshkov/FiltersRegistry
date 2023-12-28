@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: qTXF3h4egde8sGwVqAWhBA
-! Diff-Path: ../patches/16/16-s-1703695021-3600.patch
+! Checksum: Ozx3xiikSh1/tNgD1S1ATg
+! Diff-Path: ../patches/16/16-s-1703766959-3600.patch
 ! Title: AdGuard French filter
 ! Description: Liste FR + AdGuard French filter. Filter list that specifically removes ads on websites in French language.
-! Version: 2.0.42.60
-! TimeUpdated: 2023-12-27T14:31:31+00:00
+! Version: 2.0.42.61
+! TimeUpdated: 2023-12-28T12:31:38+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -854,6 +854,7 @@ $script,third-party,denyallow=fastly.net|statically.io|sharecast.ws|bunnycdn.ru|
 !
 !
 !
+bfmtv.com##.bloc_center_full
 lexpress.fr##.placeholder--ban-atf-wrapper
 dailygeekshow.com##.pepsia_player
 dailygeekshow.com##.sidebar-sticky-ads
