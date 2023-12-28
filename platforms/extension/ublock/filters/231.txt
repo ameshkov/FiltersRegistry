@@ -1,16 +1,16 @@
 ![Adblock Plus 2.0]
-! Checksum: eESB8W5hlXfctjgLw2lvOQ
-! Diff-Path: ../patches/231/231-s-1703725546-14400.patch
+! Checksum: t6T0At6ElKPCb0hjE4kNhA
+! Diff-Path: ../patches/231/231-s-1703739944-14400.patch
 ! Title: EasyList Spanish
 ! Description: Additional filter list for websites in Spanish.
-! Version: 2.1.41.27
-! TimeUpdated: 2023-12-28T01:01:57+00:00
+! Version: 2.1.41.28
+! TimeUpdated: 2023-12-28T05:01:56+00:00
 ! Expires: 5 days (update frequency)
 !
-! Checksum: F26t6xyUhVxUygBVIwDSgg
-! OriginalVersion: 202312280051
+! Checksum: ZAKjOYB1bfdMEAAPOoEq6Q
+! OriginalVersion: 202312280451
 ! Title: EasyList Spanish
-! Last modified: 28 Dec 2023 00:51 UTC
+! Last modified: 28 Dec 2023 04:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
