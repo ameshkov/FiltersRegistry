@@ -1,9 +1,9 @@
-! Checksum: M9xFUlWahVHG2iwOQtXnDg
-! Diff-Path: ../patches/123_optimized/123_optimized-s-1703739960-14400.patch
+! Checksum: nPHwwS8d8AbmG7WkbfVCoA
+! Diff-Path: ../patches/123_optimized/123_optimized-s-1703754405-14400.patch
 ! Title: Fanboy's Social Blocking List (Optimized)
 ! Description: Hides and blocks social content, social widgets, social scripts and social icons. Already included in Fanboy's Annoyances list.
-! Version: 2.1.16.98
-! TimeUpdated: 2023-12-28T05:01:30+00:00
+! Version: 2.1.16.99
+! TimeUpdated: 2023-12-28T09:01:50+00:00
 ! Expires: 12 hours (update frequency)
 -buttons-facebook.
 -facebook-share.

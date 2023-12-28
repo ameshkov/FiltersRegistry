@@ -1,9 +1,9 @@
-! Checksum: 4EaO9eRTtUbILKojQ+TkMQ
-! Diff-Path: ../patches/118_optimized/118_optimized-s-1703739960-14400.patch
+! Checksum: mcvSV63rH61Eqck2IG6dEw
+! Diff-Path: ../patches/118_optimized/118_optimized-s-1703754405-14400.patch
 ! Title: EasyPrivacy (Optimized)
 ! Description: Privacy protection supplement for EasyList.
-! Version: 2.1.19.67
-! TimeUpdated: 2023-12-28T05:01:16+00:00
+! Version: 2.1.19.68
+! TimeUpdated: 2023-12-28T09:01:35+00:00
 ! Expires: 12 hours (update frequency)
 &action=js_stats&
 &ev=PageView&
@@ -4478,6 +4478,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||handsomeyam.com^
 ||handyfield.com^
 ||handyfireman.com^
+||handyincrease.com^
 ||haplessland.com^
 ||happenhistory.com^
 ||harborcaption.com^

@@ -1,8 +1,8 @@
 !
-! Checksum: Yi142Z8+BTP7uePJWPeowA
-! OriginalVersion: 202312280451
+! Checksum: waW1D2UbBxImN6LsOc/BRw
+! OriginalVersion: 202312280851
 ! Title: EasyList
-! Last modified: 28 Dec 2023 04:51 UTC
+! Last modified: 28 Dec 2023 08:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50346,6 +50346,7 @@ browsershots.org#@#.advert_area
 ||fisari.com^$third-party
 ||fixionmedia.com^$third-party
 ||flashtalking.com^$third-party
+||flower-ads.com^$third-party
 ||flyersquare.com^$third-party
 ||flymyads.com^$third-party
 ||focusde.info^$third-party
