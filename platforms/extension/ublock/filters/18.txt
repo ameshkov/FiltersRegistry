@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: vp0xjVW95Hc3wXaV2mwasA
-! Diff-Path: ../patches/18/18-s-1703705726-3600.patch
+! Checksum: HWcBg28QbqTdDkxh4KwLOw
+! Diff-Path: ../patches/18/18-s-1703748915-3600.patch
 ! Title: AdGuard Cookie Notices filter
 ! Description: Blocks cookie notices on web pages.
-! Version: 2.0.30.40
-! TimeUpdated: 2023-12-27T19:31:21+00:00
+! Version: 2.0.30.41
+! TimeUpdated: 2023-12-28T07:31:20+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -2236,7 +2236,7 @@ corrieredellosport.it#$#body { overflow: auto !important; }
 !
 ! realCookieBanner
 die-gesunde-wahrheit.de,geekguide.de,androjungle.com,vampster.com,noobguides.de,fcportables.com,wagenheber24.de,emojiszumkopieren.de,technikshavo.de,indibit.de,audiovision.de,ratgeber-umschulung.de,viel-unterwegs.de,ahorn-camp.de,mmo-sankar.de,der-windows-papst.de##+js(set-constant, realCookieBanner, undefined)
-jpgames.de,europassitalian.com,philosophia-perennis.com##+js(set-constant, realCookieBanner.others.isPreventPreDecision, true)
+kieruneknorwegia.pl,jpgames.de,europassitalian.com,philosophia-perennis.com##+js(set-constant, realCookieBanner.others.isPreventPreDecision, true)
 /\/wp-content\/[a-f0-9]{32}.js/$domain=tecsafe.de|viel-unterwegs.de|ahorn-camp.de|mmo-sankar.de|der-windows-papst.de|audiovision.de|indibit.de|technikshavo.de|emojiszumkopieren.de|wagenheber24.de|fcportables.com|noobguides.de|vampster.com|geekguide.de
 !
 ! cmpbox cookies

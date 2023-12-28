@@ -1,9 +1,9 @@
-! Checksum: 4xaBHa8m7Pf6jjoJ6x7uJA
-! Diff-Path: ../patches/18/18-s-1703705742-3600.patch
+! Checksum: CkjU35TiUNKWoojX7USOPg
+! Diff-Path: ../patches/18/18-s-1703748927-3600.patch
 ! Title: AdGuard Cookie Notices filter
 ! Description: Blocks cookie notices on web pages.
-! Version: 2.0.30.40
-! TimeUpdated: 2023-12-27T19:31:21+00:00
+! Version: 2.0.30.41
+! TimeUpdated: 2023-12-28T07:31:20+00:00
 ! Expires: 12 hours (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -2248,7 +2248,7 @@ corrieredellosport.it#$#body { overflow: auto !important; }
 ! #%#//scriptlet('set-constant', 'realCookieBanner', 'undefined')
 die-gesunde-wahrheit.de,geekguide.de,androjungle.com,vampster.com,noobguides.de,fcportables.com,wagenheber24.de,emojiszumkopieren.de,technikshavo.de,indibit.de,audiovision.de,ratgeber-umschulung.de,viel-unterwegs.de,ahorn-camp.de,mmo-sankar.de,der-windows-papst.de#%#//scriptlet('set-constant', 'realCookieBanner', 'undefined')
 ! #%#//scriptlet('set-constant', 'realCookieBanner.others.isPreventPreDecision', 'true')
-jpgames.de,europassitalian.com,philosophia-perennis.com#%#//scriptlet('set-constant', 'realCookieBanner.others.isPreventPreDecision', 'true')
+kieruneknorwegia.pl,jpgames.de,europassitalian.com,philosophia-perennis.com#%#//scriptlet('set-constant', 'realCookieBanner.others.isPreventPreDecision', 'true')
 ! viel-unterwegs.de,ahorn-camp.de,mmo-sankar.de,der-windows-papst.de#@%#//scriptlet("set-constant", "realCookieBanner", "undefined")
 /\/wp-content\/[a-f0-9]{32}.js/$domain=tecsafe.de|viel-unterwegs.de|ahorn-camp.de|mmo-sankar.de|der-windows-papst.de|audiovision.de|indibit.de|technikshavo.de|emojiszumkopieren.de|wagenheber24.de|fcportables.com|noobguides.de|vampster.com|geekguide.de
 !
