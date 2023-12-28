@@ -1,9 +1,9 @@
-! Checksum: pKJ99v+92LUK6iCsUGD/Tw
-! Diff-Path: ../patches/19_optimized/19_optimized-s-1703756117-3600.patch
+! Checksum: g3FQzMELmpvk8Sn/Nje3TQ
+! Diff-Path: ../patches/19_optimized/19_optimized-s-1703759733-3600.patch
 ! Title: AdGuard Popups filter (Optimized)
 ! Description: Blocks all kinds of pop-ups that are not necessary for websites' operation.
-! Version: 2.0.29.13
-! TimeUpdated: 2023-12-28T09:31:41+00:00
+! Version: 2.0.29.14
+! TimeUpdated: 2023-12-28T10:31:54+00:00
 ! Expires: 5 days (update frequency)
 ://yandex.*/images/_$xmlhttprequest,method=post
 [$path=/images]ya.ru,yandex.*##.Root > div.MastHead
@@ -334,6 +334,7 @@ scitechdaily.com,thewindowsclub.com#@#.ad-space
 ||wp-r.github.io/*/assets/js/jquery.adsplacer.ab-testing.js
 ||wp-r.github.io/adsplacer_pro/$third-party
 !#safari_cb_affinity
+||chinahandys.net/*/adblock-tracker.js
 ||baeldung.com/*/wp-content/themes/baeldung/library/dist/js/ad-recovery.min.js
 rtl.hu##.adblock-confirm
 ||lightmaneye.github.io^$subdocument,domain=everyeye.it
