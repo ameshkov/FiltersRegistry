@@ -1,14 +1,14 @@
-! Checksum: JMsvfs5afdIpwWBS4xmAww
-! Diff-Path: ../patches/214/214-s-1703754359-14400.patch
+! Checksum: je2sTdXDjWodgdAONGwGPA
+! Diff-Path: ../patches/214/214-s-1703768801-14400.patch
 ! Title: ABPVN List
 ! Description: Vietnamese adblock filter list.
-! Version: 2.0.25.81
-! TimeUpdated: 2023-12-28T09:01:57+00:00
+! Version: 2.0.25.82
+! TimeUpdated: 2023-12-28T13:02:21+00:00
 ! Expires: 5 days (update frequency)
 ! version for AdGuard Content Blocker only
-! OriginalVersion: 20231228155331
+! OriginalVersion: 20231228162748
 ! Title: ABPVN List
-! Last modified: 28 Dec 2023 15:53:31 UTC+7
+! Last modified: 28 Dec 2023 16:27:48 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter

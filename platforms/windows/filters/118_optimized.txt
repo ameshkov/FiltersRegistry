@@ -1,9 +1,9 @@
-! Checksum: mcvSV63rH61Eqck2IG6dEw
-! Diff-Path: ../patches/118_optimized/118_optimized-s-1703754405-14400.patch
+! Checksum: vonQGxNhQ84tJgycSW5X2w
+! Diff-Path: ../patches/118_optimized/118_optimized-s-1703768846-14400.patch
 ! Title: EasyPrivacy (Optimized)
 ! Description: Privacy protection supplement for EasyList.
-! Version: 2.1.19.68
-! TimeUpdated: 2023-12-28T09:01:35+00:00
+! Version: 2.1.19.69
+! TimeUpdated: 2023-12-28T13:01:56+00:00
 ! Expires: 12 hours (update frequency)
 &action=js_stats&
 &ev=PageView&

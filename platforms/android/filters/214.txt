@@ -1,15 +1,15 @@
-! Checksum: iPM5bSpBMIkHfFy++QW3Ww
-! Diff-Path: ../patches/214/214-s-1703754355-14400.patch
+! Checksum: Dtr8Y4CMF76JTm/JhEMMaQ
+! Diff-Path: ../patches/214/214-s-1703768797-14400.patch
 ! Title: ABPVN List
 ! Description: Vietnamese adblock filter list.
-! Version: 2.0.25.81
-! TimeUpdated: 2023-12-28T09:01:57+00:00
+! Version: 2.0.25.82
+! TimeUpdated: 2023-12-28T13:02:21+00:00
 ! Expires: 5 days (update frequency)
 !
 ! version for all other AdGuard products
-! OriginalVersion: 20231228155331
+! OriginalVersion: 20231228162748
 ! Title: ABPVN List
-! Last modified: 28 Dec 2023 15:53:31 UTC+7
+! Last modified: 28 Dec 2023 16:27:48 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter
@@ -1464,7 +1464,7 @@ truyenqqvn.com#%#//scriptlet("abort-current-inline-script", "document.addEventLi
 truyensieuhay.com,phimvietsub.pro,tvhayh.org,vuaphimmoi.net,quangcaoyenbai.com,sieudamtv.net,ephimchill.com,motphimhan.cc,maclife.io,ophimhdvn3.net,thuvienhd.xyz#%#//scriptlet("abort-on-property-read", "document.cookie")
 truyentuan.com#%#//scriptlet("abort-current-inline-script", "$", "btpop")
 vailonxx.com,phimlongtieng.com,phimlongtieng.net#%#//scriptlet("abort-current-inline-script", "jQuery", "window.open")
-viet69.tube,ungtycomicsvip.com,vlxx.xxx,dualeotruyenww.com,yurineko.net,vlxyz.tv,javhay.media,phimsexhay669.co,cliphot69.biz,doctruyen3qmoi.com,hentaizz.vip,animehay.city,heo69.top,tuoi69.one,top1sex.club,lenlut.net,xemsex.asia,hentai-vn.com,web21.sexphim1.com,cdn.streamvl.sbs,buomtv.tv,motchillzz.in#%#//scriptlet("abort-current-inline-script", "WebAssembly", "instantiate")
+viet69.tube,ungtycomicsvip.com,vlxx.xxx,dualeotruyenww.com,yurineko.net,vlxyz.tv,javhay.media,phimsexhay669.co,cliphot69.biz,doctruyen3qmoi.com,hentaizz.vip,animehay.city,heo69.top,tuoi69.one,top1sex.club,lenlut.net,xemsex.asia,hentai-vn.com,web21.sexphim1.com,cdn.streamvl.sbs,buomtv.tv,motchillzz.in,truyenvnhay.tv#%#//scriptlet("abort-current-inline-script", "WebAssembly", "instantiate")
 viettoons.tv,mv.phimmoiaz.cc,m.blogtruyen.vn,vinaurl.net,animet.net,anh.moe#%#//scriptlet("abort-on-property-read", "open")
 vndoc.com#%#//scriptlet("set-constant", "seconds", "0")
 vuaphimmoi.net#%#//scriptlet("abort-current-inline-script", "$", "urlAdsMbIntro")

@@ -1,9 +1,9 @@
-! Checksum: EFtftBaCXnGpaEN2padgnA
-! Diff-Path: ../patches/214_optimized/214_optimized-s-1703754359-14400.patch
+! Checksum: lOBNBJKtinbCQ73ZxQwZog
+! Diff-Path: ../patches/214_optimized/214_optimized-s-1703768801-14400.patch
 ! Title: ABPVN List (Optimized)
 ! Description: Vietnamese adblock filter list.
-! Version: 2.0.25.81
-! TimeUpdated: 2023-12-28T09:01:57+00:00
+! Version: 2.0.25.82
+! TimeUpdated: 2023-12-28T13:02:21+00:00
 ! Expires: 5 days (update frequency)
 .com/cpc/$script
 .com/qc/

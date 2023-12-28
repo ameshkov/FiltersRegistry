@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: 1wodNzV2Rien/Nmo37nSRg
-! Diff-Path: ../patches/124_optimized/124_optimized-s-1703754387-14400.patch
+! Checksum: C4abkcBvFyU49LFfuln1YA
+! Diff-Path: ../patches/124_optimized/124_optimized-s-1703768829-14400.patch
 ! Title: EasyList Portuguese (Optimized)
 ! Description: Additional filter list for websites in Spanish and Portuguese.
-! Version: 2.0.13.2
-! TimeUpdated: 2023-12-28T09:01:51+00:00
+! Version: 2.0.13.3
+! TimeUpdated: 2023-12-28T13:02:14+00:00
 ! Expires: 5 days (update frequency)
 /ads/anuncio.
 -publicidade.
