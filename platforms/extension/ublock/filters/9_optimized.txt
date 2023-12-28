@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: YezgUgTVqWjBAQksln/6Xw
-! Diff-Path: ../patches/9_optimized/9_optimized-s-1703774170-3600.patch
+! Checksum: RC5B3AUzHWIihNFEkWRe+Q
+! Diff-Path: ../patches/9_optimized/9_optimized-s-1703777749-3600.patch
 ! Title: AdGuard Spanish/Portuguese filter (Optimized)
 ! Description: Filter list that specifically removes ads on websites in Spanish, Portuguese, and Brazilian Portuguese languages.
-! Version: 2.0.22.65
-! TimeUpdated: 2023-12-28T14:33:25+00:00
+! Version: 2.0.22.66
+! TimeUpdated: 2023-12-28T15:33:04+00:00
 ! Expires: 5 days (update frequency)
 ||nobeta.com.br^$third-party
 ||bcgame.top^$popup

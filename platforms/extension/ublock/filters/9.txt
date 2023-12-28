@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: cKWgsOPovC8ujaikoVVD6Q
-! Diff-Path: ../patches/9/9-s-1703774170-3600.patch
+! Checksum: LprYZY3nciXH8ZesahHhzA
+! Diff-Path: ../patches/9/9-s-1703777749-3600.patch
 ! Title: AdGuard Spanish/Portuguese filter
 ! Description: Filter list that specifically removes ads on websites in Spanish, Portuguese, and Brazilian Portuguese languages.
-! Version: 2.0.22.65
-! TimeUpdated: 2023-12-28T14:33:25+00:00
+! Version: 2.0.22.66
+! TimeUpdated: 2023-12-28T15:33:04+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -298,6 +298,7 @@
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/169126
 ! https://github.com/AdguardTeam/AdguardFilters/issues/169287
 techdiniz.com,trueliketop.org##+js(set-cookie, force_ad, 2)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/169277

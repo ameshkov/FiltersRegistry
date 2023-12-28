@@ -1,9 +1,9 @@
-! Checksum: umta6o6UnwPFwz3ZR9nmdQ
-! Diff-Path: ../patches/21/21-s-1703756127-3600.patch
+! Checksum: J/avpsVfSVpPyYDhHkF4wQ
+! Diff-Path: ../patches/21/21-s-1703777728-3600.patch
 ! Title: AdGuard Other Annoyances filter
 ! Description: Blocks irritating elements on web pages that do not fall under the popular categories of annoyances.
-! Version: 2.0.18.23
-! TimeUpdated: 2023-12-28T09:31:53+00:00
+! Version: 2.0.18.24
+! TimeUpdated: 2023-12-28T15:31:53+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -4958,6 +4958,9 @@ theguardian.com##.contributions__adblock
 !
 ! SECTION: Self-promo - Regular rules
 !
+blog.skillfactory.ru##.banner__middle
+blog.skillfactory.ru##.wp-block-vadim-banner-strip
+blog.skillfactory.ru##.wp-block-vadim-banner-center
 hexlet.io#?#main > section[class^="container"]:has(> div.row > div[class^="col-"] > div:contains(Рекомендуемые программы))
 lepoint.fr,lpnt.fr##.slotkam
 scribd.com##.between_page_portal_root
